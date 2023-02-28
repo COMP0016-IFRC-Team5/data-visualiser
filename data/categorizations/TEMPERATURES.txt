@@ -1,0 +1,11 @@
+cold wave.csv
+cw - cold wave.csv
+extreme temperature.csv
+frost.csv
+heat wave.csv
+heatwave.csv
+ola de frio.csv
+ola de frío.csv
+onda fría.csv
+vague de chaleur.csv
+vague de froid.csv

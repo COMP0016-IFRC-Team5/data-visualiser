@@ -1,0 +1,9 @@
+earth slip.csv
+land slide.csv
+landslide.csv
+landslides.csv
+ls - landslide.csv
+mudslide.csv
+rock fall.csv
+rock+boulder slide.csv
+rockslide.csv

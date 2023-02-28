@@ -1,0 +1,29 @@
+avalanche.csv
+building collapse.csv
+colapso estructural.csv
+collapse of building.csv
+collapse of buildings.csv
+collapse of gabage fill.csv
+collapse of mine.csv
+collapse.csv
+construction collapse.csv
+deslizamiento.csv
+desprendimiento de techo_1.csv
+desprendimiento de techo_2.csv
+flujo de escombros.csv
+flujolodo.csv
+hundimiento.csv
+lahar.csv
+lahares.csv
+land degradation.csv
+mud volcano.csv
+river bank collapse.csv
+rock collapse.csv
+sedimentation.csv
+struct.collapse.csv
+structural collapse.csv
+sturtural collapse.csv
+vo - volcano.csv
+volcano.csv
+wall collapse.csv
+wetland loss+degradation.csv

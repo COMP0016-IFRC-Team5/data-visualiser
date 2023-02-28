@@ -1,0 +1,31 @@
+cholera.csv
+disease epidemics.csv
+disease.csv
+ep - epidemic.csv
+epidemic cholera.csv
+epidemic covid-19 gen records.csv
+epidemic+pandemic.csv
+epidemic.csv
+epidemics.csv
+epizootia.csv
+epizootie.csv
+epizooty.csv
+foliar disease.csv
+fowl smallpox.csv
+geomedical.csv
+human disease.csv
+intoxicacion.csv
+intoxicación.csv
+intoxicado.csv
+intoxication.csv
+malnutrition.csv
+measle.csv
+measles.csv
+meningitis.csv
+plague.csv
+plant disease.csv
+rice yellow mottle virus.csv
+trop. depress..csv
+tuberclosis.csv
+typhoid fever.csv
+yellow fever.csv

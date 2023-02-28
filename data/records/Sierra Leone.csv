@@ -1,0 +1,1052 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,serial,level0,level1,level2,approved,latitude,longitude,uuid,name0,name1,name2,event,location,date
+0,5,0,0,16,0,150,0,0,0,0,0,0,0,0,0,530,4,42,,0,0.0,0.0,6836af2c-d023-4efb-9c76-7657c4c6058a,Western,Freetown,,Fire,,22/2/2013
+0,0,0,46,0,110,0,0,0,0,0,0,0,0,0,0,527,4,42,,0,0.0,0.0,95221290-8065-40be-8ae3-63d59568bf89,Western,Freetown,,Fire,,25/12/2013
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,699,1,13,,0,0.0,0.0,8389e49f-addf-4a1d-b290-87aafd147a84,Eastern,Kono,,Epidemic,,5/1/2015
+0,2,0,10,0,96,200,0,0,0,0,0,0,0,0,0,199,2,25,2508,0,0.0,0.0,1c5eea71-fe68-4537-b382-823b6dad15e6,Northern,Tonkolili,Malal Mara,Fire,,3/3/2014
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,3,31,3108,0,0.0,0.0,ca1f4c96-b09b-4d7f-af08-e3097da06650,Southern,Bo,Kakua,Accident,Bo-Taiama Highway,9/10/2011
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,201,3,31,3108,0,0.0,0.0,9bf41856-2fcb-4e15-9e37-7366789cf846,Southern,Bo,Kakua,Accident,Baoma ,11/11/2009
+1,8,0,0,0,21,0,0,0,0,0,0,0,0,0,0,202,3,31,3108,0,0.0,0.0,00b6d495-97d2-4f95-8ac9-29c5d7c104d8,Southern,Bo,Kakua,Accident,,24/4/2014
+0,8,0,0,1,267,900,0,0,0,0,0,0,0,0,0,203,3,31,3108,0,0.0,0.0,7a342522-4f82-4829-a038-ab0120f3a8c5,Southern,Bo,Kakua,Conflict,Toryama,3/11/2013
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,204,3,31,3108,0,0.0,0.0,da8706b8-b171-4b04-9cf1-b2c8976ffc04,Southern,Bo,Kakua,Fire,"Dambala Road fuel station, Bo",14/1/2011
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,205,3,31,3108,0,0.0,0.0,0c3b47b0-499c-492b-aed5-1e3d2fb60957,Southern,Bo,Kakua,Fire,,8/11/2013
+0,0,0,35,0,0,300,0,0,0,0,0,0,0,0,0,206,3,31,3108,0,0.0,0.0,b75ba5ea-2910-4199-b2b2-db715c41104b,Southern,Bo,Kakua,Flood,Brima town,24/7/2010
+0,0,0,10,0,0,210,0,0,0,0,0,0,0,0,0,207,3,31,3108,0,0.0,0.0,54e5dd6f-e647-4ef0-a994-6b4e0ad73e33,Southern,Bo,Kakua,Flood,Gendema,23/8/2010
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,208,3,31,3108,0,0.0,0.0,60a8158f-c24d-4f61-bece-0210a5dc7650,Southern,Bo,Kakua,Flood,,9/3/2013
+0,1,0,7,0,55,98,0,0,0,0,0,0,0,0,0,209,3,31,3108,0,0.0,0.0,cb8e9422-311a-4ef0-a278-6e57435a4107,Southern,Bo,Kakua,Flood,,8/1/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210,3,31,3108,0,0.0,0.0,2ba5d1e5-0c7a-4910-9997-7146dbd21e9f,Southern,Bo,Kakua,Accident,Bo,20/8/2011
+0,10,0,0,0,21,100,0,0,0,0,0,0,0,0,0,211,3,32,3202,0,0.0,0.0,bcb2c028-0742-42fd-8e4f-9511f774340c,Southern,Bonthe,Bum,Conflict,,15/5/2014
+0,1,0,0,0,0,39,0,0,0,0,0,0,0,0,0,212,3,32,3205,0,0.0,0.0,7d692fef-783c-4225-a191-469ba9b0cd2f,Southern,Bonthe,Jong,Accident,Mattru Jong to Bonthe,7/2/2011
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,213,3,32,3205,0,0.0,0.0,7672162b-9fd1-41a5-b3eb-af87fbfa1d8d,Southern,Bonthe,Jong,Accident,Mattru Jong,18/7/2012
+0,1,0,48,0,146,289,0,0,0,0,0,0,0,0,0,214,3,32,3208,0,0.0,0.0,8b5807ba-cc81-4a36-b7b2-45b05d72037b,Southern,Bonthe,Nongoba Bullom,Fire,,24/2/2014
+1,1,0,0,0,0,35,0,0,0,0,0,0,0,0,0,215,3,32,3209,0,0.0,0.0,d90c3101-38d8-4646-9cda-8af5a368ee11,Southern,Bonthe,Sittia,Accident,Bonthe Town,26/1/2013
+0,0,0,0,15,170,100,0,0,0,0,0,0,0,0,0,216,3,32,3209,0,0.0,0.0,8b963f2c-a02f-4f92-8258-4db46197e1a1,Southern,Bonthe,Sittia,Fire,,8/1/2013
+0,2,0,0,5,0,0,0,0,0,0,0,0,0,0,0,217,3,32,3209,0,0.0,0.0,fe92c0c4-e465-4147-935b-23c5bfa38ed1,Southern,Bonthe,Sittia,Fire,,20/12/2013
+0,0,0,0,15,0,100,0,0,0,0,0,0,0,0,0,218,3,32,3209,0,0.0,0.0,48ce1fd7-d3fe-47f4-a3e1-058581a90b69,Southern,Bonthe,Sittia,Fire,,6/2/2013
+0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,219,3,32,3209,0,0.0,0.0,ef087f09-8f86-4e59-ac99-eaccb2fe41e9,Southern,Bonthe,Sittia,Storm/Gale,,19/5/2013
+0,3,0,0,6,6,32,0,0,0,0,0,0,0,0,0,220,3,32,3210,0,0.0,0.0,021be33a-5cfd-457f-b722-67b5e13bcd86,Southern,Bonthe,Sogbeni,Fire,,30/3/2013
+0,4,0,55,0,469,1000,0,0,0,0,0,0,0,0,0,221,3,32,3211,0,0.0,0.0,8ee6c53b-fbe0-4405-9e1e-2825acf8f522,Southern,Bonthe,Yawbeko,Fire,,14/4/2014
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,19,4,42,,0,0.0,0.0,783bbc25-df73-4268-96dd-50dd96f142fc,Western,Freetown,,Fire,"35B Thunder Hill Road, Kissy Mess Mess",7/7/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,4,42,,0,0.0,0.0,17252740-5cab-4511-a82a-7bcefa28f3ce,Western,Freetown,,Fire,"59c Kissy Bye Pass Road, by Shell",12/7/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,24,4,42,,0,0.0,0.0,680cac0d-ec6c-4e96-9205-0626008a77c0,Western,Freetown,,Fire,"5A Belmond Road, Bai Bureh Road",25/9/2006
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,31,4,42,,0,0.0,0.0,8dc335fc-cf42-46af-8da5-bf9c633e8020,Western,Freetown,,Fire,"34c By Pass Road, Kissy, Freetown",22/9/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,33,4,42,,0,0.0,0.0,c52b85d0-993f-4df2-8bac-86172f66c1e1,Western,Freetown,,Fire,13 Cuckle Bay Lane,14/9/2006
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,4,42,,0,0.0,0.0,d72be40e-9674-4c54-a246-7c89ed9485e4,Western,Freetown,,Fire,"1B Lemon Lane, Off Kissy Road",9/6/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,48,4,42,,0,0.0,0.0,7abc5dc3-e8e3-453d-955d-d21515c13c00,Western,Freetown,,Fire,28 Freetown Road Lumely.,17/1/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,4,42,,0,0.0,0.0,a455e6fd-e109-4125-8160-e8facee5dad2,Western,Freetown,,Fire,37A Circular Road,11/9/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,39,4,42,,0,0.0,0.0,061f8c98-2f81-4078-942b-dc51d2fe0d5c,Western,Freetown,,Fire,"11 Pipe Line, Off Wilkinson Road",9/9/2006
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,40,4,42,,0,0.0,0.0,75da9a60-74f3-4ae0-b837-bc799eb4fc87,Western,Freetown,,Fire,"19 Robis Road, Calaba Town",9/9/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,26,4,41,,0,0.0,0.0,507b1273-762a-42a7-af82-6b6f476f4849,Western,Western Area Rural,,Fire,"15 Peninsular Road, Levuma Beach ",1/4/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,41,4,42,,0,0.0,0.0,84df4169-dcb0-4d30-bbb9-bc7508545b21,Western,Freetown,,Fire,"6 Capepalmas Street, Krootown Road",8/9/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,37,4,42,,0,0.0,0.0,c4289c0b-c704-44c6-890d-f35005abeccf,Western,Freetown,,Fire,"3M George Brook, Dwarzark",9/3/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,50,4,42,,0,0.0,0.0,a24420eb-069d-416b-9295-bf6297624811,Western,Freetown,,Fire,Rasmorson Street,10/3/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,4,42,,0,0.0,0.0,9c92fdac-0029-4f46-9ff2-d74d9f221a1f,Western,Freetown,,Fire,"Wellington Field, Consider Lane",7/9/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,4,42,,0,0.0,0.0,b762d346-1b5c-4129-a6b9-a64d5d239c6f,Western,Freetown,,Fire,"Agriculture Building, Tower Hill",3/9/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,4,42,,0,0.0,0.0,8f196d99-ed24-49b6-a70f-5b0fb813bb03,Western,Freetown,,Fire,Kinsellar Street,20/1/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,4,42,,0,0.0,0.0,0755c98b-c18e-44eb-be11-c0746482675c,Western,Freetown,,Fire,"50 Bai Bureh Road, Kissy",21/1/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,4,42,,0,0.0,0.0,0bbf368c-9d4c-49fe-b335-e0232fbec355,Western,Freetown,,Fire,"Regent Road, Lumley",26/1/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,4,42,,0,0.0,0.0,269c02ae-48ea-4f59-a1f8-badda35fb090,Western,Freetown,,Fire,Berwick Street,1/2/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,62,4,42,,0,0.0,0.0,17b372f7-fd51-4b53-aa19-bbf2a29e57b6,Western,Freetown,,Fire,3  Drivies Drive,3/2/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,4,42,,0,0.0,0.0,90d03e63-67a5-4e39-ba46-c4ab64c78d37,Western,Freetown,,Fire,"50 Scan Drive, Off Smart Farm",4/2/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,65,4,41,,0,0.0,0.0,cf9ddfac-5178-40b8-8f0d-e9c68a1778bd,Western,Western Area Rural,,Fire,"20 Fullah Town, Lumpa Village",5/2/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,66,4,42,,0,0.0,0.0,d4aa346d-fa7f-459a-8948-9354f623d129,Western,Freetown,,Fire,Central Statistics Office,7/2/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,69,4,42,,0,0.0,0.0,5311b462-fcad-4e4a-a40a-3e01e172c605,Western,Freetown,,Fire,4 Smythe Street,9/2/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71,4,42,,0,0.0,0.0,98501e9c-39aa-4702-a707-09513b9dd0ce,Western,Freetown,,Fire,"2 Old Railway Line, Brookfields",12/6/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,72,4,42,,0,0.0,0.0,c2769404-bf29-4901-bc5f-2b6dbcf101ed,Western,Freetown,,Fire,102 Circular Road,15/2/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71,4,42,,0,0.0,0.0,f4364095-6958-4ecb-9f03-d06256529bbf,Western,Freetown,,Fire,"2 Old Railway Line, Brookfields",4/4/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,42,,0,0.0,0.0,29838aa1-430f-426d-a521-a7e2021949e3,Western,Freetown,,Fire,Race Course Cemetry,12/2/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,42,,0,0.0,0.0,b724af1a-8c7c-46aa-9446-6d80d01dc11f,Western,Freetown,,Fire,"Genner-Right Road, Bommeh, Kingtom",14/2/2006
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,77,4,42,,0,0.0,0.0,0568508c-089e-4e1a-944d-f184bc16a686,Western,Freetown,,Fire,"41, 39,43 Rawdon Street",21/2/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,78,4,42,,0,0.0,0.0,710162cc-c8ee-4f8e-ad0a-c2ddd13e9f7b,Western,Freetown,,Fire,12 Kissy Brook,21/2/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,42,,0,0.0,0.0,ec37d25c-7e9f-4317-8479-84a871e6649c,Western,Freetown,,Fire,Dundas Street,4/3/2006
+0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,542,4,42,,0,0.0,0.0,11c5f57a-9b56-4182-a8bf-2b60496537bf,Western,Freetown,,Fire,,20/11/2013
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,80,4,42,,0,0.0,0.0,eef0b08d-9fde-4364-8160-d4dfe5ee2369,Western,Freetown,,Fire,36 Percival Street,13/3/2006
+0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,81,4,42,,0,0.0,0.0,53d68e41-2820-4320-b454-16a7941ec4ca,Western,Freetown,,Fire,2b and 2c Susans Bay,15/3/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,83,4,42,,0,0.0,0.0,3cdfc3ee-e0e1-4e67-bb2c-52d25fde561a,Western,Freetown,,Fire,"9K Carlton Carew Road, Off Wilkinson Road",17/3/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,84,4,42,,0,0.0,0.0,9bd9ae1f-e36c-495b-96de-89f4d9612b9e,Western,Freetown,,Fire,"Murry Town, ",3/4/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,42,,0,0.0,0.0,2ae95428-90d6-4e0c-8597-dd167b0c70b6,Western,Freetown,,Fire,51 Kroo Town Road,20/3/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,42,,0,0.0,0.0,706c6814-abb1-4a57-8402-357e2a76ae26,Western,Freetown,,Fire,15 Kinghaman Road,1/4/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,42,,0,0.0,0.0,b424ed16-0874-4686-8746-87dd6361cee0,Western,Freetown,,Fire,8 Kelly Drive Regent Road Lumely,7/4/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,42,,0,0.0,0.0,08367a34-3cfe-4af6-9863-c6d3423c6c48,Western,Freetown,,Fire,20 Hennesy Street Kingtom,11/4/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,91,4,42,,0,0.0,0.0,3cb522f9-c4aa-4369-80d9-33e7466eef8a,Western,Freetown,,Fire,9b Spur  Loop Wilberforce,18/4/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,42,,0,0.0,0.0,d09f880f-2257-461f-975e-3227cb653cd6,Western,Freetown,,Fire,king Harman Road Hospital,28/4/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,93,4,42,,0,0.0,0.0,d80f69a0-68d9-4315-b79e-17c81eab3760,Western,Freetown,,Fire,1B Decker Drive Lumely,6/5/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,94,4,42,,0,0.0,0.0,45fba3af-5fc5-4399-93a8-ed2df8b0db8b,Western,Freetown,,Fire,19 George Brook Dwarzark,19/5/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,4,42,,0,0.0,0.0,e2d636d7-6b9b-4457-938d-06dd32bd17c6,Western,Freetown,,Fire,maroon Town Government Wharf,21/5/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,42,,0,0.0,0.0,7b95c9e6-08a2-443f-91bb-dfe51c6694de,Western,Freetown,,Fire,wilberforce,6/1/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,99,4,42,,0,0.0,0.0,97935820-e876-4f90-95fa-c65d7bd92167,Western,Freetown,,Fire,22 Smythe Street,7/6/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,100,4,42,,0,0.0,0.0,30311b30-691d-4fe7-90e0-8430756255b7,Western,Freetown,,Fire,22 smythe street,9/6/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,4,42,,0,0.0,0.0,f10259ee-b06b-437b-937b-952ceb7d0e7f,Western,Freetown,,Fire,Willberforce Skipper Compound,6/6/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,102,4,42,,0,0.0,0.0,d74527fb-aeaa-4ebc-8ceb-6858a2d93758,Western,Freetown,,Fire,Bath Street,7/6/2006
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,103,4,42,,0,0.0,0.0,a67a4258-83ea-41b8-af95-4c59a72b2520,Western,Freetown,,Fire,15 Siaka Stevens Street,7/6/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,104,4,42,,0,0.0,0.0,97c7396b-3335-49f3-b1c0-86e7c4ba5828,Western,Freetown,,Fire,5 Ross Road,27/6/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,106,4,42,,0,0.0,0.0,743ab217-d533-4457-8557-9afb606a066c,Western,Freetown,,Fire,41 Circular Road,1/7/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,107,4,42,,0,0.0,0.0,bebf2b4e-26be-4430-88e7-650eb69625e4,Western,Freetown,,Fire,11 Race Course Road,2/7/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,108,4,42,,0,0.0,0.0,8d6209be-199a-4710-a696-7c083ec671f0,Western,Freetown,,Fire,35 Lumley Street,1/9/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,109,4,41,,0,0.0,0.0,6c8afb32-529c-4da5-b9e9-37111c28ab0e,Western,Western Area Rural,,Fire,"A 336, Jui Police Barracks",27/8/2006
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,110,4,42,,0,0.0,0.0,57e5b0fd-1498-4800-b5ec-6ed65754f1e0,Western,Freetown,,Fire,,28/8/2006
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,111,4,42,,0,0.0,0.0,16ed6fa1-bcc3-4f86-b07d-59cbfc169685,Western,Freetown,,Fire,143 Pa Demba Road,22/8/2006
+2,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0,113,1,11,1102,0,0.0,0.0,b89de900-d787-458b-b2c3-4c299571186d,Eastern,Kailahun,Jawie,Accident,,13/11/2013
+0,2,0,2,0,5,0,0,0,0,0,0,0,0,0,0,116,1,11,1102,0,0.0,0.0,e05377be-13e9-4a74-8d68-b2f796c4cc4e,Eastern,Kailahun,Jawie,Fire,,12/11/2013
+0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,117,1,11,1103,0,0.0,0.0,ee645437-eabb-4338-b6cc-f4ced8cf8cfb,Eastern,Kailahun,Kissi kama,Fire,Bandama,2/6/2013
+21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,1,11,1110,0,0.0,0.0,9a655f8e-1a6d-4c37-b7ac-7f2b1b6b8297,Eastern,Kailahun,Mandu,Accident,Baima and Bainduma villages,12/1/2011
+0,0,0,14,0,54,55,0,0,0,0,0,0,0,0,0,119,1,11,1111,0,0.0,0.0,35e9a10d-0242-4d2d-bb1d-c373ec5a036b,Eastern,Kailahun,Njaluahun,Storm/Gale,,15/4/2013
+0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,120,1,12,1206,0,0.0,0.0,ee64877a-ce37-4b2b-84e4-58fcb692fd71,Eastern,Kenema,Koya,Fire,,30/4/2013
+0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,121,1,12,1208,0,0.0,0.0,9ac4adcf-d06f-4fb9-9e59-2a25e6e3c0c1,Eastern,Kenema,Lower Bambara,Conflict,Tongo field,15/2/2010
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,122,3,31,1214,0,0.0,0.0,2c617ec8-62bd-4a3a-800e-6421d46300c5,Southern,Bo,Small Bo,Storm/Gale,Loleh village,17/8/2011
+0,0,0,15,7,0,15,0,0,0,0,0,0,0,0,0,123,1,12,1215,0,0.0,0.0,20cedd08-cc76-4848-a980-f963bae488e7,Eastern,Kenema,Tunkia,Storm/Gale,Mano Njegbla,14/8/2010
+0,0,0,36,0,0,100,0,0,0,0,0,0,0,0,0,124,1,12,1215,0,0.0,0.0,6b680799-2b95-445d-931b-f270ff05c25a,Eastern,Kenema,Tunkia,Storm/Gale,Ngeoiwahun Town,5/10/2010
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,543,4,42,,0,0.0,0.0,bb437b68-1cfb-4a63-af3f-68cf521087b8,Western,Freetown,,Fire,,14/11/2013
+0,0,0,0,21,205,600,0,0,0,0,0,0,0,0,0,331,2,24,,0,0.0,0.0,3d1681b1-1af1-4944-9524-e4e002e8a20d,Northern,Port Loko,,Fire,,4/1/2013
+0,6,0,23,0,0,0,0,0,0,0,0,0,0,0,0,332,2,24,,0,0.0,0.0,5a5a3410-84e9-45bb-8d67-1f27740916b5,Northern,Port Loko,,Fire,,28/2/2014
+0,6,0,23,0,190,254,0,0,0,0,0,0,0,0,0,333,2,24,,0,0.0,0.0,8bd145d7-f686-4d78-818f-5c92ca240177,Northern,Port Loko,,Fire,,22/2/2014
+0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,0,334,2,24,,0,0.0,0.0,a779125c-e54e-4f76-9740-d3722240fad1,Northern,Port Loko,,Fire,,22/3/2014
+0,1,0,3,0,7,31,0,0,0,0,0,0,0,0,0,335,2,24,,0,0.0,0.0,525a0f20-a1ff-4ae4-8a1d-f15ac83d0be1,Northern,Port Loko,,Fire,,28/4/2013
+0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,336,2,24,,0,0.0,0.0,28ba6541-aeb3-4493-b228-4c30339fb471,Northern,Port Loko,,Fire,Komrabai village,29/2/2012
+0,2,0,0,7,100,107,0,0,0,0,0,0,0,0,0,337,2,34,,0,0.0,0.0,5595ca37-bf7d-4c0c-8b61-34c446c0cb73,Northern,Pujehun,,Fire,Massaquoi 2,4/3/2014
+0,1,0,12,0,23,35,0,0,0,0,0,0,0,0,0,338,2,34,,0,0.0,0.0,1280dc9e-b9cb-4152-a714-2bd6c075bce8,Northern,Pujehun,,Fire,,4/1/2014
+0,1,0,7,0,22,0,0,0,0,0,0,0,0,0,0,339,2,34,,0,0.0,0.0,1829080f-2b36-46b9-9eee-3f3fff6ae179,Northern,Pujehun,,Fire,,28/4/2013
+0,1,0,4,0,12,56,0,0,0,0,0,0,0,0,0,340,2,34,,0,0.0,0.0,fa7ed64c-a5d8-4e1f-a322-1372a3e7b052,Northern,Pujehun,,Fire,,6/12/2013
+0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,341,2,34,,0,0.0,0.0,2f4f0418-7cd6-4a4e-8803-44f0a88a348a,Northern,Pujehun,,Fire,,14/1/2014
+0,0,0,0,24,34,550,0,0,0,0,0,0,0,0,0,342,2,34,,0,0.0,0.0,045dc5d6-c6bf-4e4d-b46a-4e8eb4807192,Northern,Pujehun,,Fire,,5/2/2013
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,355,3,32,,0,0.0,0.0,6a8bce60-dd52-451e-8bb3-2a4bdeca05db,Southern,Bonthe,,Accident,Bonthe town to Gbangbatoke,31/10/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,356,3,32,,0,0.0,0.0,ee1cd148-4128-4064-9da5-d8bbc1cc9c8e,Southern,Bonthe,,Accident,Bonthe Town,12/4/2013
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,357,3,32,,0,0.0,0.0,3e659958-ca4b-4e94-8531-82693bd87682,Southern,Bonthe,,Accident,124nm off cape & 131nm south of bonthe,28/8/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,358,3,33,,0,0.0,0.0,69db7ab8-3b2d-4a5d-8fb3-55f3f9b29371,Southern,Moyamba,,Accident,Mopala village,1/9/2011
+0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,359,3,33,,0,0.0,0.0,43cb15e6-2f03-41d0-8289-5280fc45d04a,Southern,Moyamba,,Accident,Gbangbatoke to Kpakuru chiefdom,27/10/2011
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,360,3,33,,0,0.0,0.0,50df035c-8036-4a1f-8648-9e85716e5de0,Southern,Moyamba,,Accident,Gbangbatoke to Conakery,31/10/2011
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,361,3,33,,0,0.0,0.0,4beaee07-f940-45e4-bacc-6221d86da6e0,Southern,Moyamba,,Accident,Gbangbatoke,29/1/2012
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,362,3,33,,0,0.0,0.0,201c8d72-da96-4844-899b-e98fa53f9ce1,Southern,Moyamba,,Accident,Gbangbatoke,5/1/2013
+0,0,0,6,0,11,52,0,0,0,0,0,0,0,0,0,378,3,32,,0,0.0,0.0,b359e47a-03cb-4e58-93c4-d1ea97241837,Southern,Bonthe,,Storm/Gale,,5/6/2013
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,379,3,32,,0,0.0,0.0,ab8e8f6d-43c6-42af-a8d0-abf81a416a22,Southern,Bonthe,,Storm/Gale,,6/11/2013
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,380,4,41,,0,0.0,0.0,70ad83b6-ddd5-4ac9-b8bb-27f3333d30de,Western,Western Area Rural,,Accident,Bango Farna axis Goderich,15/7/2012
+1,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,381,4,41,,0,0.0,0.0,688b70ca-16ac-4fa5-8955-8fdcb4a19167,Western,Western Area Rural,,Accident,kent,24/9/2013
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,382,4,41,,0,0.0,0.0,6b2acc2c-b935-49b8-a1df-b7ce93e60cb6,Western,Western Area Rural,,Accident,Shenge via Plantain to Tombo wharf,8/9/2011
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,383,4,41,,0,0.0,0.0,08300879-78e2-4aa5-b700-d9c9a5ca5313,Western,Western Area Rural,,Accident,Shenge  to Tombo wharf,15/9/2011
+0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,384,4,41,,0,0.0,0.0,02eef9ef-6d49-40d2-9b88-3b3b28c6e1f6,Western,Western Area Rural,,Accident,Tombo to Mathim (Fogbo river),26/6/2012
+0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,385,4,41,,0,0.0,0.0,9128590a-39aa-4ae4-a5f6-77db8815b715,Western,Western Area Rural,,Accident,Banana Island /         Rekit Axis,11/12/2012
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,386,4,41,,0,0.0,0.0,c0334852-06e2-4589-863d-e0788acc150f,Western,Western Area Rural,,Accident,Tombo,15/1/2013
+0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,387,4,41,,0,0.0,0.0,9594b371-0f5f-4037-b924-5c9ae41ec75f,Western,Western Area Rural,,Accident,Tombo,11/3/2013
+0,4,0,0,9,185,200,0,0,0,0,0,0,0,0,0,529,4,42,,0,0.0,0.0,7a9e890c-70b3-4f9a-b2a5-35b0315c30d9,Western,Freetown,,Fire,,30/3/2013
+0,0,0,0,14,0,400,0,0,0,0,0,0,0,0,0,531,4,42,,0,0.0,0.0,4babec7f-69bb-46d5-9e2a-6c3debf2bcf1,Western,Freetown,,Fire,,8/2/2013
+0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,532,4,42,,0,0.0,0.0,f87aace9-7ff8-4d14-a68d-e75ee7e5af5a,Western,Freetown,,Fire,,3/1/2013
+0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,533,4,42,,0,0.0,0.0,4c97a39c-3f31-4680-aed8-715c1a1e0732,Western,Freetown,,Fire,,3/1/2013
+0,5,0,0,16,0,150,0,0,0,0,0,0,0,0,0,534,4,42,,0,0.0,0.0,4ac42418-68f7-40e4-9972-29435be6e071,Western,Freetown,,Fire,,29/1/2013
+0,0,0,0,16,0,150,0,0,0,0,0,0,0,0,0,535,4,42,,0,0.0,0.0,56d1a2da-6b3a-4779-b76e-494749f885a9,Western,Freetown,,Fire,,26/1/2013
+0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,536,4,42,,0,0.0,0.0,ad2edc58-284e-47af-843b-f236dd45eaf4,Western,Freetown,,Fire,,19/1/2013
+1,6,0,0,2,42,0,0,0,0,0,0,0,0,0,0,537,4,42,,0,0.0,0.0,337a9c53-358a-47b6-b8ad-ebf0baecfef0,Western,Freetown,,Fire,,11/1/2013
+0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,538,4,42,,0,0.0,0.0,15f77329-791d-4f82-8f47-516b65ec03df,Western,Freetown,,Fire,,10/1/2013
+0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,539,4,42,,0,0.0,0.0,7198e7de-ba5e-4828-b488-4bfee7e844c9,Western,Freetown,,Fire,,9/12/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,540,4,42,,0,0.0,0.0,0340c2d4-c60f-419e-81d3-555403a50efd,Western,Freetown,,Fire,,23/11/2013
+0,20,0,0,0,22,0,0,0,0,0,0,0,0,0,0,541,4,42,,0,0.0,0.0,2b63fd02-b855-45dd-94f4-ee7cfa223e35,Western,Freetown,,Fire,,22/11/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,544,4,42,,0,0.0,0.0,a75856a5-2da9-4be3-9961-f5c280f34e7d,Western,Freetown,,Fire,Bowling St. Ft,10/1/2009
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,545,4,42,,0,0.0,0.0,48cb5658-119c-40db-8c28-a920602561d8,Western,Freetown,,Fire,Pademba Road,20/10/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,546,4,42,,0,0.0,0.0,915e8908-d490-4d6e-b49a-16a943d2729b,Western,Freetown,,Fire,Docorty,26/1/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,547,4,42,,0,0.0,0.0,0b487732-032e-4776-8c48-86ab2a0047e8,Western,Freetown,,Fire,Wright St. Portee,29/1/2010
+0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,548,4,42,,0,0.0,0.0,6362d0bb-c182-43d7-b96a-a28a598eac08,Western,Freetown,,Fire,"Savage Square, ft",22/3/2010
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,549,4,42,,0,0.0,0.0,e3657983-f514-4b2b-ae70-84ee9adee2d2,Western,Freetown,,Fire,Manfred Lane,17/7/2010
+0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,550,4,42,,0,0.0,0.0,fce9e03f-50f6-4be7-b55e-f178fa85b214,Western,Freetown,,Fire,"smart farm,Wilkinson Road",15/1/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,551,4,42,,0,0.0,0.0,d1de4eca-615c-4888-bc91-6c10bcfe09ac,Western,Freetown,,Fire,"Kissy terminal,Ft",31/7/2011
+0,0,0,31,0,0,257,0,0,0,0,0,0,0,0,0,552,4,42,,0,0.0,0.0,c74359a6-b2f8-4ff8-800b-9537c48bd174,Western,Freetown,,Fire,Falcom Bridge,8/10/2011
+0,0,0,3,0,0,50,0,0,0,0,0,0,0,0,0,553,4,42,,0,0.0,0.0,f062e63b-1ad8-4684-b0da-fd6393434510,Western,Freetown,,Fire,Tengbeh Town,13/9/2011
+0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,554,4,42,,0,0.0,0.0,db2402c1-ba61-4fd9-adba-7e869a185e9a,Western,Freetown,,Fire,Ross Road(witch corner),7/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,555,4,42,,0,0.0,0.0,7ecd4168-b9e7-478b-b3b1-c49a3f05f98c,Western,Freetown,,Fire,Youyi Building(Ministry of Lands),10/5/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,556,4,42,,0,0.0,0.0,d674164b-ed03-4285-811c-ce5465b83d17,Western,Freetown,,Fire,New England(Ministry of Works),11/3/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,557,4,42,,0,0.0,0.0,9d67073e-82ae-46f2-a470-cff7d48423d8,Western,Freetown,,Fire,Berry Street,12/3/2011
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,558,4,42,,0,0.0,0.0,eb3540af-c5f9-4920-a4ed-7c375a0fa4e2,Western,Freetown,,Fire,Lowcost Housing,15/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,559,4,42,,0,0.0,0.0,1ba4bd73-ea0c-4d42-96c4-87abec0589a3,Western,Freetown,,Fire,Congo cross total filling station,18/12/2011
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,560,4,42,,0,0.0,0.0,e1ea4233-fafe-452d-ae91-8b178ffa7b76,Western,Freetown,,Fire,Mountain cut ft,19/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,561,4,42,,0,0.0,0.0,7cc59056-062a-475f-8f3b-61555fa96779,Western,Freetown,,Fire,Tengbeh Town ft,19/12/2011
+0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,562,4,42,,0,0.0,0.0,de477dc9-2e7f-4ca1-af32-f0f979d45de7,Western,Freetown,,Fire,Bent Street,20/12/2011
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,563,4,42,,0,0.0,0.0,9eaf0dc8-8af7-4dbb-a9c0-447a7e6ef76f,Western,Freetown,,Fire,"Falcon St, Kissy",1/6/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,564,4,42,,0,0.0,0.0,7323f677-08d2-47fb-96cf-88a7f52fe4ba,Western,Freetown,,Fire,"Conteh Drive,Upper Tengbeh town,ft",1/9/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,565,4,42,,0,0.0,0.0,150ca599-3711-4ac8-8864-d65e6171cd26,Western,Freetown,,Fire,"Regent Road,Wilberforce village",1/9/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,566,4,42,,0,0.0,0.0,ff5cd5c3-15ec-4ade-b0d0-63be4d994f0d,Western,Freetown,,Fire,"Pratt Lane,Ft",1/11/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,567,4,42,,0,0.0,0.0,98171eb6-cb81-4dda-8b9e-6296743b13f9,Western,Freetown,,Fire,Krootown Road,1/12/2012
+0,1,0,0,9,49,0,0,0,0,0,0,0,0,0,0,125,1,13,1301,0,0.0,0.0,b4512ed4-ebe6-4aeb-9158-09c9f3ccacf6,Eastern,Kono,Fiama,Fire,,11/5/2014
+2,4,0,0,2,6,20,0,0,0,0,0,0,0,0,0,126,1,13,1301,0,0.0,0.0,18cc333a-9bc8-4e57-a0cc-c230f48bafe5,Eastern,Kono,Fiama,Fire,,1/2/2013
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,127,1,13,1301,0,0.0,0.0,3e61ab19-9d6e-41a7-898f-8569c4dbd5cb,Eastern,Kono,Fiama,Fire,,29/1/2013
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,1,13,1304,0,0.0,0.0,67ad3db5-4467-407b-bb4c-b79e90361ed1,Eastern,Kono,Gbense,Drowning,Koidu Town,16/8/2009
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,1,13,1307,0,0.0,0.0,9dff1135-1e0f-4a79-9ab6-83ae622c681d,Eastern,Kono,Lei,Conflict,,28/2/2013
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,131,1,13,1307,0,0.0,0.0,c89eee40-c370-4556-bb10-48befd2163bb,Eastern,Kono,Lei,Fire,,29/1/2013
+0,0,0,80,0,0,600,0,0,0,0,0,0,0,0,0,132,1,13,1309,0,0.0,0.0,d2f77ebc-aae8-4c37-824a-0e0d0b9fa2f1,Eastern,Kono,Nimikoro,Storm/Gale,,5/10/2010
+0,16,0,0,53,670,0,0,0,0,0,0,0,0,0,0,133,1,13,1311,0,0.0,0.0,5fbf0406-31db-4927-8d79-c0faf0e03f43,Eastern,Kono,Sandor,Storm/Gale,,16/4/2014
+0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,134,2,21,2101,0,0.0,0.0,83483a60-30d3-4b89-be6d-d4d99d0c5734,Northern,Bombali,Biriwa,Fire,Bumba Village,21/9/2013
+0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,135,2,21,2102,0,0.0,0.0,8b365747-7eff-4ca4-9792-71bac8e647a0,Northern,Bombali,Bombali Sebora,Fire,,24/12/2013
+0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,136,2,21,2102,0,0.0,0.0,19e1698c-0481-424b-8a60-11ad803d815f,Northern,Bombali,Bombali Sebora,Fire,,28/12/2013
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,148,2,22,2203,0,0.0,0.0,bd28d6f9-62fb-4973-8bc6-cc80c161def1,Northern,Kambia,Magbema,Accident,Rokupr to Freetown,8/2/2012
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,149,2,22,2205,0,0.0,0.0,405a15f5-c96d-46b2-b4c9-6f1be9fc6ad6,Northern,Kambia,Masungbala,Accident,Samu to Tombo,3/2/2011
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,150,2,22,2206,0,0.0,0.0,767bdc2d-703a-4680-b2b6-72e42ef769c5,Northern,Kambia,Samu,Accident,Kassiri to Moa Wharf,11/5/2011
+0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,151,2,22,2206,0,0.0,0.0,fb38d185-5c3b-486a-939a-ae7d9333ea0b,Northern,Kambia,Samu,Storm/Gale,,7/8/2011
+1,3,0,0,2,4,0,0,0,0,0,0,0,0,0,0,152,2,23,2302,0,0.0,0.0,fb5963e5-6a90-47a0-b968-9a56dc8dade6,Northern,Koinadugu,Diang,Fire,,23/4/2013
+0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,153,2,23,2304,0,0.0,0.0,23fcdca4-8131-4636-bf0b-c1d7eccb4d61,Northern,Koinadugu,Kasunko,Fire,Kamamnkay ,14/4/2012
+7,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,154,2,23,2304,0,0.0,0.0,3710500d-8a25-4ed1-ae27-3b1dbbfdb92f,Northern,Koinadugu,Kasunko,Accident,,13/12/2012
+0,0,0,0,21,0,600,0,0,0,0,0,0,0,0,0,155,2,23,2304,0,0.0,0.0,7fcae429-6397-4c78-ae5b-6632ff5a2fb2,Northern,Koinadugu,Kasunko,Fire,,5/2/2013
+0,0,0,18,0,0,196,0,0,0,0,0,0,0,0,0,156,2,23,2304,0,0.0,0.0,ecdb490d-040e-4e8f-a761-73b8a7544539,Northern,Koinadugu,Kasunko,Fire,,2/3/2013
+0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,157,2,23,2305,0,0.0,0.0,18fe32bd-43ce-4a55-a893-d3a56a27392c,Northern,Koinadugu,Mongo,Fire,Gberefeh,14/4/2012
+0,2,0,0,15,72,150,0,0,0,0,0,0,0,0,0,158,1,,,0,0.0,0.0,2f6d1e19-80f7-4530-8e9f-e75ae8dadf3e,Eastern,,,Fire,,6/2/2014
+0,3,0,0,0,0,38,0,0,0,0,0,0,0,0,0,169,2,24,2404,0,0.0,0.0,6e6cb59c-a551-4b3e-b808-a59fac295b66,Northern,Port Loko,Kaffu Bullom,Accident,Targrin to Kissy Ferry Terminal,7/1/2011
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,170,2,24,2404,0,0.0,0.0,244b5896-16f6-4409-b3b7-b757775ae8a0,Northern,Port Loko,Kaffu Bullom,Accident,Targrin to Bottom Oku,7/1/2011
+19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,171,2,24,2404,0,0.0,0.0,31a6d456-d27d-4020-8264-f029d96ea191,Northern,Port Loko,Kaffu Bullom,Accident,targrin ,28/12/2013
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,172,2,24,2404,0,0.0,0.0,e716b0e6-9f0b-42e0-a768-7b9fe908286f,Northern,Port Loko,Kaffu Bullom,Accident,Along Targrin Ferry Axis,6/5/2011
+0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,173,2,24,2404,0,0.0,0.0,9ea245a8-3564-4ac1-b36a-c1f4526a4109,Northern,Port Loko,Kaffu Bullom,Accident,Rotifunk creek,3/4/2012
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,174,2,24,2404,0,0.0,0.0,87238b8e-efa4-46b7-9e28-5b4de38b11ff,Northern,Port Loko,Kaffu Bullom,Accident,off Lungi axis,15/9/2012
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,175,2,24,2404,0,0.0,0.0,f3f98450-d124-46be-a9e2-badeb1df4e3b,Northern,Port Loko,Kaffu Bullom,Accident,3 nmiles off Targrin,1/9/2011
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,176,2,24,2404,0,0.0,0.0,caf2e04f-38b1-473d-863f-514920a86ec8,Northern,Port Loko,Kaffu Bullom,Accident,Koya to Targrin,25/1/2011
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,177,2,24,2404,0,0.0,0.0,d3524b73-6294-46f3-a3ca-675fe71ab204,Northern,Port Loko,Kaffu Bullom,Accident,Targrin,8/7/2013
+1,5,0,211,0,167,278,0,0,0,0,0,0,0,0,0,188,2,24,2406,0,0.0,0.0,aed39812-ca17-4a7a-82a7-85865e686abe,Northern,Port Loko,Lokomasama,Storm/Gale,Bilor,14/6/2013
+0,2,0,22,0,295,450,0,0,0,0,0,0,0,0,0,189,2,24,2407,0,0.0,0.0,c15a4c8b-ef41-4b55-9e76-402801d1c0d3,Northern,Port Loko,Maforki,Storm/Gale,,27/5/2013
+1,2,0,0,30,82,340,0,0,0,0,0,0,0,0,0,190,2,24,2407,0,0.0,0.0,92a1a3fe-1035-45ff-9e9e-314249c51e4c,Northern,Port Loko,Maforki,Storm/Gale,,26/5/2013
+0,1,0,18,0,100,300,0,0,0,0,0,0,0,0,0,191,2,24,2408,0,0.0,0.0,011dc41a-bdb7-4660-bc7f-6dc798e8c9ca,Northern,Port Loko,Marampa,Flood,,28/5/2013
+2,8,0,0,0,10,0,0,0,0,0,0,0,0,0,0,192,2,24,2409,0,0.0,0.0,79b04a56-e6a9-49d7-bea7-a76c36e8ead9,Northern,Port Loko,Masimera,Accident,,30/3/2014
+4,15,0,0,0,19,0,0,0,0,0,0,0,0,0,0,193,2,24,2409,0,0.0,0.0,f5cecfc3-d9fd-45d6-96fc-726c590d308f,Northern,Port Loko,Masimera,Landslide,,20/4/2013
+0,2,0,0,11,82,102,0,0,0,0,0,0,0,0,0,194,1,11,,0,8.27716237,-10.56199939,9672e2c4-b9ed-43a1-9b9d-b1486ea761da,Eastern,Kailahun,,Fire,,5/4/2013
+0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,195,2,24,,0,8.74980022798716,-12.78673083125,71a122f8-7e94-481b-a888-601fadeb7633,Northern,Port Loko,,Fire,Yele,2/10/2012
+0,0,0,134,2,553,553,0,0,0,0,1,0,0,0,0,196,2,25,,0,9.03201227194216,-11.6716185265625,2259b665-9066-4c49-8fe7-01bdfd4d11db,Northern,Tonkolili,,Fire,Kawunkulu village,14/2/2012
+0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,198,2,25,2506,0,0.0,0.0,54b2c7b5-de37-4291-a842-c7b48f64ea7f,Northern,Tonkolili,Kunike Barina,Fire,,15/3/2013
+0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,222,3,32,3211,0,0.0,0.0,f880fb52-f3eb-4daf-a0bf-0ea0b5d45306,Southern,Bonthe,Yawbeko,Storm/Gale,,14/4/2013
+0,2,0,1,0,5,0,0,0,0,0,0,0,0,0,0,223,3,31,3302,0,0.0,0.0,c92c4250-c382-4de6-8f1b-467ddd47fd1b,Southern,Bo,Bumpeh,Fire,,9/1/2013
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,224,3,32,3302,0,0.0,0.0,7d28105c-d0ea-4aea-8746-82d7ee865996,Southern,Bonthe,Bumpeh,Fire,,30/3/2013
+0,3,0,40,0,453,0,0,0,0,0,0,0,0,0,0,225,1,13,3304,0,0.0,0.0,71720016-6d00-4bd7-a94d-dd54c0cca786,Eastern,Kono,Fakunya,Storm/Gale,,16/4/2014
+5,5,0,0,0,0,8,0,0,0,0,0,0,0,0,0,226,3,33,3305,0,0.0,0.0,23790769-aebe-4480-a729-110b6d0acd00,Southern,Moyamba,Kagboro,Accident,Youndu to Shegebull,16/1/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,227,3,33,3309,0,0.0,0.0,9b6d6a9a-a40d-4393-aa90-3a0eeff6a8b9,Southern,Moyamba,Kori,Flood,"Gbehehun,Waiama,Vaama, Njala Kapoima",15/7/2012
+0,1,0,13,1,195,315,0,0,0,0,0,0,0,0,0,228,3,34,3403,0,0.0,0.0,0b6b023c-aba8-4b23-b6d3-f103bf8184a7,Southern,Pujehun,Kpaka,Fire,Lyango,26/4/2014
+0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,229,3,34,3403,0,0.0,0.0,9be42dcf-f0b1-421f-a1aa-e12ea103b5d7,Southern,Pujehun,Kpaka,Fire,Nyanyahun village,18/3/2013
+0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,230,3,34,3403,0,0.0,0.0,a429563b-9c85-435f-8b01-5b2e2cacde81,Southern,Pujehun,Kpaka,Fire,Tikonko village,21/3/2013
+1,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,231,2,34,3410,0,0.0,0.0,4fc76f9f-feac-494f-8bc9-52a27a5862bb,Northern,Pujehun,Soro Gbema,Fire,Sengama village,24/3/2013
+1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,232,3,34,3412,0,0.0,0.0,31bdcf05-0142-471d-8645-61d8abe24dd2,Southern,Pujehun,Yakemu Kpukumu,Accident,"Y.K.K Chiefdom, Pujehun District",17/9/2011
+0,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,233,4,41,4102,0,0.0,0.0,86d3f0ed-9761-4837-98cc-0efbb6487ad5,Western,Western Area Rural,Mountain Rural,Accident,Plantain Island to Conakry,5/9/2012
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,234,4,41,4103,0,0.0,0.0,7169b9f5-1ee9-4ca2-8ce7-b9a29b36e5ac,Western,Western Area Rural,Waterloo Rural,Accident,Waterloo,14/1/2014
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,235,4,41,4104,0,0.0,0.0,2cdb63ca-faf0-4656-90dc-100b91c373d5,Western,Western Area Rural,York Rural,Accident,York Island,27/7/2012
+0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,236,3,32,4206,0,0.0,0.0,d2a1d2a6-5155-4439-abdc-1a830a0060e2,Southern,Bonthe,West I,Fire,,20/11/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,237,4,42,4206,0,0.0,0.0,edeb6675-2a96-4b3d-8eed-2227151f42bb,Western,Freetown,West I,Flood,Kroo Bay,8/10/2009
+0,1,0,15,0,204,645,0,0,0,0,0,0,0,0,0,238,3,34,,0,0.0,0.0,47a7f1ee-7f20-4bbe-a39d-fa454e994f10,Southern,Pujehun,Kpanga Kabundeh,Fire,Banyada,4/3/2014
+0,0,0,14,0,203,400,0,0,0,0,0,0,0,0,0,239,3,34,,0,0.0,0.0,65a23a1a-08be-49df-8a61-d7121eee5281,Southern,Pujehun,Kpanga Kabundeh,Fire,,8/1/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,1,12,,0,0.0,0.0,7d82417d-ecba-45a2-891a-213864d42c67,Eastern,Kenema,,Accident,,17/2/2014
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,241,1,12,,0,0.0,0.0,d8f53087-408b-4e32-955f-abc9483b0ce3,Eastern,Kenema,,Accident,,2/4/2014
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,242,1,12,,0,0.0,0.0,efe94858-362c-4f6d-a430-9cfae55b0608,Eastern,Kenema,,Accident,,8/11/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243,1,12,,0,0.0,0.0,918fa229-45d5-4c52-9610-5203bf010ebb,Eastern,Kenema,,Accident,Hanga Road,15/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,426,4,42,,0,0.0,0.0,ab57af50-3e07-4416-a388-2844307f15c8,Western,Freetown,,Accident,Kissy ferry terminal ,11/4/2012
+0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,427,4,42,,0,0.0,0.0,8b6fe44c-ac8a-4ba4-bbbd-2b71d065eb80,Western,Freetown,,Accident,Government Wharf,18/4/2013
+6,6,0,0,0,0,6,0,0,0,0,0,0,0,0,0,428,4,42,,0,0.0,0.0,4a75bf32-85dc-4913-8582-e6277354698e,Western,Freetown,,Accident,Abeam Queen Elizabeth Quay,18/2/2013
+1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,429,4,42,,0,0.0,0.0,5b9538e6-de66-4094-b4db-529b80e240e8,Western,Freetown,,Accident,Abeam Queen Elizabeth Quay,15/5/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,430,4,42,,0,0.0,0.0,3fa1f2b7-01d1-4744-80b3-d935bffc56e8,Western,Freetown,,Accident,Abeam Government wharf,20/7/2013
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,431,4,42,,0,0.0,0.0,81bf6f03-1d1f-4854-b60a-8dd433157e2d,Western,Freetown,,Accident,Government wharf,21/8/2013
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,432,4,42,,0,0.0,0.0,1c65cbdf-1065-49a5-832b-9317c8340227,Western,Freetown,,Accident,Kanikay wharf to Lungi area,19/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,433,4,42,,0,0.0,0.0,5ffdb0c7-4783-49a5-bf78-f5f23d048c67,Western,Freetown,,Accident,Kissy ferry terminal ,14/3/2013
+1,0,0,0,0,0,462,0,0,0,0,0,0,0,0,0,434,4,42,,0,0.0,0.0,aa3fdb6a-0366-405e-a636-f4e907a237c6,Western,Freetown,,Accident,Kissy Ferry Terminal,10/6/2012
+1,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,435,4,42,,0,0.0,0.0,5c65985a-a9a8-41c2-984d-ded8182645c6,Western,Freetown,,Accident,Abeam QE II,12/11/2012
+0,4,0,0,18,4,0,0,0,0,0,0,0,0,0,0,137,2,21,2102,0,0.0,0.0,5786d724-fbc9-4bcd-a9d6-137292775eec,Northern,Bombali,Bombali Sebora,Fire,,28/2/2014
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138,2,21,2102,0,0.0,0.0,7d368d3c-cf47-41d2-8f6c-4c83ab331fc8,Northern,Bombali,Bombali Sebora,Landslide,,31/3/2014
+0,0,0,0,19,0,600,0,0,0,0,0,0,0,0,0,139,2,21,2102,0,0.0,0.0,e4876a9d-7b25-4560-9fca-8844d8e5657b,Northern,Bombali,Bombali Sebora,Storm/Gale,,15/4/2013
+0,3,0,0,10,48,175,0,0,0,0,0,0,0,0,0,140,2,21,2102,0,0.0,0.0,ebfb21b8-505b-4b63-b1b4-762e738ba36b,Northern,Bombali,Bombali Sebora,Fire,,18/4/2013
+4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,141,2,21,2103,0,0.0,0.0,e1bc712d-fa09-4a1a-b0e1-731ac6a3eeba,Northern,Bombali,Gbanti Kamarank,Storm/Gale,,8/12/2010
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,142,2,21,2107,0,0.0,0.0,a993cc53-5655-4098-a8c5-4dcdc4ecf199,Northern,Bombali,Makari Gbanti,Fire,,10/1/2013
+0,1,0,0,0,15,208,0,0,0,0,0,0,0,0,0,143,2,21,2108,0,0.0,0.0,421cc8a5-3528-4930-b7c5-c9973fe4bb23,Northern,Bombali,Paki Masabong,Fire,,17/3/2013
+0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,144,2,21,2111,0,0.0,0.0,de181aac-a2c7-4516-b21c-f73639253266,Northern,Bombali,Sanda Tendaran,Fire,Mateboi,14/2/2010
+0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,145,2,21,2111,0,0.0,0.0,2eec1e56-9d17-441d-ab05-eaabf7d375e3,Northern,Bombali,Sanda Tendaran,Storm/Gale,Mateboi ,3/1/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,146,2,22,2203,0,0.0,0.0,76703585-905e-4c43-bb65-942988a2cc9f,Northern,Kambia,Magbema,Accident,Rokupr and kasiri,7/3/2010
+1,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,147,2,22,2203,0,0.0,0.0,dab9c044-76b1-4f8b-9340-6006b18228c8,Northern,Kambia,Magbema,Accident,Mambolo to Rokupr,30/4/2011
+1,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,159,2,23,2309,0,0.0,0.0,5747116f-b5fb-40c6-bec0-277334465476,Northern,Koinadugu,Sulima,Accident,Sulima,25/5/2012
+1,1,0,0,0,0,13,0,0,0,0,0,0,0,0,0,160,2,23,2309,0,0.0,0.0,f5fd1a33-8e06-4e84-ace7-90e928d8185c,Northern,Koinadugu,Sulima,Accident,Sulima,13/3/2013
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,161,2,23,2309,0,0.0,0.0,44132b3e-3929-46db-bc7c-e2317c7bd059,Northern,Koinadugu,Sulima,Accident,sulima ,6/9/2013
+0,0,0,0,412,0,0,0,0,0,0,0,0,0,0,0,162,3,32,2309,0,0.0,0.0,d5adc501-db4f-4c87-a858-a2a59e6d9ff8,Southern,Bonthe,Sulima,Storm/Gale,,9/4/2013
+1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,164,2,24,2404,0,0.0,0.0,e42513d6-cd84-4e5e-ab44-494f6305bfc0,Northern,Port Loko,Kaffu Bullom,Accident,Lungi,9/9/2011
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,165,2,24,2404,0,0.0,0.0,6995f4ac-696e-4409-ba13-668673549626,Northern,Port Loko,Kaffu Bullom,Accident,,6/4/2014
+0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,0,166,2,24,2404,0,0.0,0.0,3a4f5b0b-2c85-40b2-ac08-1343ab9c02e5,Northern,Port Loko,Kaffu Bullom,Accident,Targrin,6/4/2013
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,167,2,24,2404,0,0.0,0.0,903cb99d-9662-4def-a814-8cb572959794,Northern,Port Loko,Kaffu Bullom,Accident,Targrin Axis,8/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,2,24,2404,0,0.0,0.0,aa90cc35-c794-43c0-9bb7-8bdbfbfcbe9f,Northern,Port Loko,Kaffu Bullom,Accident,Targrin to Kissy Ferry Terminal,6/9/2012
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,178,2,24,2404,0,0.0,0.0,71a30480-ba37-4afb-9531-642c83c6cf60,Northern,Port Loko,Kaffu Bullom,Accident,Lungi sand bank,10/9/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,2,24,2404,0,0.0,0.0,4e47f07c-246d-49cb-80e0-4e56fe945e94,Northern,Port Loko,Kaffu Bullom,Accident,targrin ,6/10/2013
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,180,2,24,2404,0,0.0,0.0,5176166e-6b90-48be-9262-9c629e7614ad,Northern,Port Loko,Kaffu Bullom,Accident,Mayafura Town to Pepel Wharf,3/8/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,181,2,24,2404,0,0.0,0.0,09603c7e-5e8f-4f23-9391-9def417458f4,Northern,Port Loko,Kaffu Bullom,Accident,Targrin wharf to Kissy ferry terminal,11/9/2011
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,182,2,24,2404,0,0.0,0.0,1213ef0d-a63f-4f1e-98e5-767e3b987d40,Northern,Port Loko,Kaffu Bullom,Accident,off Lungi / Targrin axis,4/12/2012
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,2,24,2404,0,0.0,0.0,e57a7120-a001-4b47-9194-0e464499a8e5,Northern,Port Loko,Kaffu Bullom,Accident,,24/12/2013
+0,0,0,2,0,15,0,0,0,0,0,0,0,0,0,0,184,2,24,2404,0,0.0,0.0,7a41cb18-ee34-4534-b1c8-bd61ac58d3e8,Northern,Port Loko,Kaffu Bullom,Fire,,31/12/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185,2,24,2404,0,0.0,0.0,4374a356-6f78-43fb-a406-9f66e8304f1a,Northern,Port Loko,Kaffu Bullom,Flood,,8/10/2009
+2,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,186,4,42,2404,0,0.0,0.0,4aa2511d-bec1-43bd-917c-07ccc5ca588a,Western,Freetown,Kaffu Bullom,Flood,,14/11/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,2,24,2406,0,0.0,0.0,2e22afa2-20ab-4659-b6c7-0b55925b2e49,Northern,Port Loko,Lokomasama,Flood,,10/10/2009
+2,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,244,1,12,,0,0.0,0.0,2a508d8d-adb6-448f-8445-3caf03523a67,Eastern,Kenema,,Accident,,11/5/2014
+2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,245,1,12,,0,0.0,0.0,af75c6cc-d107-428e-a061-f4439cf91852,Eastern,Kenema,,Accident,,11/3/2014
+0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,246,2,25,,0,0.0,0.0,7ebee9c2-03eb-4f0a-bfc8-a93615f0e635,Northern,Tonkolili,,Accident,Mile 91,28/2/2010
+18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,247,1,12,,0,0.0,0.0,a891f36f-257f-4597-a928-cc22e5a38466,Eastern,Kenema,,Accident,Matotoka-Kono highway,31/7/2013
+21,29,0,0,0,50,0,0,0,0,0,0,0,0,0,0,248,1,13,,0,8.65749183287713,-10.9684935265625,b21e2573-5dc8-44a5-843a-94ad237eb091,Eastern,Kono,,Accident,,8/1/2013
+1,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,249,1,25,,0,0.0,0.0,9619a1a5-b76a-4d03-8932-193384d03db8,Eastern,Tonkolili,,Accident,,30/8/2013
+3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,1,25,,0,0.0,0.0,ce546376-c1e7-4ec3-a83d-0463783c405f,Eastern,Tonkolili,,Accident,,10/2/2013
+0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,251,1,13,,0,0.0,0.0,89364885-a3c9-4b98-8dc8-42035f90f182,Eastern,Kono,,Drought,Koidu Town (Koidu Holdings),8/2/2010
+0,2,0,0,25,108,0,0,0,0,0,0,0,0,0,0,255,1,12,,0,0.0,0.0,11d40e28-bc34-4452-a321-0fb1d6cf5d86,Eastern,Kenema,,Fire,,5/1/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256,1,12,,0,0.0,0.0,fca279e8-4736-4ea2-adeb-133355cb6c74,Eastern,Kenema,,Fire,,26/12/2013
+0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,257,1,12,,0,0.0,0.0,8b4b32ff-ef2f-4401-b44e-d9ed8c58a4a3,Eastern,Kenema,,Fire,,29/12/2013
+1,4,0,45,0,100,0,0,0,0,0,0,0,0,0,0,258,1,12,,0,0.0,0.0,33c2dac8-8453-4717-9103-f77704e97eda,Eastern,Kenema,,Fire,,28/12/2013
+0,0,0,0,26,0,400,0,0,0,0,0,0,0,0,0,259,1,12,,0,0.0,0.0,91425fb7-6043-42db-b0fd-fb763dc3cbe8,Eastern,Kenema,,Fire,,4/2/2013
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,260,1,12,,0,0.0,0.0,fc90c03a-d886-4e76-999d-44122e574283,Eastern,Kenema,,Fire,Kenema,1/2/2012
+0,4,0,0,12,0,500,0,0,0,0,0,0,0,0,0,261,1,13,,0,0.0,0.0,5c237621-0318-4734-99c4-7a9e80240195,Eastern,Kono,,Fire,,27/3/2014
+4,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,262,1,25,,0,0.0,0.0,a53a349b-aa2f-4f50-805d-30783a90ca3a,Eastern,Tonkolili,,Fire,Ropollo-Mara Maral,3/6/2010
+0,2,0,0,48,100,210,0,0,0,0,0,0,0,0,0,263,1,25,,0,0.0,0.0,07316bf8-2f01-43f1-bf31-36ff0701f95d,Eastern,Tonkolili,,Fire,,26/2/2014
+0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,264,1,25,,0,0.0,0.0,c3d69297-e925-43ed-9d92-4419e7022110,Eastern,Tonkolili,,Fire,,16/4/2013
+0,2,0,0,3,4,0,0,0,0,0,0,0,0,0,0,265,1,25,,0,0.0,0.0,13b6f69a-77d0-476f-8726-ce25517fd27a,Eastern,Tonkolili,,Fire,,15/5/2013
+0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,266,1,25,,0,0.0,0.0,8af9610b-ae15-4f3c-a7e2-3972c9744a1f,Eastern,Tonkolili,,Fire,,18/3/2014
+0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,267,1,25,,0,0.0,0.0,22ac75cf-6a4f-481e-a93b-9ebe158dddce,Eastern,Tonkolili,,Fire,,11/12/2013
+0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,268,1,25,,0,0.0,0.0,52969bef-8d83-4f02-935a-f950e4ea1021,Eastern,Tonkolili,,Fire,Ferengbeya,22/1/2010
+0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,269,1,25,,0,0.0,0.0,22d6b29e-7fda-47df-9588-c473eedf20dd,Eastern,Tonkolili,,Fire,Masanga,2/10/2012
+0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0,270,1,25,,0,0.0,0.0,89e487bb-277c-4e95-8288-f5c90d365f1d,Eastern,Tonkolili,,Fire,Kolifa Rowala,25/3/2013
+0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,271,1,11,,0,0.0,0.0,7ac3b37b-ccbb-4fa6-8df8-23b840b0b22a,Eastern,Kailahun,,Flood,Daru town,18/9/2009
+0,0,0,5,0,0,70,0,0,0,0,0,0,0,0,0,272,1,11,,0,0.0,0.0,3c32d091-a7ac-43a5-b30c-46725b0ffc5b,Eastern,Kailahun,,Flood,Lalehun Kovoma,9/1/2013
+0,0,0,100,0,0,437,0,0,0,0,0,0,0,0,0,273,1,12,,0,0.0,0.0,0ac68eca-2ebf-47b2-a555-7636e9127bd6,Eastern,Kenema,,Flood,Nyandeyama and Kpetewoma,30/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274,1,12,,0,0.0,0.0,409f5cfd-4cf1-47fc-aba4-63dcdfe2823d,Eastern,Kenema,,Flood,Kojon village,8/7/2012
+1,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,275,1,12,,0,0.0,0.0,cde69e32-3ec5-48c5-b2fc-25f759e80434,Eastern,Kenema,,Flood,,18/8/2013
+2,3,0,2,0,5,0,0,0,0,0,0,0,0,0,0,276,1,12,,0,0.0,0.0,91c826bb-6ea4-42cd-8759-8fb21e731fc4,Eastern,Kenema,,Flood,,29/7/2013
+0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,277,1,13,,0,0.0,0.0,3fc294f0-e3cc-45e9-a30f-da05f73608e3,Eastern,Kono,,Flood,,29/4/2014
+0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,278,1,13,,0,0.0,0.0,27b981ae-5ef2-421b-9ea1-33e202911207,Eastern,Kono,,Storm/Gale,,20/6/2013
+3,12,0,55,0,0,432,0,0,0,0,0,0,0,0,0,279,1,13,,0,0.0,0.0,a2a93145-04ce-4982-a41e-f26292d9ca0f,Eastern,Kono,,Storm/Gale,Bongaima town,30/9/2010
+0,0,0,40,0,0,300,0,0,0,0,0,0,0,0,0,280,1,13,,0,0.0,0.0,f4415d9b-5ae7-4296-883d-8bc091f917af,Eastern,Kono,,Storm/Gale,Koidu Town,16/3/2011
+0,0,0,135,0,0,800,0,0,0,0,0,0,0,0,0,281,1,13,,0,0.0,0.0,f8449377-9ac1-4b6f-81db-f260b3805ec5,Eastern,Kono,,Storm/Gale,Bompe Town,4/9/2013
+0,0,0,35,0,0,80,0,0,0,0,0,0,0,0,0,282,1,13,,0,0.0,0.0,ea86385e-a1b0-4339-ad32-3ed97831430a,Eastern,Kono,,Storm/Gale,Yengema Town,4/9/2013
+0,0,0,3,0,0,80,0,0,0,0,0,0,0,0,0,283,1,13,,0,0.0,0.0,74871f0f-173a-4e44-8353-4796d77999f2,Eastern,kono,,Storm/Gale,Nyamudu village,4/9/2013
+0,0,0,8,0,0,140,0,0,0,0,0,0,0,0,0,284,1,13,,0,0.0,0.0,59962fb4-df11-47e1-88f8-95e55585ab72,Eastern,kono,,Storm/Gale,Futinga,4/9/2013
+0,0,0,4,0,0,100,0,0,0,0,0,0,0,0,0,285,1,13,,0,0.0,0.0,7f803519-6c01-4892-8675-0f7f9b0c2153,Eastern,Kono,,Storm/Gale,Chanjadu,4/9/2013
+0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,286,1,13,,0,0.0,0.0,57716b05-ad35-48a0-89a9-ff84d362a029,Eastern,Kono,,Storm/Gale,"Old Yengema Road,Tankoro",4/9/2013
+0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,287,1,13,,0,0.0,0.0,b99d5d33-8130-4db6-8bd8-6cfbdea5c7af,Eastern,Kono,,Storm/Gale,"Kensay,Tankoro",4/9/2013
+0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,288,1,13,,0,0.0,0.0,1d0125cd-c4c5-433f-ba7f-c743381b6c0d,Eastern,kono,,Storm/Gale,"Small Sefadu,Gbense",4/9/2013
+0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,289,1,13,,0,0.0,0.0,6b188188-9989-4bce-9546-06cdbcbba14d,Eastern,kono,,Storm/Gale,Kissi town Lei,4/9/2013
+0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,290,1,13,,0,0.0,0.0,fa02889f-65c2-43f3-9325-336aed4cb5d7,Eastern,Kono,,Storm/Gale,Komba Yendeli,4/9/2013
+0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,291,1,13,,0,0.0,0.0,fdb7993c-f087-403d-a112-58f2ff2f58e8,Eastern,kono,,Storm/Gale,Somale,4/9/2013
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,292,1,13,,0,0.0,0.0,568d894c-19a6-4515-b57f-35bae1a8e6e1,Eastern,Kono,,Storm/Gale,Koidu Town,28/6/2010
+0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,293,1,25,,0,0.0,0.0,dcf0c65e-9fac-406f-8978-259c88e93f04,Eastern,Tonkolili,,Storm/Gale,,15/4/2013
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294,2,22,,0,0.0,0.0,7d1d300e-3558-480f-89b3-a13ebb100c5c,Northern,Kambia,,Accident,Kambia Town,16/3/2011
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,295,2,21,,0,0.0,0.0,ac38ff05-3d5a-40bc-8714-3210f1a72aa1,Northern,Bombali,,Accident,Mayefendeh ,9/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,296,2,22,,0,0.0,0.0,fac6cc58-2892-440b-8887-34d6731c17e5,Northern,Kambia,,Accident,Yeliboya,24/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297,2,22,,0,0.0,0.0,f662f737-5a9b-4fc3-9a6f-d00c282291a0,Northern,Kambia,,Accident,Yeliboya,1/6/2011
+172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,298,2,22,,0,0.0,0.0,1c79d392-39e9-4193-a6aa-986694596d42,Northern,Kambia,,Accident,Yeliboya,7/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,299,2,24,,0,0.0,0.0,c6d45c60-2ccd-448a-8872-f60c55da91cc,Northern,Port Loko,,Accident,Tagrin area,10/7/2009
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,300,2,24,,0,0.0,0.0,5aacd793-a491-4782-b0c2-3481642f2b51,Northern,Port Loko,,Accident,Tassoh area,5/8/2013
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,301,2,34,,0,0.0,0.0,1db4c5c2-c7b7-4657-b9d1-1e527e70307d,Northern,Pujehun,,Accident,sulima,25/10/2010
+0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,302,2,21,,0,0.0,0.0,b7b6efeb-c619-41c4-8016-ce248c59849b,Northern,Bombali,,Accident,Masarie Village,2/7/2010
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,303,2,21,,0,0.0,0.0,d5317ac5-19a9-4b2b-b3f2-1f7f22d92628,Northern,Bombali,,Accident,Makeni-Lunsar highway,3/7/2010
+4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,304,2,24,,0,0.0,0.0,cbf684db-c4bc-4a9c-ba00-451c7a871ee1,Northern,Port Loko,,Accident,Lunsar,29/11/2009
+2,8,0,0,0,10,0,0,0,0,0,0,0,0,0,0,305,2,34,,0,0.0,0.0,efc676d9-7b8d-4237-ad68-868daa380e94,Northern,Pujehun,,Accident,,17/4/2014
+2,4,0,0,2,6,0,0,0,0,0,0,0,0,0,0,306,2,34,,0,0.0,0.0,69156ddf-b279-431f-bf15-6ab5db890a2d,Northern,Pujehun,,Accident,,1/1/2013
+0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,307,2,34,,0,0.0,0.0,fe5aea9e-51a7-4842-94d8-2549831e287e,Northern,Pujehun,,Accident,,6/11/2013
+0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,308,2,22,,0,0.0,0.0,6345e2d8-e484-4237-83ce-f6c3b242f480,Northern,Kambia,,Conflict,Kukuna town,24/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309,2,23,,0,0.0,0.0,65ad18ed-857b-4e3d-a864-5c3a216d20b7,Northern,Koinadugu,,Conflict,,14/1/2014
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310,2,24,,0,0.0,0.0,5ca72492-09a1-439e-9b87-c98fe1fb461e,Northern,Port Loko,,Conflict,Lungi- Rotifunk ,17/9/2009
+0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,311,2,24,,0,0.0,0.0,ffa42f06-3af0-4157-a384-ba39a5826c9c,Northern,Port Loko,,Conflict,,5/2/2013
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,322,2,21,,0,0.0,0.0,4dd97734-7f4d-495f-996d-3b76f260fd8b,Northern,Bombali,,Fire,,1/3/2014
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,323,2,21,,0,0.0,0.0,27511864-3c5e-435b-917b-0eda405514d6,Northern,Bombali,,Fire,,26/2/2014
+0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,324,2,21,,0,0.0,0.0,27bbe659-9896-4732-8373-3bde19db6ac7,Northern,Bombali,,Fire,,8/1/2014
+0,0,0,51,0,0,311,0,0,0,0,0,0,0,0,0,325,2,21,,0,0.0,0.0,11a094e1-f68f-43a3-b6ed-823f01cdff9e,Northern,Bombali,,Fire,Sahun Village,25/12/2013
+0,5,0,0,26,192,400,0,0,0,0,0,0,0,0,0,326,2,23,,0,0.0,0.0,ee1a6c62-ef79-4c8e-a4fc-d9d2b0544f4c,Northern,Koinadugu,,Fire,,17/12/2013
+0,2,0,15,0,37,55,0,0,0,0,0,0,0,0,0,327,2,23,,0,0.0,0.0,18b199de-3a94-4178-aa5b-fa48ab378fae,Northern,Koinadugu,,Fire,,26/5/2013
+0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,328,2,23,,0,0.0,0.0,41f1428e-9307-4e58-b363-e9437a63511f,Northern,Koinadugu,,Fire,,1/3/2014
+0,1,0,0,1,0,32,0,0,0,0,0,0,0,0,0,329,2,23,,0,0.0,0.0,9549983d-3941-4e47-862b-663c56947659,Northern,Koinadugu,,Fire,,3/1/2013
+0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,330,2,23,,0,0.0,0.0,15168b55-affd-40fc-993e-ed0b7ef231b7,Northern,Koinadugu,,Fire,Karimbo village,2/3/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,343,2,21,,0,0.0,0.0,3aa153f5-c766-438d-9b87-6c9e45334543,Northern,Bombali,,Flood,Makeni Magburaka Highway ,9/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,344,2,34,,0,0.0,0.0,4681c6c6-c8a3-4ae3-b13f-f158e15edc0e,Northern,Pujehun,,Flood,Bondapi,30/8/2012
+1,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,345,2,34,,0,0.0,0.0,f6ac4078-67f6-46b3-89e7-312fbd9aa9b9,Northern,Pujehun,,Flood,,29/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,346,2,34,,0,0.0,0.0,f20b46e3-6226-4f24-aad4-6b50fbbd4dd4,Northern,Pujehun,,Flood,Gbondapi,9/9/2009
+0,2,0,0,25,168,295,0,0,0,0,0,0,0,0,0,347,2,23,,0,0.0,0.0,2342f857-a087-4b44-a526-36d868db5f87,Northern,Koinadugu,,Storm/Gale,,25/5/2013
+0,1,0,4,0,10,22,0,0,0,0,0,0,0,0,0,348,2,23,,0,0.0,0.0,a275a333-8c37-401d-9125-3c6025569568,Northern,Koinadugu,,Storm/Gale,,27/5/2013
+0,1,0,13,0,300,600,0,0,0,0,0,0,0,0,0,349,2,23,,0,0.0,0.0,41a75b48-d01b-44a6-b20f-a6af0cee7d80,Northern,Koinadugu,,Storm/Gale,,27/5/2013
+2,0,0,10,68,0,0,0,0,0,0,0,0,0,0,0,350,2,24,,0,0.0,0.0,3dd66991-9d97-4a03-a54a-2027163804fa,Northern,Port Loko,,Storm/Gale,,6/5/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,351,3,32,,0,0.0,0.0,142eec29-e46a-4af7-b5cb-e31a5924b31d,Southern,Bonthe,,Accident,,28/2/2014
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,352,3,32,,0,0.0,0.0,0d31e502-e610-46ee-83c0-546d8056d2c9,Southern,Bonthe,,Accident,,9/9/2009
+1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,353,3,32,,0,0.0,0.0,8a2ba00f-e0f6-468c-bf96-670831279aeb,Southern,Bonthe,,Accident,Gbangbama bonthe,18/8/2013
+2,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,354,3,32,,0,0.0,0.0,c659bcfa-d89b-4929-a219-433ff97ec0d6,Southern,Bonthe,,Accident,bonthe island,14/11/2013
+0,2,0,10,0,48,0,0,0,0,0,0,0,0,0,0,365,3,32,,0,0.0,0.0,a63295e0-bf07-4f42-892f-baa145f5ad75,Southern,Bonthe,,Fire,,15/4/2014
+1,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,366,3,32,,0,0.0,0.0,076a4956-4481-4c99-96d5-f9c2ee4469fe,Southern,Bonthe,,Fire,Nyanga village,26/11/2010
+0,2,0,12,0,0,0,0,0,0,0,0,0,0,0,0,367,3,33,,0,0.0,0.0,1eb901d7-34df-4961-8fcb-146cd47f3826,Southern,Moyamba,,Fire,,27/2/2014
+2,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,458,4,42,,0,0.0,0.0,ab8136e2-84e2-4f4b-82d3-0ecd8eb257d1,Western,Freetown,,Accident,,10/2/2013
+0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,368,3,33,,0,0.0,0.0,fd7e7885-141a-4b9c-ae9b-d295b3e01279,Southern,Moyamba,,Fire,,3/1/2014
+1,6,0,20,0,7,0,0,0,0,0,0,0,0,0,0,369,3,33,,0,0.0,0.0,641297f1-ab03-46e3-9ec0-b76f2d2113b3,Southern,Moyamba,,Fire,,26/3/2014
+3,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,370,3,33,,0,0.0,0.0,de0e01b5-7ef7-42a0-a179-c35b40e6c09a,Southern,Moyamba,,Fire,,20/3/2014
+0,3,0,25,0,3,0,0,0,0,0,0,0,0,0,0,371,3,33,,0,0.0,0.0,9409bba7-ac71-4b52-85c6-3f13b6a1b417,Southern,Moyamba,,Fire,,9/3/2014
+0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,372,3,33,,0,0.0,0.0,bda814e7-9f58-4540-a427-86f9357a5486,Southern,Moyamba,,Fire,,22/2/2013
+0,3,0,0,1,5,0,0,0,0,0,0,0,0,0,0,373,3,33,,0,0.0,0.0,64bd6243-a5de-4b87-883d-65a844444042,Southern,Moyamba,,Fire,,20/1/2013
+0,0,0,30,0,0,300,0,0,0,0,0,0,0,0,0,374,3,33,,0,0.0,0.0,5ac6f672-8938-4ae5-bf57-5c29898e8c62,Southern,Moyamba,,Fire,Fench village,1/8/2011
+0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,375,3,33,,0,0.0,0.0,54b545a8-93c6-4e1b-9f26-6c92c684c172,Southern,Moyamba,,Fire,Mopala village,1/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,376,3,32,,0,0.0,0.0,c8544926-916a-45c0-8aef-17ea4bbd294b,Southern,Bonthe,,Flood,Bonthe,30/8/2012
+1,3,0,2,0,4,0,0,0,0,0,0,0,0,0,0,377,3,32,,0,0.0,0.0,df161bd8-a5fe-43e8-8401-a37996438df2,Southern,Bonthe,,Flood,,19/8/2013
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,388,4,41,,0,0.0,0.0,190422ab-6d76-4051-a5e8-95e291cba85d,Western,Western Area Rural,,Accident,Gbonko tombo,9/7/2013
+0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,389,4,41,,0,0.0,0.0,c6929e19-d69c-4351-9509-b6429b98a700,Western,Western Area Rural,,Accident,Tombo area,31/12/2013
+0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,390,4,41,,0,0.0,0.0,df4992db-dff2-461c-ad37-9af0ca14b3d4,Western,Western Area Rural,,Accident,Tombo area,2/1/2014
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,391,4,41,,0,0.0,0.0,9a951f7a-e9fb-4e80-ad3d-f9ada9608bc8,Western,Western Area Rural,,Accident,Tambakunda to Cape,9/3/2011
+1,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,392,4,41,,0,0.0,0.0,7e5f65ee-70d5-4925-b3b9-fe8c962679ab,Western,Western Area Rural,,Accident,Katar to Shenge,22/2/2011
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,393,4,41,,0,0.0,0.0,5d848f7c-28b3-416e-926b-9df499b6474b,Western,Western Area Rural,,Accident,Tombo,8/2/2012
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,394,4,41,,0,0.0,0.0,458921a2-ebc2-446f-9ecd-659da83b5b28,Western,Western Area Rural,,Accident,Tombo,9/2/2012
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,395,4,41,,0,0.0,0.0,f756945f-d5b8-4789-9832-3c22ca188c25,Western,Western Area Rural,,Accident,Banana Island,26/6/2013
+1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,396,4,41,,0,0.0,0.0,89c02be2-2fba-4e21-bb8d-32b189d7395b,Western,Western Area Rural,,Accident,Tombo,27/3/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,397,4,42,,0,0.0,0.0,ec484a7b-84ff-4790-9ec8-21e24336982f,Western,Freetown,,Accident,Aberdeen Cape light house,30/10/2013
+1,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,398,4,42,,0,0.0,0.0,3f5c56b4-a62a-4840-9378-906e157181f6,Western,Freetown,,Accident,Off Cape light house axis,12/8/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,399,4,42,,0,0.0,0.0,c93034e9-9ce7-4a37-bd42-0e5b76376d67,Western,Freetown,,Accident,Kanikay to Rokupr Wharf,8/9/2012
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,400,4,42,,0,0.0,0.0,c8859272-5605-4059-bdd2-ec404c8119f0,Western,Freetown,,Accident,off Queen Elizabeth II Quay,7/3/2014
+1,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,401,4,42,,0,0.0,0.0,f2367b05-c382-4aa9-831a-91fcb73f1fb8,Western,Freetown,,Accident,Around Cape Light House,18/6/2011
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,402,4,42,,0,0.0,0.0,e1fe1136-fdaa-4cec-9143-5fa7ec29972d,Western,Freetown,,Accident,At abeam electricity house kingtom,25/2/2014
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,4,42,,0,0.0,0.0,4a36faa3-7df7-4aab-b35c-da6f57434d2f,Western,Freetown,,Accident,Along the Jetty at Bangso fishing company,14/10/2011
+0,1,0,0,0,0,11,0,0,0,0,0,0,0,0,0,404,4,42,,0,0.0,0.0,2ff42338-436c-4d33-8a4b-f538ddc9d334,Western,Freetown,,Accident,Kissy ferry terminal to targrin wharf,4/11/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,405,4,42,,0,0.0,0.0,c1ddf21d-4fb9-4b3d-9054-d0842ecaf5ff,Western,Freetown,,Accident,Government wharf to targrin wharf,1/1/2012
+0,1,0,0,0,0,11,0,0,0,0,0,0,0,0,0,406,4,42,,0,0.0,0.0,6cd9a6ad-5f09-4b3f-a841-57e122f87b99,Western,Freetown,,Accident,Kissy ferry terminal to targrin wharf,2/1/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,407,4,42,,0,0.0,0.0,1068a387-b6df-47b2-add4-d337cdef20bd,Western,Freetown,,Accident,Kissy ferry terminal ,26/1/2013
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,408,4,42,,0,0.0,0.0,3a120493-b041-4eab-8a54-e3d4abbc2368,Western,Freetown,,Accident,kissy oil jetty,22/10/2013
+0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,409,4,42,,0,0.0,0.0,1df5ade2-ff68-4127-b95c-ad69ead2e298,Western,Freetown,,Accident,Guinea to Susan's Bay,8/1/2011
+1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,410,4,42,,0,0.0,0.0,96d878b5-b76a-494a-86af-c72f28f7ed3c,Western,Freetown,,Accident,Aberdeen under the bridge,2/1/2013
+0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,411,4,42,,0,0.0,0.0,d7a2d1da-b738-4c1f-a85a-bf842d048d3e,Western,Freetown,,Accident,Yurika to King Jimmy,5/2/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,412,4,42,,0,0.0,0.0,f23c3988-6e22-48cf-b1fd-16a35b21e3f8,Western,Freetown,,Accident,Tambakunda to Yelibola,10/3/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,413,4,42,,0,0.0,0.0,f007d026-5387-48b2-ad93-e11a7b7ab577,Western,Freetown,,Accident,Sulima to Monrovia,20/6/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,424,4,42,,0,0.0,0.0,7cac63c1-2129-4ebd-9345-c5f1031e1060,Western,Freetown,,Accident,Off Cape light house axis,20/6/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,425,4,42,,0,0.0,0.0,0e3ad66a-45f9-4892-a89c-ab1193791782,Western,Freetown,,Accident,Government wharf,13/8/2013
+1,1,0,0,0,0,779,0,0,0,0,0,0,0,0,0,436,4,42,,0,0.0,0.0,30728ef3-03ab-409f-90bf-425439104c0d,Western,Freetown,,Accident,Kissy Ferry Terminal,16/11/2012
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,437,4,42,,0,0.0,0.0,c411bde8-62d7-4a4a-a94a-94cc117925aa,Western,Freetown,,Accident,Queen Elizabeth II Quay,27/1/2012
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,438,4,42,,0,0.0,0.0,d670ee6f-b720-4f03-9ad6-4242380fc5c7,Western,Freetown,,Accident,Towards Kissy Oil Jetty,1/6/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,439,4,42,,0,0.0,0.0,8b6783ac-0e79-4bbc-b7f5-325b8be9457a,Western,Freetown,,Accident,Bailor Wharf,9/5/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,440,4,42,,0,0.0,0.0,ecf0330b-3bc1-485e-9818-0d036a1fc255,Western,Freetown,,Accident,Around Bottom Oku,13/10/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,441,4,42,,0,0.0,0.0,a07725ad-7e60-40b9-8e1f-039034b25cbc,Western,Freetown,,Accident,off Government wharf,4/8/2013
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,442,4,42,,0,0.0,0.0,5cb5008e-b8e2-48f4-a9bb-cd62e087b641,Western,Freetown,,Accident,Abeam water quay,27/8/2013
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,414,4,42,,0,0.0,0.0,2d7e4164-4f43-4503-90b0-02b9a8bdf3fc,Western,Freetown,,Accident,Kissy ferry terminal to targrin wharf,23/10/2011
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,415,4,42,,0,0.0,0.0,4ab85cac-e672-4adc-b57a-1f495adf150b,Western,Freetown,,Accident,Bushra Port to Rokupr Wharf,8/7/2012
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,416,4,42,,0,0.0,0.0,69e5fd80-fffc-40c3-ae14-dcb7530d8b8f,Western,Freetown,,Accident,Around Government Wharf,9/8/2012
+0,0,0,0,0,0,496,0,0,0,0,0,0,0,0,0,417,4,42,,0,0.0,0.0,d56bbfdf-6067-4dbc-8c99-f83ca7dd91b2,Western,Freetown,,Accident,Kissy Ferry Terminal,15/9/2012
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,418,4,42,,0,0.0,0.0,0d211f34-efec-4f09-93de-d1360d685ecc,Western,Freetown,,Accident,Abeam Queen Elizabeth Quay,15/3/2013
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,419,4,42,,0,0.0,0.0,ac7f6dfb-6dbe-4a4f-b6b5-a29203a84c55,Western,Freetown,,Accident,Abeam Queen Elizabeth Quay,15/3/2013
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,420,4,42,,0,0.0,0.0,3ef87578-b7e2-4361-ad0e-037e851bb656,Western,Freetown,,Accident,Falcon Point,18/3/2013
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,421,4,42,,0,0.0,0.0,4220cae8-df61-459b-a955-b67a60f48c6c,Western,Freetown,,Accident,Falcon Point,20/3/2013
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,422,4,42,,0,0.0,0.0,e6c935f8-1e1b-45b8-9840-64c9b0d1f661,Western,Freetown,,Accident,Kissy ferry terminal ,22/3/2013
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,423,4,42,,0,0.0,0.0,f2ae3ce8-802b-414b-a666-219deccd2ed4,Western,Freetown,,Accident,Abeam Queen Elizabeth Quay,25/3/2013
+0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,506,4,41,,0,0.0,0.0,0fe3ed6d-f695-42a7-8ee9-fe907d54240c,Western,Western Area Rural,,Fire,Fogbo,28/12/2009
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,507,4,41,,0,0.0,0.0,6b5d808f-643c-4ba3-a593-dbd7c00f50d3,Western,Western Area Rural,,Fire,old Adonkia Road,4/10/2012
+0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,508,4,41,,0,0.0,0.0,bb132f7b-853a-4f64-b229-49317285ccf6,Western,Western Area Rural,,Fire,Mamah Beach,23/12/2013
+0,2,0,19,0,47,100,0,0,0,0,0,0,0,0,0,509,4,42,,0,0.0,0.0,53dc4465-49e8-4fbc-8d5b-61175627739b,Western,Freetown,,Fire,,26/4/2013
+0,2,0,5,0,0,300,0,0,0,0,0,0,0,0,0,510,4,42,,0,0.0,0.0,772ffd81-62ff-4526-a344-ba7d69901916,Western,Freetown,,Fire,,26/3/2014
+0,2,0,0,4,36,52,0,0,0,0,0,0,0,0,0,511,4,42,,0,0.0,0.0,99ffcdf7-3112-4fca-ba02-f715b0ce2a9b,Western,Freetown,,Fire,,15/2/2014
+0,1,0,0,2,31,64,0,0,0,0,0,0,0,0,0,512,4,42,,0,0.0,0.0,98e55b10-601f-431c-b60b-790948cddf75,Western,Freetown,,Fire,,2/3/2014
+0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,513,4,42,,0,0.0,0.0,6c89a892-f23a-4087-95d6-e44ccc6fbfc5,Western,Freetown,,Fire,,2/3/2014
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,481,4,42,,0,0.0,0.0,efeafaed-57b9-42ad-b480-2e6b8d7fa541,Western,Freetown,,Drowning,Freetown,16/3/2011
+8,7,0,123,57,0,0,0,0,0,0,15,5,0,0,12,656,4,42,,0,8.40621733498799,-13.20811165625,0dbc1e38-28f1-4994-8900-db39898e3a6b,Western,Freetown,,Flood,Mainly informal coastal communities,16/9/2015
+0,0,0,150,490,0,0,0,0,0,0,4,1,0,0,0,657,3,31,3104,0,7.96036553,-11.73594369,4ff3b460-9af6-45af-b002-e667821cc7dc,Southern,Bo,Boama,Flood,Jerehun,17/9/2015
+1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,658,3,34,,0,7.35606571,-11.73045052,74bfd891-20d3-4f11-b294-7d0597cc00d4,Southern,Pujehun,,Flood,,17/9/2014
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,659,3,32,,0,7.50858201,-12.50498666,5efd5a01-4f4f-4469-bf38-924b1ee4bd3b,Southern,Bonthe,,Flood,,17/9/2015
+0,0,0,0,0,150,206,0,0,0,0,1,1,0,0,0,660,2,24,,0,8.75384474388362,-12.7906311875,048df457-ab5e-4ebd-bd28-de89ad6fbeba,Northern,Port Loko,,Flood,,17/9/2015
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,443,4,42,,0,0.0,0.0,518082fd-cd63-4da4-ab3c-270db908c953,Western,Freetown,,Accident,Kissy Ferry Terminal,15/2/2014
+0,0,0,0,0,0,239,0,0,0,0,0,0,0,0,0,444,4,42,,0,0.0,0.0,951d1296-0699-40a7-8796-6690989eb92f,Western,Freetown,,Accident,Susan's Bay to      Lumley Beach,25/4/2011
+0,0,0,0,0,0,280,0,0,0,0,0,0,0,0,0,445,4,42,,0,0.0,0.0,7c2e7974-8f2e-4289-a780-908f9953d76d,Western,Freetown,,Accident,Kissy ferry terminal ,1/2/2013
+0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,446,4,42,,0,0.0,0.0,f96bfa7a-aee8-4418-a0da-34488d71392f,Western,Freetown,,Accident,Abeam KOJ,21/6/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,447,4,42,,0,0.0,0.0,1dec79ad-ed8f-4acb-b2f7-4d3e6f0a7324,Western,Freetown,,Accident,At Queen Elizabeth II Quey,24/10/2011
+8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,448,4,42,,0,0.0,0.0,d0a892da-d297-4f65-9f20-07e0d3c6cb25,Western,Freetown,,Accident,Maboreh Junction,25/1/2010
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,449,4,42,,0,0.0,0.0,3f734993-66b2-4eda-b74f-e7f4a857042c,Western,Freetown,,Accident,Kissy ferry terminal,21/4/2010
+1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,450,4,42,,0,0.0,0.0,94516321-a672-46e5-b422-96ad02ec312e,Western,Freetown,,Accident,Garrison Street,24/1/2011
+6,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,451,4,42,,0,0.0,0.0,3bff6434-75da-4db2-ab7a-7265cbc7acd3,Western,Freetown,,Accident,,3/2/2014
+2,6,0,0,0,8,0,0,0,0,0,0,0,0,0,0,452,4,42,,0,0.0,0.0,aaa2ede6-8671-45f2-94eb-0c810a274b7d,Western,Freetown,,Accident,,16/5/2014
+2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,453,4,42,,0,0.0,0.0,59561737-b6d5-49ef-94a9-96242f705242,Western,Freetown,,Accident,,19/8/2013
+1,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,454,4,42,,0,0.0,0.0,a1461a98-49b8-4278-8822-306f3483a710,Western,Freetown,,Accident,,31/12/2013
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,455,4,42,,0,0.0,0.0,34d935fb-8a09-42d8-b06a-08f288d0090d,Western,Freetown,,Accident,,26/12/2013
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,456,4,42,,0,0.0,0.0,71fde390-53a5-405d-8124-421fd2ec8563,Western,Freetown,,Accident,,30/10/2013
+2,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0,457,4,42,,0,0.0,0.0,0c62817d-0c1e-414d-8d0e-9aeb5cffb2ff,Western,Freetown,,Accident,,30/10/2013
+1,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0,459,4,42,,0,0.0,0.0,2fc63bee-6fbe-4307-a5ce-556dc379b798,Western,Freetown,,Accident,,9/8/2013
+21,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,460,4,42,,0,0.0,0.0,afa937ec-acf2-497f-b6ec-b34216c7c12f,Western,Freetown,,Accident,,18/4/2013
+2,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,461,4,42,,0,0.0,0.0,8ab5c4ba-a021-4622-95d3-b3618dd79051,Western,Freetown,,Accident,,10/1/2014
+3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,462,4,42,,0,0.0,0.0,876756b0-f647-4e38-8230-6c75bb5c45a4,Western,Freetown,,Accident,,19/9/2013
+6,4,0,0,0,10,0,0,0,0,0,0,0,0,0,0,463,4,42,,0,0.0,0.0,17522c02-f6ba-4f9b-8ea0-55da704e0849,Western,Freetown,,Accident,,9/9/2013
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,464,4,42,,0,0.0,0.0,698cd955-c29e-476e-8f15-d03d040de031,Western,Freetown,,Accident,,3/1/2013
+2,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0,465,4,42,,0,0.0,0.0,208dd377-1753-4dba-94ed-5170e9496a54,Western,Freetown,,Accident,,9/3/2013
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,466,4,42,,0,0.0,0.0,ef9985d6-cff6-4b1f-ab6f-5bb71ceb36b8,Western,Freetown,,Accident,,20/8/2013
+1,4,0,2,0,5,0,0,0,0,0,0,0,0,0,0,467,4,42,,0,0.0,0.0,dea3c1e1-c76b-477a-8e43-11f26cfd9904,Western,Freetown,,Accident,,8/10/2013
+6,3,0,0,0,9,0,0,0,0,0,0,0,0,0,0,468,4,42,,0,0.0,0.0,83d012fe-a60f-462c-acf3-917ea9583df9,Western,Freetown,,Accident,,19/6/2013
+1,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,469,4,42,,0,0.0,0.0,a052635b-5f28-4780-a068-cf31080c5cc7,Western,Freetown,,Accident,,6/11/2013
+3,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,470,4,42,,0,0.0,0.0,c864659c-5ab3-46b1-9b66-e8daa0e1d4f7,Western,Freetown,,Accident,,10/1/2014
+3,2,0,0,0,3,5,0,0,0,0,0,0,0,0,0,471,4,42,,0,0.0,0.0,5c8f017f-5101-492a-92f1-1c135d174da6,Western,Freetown,,Accident,,8/12/2013
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,472,4,42,,0,0.0,0.0,2a4f68e4-26e9-45c3-8ea2-8d7c9e9e56d6,Western,Freetown,,Accident,,22/11/2013
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,473,4,42,,0,0.0,0.0,32e680f3-05ee-4d80-bcec-de985d67810b,Western,Freetown,,Structural Collapse,"Kissy, Lowcost Junction Ft",8/5/2010
+2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,4,42,,0,0.0,0.0,07cdc6e8-8996-44da-b751-0b525e98f3e7,Western,Freetown,,Structural Collapse,Tower Hill,26/3/2010
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,475,4,42,,0,0.0,0.0,27beb79d-5b44-41d2-ac95-5a22be0b8f90,Western,Freetown,,Structural Collapse,Manfred Lane,19/9/2013
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,476,4,42,,0,0.0,0.0,7742ef75-c385-4b86-8f21-d67d345f9044,Western,Freetown,,Structural Collapse,Tengbeh Town ft,29/7/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,477,4,42,,0,0.0,0.0,64e16243-2374-45fa-a112-6a100bfb8129,Western,Freetown,,Structural Collapse,,30/4/2014
+0,20,0,0,0,20,0,0,0,0,0,0,0,0,0,0,478,4,42,,0,0.0,0.0,3a3ed2e4-60d3-439f-9f5a-0ad295964d75,Western,Freetown,,Conflict,,23/4/2013
+1,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0,479,4,42,,0,0.0,0.0,426a6f60-40ae-4ed8-a83f-9a78e817256d,Western,Freetown,,Conflict,,14/9/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,480,4,42,,0,0.0,0.0,09e61520-5f73-4431-aa08-459de2aec803,Western,Freetown,,Drought,Mountain cut,10/6/2009
+0,2,0,5,0,43,56,0,0,0,0,0,0,0,0,0,514,4,42,,0,0.0,0.0,d6a1ee95-61f1-46dd-b48a-bcb296391edc,Western,Freetown,,Fire,,8/5/2013
+0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,515,4,42,,0,0.0,0.0,9c648554-1cf2-4ac4-8c65-3ae5eabbbdfb,Western,Freetown,,Fire,,29/12/2013
+0,1,0,3,0,21,52,0,0,0,0,0,0,0,0,0,516,4,42,,0,0.0,0.0,756491c0-f8f4-42a0-88b2-24bb54a60d4f,Western,Freetown,,Fire,,2/5/2014
+0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,517,4,42,,0,0.0,0.0,efa74412-2b76-4362-b09b-44874adb6791,Western,Freetown,,Fire,,26/2/2014
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,518,4,42,,0,0.0,0.0,94e0d04b-5084-49b7-a826-a41e6b841b63,Western,Freetown,,Fire,,20/3/2014
+0,0,0,4,0,9,0,0,0,0,0,0,0,0,0,0,519,4,42,,0,0.0,0.0,fc984bec-2189-4368-818d-a8bcb902ed6c,Western,Freetown,,Fire,,20/1/2014
+0,30,0,31,0,153,0,0,0,0,0,0,0,0,0,0,520,4,42,,0,0.0,0.0,6919a9fe-2f57-4afe-b6db-1dfde3463d98,Western,Freetown,,Fire,,16/1/2013
+0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,521,4,42,,0,0.0,0.0,afd88b23-dae2-4da2-aa17-90cfdf38991a,Western,Freetown,,Fire,,1/1/2013
+0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,522,4,42,,0,0.0,0.0,16a52eee-2e72-478f-a71c-f847d6c473eb,Western,Freetown,,Fire,,8/11/2013
+0,1,0,4,0,26,51,0,0,0,0,0,0,0,0,0,523,4,42,,0,0.0,0.0,569291a8-5fe1-4f84-b8fa-2c7ac425d755,Western,Freetown,,Fire,,6/12/2013
+1,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,524,4,42,,0,0.0,0.0,c7d99050-6226-4d52-a987-d57ce527f2f0,Western,Freetown,,Fire,,6/1/2013
+0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,525,4,42,,0,0.0,0.0,7ee336ac-a982-4a9e-8582-33ccef61689d,Western,Freetown,,Fire,Brookfields,8/3/2014
+0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,526,4,42,,0,0.0,0.0,459e7058-3127-4d13-8dc2-df5aa2587b6b,Western,Freetown,,Fire,,6/3/2014
+0,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,528,4,42,,0,0.0,0.0,e1ccb1f7-a5c8-471e-a40b-bc684372e438,Western,Freetown,,Fire,,28/12/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,568,4,42,,0,0.0,0.0,50c3d472-390f-4c6d-988a-8deb156f2eb7,Western,Freetown,,Fire,"Signal Hill, Ft",13/1/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,569,4,42,,0,0.0,0.0,c1a09f7c-31c6-4d2c-a3dd-7a54e51ebbe7,Western,Freetown,,Fire,"Edward St, Ft",13/1/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,570,4,42,,0,0.0,0.0,1e328618-ee92-460d-99ea-2a45f9533c23,Western,Freetown,,Fire,"Wallace Johnson St,Ft",14/1/2012
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,571,4,42,,0,0.0,0.0,0483bf15-acea-474a-90e5-29e88660c0eb,Western,Freetown,,Fire,"Sackville St,Ft",22/1/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,572,4,42,,0,0.0,0.0,99f6af82-546c-4326-b87b-68d2bc132896,Western,Freetown,,Fire,"P.W.D Compound,Ft",2/7/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,573,4,42,,0,0.0,0.0,5a3a97e3-7522-4475-8da8-037be7789e8e,Western,Freetown,,Fire,"Oniel St, Ft",2/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,574,4,42,,0,0.0,0.0,5489b56f-496d-4897-a3e1-629cece6757a,Western,Freetown,,Fire,"Gooding Drive, Ft",2/11/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,575,4,42,,0,0.0,0.0,44756faa-7494-4c5a-81ad-71efe653a213,Western,Freetown,,Fire,"Portee,Ft",2/12/2012
+0,3,0,26,0,0,0,0,0,0,0,0,0,0,0,0,576,4,42,,0,0.0,0.0,819fcaef-3e83-4ee7-a7c0-f601389d5124,Western,Freetown,,Fire,"Falcon bridge,Ft",14/2/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,577,4,42,,0,0.0,0.0,e1b5155d-ab05-4330-b43b-c7bb8f15a3fe,Western,Freetown,,Fire,"Bololo, Congo town,Ft",14/2/2012
+0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,578,4,42,,0,0.0,0.0,98a07ae2-93aa-4f85-9368-8d56d43343a7,Western,Freetown,,Fire,"Kinkardine st,Aberdeen village,Ft",14/2/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,579,4,42,,0,0.0,0.0,7b84ea56-b49e-4912-b8e6-1295841f9759,Western,Freetown,,Fire,"Mansaray St, Portee,Ft",22/2/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,580,4,42,,0,0.0,0.0,47e41c4e-3218-4aa8-acd3-d6e3f1a8876a,Western,Freetown,,Fire,"Kissy by pass Road,Ft",23/2/2012
+1,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,581,4,42,,0,0.0,0.0,33dbcca5-55df-45d3-a5e0-227047a1c53d,Western,Freetown,,Fire,"Magazine cut,Ft",3/2/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,582,4,42,,0,0.0,0.0,6eebfac1-62cf-413e-90ff-61ec43d3faa7,Western,Freetown,,Fire,"Ranger St,Ft",3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,583,4,42,,0,0.0,0.0,1f59fef1-611f-4cb3-9aa4-26355c5d0cc1,Western,Freetown,,Fire,"St.John Evangelical church,Brookfields,Ft",13/3/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,584,4,42,,0,0.0,0.0,52a26cb5-86fe-417d-8b91-315a459d5834,Western,Freetown,,Fire,"Blackhall Road,Ft",16/3/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,585,4,42,,0,0.0,0.0,16dd9270-c1c6-4e41-9409-e557f4ebbb12,Western,Freetown,,Fire,"Zarah Lane,Portee,Ft",17/3/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,586,4,42,,0,0.0,0.0,586ca987-8887-49df-abed-043601ed1adf,Western,Freetown,,Fire,"Africanus Road,Kissy",19/4/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,587,4,42,,0,0.0,0.0,3b4ff906-c1ad-4523-a31f-5843d7fea343,Western,Freetown,,Fire,"Lunar St,Kissy,Ft",21/3/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,588,4,42,,0,0.0,0.0,37a687a4-93fa-40bd-aaff-46cdfee7db4e,Western,Freetown,,Fire,"Goderich St,Ft",4/1/2012
+0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,589,4,42,,0,0.0,0.0,a674f808-11b5-4954-bf7b-505d1a9ba22a,Western,Freetown,,Fire,"Bai Bureh Road,Ft",4/6/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,590,4,42,,0,0.0,0.0,070cea3b-4d30-4a0e-ae83-6eabfb8fc97e,Western,Freetown,,Fire,"Hugh St, Ft",4/8/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,591,4,42,,0,0.0,0.0,ed8d3356-1f6f-4712-80c5-7830d47f40d7,Western,Freetown,,Fire,old Railway Line Ft,24/4/2012
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,592,4,42,,0,0.0,0.0,c934f966-421a-4c9e-af5f-7c1a04944a42,Western,Freetown,,Fire,"Mission Road, Calaba Town,Ft",25/2/2013
+0,0,0,0,1,0,15,0,0,0,0,0,0,0,0,0,593,4,42,,0,0.0,0.0,43b87937-7acb-41c2-ac77-f5aa56bcafb5,Western,Freetown,,Fire,"Taylor St,Ft",5/9/2013
+0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,594,4,42,,0,0.0,0.0,9b78614e-325c-4275-b843-8c9045581612,Western,Freetown,,Fire,"Congo Town,Burmeh,Ft",8/1/2013
+2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,595,4,42,,0,0.0,0.0,538f3e9d-ddf5-43e7-b16d-f4816311402b,Western,Freetown,,Fire,Congo Town,21/9/2013
+0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,596,4,41,,0,0.0,0.0,0d95f785-11b9-410b-a731-2dc9334acb30,Western,Western Area Rural,,Flood,Freetown Penninsular,22/8/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,597,4,42,,0,0.0,0.0,a515caa5-57f5-4387-b1f4-c5434f42fe0d,Western,Freetown,,Flood,"Jesus is Lord Ministry, Tower Hill, Ft",19/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,598,4,42,,0,0.0,0.0,ccec856e-30fd-46c6-b3d4-d805306952f4,Western,Freetown,,Flood,Susans Bay Ft,8/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,599,4,42,,0,0.0,0.0,55b125cd-2e30-4a40-8b12-d601d5e40fde,Western,Freetown,,Flood,Kroo Bay,13/8/2009
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,600,4,42,,0,0.0,0.0,8c8a5292-b8d7-4f55-8043-95146c93aa99,Western,Freetown,,Flood,sorie Town Community ,19/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,601,4,42,,0,0.0,0.0,25d54d3b-088a-4228-8875-6c74dfb652b7,Western,Freetown,,Flood,"St Edwards Primary sch, Forte St.",19/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,602,4,42,,0,0.0,0.0,e0e30857-6803-449c-9832-63ded1b42ecf,Western,Freetown,,Flood,Crab town,29/8/2009
+0,2,0,7,0,70,120,0,0,0,0,0,0,0,0,0,615,4,42,,0,0.0,0.0,d3e84a7f-49cb-400a-848f-795d3b21bedd,Western,Freetown,,Flood,,17/8/2013
+2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,616,4,42,,0,0.0,0.0,2d1ab846-ff7c-479c-99b0-1324ec362418,Western,Freetown,,Flood,,10/1/2014
+0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,617,4,42,,0,0.0,0.0,650cf034-5af6-4bce-814b-8d0acb1479c8,Western,Freetown,,Flood,,20/8/2013
+2,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0,618,4,42,,0,0.0,0.0,315d7135-4300-4b0d-b9b0-a386a57f2903,Western,Freetown,,Flood,,29/7/2013
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,619,4,42,,0,0.0,0.0,e38f63bf-3372-4c60-8066-d9ac585be437,Western,Freetown,,Flood,,16/7/2013
+0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,620,4,42,,0,0.0,0.0,8fec9928-0f65-4a6e-ab8a-765c2f0bce6a,Western,Freetown,,Flood,,27/12/2013
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,609,4,42,,0,0.0,0.0,b3c58ac2-c0c9-4ca4-956d-dc30affe27c5,Western,Freetown,,Flood,,8/8/2013
+2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,610,4,42,,0,0.0,0.0,466aa1a3-6eed-4fed-81f1-f7f0c668708d,Western,Freetown,,Flood,,27/4/2014
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,611,4,42,,0,0.0,0.0,7e06de27-b2ab-49ff-921c-2c4d98ccec32,Western,Freetown,,Flood,,9/1/2013
+0,4,0,5,0,0,0,0,0,0,0,0,0,0,0,0,612,4,42,,0,0.0,0.0,c93348cb-0e87-41e7-8b9a-9b15a7d547bf,Western,Freetown,,Flood,,29/8/2013
+0,3,0,11,0,59,123,0,0,0,0,0,0,0,0,0,613,4,42,,0,0.0,0.0,a82ba938-0017-49af-9bbe-49201b5b0100,Western,Freetown,,Flood,,20/8/2013
+0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,614,4,42,,0,0.0,0.0,3ee2cd73-1676-4e2b-b047-48566f4cb94d,Western,Freetown,,Flood,,20/8/2013
+2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,627,4,42,,0,0.0,0.0,f057ef5d-b237-4912-bb34-7a5950617336,Western,Freetown,,Landslide,"New England,Smart Lane,Ft",7/5/2012
+1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,628,4,42,,0,0.0,0.0,1bb6b1cb-fb7f-490b-af74-c94b102c4302,Western,Freetown,,Landslide,"Yadama Kamanda Farm,Off Blackhall Road",7/6/2012
+6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,629,4,42,,0,0.0,0.0,b3330994-853a-476a-a314-e7854f3bf112,Western,Freetown,,Landslide,King Jimmy(Peters Brook)Wallace Johnson St,8/8/2013
+5,0,0,3,0,0,73,0,0,0,0,0,0,0,0,0,630,4,42,,0,0.0,0.0,aacc22e0-eed1-49c2-a719-97d8bea03c94,Western,Freetown,,Landslide,"Congo Town,Ft",7/6/2012
+1,5,0,4,0,0,26,0,0,0,0,0,0,0,0,0,631,4,42,,0,0.0,0.0,1a17598b-3b47-43c9-8098-d0e568c21284,Western,Freetown,,Landslide,"York St,Off Guard St,Ft",8/5/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,621,4,42,,0,0.0,0.0,caf94ea3-c9cd-443a-a15b-6e339747f027,Western,Freetown,,Flood,old Railway Line Ft,29/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,622,4,42,,0,0.0,0.0,55b5d5dc-f957-40f1-9370-92a44984d760,Western,Freetown,,Flood,"Aberdeen community, peninsular",21/8/2009
+5,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,623,4,42,,0,0.0,0.0,24a39a30-d45a-4392-b6fe-956b41490ba6,Western,Freetown,,Landslide,Kissy Brook Ft,13/8/2009
+13,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,624,4,42,,0,0.0,0.0,b1e64805-98a2-4f43-ad2f-bd05b5a5f335,Western,Freetown,,Landslide,"Owen St, Off Mountain Cut",8/9/2010
+2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,625,4,42,,0,0.0,0.0,118d24f2-edc4-4894-bb4f-95015c73184e,Western,Freetown,,Landslide,"Yandama Farm,Off Blackhall Road",18/8/2010
+2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,626,4,42,,0,0.0,0.0,0cad480f-ac38-4b65-8808-a524353babae,Western,Freetown,,Landslide,Moeba,8/3/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,603,4,42,,0,0.0,0.0,074bb7ef-a417-48d4-98d3-68ffa6d7bf7b,Western,Freetown,,Flood,"Samba Gutter, Ft",21/9/2009
+4,0,0,18,0,0,250,0,0,0,0,0,0,0,0,0,604,4,42,,0,0.0,0.0,6931f2e4-5071-4064-8a14-034e84853265,Western,Freetown,,Flood,"Crab town,Kanigo, Kamayama,Kondi farm",8/10/2011
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,605,4,42,,0,0.0,0.0,3317b7dc-5326-4e9e-911e-63be59e880d2,Western,Freetown,,Flood,Tengbeh Town,30/8/2012
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,606,4,42,,0,0.0,0.0,ad0d8ed3-b721-4f38-95bf-30959b1cf50e,Western,Freetown,,Flood,"Hill cut Road,Ft",30/8/2012
+2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,607,4,42,,0,0.0,0.0,be9a0c81-49a9-471a-943b-3dbce56ae287,Western,Freetown,,Flood,old Railway Line Brookfields Ft,28/7/2013
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,608,4,42,,0,0.0,0.0,211aebbd-4ea8-467f-98eb-d543c7b5ef65,Western,Freetown,,Flood,"Malama, Lumley, Ft",19/8/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,632,4,42,,0,0.0,0.0,9d320001-deb9-43da-b1d5-4291fee9f58f,Western,Freetown,,Landslide,Kissy Brook Ft,8/3/2011
+5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,633,4,42,,0,0.0,0.0,0063c93b-4313-4865-832d-b655d7d61628,Western,Freetown,,Landslide,,4/5/2014
+6,7,0,1,0,15,0,0,0,0,0,0,0,0,0,0,634,4,42,,0,0.0,0.0,41d04c1a-0ba6-48ed-a390-0a62fcb22808,Western,Freetown,,Landslide,,8/9/2013
+2,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,635,4,42,,0,0.0,0.0,ed4a8e73-f502-4a52-a9c5-389a3a70ff02,Western,Freetown,,Landslide,,18/9/2013
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,636,4,42,,0,0.0,0.0,91869080-f707-40af-9786-04363a36e249,Western,Freetown,,Landslide,"Ft Cold Storage, Dwarzark",19/8/2009
+0,15,0,28,0,0,200,0,0,0,0,0,0,0,0,0,637,4,41,,0,0.0,0.0,619f7cae-fbc2-47a9-95e9-7a0e5353eab3,Western,Western Area Rural,,Storm/Gale,"York Road, Madina, Waterloo",29/9/2009
+0,0,0,2,0,0,20,0,0,0,0,0,0,0,0,0,638,4,42,,0,0.0,0.0,6e79c985-ba0d-4611-b993-411c62b6c048,Western,Freetown,,Storm/Gale,"Newcastle St,Kissy ",6/9/2013
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,639,4,42,,0,0.0,0.0,614ef32d-8a2e-4abe-9037-529c46ce1adc,Western,Freetown,,Storm/Gale,"Clay factory, Ft",7/6/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,989,2,23,,0,0.0,0.0,9ae9a1a6-f117-4545-b2dd-9e4aa064523c,Northern,Koinadugu,,Epidemic,,12/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,988,2,21,,0,0.0,0.0,43949588-5a8c-4155-9acb-39271a6d243d,Northern,Bombali,,Epidemic,,12/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,987,4,42,,0,0.0,0.0,02f1bfa2-cd27-4dd5-9643-8d843256100a,Western,Freetown,,Epidemic,,11/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,986,4,41,,0,0.0,0.0,ad7746f6-76c6-4ace-a35f-5986a621bb97,Western,Western Area Rural,,Epidemic,,11/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,985,2,24,,0,0.0,0.0,1b43160a-c1a1-4379-a910-df6148d107a2,Northern,Port Loko,,Epidemic,,11/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,984,1,13,,0,0.0,0.0,8ca7a277-2ec1-48ff-bcdd-9d1dd4d8b92e,Eastern,Kono,,Epidemic,,11/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,983,2,22,,0,0.0,0.0,16c396c2-8649-41e9-904e-37b787fec4ad,Northern,Kambia,,Epidemic,,11/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,982,2,21,,0,0.0,0.0,c59b5e6f-46cd-4671-a518-3b60dcfd9a1f,Northern,Bombali,,Epidemic,,11/3/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,981,4,42,,0,0.0,0.0,441bbdf0-0729-4c2b-8083-d8159b50ba66,Western,Freetown,,Epidemic,,10/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,980,4,41,,0,0.0,0.0,b1974635-5f3b-4432-9c7d-55aaa4a62d3f,Western,Western Area Rural,,Epidemic,,10/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,979,2,24,,0,0.0,0.0,71aee7bc-e0cc-48eb-ae89-928f61394e4d,Northern,Port Loko,,Epidemic,,10/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,978,3,33,,0,0.0,0.0,c899a8d0-2d73-44be-8371-2fd7992fe892,Southern,Moyamba,,Epidemic,,10/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,977,2,22,,0,0.0,0.0,62bc3cc2-3329-4b8a-bd53-a1a6090584c1,Northern,Kambia,,Epidemic,,10/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,976,2,21,,0,0.0,0.0,dbe9eb3c-d766-4ec0-b090-367fee50968b,Northern,Bombali,,Epidemic,,10/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,975,4,42,,0,0.0,0.0,d07e8885-3fd2-48a0-b7a5-9cc2a013e71b,Western,Freetown,,Epidemic,,9/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,974,4,41,,0,0.0,0.0,514f2b7f-9ae0-46ea-b20e-e99ba0e883bf,Western,Western Area Rural,,Epidemic,,9/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,973,2,24,,0,0.0,0.0,a7068908-fbcc-4224-a5a4-0eb8a1081799,Northern,Port Loko,,Epidemic,,9/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,972,1,13,,0,0.0,0.0,6f0ace92-d8e1-4dd2-ba48-a195baa268e4,Eastern,Kono,,Epidemic,,9/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,971,2,22,,0,0.0,0.0,6eee1c06-fadf-4ebd-9c4e-f9eefa52cff5,Northern,Kambia,,Epidemic,,9/3/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,970,2,21,,0,0.0,0.0,e711d10f-422a-42bf-bef8-3269d700a792,Northern,Bombali,,Epidemic,,9/3/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,969,4,42,,0,0.0,0.0,2a543e57-a074-4a65-850f-027366f2a28f,Western,Freetown,,Epidemic,,8/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,968,4,41,,0,0.0,0.0,8d5ee1ef-a100-4127-8a39-cee2f01404e0,Western,Western Area Rural,,Epidemic,,8/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,967,2,24,,0,0.0,0.0,6d10981f-d2aa-4f54-9af8-d49c965e66ef,Northern,Port Loko,,Epidemic,,8/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,966,1,13,,0,0.0,0.0,0270e550-2e25-450a-8e86-b4ac8ae1e207,Eastern,Kono,,Epidemic,,8/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,965,2,22,,0,0.0,0.0,49758145-094a-456f-96af-41f8531dfb77,Northern,Kambia,,Epidemic,,8/3/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,964,2,21,,0,0.0,0.0,55c7a124-9d3b-4e7a-a035-035d6a067f90,Northern,Bombali,,Epidemic,,8/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,963,4,42,,0,0.0,0.0,a605c44c-9a42-4c3d-8b41-6d1c6506f781,Western,Freetown,,Epidemic,,6/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,962,4,41,,0,0.0,0.0,4505a237-3401-4cd7-a88e-7002bd896d17,Western,Western Area Rural,,Epidemic,,6/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,961,2,24,,0,0.0,0.0,f1d7e808-f99d-4d98-bb1b-73f6331f88e1,Northern,Port Loko,,Epidemic,,6/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,960,2,22,,0,0.0,0.0,c39cb02a-dca6-42af-a2bd-8cb52f74bf16,Northern,Kambia,,Epidemic,,6/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,959,2,21,,0,0.0,0.0,b04e7547-5dc9-46af-9a44-fceaeaf4859c,Northern,Bombali,,Epidemic,,6/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,958,4,42,,0,0.0,0.0,da6445e3-a631-4ce7-ae0a-1db231b612f5,Western,Freetown,,Epidemic,,5/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,957,4,41,,0,0.0,0.0,cf0b1285-e2b2-4fd3-9da8-85ce9d29b7d3,Western,Western Area Rural,,Epidemic,,5/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,956,2,24,,0,0.0,0.0,6e4b78be-3258-4de9-abd0-561248e50394,Northern,Port Loko,,Epidemic,,5/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,955,2,22,,0,0.0,0.0,0f14edec-59a0-4d83-8325-af8b9fc3355f,Northern,Kambia,,Epidemic,,5/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,954,2,21,,0,0.0,0.0,26690a8d-e7b8-43e0-8d5b-2e13a55193ea,Northern,Bombali,,Epidemic,,5/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,953,4,42,,0,0.0,0.0,7262599d-1b75-43f9-a3ed-680f2bcbe854,Western,Freetown,,Epidemic,,4/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,952,4,41,,0,0.0,0.0,1c956f0b-2549-4da5-91e5-328a3e977fa5,Western,Western Area Rural,,Epidemic,,4/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,951,2,24,,0,0.0,0.0,41623718-39e7-4b11-bcae-ce904876ee56,Northern,Port Loko,,Epidemic,,4/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,2,22,,0,0.0,0.0,735973e5-04da-418f-a3a1-f3ccbdfd77a6,Northern,Kambia,,Epidemic,,4/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,949,2,21,,0,0.0,0.0,ebf5e30a-e3d0-47e1-bee3-dac935639a3b,Northern,Bombali,,Epidemic,,4/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,948,4,42,,0,0.0,0.0,3b02d512-1fa2-495f-940b-0749da5c74e1,Western,Freetown,,Epidemic,,3/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,947,4,41,,0,0.0,0.0,60408c06-0c1c-4c8f-ba33-74a45b1c85e6,Western,Western Area Rural,,Epidemic,,3/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,946,2,24,,0,0.0,0.0,428955ab-d8a4-4af8-a78b-d61979193d3d,Northern,Port Loko,,Epidemic,,3/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,945,2,21,,0,0.0,0.0,355d7529-4c2c-454a-9c83-2db4a6a404a1,Northern,Bombali,,Epidemic,,3/3/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,944,4,42,,0,0.0,0.0,00eac0ec-a6dc-4446-9aba-c11384c4b647,Western,Freetown,,Epidemic,,2/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,943,4,41,,0,0.0,0.0,b063139c-aaf5-469e-b85e-038e50f9a58c,Western,Western Area Rural,,Epidemic,,2/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,942,2,24,,0,0.0,0.0,dc091c09-09bf-461e-b2f4-fa95fe6ded30,Northern,Port Loko,,Epidemic,,2/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,941,2,22,,0,0.0,0.0,a7f2ee93-d3c1-41e8-a27a-11fca421ae5d,Northern,Kambia,,Epidemic,,2/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,940,2,21,,0,0.0,0.0,38b7d5b9-faf5-4b26-947e-b7fce0b2ed1f,Northern,Bombali,,Epidemic,,2/3/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,939,4,42,,0,0.0,0.0,574d2e61-9628-4362-b534-3afd407f7f9b,Western,Freetown,,Epidemic,,28/2/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,938,4,41,,0,0.0,0.0,14860139-6a49-4ee0-8f21-82c2331ae498,Western,Western Area Rural,,Epidemic,,28/2/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,937,2,24,,0,0.0,0.0,1a44680e-8912-4a87-8668-295f689e7205,Northern,Port Loko,,Epidemic,,28/2/2015
+8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,936,2,21,,0,0.0,0.0,44b555e3-7f8c-4b3c-8e84-372addcbfb3b,Northern,Bombali,,Epidemic,,28/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,935,4,42,,0,0.0,0.0,344c997f-05ea-47c8-9d9c-c585cfce1dfb,Western,Freetown,,Epidemic,,26/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,934,4,41,,0,0.0,0.0,a09fc34d-e05d-4f2b-909f-2121f9dedc96,Western,Western Area Rural,,Epidemic,,26/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,933,2,24,,0,0.0,0.0,8e0497c4-be34-40da-bd2d-8ee7cf18f186,Northern,Port Loko,,Epidemic,,26/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,932,2,22,,0,0.0,0.0,ea2fc2a8-7f8f-48db-8912-cb3bee3f0ad8,Northern,Kambia,,Epidemic,,26/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,931,2,21,,0,0.0,0.0,fd0f3ca2-b07d-461d-b844-85f79130fdab,Northern,Bombali,,Epidemic,,26/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,930,4,42,,0,0.0,0.0,437fede8-7f29-42e6-8679-0ae4c51763cc,Western,Freetown,,Epidemic,,25/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,929,4,41,,0,0.0,0.0,1648de11-e12f-4992-ae35-e1d5a058a3e3,Western,Western Area Rural,,Epidemic,,25/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,928,2,24,,0,0.0,0.0,c8ca6fba-1b28-491b-8126-30d88e57cc5b,Northern,Port Loko,,Epidemic,,25/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,927,2,21,,0,0.0,0.0,b56d9fa7-c1ec-414a-85c1-29a49234c7a7,Northern,Bombali,,Epidemic,,25/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,926,4,42,,0,0.0,0.0,6e9bf724-27f2-4342-b617-ecbbc781d81e,Western,Freetown,,Epidemic,,24/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,925,4,41,,0,0.0,0.0,beb773fc-7dcb-43a1-a44a-f92157d5bc49,Western,Western Area Rural,,Epidemic,,24/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,924,2,24,,0,0.0,0.0,4153940e-da14-489e-9dd9-5f4ca0d361e7,Northern,Port Loko,,Epidemic,,24/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,923,1,13,,0,0.0,0.0,50d1a75d-8eef-4e78-9771-529ae9827e56,Eastern,Kono,,Epidemic,,24/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,922,2,21,,0,0.0,0.0,8f1ebb64-ffa5-474a-bed9-e38c38bac3ba,Northern,Bombali,,Epidemic,,24/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,921,4,42,,0,0.0,0.0,7eb62501-8027-408e-a03c-92cd46fb4bb3,Western,Freetown,,Epidemic,,22/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,920,4,41,,0,0.0,0.0,aa849382-f457-407d-82c9-39666a63b5a5,Western,Western Area Rural,,Epidemic,,22/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,919,2,24,,0,0.0,0.0,8c828fef-9ab1-42b7-a7a8-a8248f3215a6,Northern,Port Loko,,Epidemic,,22/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,918,1,13,,0,0.0,0.0,a8e1a8f6-140b-453d-9f04-c7037eccd505,Eastern,Kono,,Epidemic,,22/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,917,2,21,,0,0.0,0.0,e80121d7-2454-4432-8b10-cd1cc4e3f4bf,Northern,Bombali,,Epidemic,,22/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916,4,42,,0,0.0,0.0,df00412a-8c7d-4e39-ab1b-10156965ee17,Western,Freetown,,Epidemic,,21/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,915,4,41,,0,0.0,0.0,f360e8e7-3e7c-4133-808e-e96b0b5ee351,Western,Western Area Rural,,Epidemic,,21/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,914,2,24,,0,0.0,0.0,b34c2a71-893a-453e-8487-dde63a0d06d2,Northern,Port Loko,,Epidemic,,21/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,913,2,22,,0,0.0,0.0,baed9137-021c-40a2-bc74-5ff949a7e8cb,Northern,Kambia,,Epidemic,,21/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,912,2,21,,0,0.0,0.0,0538bfbd-b17b-49a4-b661-d9f0da3d5717,Northern,Bombali,,Epidemic,,21/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,911,4,42,,0,0.0,0.0,a5b8eb0d-6364-4271-bf5f-55bd1d015cbb,Western,Freetown,,Epidemic,,20/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,910,4,41,,0,0.0,0.0,d0e2280b-f3c3-4b6d-9134-925376d3d31d,Western,Western Area Rural,,Epidemic,,20/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,909,2,24,,0,0.0,0.0,4a039ffd-5738-4d55-b838-70eb86740969,Northern,Port Loko,,Epidemic,,20/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,908,1,13,,0,0.0,0.0,686f4561-562e-4cb2-8675-6c7c8614ade6,Eastern,Kono,,Epidemic,,20/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,907,1,12,,0,0.0,0.0,bac4fc6a-8402-41ad-9255-04b69476c78e,Eastern,Kenema,,Epidemic,,20/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,906,2,22,,0,0.0,0.0,539320b2-1e69-418c-989a-35ddb5a8a651,Northern,Kambia,,Epidemic,,20/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,905,3,33,,0,0.0,0.0,59669b26-95ed-4265-8335-bf9f78976fdd,Southern,Moyamba,,Epidemic,,19/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,904,1,13,,0,0.0,0.0,0dabe52d-456c-40aa-86ca-88b98231a85b,Eastern,Kono,,Epidemic,,19/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,903,4,42,,0,0.0,0.0,847f8a09-48ff-4d1f-8dfc-b7619aca1477,Western,Freetown,,Epidemic,,18/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,902,2,24,,0,0.0,0.0,da6087f2-ca6a-40fb-ad83-db6e64e368f4,Northern,Port Loko,,Epidemic,,18/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,839,4,42,,0,0.0,0.0,442f4549-7ce6-49c0-9933-70e42e54bf5e,Western,Freetown,,Epidemic,,3/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,838,4,41,,0,0.0,0.0,81307c27-2722-4957-b2c5-4b95d1ec4e19,Western,Western Area Rural,,Epidemic,,3/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,837,2,24,,0,0.0,0.0,a3f75bab-8487-4809-8785-0fa82149ec85,Northern,Port Loko,,Epidemic,,3/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,836,1,13,,0,0.0,0.0,0d902a3f-af39-4c13-b6a4-a9c4d40b2124,Eastern,Kono,,Epidemic,,3/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,835,2,21,,0,0.0,0.0,1b4bc13c-e19e-4f7d-b1f9-f68e06384cba,Northern,Bombali,,Epidemic,,3/2/2015
+10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,834,4,42,,0,0.0,0.0,20e3ebde-7441-42eb-afdf-387ac263d9f3,Western,Freetown,,Epidemic,,30/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,833,4,41,,0,0.0,0.0,4a456b49-72fb-459f-8514-040860a401a3,Western,Western Area Rural,,Epidemic,,30/1/2015
+10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,832,2,24,,0,0.0,0.0,be6637f5-938b-4ec7-9fb5-8bf9990be952,Northern,Port Loko,,Epidemic,,30/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,819,2,23,,0,0.0,0.0,73531a79-ae91-4049-90bf-6fdc4a269b07,Northern,Koinadugu,,Epidemic,,27/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,818,4,42,,0,0.0,0.0,fb1d921d-73ee-4a8d-9bc7-92eaeeaeb8f0,Western,Freetown,,Epidemic,,26/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,817,4,41,,0,0.0,0.0,0967617b-673c-43e2-9f07-c2baf3355454,Western,Western Area Rural,,Epidemic,,26/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,816,2,24,,0,0.0,0.0,5b1fd7d2-cea7-4c40-9a85-b9c018f18280,Northern,Port Loko,,Epidemic,,26/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,815,1,13,,0,0.0,0.0,2486d18d-b3b5-452b-a5a3-cd7fdda483ff,Eastern,Kono,,Epidemic,,26/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,814,4,42,,0,0.0,0.0,0569b234-ee02-4f8d-a089-c5cb38f4bcc2,Western,Freetown,,Epidemic,,25/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,813,4,41,,0,0.0,0.0,3f31378d-454a-4460-85db-e7b8728c8e40,Western,Western Area Rural,,Epidemic,,25/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,812,2,25,,0,0.0,0.0,5cfd12a4-58ac-4fd7-98cb-ed420e3c3e7a,Northern,Tonkolili,,Epidemic,,25/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,811,2,24,,0,0.0,0.0,5e3bc804-a93a-42bc-a5ac-696c8438ca94,Northern,Port Loko,,Epidemic,,25/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,810,4,42,,0,0.0,0.0,8ced11b9-f73a-48f7-aafa-3775dc39df94,Western,Freetown,,Epidemic,,24/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,809,4,41,,0,0.0,0.0,f10826c6-5c78-4865-ae80-30c84a658763,Western,Western Area Rural,,Epidemic,,24/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,808,2,24,,0,0.0,0.0,e390eb51-5f24-4ae9-9ecd-79bce13c1561,Northern,Port Loko,,Epidemic,,24/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,795,4,41,,0,0.0,0.0,47251b9a-4a4b-4e7b-aae0-4e5312a37476,Western,Western Area Rural,,Epidemic,,21/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,794,2,25,,0,0.0,0.0,22b02756-e020-4ee5-a12e-adfe5f2d7fad,Northern,Tonkolili,,Epidemic,,21/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,793,2,22,,0,0.0,0.0,89c1b1b2-aa25-45c6-96be-5e9baa6a6946,Northern,Kambia,,Epidemic,,21/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,792,4,42,,0,0.0,0.0,6ca90956-4557-44e3-94f6-84275ceb910e,Western,Freetown,,Epidemic,,20/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,791,4,41,,0,0.0,0.0,0a3817a3-de96-478a-98ab-06fdc2a9d0d5,Western,Western Area Rural,,Epidemic,,20/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,790,2,25,,0,0.0,0.0,9b1f9e01-d562-46b4-a13f-0de924a5b535,Northern,Tonkolili,,Epidemic,,20/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,789,2,24,,0,0.0,0.0,cb7c5e4f-1423-45d7-b685-f3d321ddd73e,Northern,Port Loko,,Epidemic,,20/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,788,4,42,,0,0.0,0.0,8bf9fdb4-4b03-40b9-844f-4211c0061dde,Western,Freetown,,Epidemic,,19/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,787,4,41,,0,0.0,0.0,adbbd332-6608-4c68-bedf-ad601db3026f,Western,Western Area Rural,,Epidemic,,19/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,786,2,25,,0,0.0,0.0,9784f633-8bb3-48f4-98f8-4eed61dfe088,Northern,Tonkolili,,Epidemic,,19/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,785,2,24,,0,0.0,0.0,8f4ad2c9-80da-4e27-899e-c46d729ff8d1,Northern,Port Loko,,Epidemic,,19/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,784,4,42,,0,0.0,0.0,c7432f1c-3aa0-45d5-bfb8-bcb2ebc1c49e,Western,Freetown,,Epidemic,,18/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,759,1,13,,0,0.0,0.0,abf9ae20-f2a3-4da5-8fa2-119cd6e010cc,Eastern,Kono,,Epidemic,,14/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,758,1,12,,0,0.0,0.0,11cef100-78a0-496b-9e3e-85f7dfab6970,Eastern,Kenema,,Epidemic,,14/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,757,2,22,,0,0.0,0.0,ddb9c67f-1f32-4869-9382-0494fddd19b8,Northern,Kambia,,Epidemic,,14/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,756,4,42,,0,0.0,0.0,d81329b9-e865-4390-b2ce-66243922d874,Western,Freetown,,Epidemic,,13/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,755,4,41,,0,0.0,0.0,c5dccac6-fe80-41b2-ac2c-7b023ff67868,Western,Western Area Rural,,Epidemic,,13/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,754,2,24,,0,0.0,0.0,3835e961-e2b3-4efa-b4eb-367c5270b5f4,Northern,Port Loko,,Epidemic,,13/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,753,1,13,,0,0.0,0.0,23145268-23d4-453f-916d-224fab4dcb39,Eastern,Kono,,Epidemic,,13/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,752,2,22,,0,0.0,0.0,12e7907c-e742-4d0b-a0fb-027b3055abfb,Northern,Kambia,,Epidemic,,13/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,751,2,21,,0,0.0,0.0,91e8ae4c-59ad-4760-8d66-395c09296f9c,Northern,Bombali,,Epidemic,,13/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,750,3,31,,0,0.0,0.0,55a629ed-2916-4bc2-aa77-ae121823aa68,Southern,Bo,,Epidemic,,13/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,749,4,42,,0,0.0,0.0,4d740559-d888-4fce-a50c-8bb5ecc047dc,Western,Freetown,,Epidemic,,12/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,748,4,41,,0,0.0,0.0,02c3af08-017b-49cb-8d33-7b5276dd6b83,Western,Western Area Rural,,Epidemic,,12/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,747,2,25,,0,0.0,0.0,bc6fc4b7-fdc7-41c1-9ff2-baf8a485ca0a,Northern,Tonkolili,,Epidemic,,12/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,746,1,13,,0,0.0,0.0,047b7bb1-5858-4d09-b556-a44f4efbadb6,Eastern,Kono,,Epidemic,,12/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,745,4,42,,0,0.0,0.0,6d823cb8-8af3-4a88-a5d7-08a8a3b9fa1d,Western,Freetown,,Epidemic,,11/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,744,4,41,,0,0.0,0.0,8af85a3e-7ee4-4ba8-beb1-163f074c8d63,Western,Western Area Rural,,Epidemic,,11/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,743,2,24,,0,0.0,0.0,c2b64eab-9217-4943-91ad-99207d76a767,Northern,Port Loko,,Epidemic,,11/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,742,1,13,,0,0.0,0.0,ffb0dfc0-46e8-4bfe-821c-37f2c801fb89,Eastern,Kono,,Epidemic,,11/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,741,2,22,,0,0.0,0.0,54db4669-83dd-4d8a-914d-d6fc7ade0384,Northern,Kambia,,Epidemic,,11/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,740,2,21,,0,0.0,0.0,464e82cd-5e38-408d-8f0d-0a9bdf980f10,Northern,Bombali,,Epidemic,,11/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,739,4,42,,0,0.0,0.0,34a2a052-bba3-4025-ab01-2791f7d29e32,Western,Freetown,,Epidemic,,10/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,738,4,41,,0,0.0,0.0,4f0ce2a3-a134-4252-8ce6-c977b145fb3f,Western,Western Area Rural,,Epidemic,,10/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,737,2,25,,0,0.0,0.0,7ba9259f-0d82-4df7-b671-3895d087060b,Northern,Tonkolili,,Epidemic,,10/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,736,2,24,,0,0.0,0.0,70738108-5504-456b-bb08-d4c61bcf66fd,Northern,Port Loko,,Epidemic,,10/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,735,3,33,,0,0.0,0.0,63b18bce-258a-4bcc-b9cf-1d08a3bc19b5,Southern,Moyamba,,Epidemic,,10/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,734,1,13,,0,0.0,0.0,a7f34369-9c12-402e-997b-e30016c70be8,Eastern,Kono,,Epidemic,,10/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,733,2,22,,0,0.0,0.0,7adbe474-3787-4a64-b99e-de44a4d801d0,Northern,Kambia,,Epidemic,,10/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,732,2,21,,0,0.0,0.0,f4869ba3-2d7f-496f-9b22-a57c7e6403ab,Northern,Bombali,,Epidemic,,10/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,731,3,31,,0,0.0,0.0,887328ca-ee3a-4d55-b5ec-b5e7a011c2b7,Southern,Bo,,Epidemic,,10/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,730,4,42,,0,0.0,0.0,fd0b04a9-90a5-4ce1-8ce7-3c80ffeb9ad5,Western,Freetown,,Epidemic,,9/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,729,4,41,,0,0.0,0.0,eaabeac5-d715-40c3-a773-96ae06814512,Western,Western Area Rural,,Epidemic,,9/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,728,2,25,,0,0.0,0.0,a32c99f8-5501-46ef-b271-a02f87749744,Northern,Tonkolili,,Epidemic,,9/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,727,2,24,,0,0.0,0.0,4cb84354-bdd9-4b7d-8cdf-1e353251b5af,Northern,Port Loko,,Epidemic,,9/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,726,1,13,,0,0.0,0.0,24775fc5-151a-4fe8-83f2-d579af3b5352,Eastern,Kono,,Epidemic,,9/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,725,2,22,,0,0.0,0.0,02b12668-8d68-465e-ac42-3c8d2ed5fe0d,Northern,Kambia,,Epidemic,,9/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,724,2,21,,0,0.0,0.0,2cc930c9-562f-4bae-8579-bad7dc55f6e4,Northern,Bombali,,Epidemic,,9/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,723,4,42,,0,0.0,0.0,29f5d6e7-ed3e-4f59-b37a-63a0ed5d0201,Western,Freetown,,Epidemic,,8/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,722,4,41,,0,0.0,0.0,4a0ca8ba-7989-47bf-b0fb-f48cf11890b0,Western,Western Area Rural,,Epidemic,,8/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,721,2,25,,0,0.0,0.0,2370ce42-6be4-42ec-95b2-23f0b474e773,Northern,Tonkolili,,Epidemic,,8/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,720,2,24,,0,0.0,0.0,4801448b-1148-453b-b0b2-8bcdd4fa9922,Northern,Port Loko,,Epidemic,,8/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,719,3,33,,0,0.0,0.0,1855c90b-19f3-4c6a-b71e-3d87266aa20a,Southern,Moyamba,,Epidemic,,8/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,718,1,13,,0,0.0,0.0,8d3d437e-6162-49fd-8e39-f1e870b7f616,Eastern,Kono,,Epidemic,,8/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,717,2,21,,0,0.0,0.0,4cdd0f47-eae9-4446-b563-f43c3666794c,Northern,Bombali,,Epidemic,,8/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,716,3,31,,0,0.0,0.0,e0b29035-a5cc-4082-9367-c65866c29846,Southern,Bo,,Epidemic,,8/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,715,4,42,,0,0.0,0.0,3ed9cdd3-f231-4e27-a8dd-cf4bebad6118,Western,Freetown,,Epidemic,,7/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,714,4,41,,0,0.0,0.0,2431cb95-2090-4ab0-8507-0d0a9d11bdde,Western,Western Area Rural,,Epidemic,,7/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,713,2,25,,0,0.0,0.0,0034e5ec-f312-48a1-9655-df0872da470f,Northern,Tonkolili,,Epidemic,,7/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,712,3,33,,0,0.0,0.0,3ff6fc7c-434d-44ee-a4a1-190af97ced91,Southern,Moyamba,,Epidemic,,7/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,711,1,13,,0,0.0,0.0,8f16cf0b-f3e3-4a3b-b5bf-9ee8ce021f4b,Eastern,Kono,,Epidemic,,7/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,710,2,22,,0,0.0,0.0,27506ac8-5364-430e-baf3-6d8c69eb34e1,Northern,Kambia,,Epidemic,,7/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,709,4,42,,0,0.0,0.0,e4a3f57b-59aa-4b69-96b9-55c99b57cd19,Western,Freetown,,Epidemic,,6/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,708,4,41,,0,0.0,0.0,4738fc20-05f6-4c65-a15c-0ee305921eff,Western,Western Area Rural,,Epidemic,,6/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,707,2,24,,0,0.0,0.0,a505ad80-3d31-40f1-8da8-d116fd7f85a2,Northern,Port Loko,,Epidemic,,6/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,706,3,33,,0,0.0,0.0,783cc426-89c2-4c47-9991-7187876b61a3,Southern,Moyamba,,Epidemic,,6/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,705,1,13,,0,0.0,0.0,4c6a4af6-d85b-41f4-beb6-c78f3c00af33,Eastern,Kono,,Epidemic,,6/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,704,4,42,,0,0.0,0.0,b085e1f9-c278-46b4-a947-c8f2671a5c93,Western,Freetown,,Epidemic,,5/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,703,4,41,,0,0.0,0.0,5368f965-65f1-46eb-a493-0d57a3c177f8,Western,Western Area Rural,,Epidemic,,5/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,702,2,25,,0,0.0,0.0,adcee9da-dbab-4f17-ac19-f59f851422f1,Northern,Tonkolili,,Epidemic,,5/1/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,701,2,24,,0,0.0,0.0,c9727ce8-33da-485c-a0de-e3d069848029,Northern,Port Loko,,Epidemic,,5/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,700,3,33,,0,0.0,0.0,27d812fa-e3a0-4bbe-87e4-0e7140109428,Southern,Moyamba,,Epidemic,,5/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,698,2,23,,0,0.0,0.0,9b75908f-cacb-4bf7-9127-844459af0e2f,Northern,Koinadugu,,Epidemic,,5/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,697,2,22,,0,0.0,0.0,3bdc7e06-f2b0-4181-8350-2e62a70e4db9,Northern,Kambia,,Epidemic,,5/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,696,2,21,,0,0.0,0.0,8ebe0247-3b2b-4742-9f1d-ab0069a8414f,Northern,Bombali,,Epidemic,,5/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,695,4,42,,0,0.0,0.0,e2dd827c-ad84-4655-a210-4156d3d646cd,Western,Freetown,,Epidemic,,4/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,694,4,41,,0,0.0,0.0,c202c588-cc95-4c32-8638-1e275f5a0985,Western,Western Area Rural,,Epidemic,,4/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,693,2,25,,0,0.0,0.0,d942e158-e20f-4b54-8be3-3e3687a0daa3,Northern,Tonkolili,,Epidemic,,4/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,692,2,24,,0,0.0,0.0,3bf17a98-2eb6-4da0-9757-18e48fbdba70,Northern,Port Loko,,Epidemic,,4/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,691,3,33,,0,0.0,0.0,5b696029-cce9-4586-b3ff-f101c8e8ad58,Southern,Moyamba,,Epidemic,,4/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,690,1,13,,0,0.0,0.0,b023dde8-e4c8-46cb-94c2-2d2f23bf425d,Eastern,Kono,,Epidemic,,4/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,689,2,23,,0,0.0,0.0,c355398d-c448-4268-b5e5-f54b003e081a,Northern,Koinadugu,,Epidemic,,4/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,688,2,21,,0,0.0,0.0,457711d8-4263-4209-bbc2-ff2dd72752f1,Northern,Bombali,,Epidemic,,4/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,687,3,31,,0,0.0,0.0,04999488-8e26-497e-9078-292f40400b29,Southern,Bo,,Epidemic,,4/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,686,4,42,,0,0.0,0.0,b7091bc5-78e1-49b1-a567-08c8cefbafb2,Western,Freetown,,Epidemic,,3/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,685,4,41,,0,0.0,0.0,f9eacd53-aaac-48c7-978d-bdf384ec5d59,Western,Western Area Rural,,Epidemic,,3/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,684,2,25,,0,0.0,0.0,d994cd6c-de73-4034-8688-7b1ec75119ca,Northern,Tonkolili,,Epidemic,,3/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,683,2,24,,0,0.0,0.0,f1711e17-95d6-40f0-b820-db5f2550aa91,Northern,Port Loko,,Epidemic,,3/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,682,3,33,,0,0.0,0.0,7b41c790-1a6b-446f-98e4-653f5753aa42,Southern,Moyamba,,Epidemic,,3/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,681,1,13,,0,0.0,0.0,f6644761-9ea8-411c-b29a-7dd8ce77f547,Eastern,Kono,,Epidemic,,3/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,680,2,23,,0,0.0,0.0,c0e9ed50-a7f9-4bbd-8dbe-d2994232f90d,Northern,Koinadugu,,Epidemic,,3/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,679,2,21,,0,0.0,0.0,6a784fcc-b11f-48f2-80e3-fbca03c79fc6,Northern,Bombali,,Epidemic,,3/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,678,4,42,,0,0.0,0.0,cbd070ce-7051-478f-804f-0f46732a1b33,Western,Freetown,,Epidemic,,2/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,677,4,41,,0,0.0,0.0,d0094d3f-7f94-4d1b-bd63-bff9db0cda9c,Western,Western Area Rural,,Epidemic,,2/1/2015
+9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,676,2,24,,0,0.0,0.0,3400caf0-4ac4-43d7-9a61-65aa131d5c91,Northern,Port Loko,,Epidemic,,2/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,675,3,33,,0,0.0,0.0,05a5486d-3bae-4dce-9680-3aed36ca1362,Southern,Moyamba,,Epidemic,,2/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,674,1,13,,0,0.0,0.0,92a9c837-2727-4944-8423-fa3f0eff9946,Eastern,Kono,,Epidemic,,2/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,673,2,23,,0,0.0,0.0,b197ea49-dd7a-4ed9-91a9-0feed7f72bf9,Northern,Koinadugu,,Epidemic,,2/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,672,2,22,,0,0.0,0.0,befb1253-9799-4752-83ba-2983de0cd22d,Northern,Kambia,,Epidemic,,2/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,671,2,21,,0,0.0,0.0,fb93f650-260d-4792-abf6-ee60ee4b1779,Northern,Bombali,,Epidemic,,2/1/2015
+0,0,0,0,0,22,0,0,0,0,0,0,1,0,0,0,692,4,41,,0,8.32469657165655,-13.0707825546875,ee1e2a13-0419-4b7d-a250-7ca839313705,Western,Western Area Rural,,Epidemic,,10/11/2014
+0,0,0,0,0,31,0,0,0,0,0,0,8,0,0,0,691,4,42,,0,8.44968807860476,-13.2300843125,ea4b6715-a066-4a83-9a68-ea143b9c03fb,Western,Freetown,,Epidemic,,10/11/2014
+0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,690,3,31,,0,7.95492525729182,-11.7359436875,5eb4eba0-91ee-4d4f-97c7-258b6d8c8a4e,Southern,Bo,,Epidemic,,10/11/2014
+1,0,0,0,0,19,0,0,0,0,0,0,1,0,0,0,689,2,24,,0,8.69954903252434,-12.7906311875,47f6d8ab-5c93-4f2d-990f-133aa112e9f1,Northern,Port Loko,,Epidemic,,10/11/2014
+2,0,0,0,0,8,0,0,0,0,0,0,1,0,0,0,688,2,25,,0,8.70497895878065,-11.95567025,217f97ae-86d5-4bfa-a5f8-cb49c2101d9e,Northern,Tonkolili,,Epidemic,,10/11/2014
+0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,687,2,,,0,8.85155702964865,-12.032574546875,ee6c4dda-a120-470f-839a-1efe3bddbb05,Northern,,,Epidemic,,10/11/2014
+2,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,686,2,23,,0,9.56730323302214,-11.549176109375,f07aaf82-e804-468b-973c-1e179004b013,Northern,Koinadugu,,Epidemic,,10/11/2014
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,685,2,22,,0,9.09029950262661,-12.9169739609375,3529113e-777a-400c-a24f-7865369ee362,Northern,Kambia,,Epidemic,,10/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,684,1,11,,0,8.62623734071318,-10.9751404648438,465d289f-5841-4747-99c3-1d34c1285857,Eastern,Kailahun,,Epidemic,,10/11/2014
+1,0,0,0,0,8,0,0,0,0,0,0,1,0,0,0,682,4,41,,0,8.33013181912382,-13.0597962265625,c53e4212-df0a-4fe4-aa28-111821c49be8,Western,Western Area Rural,,Epidemic,,9/11/2014
+2,0,0,0,0,29,0,0,0,0,0,1,8,0,0,0,681,4,42,,0,8.46598834575843,-13.241070640625,80818a93-ac2f-4917-b099-672a7a13237b,Western,Freetown,,Epidemic,,9/11/2014
+1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,680,3,33,,0,8.15072907826388,-12.4335755234375,a90e72ab-03bf-4366-8463-01629ed9d5ab,Southern,Moyamba,,Epidemic,,9/11/2014
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,679,3,31,,0,7.95492525729182,-11.7359436875,1f4827de-cd4b-4fcd-98d8-5e2dfe40c5e4,Southern,Bo,,Epidemic,,9/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,645,2,21,,0,8.86783989579145,-12.0380677109375,942b9065-4de8-4bc8-8a0c-2f924f156c7d,Northern,Bombali,,Epidemic,,6/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,644,2,23,,0,9.56730323302214,-11.5656556015625,31416a69-af00-40dc-bd6a-c2fb9898b017,Northern,Koinadugu,,Epidemic,,6/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,643,2,22,,0,9.07402661396232,-12.911480796875,5a2970e0-664b-4ed7-b4dc-cf233c8cb818,Northern,Kambia,,Epidemic,,6/11/2014
+0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,642,4,41,,0,8.33556699109676,-13.07627571875,b4a29e41-92c4-477d-80b5-83ce2cbf711e,Western,Western Area Rural,,Epidemic,,5/11/2014
+2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,641,3,31,,0,7.94404450355052,-11.7304505234375,8fce1e15-25f8-4969-a25a-bc6cec43f615,Southern,Bo,,Epidemic,,5/11/2014
+0,0,0,0,0,9,0,0,0,0,0,0,1,0,0,0,640,2,25,,0,8.7022640054981,-11.9501770859375,0bb924a4-e189-4335-b8e7-40c2c28b1010,Northern,Tonkolili,,Epidemic,,5/11/2014
+2,0,0,0,0,0,12,0,0,0,0,1,1,0,0,0,639,2,21,,0,8.86783989579142,-12.0380677109375,e7ede63d-bd71-4b56-81c6-f60cb4518fe3,Northern,Bombali,,Epidemic,,5/11/2014
+1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,638,2,23,,0,9.59438595258057,-11.5656556015625,9e65faf0-0192-4c38-bb12-031f7f992670,Northern,Koinadugu,,Epidemic,,5/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,637,1,11,,0,8.27033995532664,-10.5768860703125,97b71c30-2561-4ac6-9c91-3e804cfecd22,Eastern,Kailahun,,Epidemic,,5/11/2014
+0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,631,4,41,,0,8.29751920358036,-13.0488098984375,a3c9a131-ac07-436a-a5e4-b6cf485fa407,Western,Western Area Rural,,Epidemic,,15/9/2014
+0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,630,4,42,,0,8.40621733498799,-13.241070640625,616d7326-8ec7-446d-9882-939fb86c32c7,Western,Freetown,,Epidemic,,15/9/2014
+0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,629,2,24,,0,8.67782854056507,-12.8345765,26ef953e-9eb4-433c-a59a-89e28299ebf2,Northern,Port Loko,,Epidemic,,15/9/2014
+4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,628,1,12,,0,7.8841952140193,-11.18662728125,270d001c-ec21-4aeb-bab0-5f3c524ce9b4,Eastern,Kenema,,Epidemic,,16/9/2014
+2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,627,1,11,,0,8.23772238401668,-10.5658997421875,d872a7b8-8f4b-429c-8461-a58a005d6adc,Eastern,Kailahun,,Epidemic,,16/7/2014
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,626,1,12,,0,7.85698813,-11.18113412,ae14e699-3fb8-4584-a058-5e88171f59be,Eastern,Kenema,,Epidemic,,16/7/2014
+2,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,625,1,11,,0,8.22684926229403,-10.5768860703125,e46a0eed-a1d4-4c48-ae3a-1a62c6027bbe,Eastern,Kailahun,,Epidemic,,16/6/2014
+2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,624,1,11,,0,8.23772238401668,-10.5768860703125,e0be704c-452c-4ac0-b788-605e64958027,Eastern,Kailahun,,Epidemic,,15/7/2014
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,623,1,12,,0,7.89507754892801,-11.2085999375,c3fef41b-6958-4385-a7a2-39db084265d7,Eastern,Kenema,,Epidemic,,13/7/2014
+2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,622,1,11,,0,8.25403150637939,-10.5658997421875,f97f59da-24a0-4ac1-b3eb-920a231d57aa,Eastern,Kailahun,,Epidemic,,13/7/2014
+0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,621,4,42,,0,8.4877209614161,-13.241070640625,c02a4702-5830-4869-80a3-3997a512d756,Western,Freetown,,Epidemic,,12/7/2014
+0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,620,2,24,,0,8.76470293707312,-12.7961243515625,f03923c1-66d4-4849-911b-961455262506,Northern,Port Loko,,Epidemic,,11/7/2014
+6,0,0,0,0,8,0,0,0,0,0,0,1,0,0,0,619,1,11,,0,8.24859520701855,-10.5768860703125,a77ef37f-7882-4213-b240-42baeb1a0004,Eastern,Kailahun,,Epidemic,,12/7/2014
+1,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,618,1,12,,0,8.21597584223396,-10.5878723984375,b789da5f-1452-4cd5-80ca-fb2a1758c9cc,Eastern,Kenema,,Epidemic,,11/7/2014
+1,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,617,1,11,,0,8.24315883288168,-10.582379234375,49b8f2b2-2056-4ae3-9f02-5f5cafc88758,Eastern,Kailahun,,Epidemic,,11/7/2014
+1,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,616,1,11,,0,8.27033996,-10.57139291,e0997db1-39af-41fc-84e6-be248070b358,Eastern,Kailahun,,Epidemic,,11/7/2014
+4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,613,1,11,,0,8.26490388058133,-10.582379234375,67d37166-39ae-4b02-9ed5-3b07e8d964d0,Eastern,Kailahun,,Epidemic,,10/7/2014
+3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,612,1,12,,1,7.85154649343034,-11.2140931015625,571caf37-9986-4f8d-a3df-40b47b471169,Eastern,Kenema,,Epidemic,,10/7/2014
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,611,4,42,,0,8.44968807860477,-13.2300843125,bca3117d-d719-4067-ba4b-0463822c9db7,Western,Freetown,,Epidemic,,10/7/2014
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,608,3,31,,0,7.94948491648908,-11.7414368515625,eddb47d2-089a-4ed7-85b5-cd25d505a107,Southern,Bo,,Epidemic,,14/7/2014
+1,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,607,1,,,0,8.11266354541425,-10.5768860703125,fdc061ce-6dab-4450-8a35-a41cab80ad90,Eastern,,,Epidemic,,9/6/2014
+1,0,0,0,0,0,3,0,0,0,0,2,1,0,0,0,605,1,12,,0,7.57937503394039,-11.05479134375,f7625b68-bb29-403e-b8c5-fc8c8d9a2ea5,Eastern,Kenema,,Epidemic,,7/7/2014
+1,0,0,0,0,0,14,0,0,0,0,1,1,0,0,0,604,1,11,,0,7.54670277170997,-11.109722984375,19cdf0e3-128f-41de-a0aa-be313070aada,Eastern,Kailahun,,Epidemic,,8/6/2014
+14,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,602,1,11,,1,8.12897778762979,-10.39561165625,957afbe2-b381-480b-b395-f87db713b805,Eastern,Kailahun,,Epidemic,Precise location unknown,8/7/2014
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,600,3,31,,1,7.76447072333228,-11.724957359375,6c2072f4-c6f1-4413-b8f4-64e9e79d594b,Southern,Bo,,Epidemic,Precise location unknown,8/7/2014
+1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,599,1,12,,1,7.63382329052774,-11.153668296875,c4c70471-a57d-4178-89b3-7e5778a80cda,Eastern,Kenema,,Epidemic,,7/7/2014
+58,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,598,1,11,,0,8.14529136635502,-10.428570640625,1fffbd70-7a92-4596-b6eb-7931b98b46b7,Eastern,Kailahun,,Epidemic,,4/4/2014
+8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,831,1,13,,0,0.0,0.0,96d276e5-6ead-43a6-9efe-26767f29c80c,Eastern,Kono,,Epidemic,,30/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,830,2,21,,0,0.0,0.0,83f8d23e-1884-42e9-b4b1-8c23b1163d7d,Northern,Bombali,,Epidemic,,30/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,829,4,42,,0,0.0,0.0,e20de56f-0602-4311-9a74-8e492442fe70,Western,Freetown,,Epidemic,,29/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,828,4,41,,0,0.0,0.0,c3d9fb5e-8640-4805-aa64-f55532a3fec7,Western,Western Area Rural,,Epidemic,,29/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,827,2,25,,0,0.0,0.0,9d528689-c5a9-40e0-8e91-32be7718b7b1,Northern,Tonkolili,,Epidemic,,29/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,826,2,24,,0,0.0,0.0,9502bc5f-429d-403e-b79f-29081ec1e0af,Northern,Port Loko,,Epidemic,,29/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,825,1,13,,0,0.0,0.0,43a5de9f-93f6-4e58-80bd-f55c3525569b,Eastern,Kono,,Epidemic,,29/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,824,1,12,,0,0.0,0.0,0f396240-4660-4bdd-84cf-c15d3f6c8524,Eastern,Kenema,,Epidemic,,29/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,823,2,21,,0,0.0,0.0,3995ddcf-7751-44f6-9714-e9475711c1cb,Northern,Bombali,,Epidemic,,29/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,822,4,42,,0,0.0,0.0,7464829e-05b6-4df7-9210-7cfc455ed7d4,Western,Freetown,,Epidemic,,27/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,821,4,41,,0,0.0,0.0,6643af4c-3ae8-4ef1-8a1e-91b9c0ab2217,Western,Western Area Rural,,Epidemic,,27/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,820,2,24,,0,0.0,0.0,b2062245-839f-4b80-aab6-f2dcff596551,Northern,Port Loko,,Epidemic,,27/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,807,2,22,,0,0.0,0.0,1eac3301-104d-4534-a551-92ac0fbc680c,Northern,Kambia,,Epidemic,,24/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,806,2,21,,0,0.0,0.0,2d47e036-227c-4907-bb55-5cc4e84a491d,Northern,Bombali,,Epidemic,,24/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,805,4,42,,0,0.0,0.0,78eafb20-5918-49e0-8580-0861ff0f57f2,Western,Freetown,,Epidemic,,23/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,804,4,41,,0,0.0,0.0,11fe27de-d491-4b2d-8091-323a9e78990a,Western,Western Area Rural,,Epidemic,,23/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,803,2,24,,0,0.0,0.0,8f9181d1-5549-44c3-8f94-cc0255934487,Northern,Port Loko,,Epidemic,,23/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,802,1,13,,0,0.0,0.0,b492d13f-c239-41cc-8f01-35ab9797d49e,Eastern,Kono,,Epidemic,,23/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,2,21,,0,0.0,0.0,2bf10668-708b-49e3-98ff-fa949ad6f2ef,Northern,Bombali,,Epidemic,,23/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,800,4,42,,0,0.0,0.0,249780b4-5678-4386-bc56-ef16c4a19623,Western,Freetown,,Epidemic,,22/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,799,4,41,,0,0.0,0.0,4c56885e-c0c2-4c1d-857f-e1982a267b7f,Western,Western Area Rural,,Epidemic,,22/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,798,2,24,,0,0.0,0.0,d7029b2c-966c-4721-91fa-5135fd37b20d,Northern,Port Loko,,Epidemic,,22/1/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,797,2,22,,0,0.0,0.0,c8ca528f-2313-45ac-8039-4289b9404b27,Northern,Kambia,,Epidemic,,22/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,796,4,42,,0,0.0,0.0,a8caee38-c085-4e0a-9d51-6ca4e5ce96ba,Western,Freetown,,Epidemic,,21/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,783,4,41,,0,0.0,0.0,8b08876d-76d6-4c02-adfd-6803385dbfbd,Western,Western Area Rural,,Epidemic,,18/1/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,782,2,24,,0,0.0,0.0,e57b7a40-91c1-4a17-bd66-a372c27ae8a4,Northern,Port Loko,,Epidemic,,18/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,781,2,22,,0,0.0,0.0,9674ac45-d560-4619-a7e0-8d8a50a2f47a,Northern,Kambia,,Epidemic,,18/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,780,4,42,,0,0.0,0.0,50ac73f5-6280-46a2-b9cd-7f33f6e31d8b,Western,Freetown,,Epidemic,,17/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,779,4,41,,0,0.0,0.0,43d179f0-7f82-45be-9041-97c22e1468ef,Western,Western Area Rural,,Epidemic,,17/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,778,2,25,,0,0.0,0.0,9502038a-6e31-46fa-8c8c-9c4666b73e74,Northern,Tonkolili,,Epidemic,,17/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,777,4,42,,0,0.0,0.0,b21880d7-3706-4fcf-aaf2-5188a8200799,Western,Freetown,,Epidemic,,16/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,776,4,41,,0,0.0,0.0,0b7a78f6-ff05-48ac-85ca-51df8ebb3142,Western,Western Area Rural,,Epidemic,,16/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,775,2,25,,0,0.0,0.0,95fb345f-21fe-4ee9-9910-c28604a1b074,Northern,Tonkolili,,Epidemic,,16/1/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,774,2,24,,0,0.0,0.0,6c3a6b05-3069-4496-ac17-7648accd86ec,Northern,Port Loko,,Epidemic,,16/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,773,3,33,,0,0.0,0.0,10a0e258-bd9a-406d-a2fd-61ba46b12016,Southern,Moyamba,,Epidemic,,16/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,772,1,13,,0,0.0,0.0,6d337946-bd05-40f5-9be6-6c4286f235e4,Eastern,Kono,,Epidemic,,16/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,771,2,23,,0,0.0,0.0,27318675-2404-48bc-9055-4fb0161d37af,Northern,Koinadugu,,Epidemic,,16/1/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,770,2,21,,0,0.0,0.0,dd339fec-056c-4349-9299-40244fd245bc,Northern,Bombali,,Epidemic,,16/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,769,4,42,,0,0.0,0.0,14e5696c-5c3c-42ab-9ae4-95eb2332719a,Western,Freetown,,Epidemic,,15/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768,4,41,,0,0.0,0.0,7a1f9f77-aa97-44e9-a521-c7e2a04c4171,Western,Western Area Rural,,Epidemic,,15/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,767,2,25,,0,0.0,0.0,7d01638d-9bf3-453c-81b0-1edd32b5ca3d,Northern,Tonkolili,,Epidemic,,15/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,766,2,24,,0,0.0,0.0,ee36f858-6e39-4922-9fa0-bdf1ea991585,Northern,Port Loko,,Epidemic,,15/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,765,3,33,,0,0.0,0.0,060a4c83-425a-4dfa-94f5-0b44619028cb,Southern,Moyamba,,Epidemic,,15/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,764,1,13,,0,0.0,0.0,7c9777e4-a91e-453c-b8d0-b4b08916551e,Eastern,Kono,,Epidemic,,15/1/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,763,2,22,,0,0.0,0.0,1363f46b-1fd9-483f-b229-3ab9332fe367,Northern,Kambia,,Epidemic,,15/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,762,4,42,,0,0.0,0.0,50b8d4b3-ae67-4f22-853e-5561de58d3b4,Western,Freetown,,Epidemic,,14/1/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,761,4,41,,0,0.0,0.0,560e56bc-92b9-43ca-8c86-77f32a6b6139,Western,Western Area Rural,,Epidemic,,14/1/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,760,2,24,,0,0.0,0.0,590f8b52-d8b8-4136-863b-ba252d981996,Northern,Port Loko,,Epidemic,,14/1/2015
+14,0,0,0,0,0,1032,0,0,0,0,0,0,0,0,0,648,3,34,,1,0.0,0.0,d36200fe-a831-420a-afa4-a55af06a2f02,Southern,Pujehun,,Epidemic,,31/12/2012
+32,0,0,0,0,1591,0,0,0,0,0,0,0,0,0,0,647,2,22,,0,0.0,0.0,2eecea85-54ed-420f-93b8-60b4aba8dc39,Northern,Kambia,,Epidemic,"Samu, Mambolo",31/12/2012
+35,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0,646,1,12,,0,0.0,0.0,be892f26-d591-45f8-81c3-41c6c7641568,Eastern,Kenema,,Epidemic,,20/5/2014
+87,0,0,0,0,270,0,0,0,0,0,0,0,0,0,0,645,1,11,1108,0,0.0,0.0,a94bc3be-4a9d-429d-8d48-ef5c5ccb1535,Eastern,Kailahun,Luawa,Epidemic,,17/5/2014
+1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,501,4,42,,0,0.0,0.0,ba2ea234-96dd-4de7-8333-380afa146490,Western,Freetown,,Epidemic,Rokupar,16/2/2012
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,500,4,42,,0,0.0,0.0,13392519-e5e6-49f0-96d9-abf1d2870b86,Western,Freetown,,Epidemic,Connaught,15/2/2012
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,499,4,42,,0,0.0,0.0,32891a71-0ebc-42bd-9950-b2768c193b86,Western,Freetown,,Epidemic,"Kingharman Road,Ft",14/2/2012
+1,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,498,4,42,,0,0.0,0.0,83744ff2-d9e9-4b2f-a55c-14a076a5a035,Western,Freetown,,Epidemic,Lumley,13/2/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,497,4,42,,0,0.0,0.0,cf1131b1-e678-44c8-9198-96dddb34cd36,Western,Freetown,,Epidemic,Lumley,12/2/2012
+3,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,496,4,42,,0,0.0,0.0,061dd607-c4c4-404e-a9e6-ca84c15a80aa,Western,Freetown,,Epidemic,Lumley,11/2/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,495,4,42,,0,0.0,0.0,fc9e449b-36bd-49d2-b2d9-39ef415c277e,Western,Freetown,,Epidemic,Number 9,6/3/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,494,4,42,,0,0.0,0.0,1334a356-65a6-466f-9acf-2fefa920dbe8,Western,Freetown,,Epidemic,Babadorie,5/3/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,493,4,42,,0,0.0,0.0,fe55267f-c938-4ac9-9182-67abf552e4f4,Western,Freetown,,Epidemic,"Kondi farm,Ft",4/3/2012
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,492,4,42,,0,0.0,0.0,91e53cb4-63ec-4fcb-81ee-200f2cd726eb,Western,Freetown,,Epidemic,"Malama, Lumley, Ft",3/3/2012
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,491,4,42,,0,0.0,0.0,d4d3d8da-cee7-45ee-b521-33973783be67,Western,Freetown,,Epidemic,Kanigo Ft,2/3/2012
+0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,490,4,42,,0,0.0,0.0,a4cb1709-f2f3-4900-ba7a-8a3c0fb541d9,Western,Freetown,,Epidemic,,29/2/2012
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,489,4,42,,0,0.0,0.0,61ac9cc5-2a9c-4db5-80aa-23a2d480fe79,Western,Freetown,,Epidemic,"Tower Hill,Ft",18/7/2012
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,488,4,42,,0,0.0,0.0,f38d16a4-407a-45a0-b19c-a1b6a9104308,Western,Freetown,,Epidemic,,5/12/2013
+0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,487,4,41,,0,0.0,0.0,6baaee8f-8a51-4a21-8d81-110449a701af,Western,Western Area Rural,,Epidemic,Goderich,11/2/2013
+1,0,0,0,0,0,116,0,0,0,0,0,0,0,0,0,486,4,41,,0,0.0,0.0,8c4b3b50-1ec9-4536-9163-3bd4a23364c0,Western,Western Area Rural,,Epidemic,Ogu Farm,11/2/2013
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,485,4,41,,0,0.0,0.0,05375c37-eaac-47c6-a95d-5c40a39901a5,Western,Western Area Rural,,Epidemic,Ogu Farm,11/2/2012
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,484,4,41,,0,0.0,0.0,4512b0d0-a634-47fa-b9ed-8ab8c302b6f6,Western,Western Area Rural,,Epidemic,Goderich,4/3/2012
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,483,4,41,,0,0.0,0.0,34c60892-c325-419d-acda-8e86ec8c7cc4,Western,Western Area Rural,,Epidemic,Adonkia,3/3/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,482,4,41,,0,0.0,0.0,4b532f3f-d380-4691-a957-3ac5b5968ddf,Western,Western Area Rural,,Epidemic,"Ogun farm,Goderich",2/3/2012
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1013,4,41,,0,0.0,0.0,29abbd79-fc1f-40f2-bc26-a7bc3ab4ca8e,Western,Western Area Rural,,Epidemic,,18/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1012,2,24,,0,0.0,0.0,2e0f01b5-a5fd-4a49-a2fc-7bd2b3c2c97b,Northern,Port Loko,,Epidemic,,18/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1011,1,13,,0,0.0,0.0,c0f453f8-3008-4e66-a732-99117c78ad12,Eastern,Kono,,Epidemic,,18/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1010,2,22,,0,0.0,0.0,d9818c91-149b-4c89-8e5e-41e5f4a4823a,Northern,Kambia,,Epidemic,,18/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1009,2,21,,0,0.0,0.0,9d05fdba-c8e1-4daf-8aa9-9500ea480b42,Northern,Bombali,,Epidemic,,18/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1008,4,42,,0,0.0,0.0,0d2df49f-a7d8-4ebd-b875-2292587f2744,Western,Freetown,,Epidemic,,17/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,2,22,,0,0.0,0.0,c66f9c2f-5d39-4e2a-8359-f77d47b27d7e,Northern,Kambia,,Epidemic,,17/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1006,4,42,,0,0.0,0.0,9faad38d-e54f-44de-abd3-113071b6f07a,Western,Freetown,,Epidemic,,16/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1005,4,41,,0,0.0,0.0,0494d564-d427-4852-8d23-aebdbdcab457,Western,Western Area Rural,,Epidemic,,16/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1004,2,24,,0,0.0,0.0,ec6afe30-1449-4146-a0fc-388ad7c99afe,Northern,Port Loko,,Epidemic,,16/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1003,1,13,,0,0.0,0.0,26e9f903-3a6a-4048-b601-39e06b7404f0,Eastern,Kono,,Epidemic,,16/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1002,2,22,,0,0.0,0.0,e937f514-b928-4bcd-bbb8-69bd84cf5f18,Northern,Kambia,,Epidemic,,16/3/2015
+2,0,0,0,0,29,0,0,0,0,0,0,1,0,0,0,678,2,24,,0,8.75384474388362,-12.7741516953125,55983b3e-d078-4cb8-9da4-20e53de88eaf,Northern,Port Loko,,Epidemic,,9/11/2014
+0,0,0,0,0,12,0,0,0,0,0,0,1,0,0,0,677,2,25,,0,8.69954903252434,-11.8650330429688,c5f970b2-1fec-4b8e-a8ec-8f3c560db24c,Northern,Tonkolili,,Epidemic,,9/11/2014
+2,0,0,0,0,9,0,0,0,0,0,0,1,0,0,0,676,2,21,,0,8.86241235389625,-12.032574546875,e85d75a3-7f95-453c-8f9d-fcdc7ac235ee,Northern,Bombali,,Epidemic,,9/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,675,2,23,,1,9.09572363458929,-12.9059876328125,4a59dab7-ba6e-42f8-8eda-55a84615acca,Northern,Koinadugu,,Epidemic,,9/11/2014
+1,0,0,0,0,22,0,0,0,0,0,0,2,0,0,0,674,4,41,,0,8.31926124874279,-13.0597962265625,627ea26c-4489-4522-9afe-6acdf1dcf052,Western,Western Area Rural,,Epidemic,,8/11/2014
+2,0,0,0,0,18,0,0,0,0,0,1,8,0,0,0,673,4,42,,0,8.47685480715801,-13.2355774765625,1a18c185-b4cc-417c-addf-f2bde9fa0465,Western,Freetown,,Epidemic,,8/11/2014
+0,0,0,0,0,14,0,0,0,0,0,0,1,0,0,0,672,3,33,,0,8.17247918628901,-12.4335755234375,a3ae9035-6ab0-4489-9a5f-55b1727f67ae,Southern,Moyamba,,Epidemic,,8/11/2011
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,671,3,31,,0,7.93860401852422,-11.7359436875,e67dcd5c-56c9-4bed-8db4-fafba657c9bf,Southern,Bo,,Epidemic,,8/11/2014
+0,0,0,0,0,21,0,0,0,0,0,0,1,0,0,0,670,2,24,,0,8.68868894383625,-12.98838509375,5b920120-d5ee-4263-ab7d-d384923cfdae,Northern,Port Loko,,Epidemic,,8/11/2014
+0,0,0,0,0,20,0,0,0,0,0,0,1,0,0,0,668,2,25,,0,8.68054367085421,-11.9089783554688,7981bdad-65c6-49c1-aa48-ac0c1c6a4c96,Northern,Tonkolili,,Epidemic,,8/11/2014
+1,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,503,4,42,,0,0.0,0.0,c5357c11-10b4-456f-a302-b655241ec716,Western,Freetown,,Epidemic,Connaught,18/2/2012
+2,0,0,0,0,10,0,0,0,0,0,0,1,0,0,0,667,2,21,,0,8.9519565082129,-11.7826355820313,6719e512-ed45-4b78-98fc-e62af035246a,Northern,Bombali,,Epidemic,,8/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,666,2,23,,0,9.57813658011978,-11.5546692734375,e2cbe129-ac76-405f-8812-9e9392799843,Northern,Koinadugu,,Epidemic,,8/11/2014
+0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,665,2,22,,0,9.05775298712848,-12.911480796875,0928f5d4-3994-4ef3-b2f4-74c830315aec,Northern,Kambia,,Epidemic,,8/11/2014
+0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,664,1,13,,0,8.64524544706427,-10.9723938828125,b71d40f6-2f72-4e00-8a41-86f095c30100,Eastern,Kono,,Epidemic,,8/11/2014
+0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,663,1,11,,0,8.19966515359997,-10.560406578125,50e3d73c-bdc3-4164-860b-e74b08f69377,Eastern,Kailahun,,Epidemic,,8/11/2014
+3,0,0,0,0,12,0,0,0,0,0,0,1,0,0,0,662,4,41,,0,8.30839037676731,-13.0488098984375,308628bc-ef55-4744-8bf4-c3412e589e61,Western,Western Area Rural,,Epidemic,,7/4/2014
+2,0,0,0,0,12,0,0,0,0,0,1,8,0,0,0,655,4,42,,0,8.41708547883281,-13.219097984375,e0750a62-97bd-45ea-905d-5cf67a2781c7,Western,Freetown,,Epidemic,,7/11/2014
+1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,654,3,33,,0,8.16160428029445,-12.4335755234375,2422bc84-48b3-4bb9-9190-f846005fb326,Southern,Moyamba,,Epidemic,,7/11/2014
+0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,653,3,31,,0,7.93860401852422,-11.7084778671875,f0206a45-6332-4c00-800d-131045acb0d6,Southern,Bo,,Epidemic,,7/11/2014
+2,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,652,2,24,,0,8.71583857487963,-12.779644859375,b38b29b5-f58e-478b-aa06-20659e1f441e,Northern,Port Loko,,Epidemic,,7/11/2014
+1,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,651,2,23,,0,9.58896958,-11.5656556,8bda350b-e587-42d8-9240-36247053b43e,Northern,Koinadugu,,Epidemic,,7/11/2014
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,650,1,12,,0,7.81889520713555,-11.175640953125,0e065c2e-4b8c-46cc-84e8-9e7d81aa3ffa,Eastern,Kenema,,Epidemic,,7/11/2014
+0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,649,1,11,,0,8.2322858604715,-10.5768860703125,b0197c25-2e5e-48bb-beb7-0106e1786805,Eastern,Kailahun,,Epidemic,,7/11/2014
+0,0,0,0,0,10,0,0,0,0,0,0,1,0,0,0,648,4,42,,0,8.43882085102361,-13.2300843125,bfdd4ef7-0df7-4105-84f2-2e259a708ee1,Western,Freetown,,Epidemic,,6/11/2014
+1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,647,2,24,,0,8.73755686008993,-12.779644859375,8e869721-272f-4a80-87e9-d83fd34103c5,Northern,Port Loko,,Epidemic,,6/11/2014
+0,0,0,0,0,12,0,0,0,0,0,0,1,0,0,0,646,2,25,,0,8.69683403986533,-11.9474305039063,372a5f25-8cd2-4de8-80f5-3aa5358a0855,Northern,Tonkolili,,Epidemic,,6/11/2014
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,505,4,42,,0,0.0,0.0,1b68ae33-163e-4735-8247-f85b71921b4f,Western,Freetown,,Epidemic,"Ogun farm,Goderich,Lumley,Rokupa",20/1/2012
+1,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,504,4,42,,0,0.0,0.0,b82b5eec-a9bd-4516-a368-cee0fe2ae6e5,Western,Freetown,,Epidemic,Rokupar,19/2/2012
+9,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,502,4,42,,0,0.0,0.0,841f7aad-a906-444f-91a4-0a478bd407e4,Western,Freetown,,Epidemic,Lumley,17/2/2012
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1051,4,42,,0,0.0,0.0,f10b7565-eb2a-403b-9ddf-0f4c743b3925,Western,Freetown,,Epidemic,,28/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1050,4,41,,0,0.0,0.0,6f9b8c69-6328-4410-a770-f62096096645,Western,Western Area Rural,,Epidemic,,28/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1037,2,24,,0,0.0,0.0,00d61d93-981e-44b0-b7d2-446f06a598e4,Northern,Port Loko,,Epidemic,,25/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1036,2,22,,0,0.0,0.0,5fa056af-82d5-4775-b285-e4de1b83e538,Northern,Kambia,,Epidemic,,25/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1035,4,42,,0,0.0,0.0,efd8eb8e-6df6-4f6d-81a6-6fceb29cfd1e,Western,Freetown,,Epidemic,,24/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1034,4,41,,0,0.0,0.0,785fdabc-490b-4b6f-872b-a20e07b482c2,Western,Western Area Rural,,Epidemic,,24/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,901,2,21,,0,0.0,0.0,1eeba102-e658-4a0e-81f7-86657fe43a85,Northern,Bombali,,Epidemic,,18/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,900,4,42,,0,0.0,0.0,e428ac83-cb3a-4f3f-86ab-5e9c22cef9da,Western,Freetown,,Epidemic,,17/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,899,4,41,,0,0.0,0.0,43e40ee1-2f55-4f63-9813-e96f102d6808,Western,Western Area Rural,,Epidemic,,17/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,898,2,25,,0,0.0,0.0,b54086c8-8b5d-4b7c-8897-e7cb79c63a6b,Northern,Tonkolili,,Epidemic,,17/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,897,2,24,,0,0.0,0.0,e61d9c47-8b77-4b8c-9a8b-973b2d54ca3c,Northern,Port Loko,,Epidemic,,17/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,896,3,33,,0,0.0,0.0,3d773f2c-1b54-4993-a5f9-8d7cee5c9d29,Southern,Moyamba,,Epidemic,,17/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,895,4,42,,0,0.0,0.0,a7192165-6b92-4f07-8802-38789da701c4,Western,Freetown,,Epidemic,,16/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,894,4,41,,0,0.0,0.0,e5ff888c-5d5f-4fe9-a5df-8bcd12b1960f,Western,Western Area Rural,,Epidemic,,16/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,893,2,24,,0,0.0,0.0,ec2c433e-51f6-43a2-9de3-32441fd5169a,Northern,Port Loko,,Epidemic,,16/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,892,1,13,,0,0.0,0.0,8a21dcc0-795b-4b25-be7f-40a4917bb894,Eastern,Kono,,Epidemic,,16/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,891,4,42,,0,0.0,0.0,898a46e0-a4b7-45b2-90bd-dc9ab2cd455f,Western,Freetown,,Epidemic,,15/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,890,4,41,,0,0.0,0.0,54173d2a-fa71-43f3-aa9d-493772d6217b,Western,Western Area Rural,,Epidemic,,15/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,889,2,25,,0,0.0,0.0,396f878f-7db5-4bb3-b1ae-4dbcd5dca099,Northern,Tonkolili,,Epidemic,,15/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,888,2,24,,0,0.0,0.0,5b9c1ba3-b523-49d1-8989-f04a6735dd14,Northern,Port Loko,,Epidemic,,15/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,887,2,22,,0,0.0,0.0,b9387e6a-e0b7-419d-9a3a-01189be694a4,Northern,Kambia,,Epidemic,,15/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,886,4,42,,0,0.0,0.0,568622c3-20c5-404e-86cc-dc5cc0a0dcd3,Western,Freetown,,Epidemic,,14/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,885,4,41,,0,0.0,0.0,fd91cac6-403c-48ce-a41c-26f93a3bce94,Western,Western Area Rural,,Epidemic,,14/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,884,2,24,,0,0.0,0.0,89f4aa20-08b0-4ad6-950a-9d833b8cc484,Northern,Port Loko,,Epidemic,,14/2/2015
+6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,883,4,42,,0,0.0,0.0,aea855cd-c6d9-44b9-893e-73df237fae99,Western,Freetown,,Epidemic,,13/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,882,4,41,,0,0.0,0.0,848b2539-c0fe-45be-94d9-5aeff4ebc6c8,Western,Western Area Rural,,Epidemic,,13/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,881,2,25,,0,0.0,0.0,ced73f3b-d075-4cea-a358-4bec5952cebf,Northern,Tonkolili,,Epidemic,,13/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,880,2,24,,0,0.0,0.0,c162225b-35bf-493d-9af1-e8d292eded0e,Northern,Port Loko,,Epidemic,,13/2/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,879,4,42,,0,0.0,0.0,f0a6e85c-fa89-4fe6-9237-332c670de83a,Western,Freetown,,Epidemic,,12/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,878,4,41,,0,0.0,0.0,47c04207-e20b-4029-bcc7-550176f0770f,Western,Western Area Rural,,Epidemic,,12/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,877,2,24,,0,0.0,0.0,b095cac5-fc75-41a2-b58b-c3fb3df34bf6,Northern,Port Loko,,Epidemic,,12/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,876,4,42,,0,0.0,0.0,ec9c60e9-74bf-45db-82d8-56f558fb3e71,Western,Freetown,,Epidemic,,11/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,875,4,41,,0,0.0,0.0,c6b2c573-6243-473e-8b94-71e3ef12d3f7,Western,Western Area Rural,,Epidemic,,11/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,874,2,24,,0,0.0,0.0,2f808aed-a4b2-4bf5-a9fe-02da6766d58c,Northern,Port Loko,,Epidemic,,11/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,873,1,13,,0,0.0,0.0,a6dde070-3c05-47b8-a25b-3cefe12be1df,Eastern,Kono,,Epidemic,,11/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,872,2,23,,0,0.0,0.0,ae93cede-4bd0-41d2-a568-6fa9f069ed7a,Northern,Koinadugu,,Epidemic,,11/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,871,2,22,,0,0.0,0.0,7b25a349-14b3-4525-ac5f-2e9f0a2ca72f,Northern,Kambia,,Epidemic,,11/2/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,870,4,42,,0,0.0,0.0,89bd98f4-2a9d-4b55-9078-bbf6c4065b2d,Western,Freetown,,Epidemic,,10/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,869,4,41,,0,0.0,0.0,e2db18a1-daac-4e5c-ad89-33ec2a000c27,Western,Western Area Rural,,Epidemic,,10/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,868,2,25,,0,0.0,0.0,20eaf31d-5c7e-4243-a6e9-9a37059beff6,Northern,Tonkolili,,Epidemic,,10/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,867,2,24,,0,0.0,0.0,081afed8-90c8-45a0-93a7-fa3c1453f721,Northern,Port Loko,,Epidemic,,10/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,866,1,13,,0,0.0,0.0,fcc61bf2-827c-4f3f-b36a-455799da5693,Eastern,Kono,,Epidemic,,10/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,865,2,22,,0,0.0,0.0,13b73b99-5a00-43d6-9cd4-808d83595560,Northern,Kambia,,Epidemic,,10/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,4,42,,0,0.0,0.0,6ab50ba4-ac0c-4a1a-b7f4-c69200418332,Western,Freetown,,Epidemic,,9/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,863,4,41,,0,0.0,0.0,f51bad38-79e2-4756-b683-134ab90ca2a1,Western,Western Area Rural,,Epidemic,,9/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,862,2,24,,0,0.0,0.0,1a312559-877d-4a3d-8c63-7c7ca963b307,Northern,Port Loko,,Epidemic,,9/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,861,1,13,,0,0.0,0.0,7b8dc607-89c0-4eca-8c73-0136f6a77a6a,Eastern,Kono,,Epidemic,,9/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,860,4,42,,0,0.0,0.0,37e7f00f-5e2e-4c37-9ba7-35a3cad9e300,Western,Freetown,,Epidemic,,8/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,859,4,41,,0,0.0,0.0,76042dbf-6c5f-4d98-a5a2-28bdfda8c2b4,Western,Western Area Rural,,Epidemic,,8/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,858,2,24,,0,0.0,0.0,05640e9a-c506-4ad1-bed0-544f257053bd,Northern,Port Loko,,Epidemic,,8/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,857,1,13,,0,0.0,0.0,40e31a54-366b-4094-896a-6d0597ddcc52,Eastern,Kono,,Epidemic,,8/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,856,2,22,,0,0.0,0.0,175f8472-84f5-4e5b-ba78-086baafd6a38,Northern,Kambia,,Epidemic,,8/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,855,4,42,,0,0.0,0.0,120c5d86-1f19-41b3-aa35-4514eb67da1c,Western,Freetown,,Epidemic,,6/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,854,4,41,,0,0.0,0.0,d2dc75d9-c70d-4995-97b3-58e89664c269,Western,Western Area Rural,,Epidemic,,6/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,853,2,24,,0,0.0,0.0,96f92e06-2583-4a04-825b-c07d27e63068,Northern,Port Loko,,Epidemic,,6/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,852,1,13,,0,0.0,0.0,f5ea1f2e-0b1d-4612-84d8-4cfc5fccb158,Eastern,Kono,,Epidemic,,6/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,851,4,42,,0,0.0,0.0,fe5a3cb4-1591-4459-9a51-5ade15bd1c64,Western,Freetown,,Epidemic,,5/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,850,4,41,,0,0.0,0.0,f79e53e8-1252-4db8-b477-f297bbd85dd8,Western,Western Area Rural,,Epidemic,,5/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,849,2,25,,0,0.0,0.0,8d5dcedd-b5b8-4abd-b29b-766f28c9f283,Northern,Tonkolili,,Epidemic,,5/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,848,2,24,,0,0.0,0.0,5c577b00-5b04-4d31-8133-f758de92b64b,Northern,Port Loko,,Epidemic,,5/2/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,847,1,13,,0,0.0,0.0,b08101c5-209f-4872-9442-924831fa283a,Eastern,Kono,,Epidemic,,5/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,846,2,21,,0,0.0,0.0,1b0bdecc-c643-49aa-9ba0-bf6f4a6a2103,Northern,Bombali,,Epidemic,,5/2/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,845,4,42,,0,0.0,0.0,4ef8beee-87ea-4a6d-8702-57439c2528d5,Western,Freetown,,Epidemic,,4/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,844,4,41,,0,0.0,0.0,b67633f0-6fa3-42f8-b06b-94f88a16c34f,Western,Western Area Rural,,Epidemic,,4/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,843,2,24,,0,0.0,0.0,0700b8b7-906c-4d5d-bac4-124db69133d0,Northern,Port Loko,,Epidemic,,4/2/2015
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13781,,,,1,0.0,0.0,9df3970f-65cd-43f9-976c-1e16e0a555b2,,,,Fire,,12/11/2019
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,842,3,33,,0,0.0,0.0,0ef3020b-a506-4687-9b31-e5317e448f80,Southern,Moyamba,,Epidemic,,4/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,841,1,13,,0,0.0,0.0,3c818229-8365-4291-b2fe-c2bdaed7a470,Eastern,Kono,,Epidemic,,4/2/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,840,2,22,,0,0.0,0.0,f29252cf-bd9e-451d-bd8f-c201974c2eb9,Northern,Kambia,,Epidemic,,4/2/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1033,2,24,,0,0.0,0.0,1f637f59-f63e-4725-827f-2808cbdaeff5,Northern,Port Loko,,Epidemic,,24/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1032,2,21,,0,0.0,0.0,32be1e9f-60bf-4895-86b6-9d0574ad0ce9,Northern,Bombali,,Epidemic,,24/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,4,42,,0,0.0,0.0,07c55bc0-5b82-478d-a469-35e619e79452,Western,Freetown,,Epidemic,,23/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1030,4,41,,0,0.0,0.0,cd6ba52b-6145-4c73-b6fa-3b601f4aa21b,Western,Western Area Rural,,Epidemic,,23/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1029,2,24,,0,0.0,0.0,6cbe4498-fc1c-4fe1-a054-b3064feb8a36,Northern,Port Loko,,Epidemic,,23/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1028,4,42,,0,0.0,0.0,0a3eb60d-f1b1-4925-8bbe-ef24eecc212f,Western,Freetown,,Epidemic,,22/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1027,4,41,,0,0.0,0.0,aefe7ea1-a5a4-4051-9ad1-a58984bced75,Western,Western Area Rural,,Epidemic,,22/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1026,2,24,,0,0.0,0.0,4760742d-77b4-4b33-88bb-0daaddf6b78f,Northern,Port Loko,,Epidemic,,22/3/2015
+0,11,0,0,0,0,54,0,0,0,0,0,0,0,0,0,321,2,34,,0,0.0,0.0,77431ef9-1df4-446a-87ef-80de56b75f52,Northern,Pujehun,,Epidemic,sulima,4/3/2010
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,320,2,34,,0,0.0,0.0,7a28227d-3d04-4832-a14e-7e426fc0738d,Northern,Pujehun,,Epidemic,,29/2/2012
+0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,319,2,24,,0,0.0,0.0,d367cafb-7de7-42b6-8894-d65ffc7cdbc9,Northern,Port Loko,,Epidemic,,29/2/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,318,2,24,,0,0.0,0.0,c968ae81-8847-4413-aaf9-2ea86399b08e,Northern,Port Loko,,Epidemic,Port Loko Govt. hosp,15/8/2009
+0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,317,2,23,,0,0.0,0.0,e913fd5e-d4da-4823-9845-2bba9a37eddf,Northern,Koinadugu,,Epidemic,,29/2/2012
+3,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,316,2,22,,0,0.0,0.0,c806f33f-eb3c-4d00-8877-347500b9d049,Northern,Kambia,,Epidemic,Kambia Town,29/2/2012
+3,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,315,2,22,,0,0.0,0.0,876a7813-8949-4bee-9acd-2ed4e34a76ad,Northern,Kambia,,Epidemic,Yeliboya,20/1/2012
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,314,2,21,,0,0.0,0.0,2a565e47-b05b-4de4-b08c-16f16b35828f,Northern,Bombali,,Epidemic,Makeni,11/11/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,313,2,21,,0,0.0,0.0,d6707843-17ff-4055-bb48-1599ee032a13,Northern,Bombali,,Epidemic,,29/2/2012
+1,18,0,0,0,19,0,0,0,0,0,0,0,0,0,0,312,2,21,,0,0.0,0.0,6d4e8856-5569-41ce-8755-1239ae429896,Northern,Bombali,,Epidemic,,27/1/2014
+0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,254,1,11,,0,8.266290329153,-10.56749255,555f55ea-b591-440c-8870-df75720b1a45,Eastern,Kailahun,,Epidemic,,29/2/2012
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,253,1,13,,0,0.0,0.0,fca9cf58-7834-493f-8b12-c39b84261dc0,Eastern,kono,,Epidemic,,29/2/2012
+0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,252,1,12,,0,0.0,0.0,99727eda-aa3e-4416-9bc9-ede99f87d8da,Eastern,Kenema,,Epidemic,,29/2/2012
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1025,4,42,,0,0.0,0.0,674cb2f2-2111-4be6-9789-6226671ac837,Western,Freetown,,Epidemic,,21/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1024,4,41,,0,0.0,0.0,7ae2fd08-bef7-445e-a08f-ef261491e19d,Western,Western Area Rural,,Epidemic,,21/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1023,2,24,,0,0.0,0.0,da9f22dd-ad59-417b-ba89-4febd661b281,Northern,Port Loko,,Epidemic,,21/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1022,2,22,,0,0.0,0.0,02f072dc-277f-4f4f-8ff5-69c26631739e,Northern,Kambia,,Epidemic,,21/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1021,2,21,,0,0.0,0.0,d253d2cd-162f-40fd-8003-b296cac5afc0,Northern,Bombali,,Epidemic,,21/3/2015
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1020,4,42,,0,0.0,0.0,4bce2b2e-20fd-46e7-a21e-6922fe65b6c0,Western,Freetown,,Epidemic,,20/3/2015
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1019,4,41,,0,0.0,0.0,f152b8f9-804b-4b4a-9a6a-d6462a977030,Western,Western Area Rural,,Epidemic,,20/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1018,2,24,,0,0.0,0.0,05f8c19d-4c41-4a3b-a1b1-aeb3e6470a08,Northern,Port Loko,,Epidemic,,20/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1017,1,13,,0,0.0,0.0,b84a36ed-fb6a-4e76-afe1-0061f7b6b824,Eastern,Kono,,Epidemic,,20/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1016,2,22,,0,0.0,0.0,7f34dd36-3bef-49d1-bda8-de11313e314a,Northern,Kambia,,Epidemic,,20/3/2015
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1015,2,21,,0,0.0,0.0,84f05084-578b-47df-8453-136ddbc335c9,Northern,Bombali,,Epidemic,,20/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1014,4,42,,0,0.0,0.0,6fa1bd91-c743-4d2f-b3fe-f0f123b0ab03,Western,Freetown,,Epidemic,,18/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1049,2,24,,0,0.0,0.0,fc93b9f7-3985-4eff-b096-d149ce30b3c1,Northern,Port Loko,,Epidemic,,28/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1048,2,22,,0,0.0,0.0,c08fd538-0732-4bb7-ab52-1abaf8b311db,Northern,Kambia,,Epidemic,,28/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1047,4,42,,0,0.0,0.0,e610fd24-b8ed-4d19-b6a5-d23e9c356748,Western,Freetown,,Epidemic,,27/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1046,4,41,,0,0.0,0.0,4119c055-32ca-4533-9b21-81b573583a51,Western,Western Area Rural,,Epidemic,,27/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1045,2,24,,0,0.0,0.0,9509a077-9954-4434-901f-7471884552a9,Northern,Port Loko,,Epidemic,,27/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1044,2,22,,0,0.0,0.0,7ed7fe8d-7e5b-47c4-8ce4-0510ac1bcf70,Northern,Kambia,,Epidemic,,27/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1043,4,42,,0,0.0,0.0,060c7ef3-19a5-4d92-965e-453600e21b6a,Western,Freetown,,Epidemic,,26/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1042,4,41,,0,0.0,0.0,05d3211e-4f18-4e11-9b05-f47039f889b0,Western,Western Area Rural,,Epidemic,,26/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1041,2,24,,0,0.0,0.0,08da43ca-e7d2-4454-982d-25188cc83679,Northern,Port Loko,,Epidemic,,26/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1040,2,22,,0,0.0,0.0,2f592360-3fab-4a04-af34-0d540ae31a42,Northern,Kambia,,Epidemic,,26/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1039,4,42,,0,0.0,0.0,5aaa1aaf-fa79-4d3b-842f-1683379fa2a7,Western,Freetown,,Epidemic,,25/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1038,4,41,,0,0.0,0.0,4ba374ec-1d08-43d4-b97f-5b0a23d2d5c1,Western,Western Area Rural,,Epidemic,,25/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1001,2,21,,0,0.0,0.0,3d38af2b-6dec-4be9-8448-08e51766af79,Northern,Bombali,,Epidemic,,16/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000,4,42,,0,0.0,0.0,61d89ab7-24c8-4738-86df-da3f0ab82982,Western,Freetown,,Epidemic,,14/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,999,4,41,,0,0.0,0.0,9e698876-324e-4261-87e3-8ad5934207e9,Western,Western Area Rural,,Epidemic,,14/3/2015
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,998,2,24,,0,0.0,0.0,3b7d603d-1f02-4fe9-93b7-1d40fab9fbf4,Northern,Port Loko,,Epidemic,,14/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,997,2,21,,0,0.0,0.0,b4f71292-82ad-4439-b655-80d2b986894a,Northern,Bombali,,Epidemic,,14/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,996,4,42,,0,0.0,0.0,9c7ca748-d0fc-4b50-8daf-2f82bd241349,Western,Freetown,,Epidemic,,13/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,995,4,41,,0,0.0,0.0,36acfa76-63b6-47d0-8a9e-dda6918eefaa,Western,Western Area Rural,,Epidemic,,13/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,994,2,24,,0,0.0,0.0,4c8e3500-8688-47f4-836f-8cf55f8c0c35,Northern,Port Loko,,Epidemic,,13/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,993,2,21,,0,0.0,0.0,a3d69a64-0b86-42a4-a333-7551163dde92,Northern,Bombali,,Epidemic,,13/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,992,4,42,,0,0.0,0.0,cf159989-53cf-4c34-8e2e-83a716a5e1fd,Western,Freetown,,Epidemic,,12/3/2015
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,991,4,41,,0,0.0,0.0,caf355aa-c4fc-4d54-a6ab-8335028926c3,Western,Western Area Rural,,Epidemic,,12/3/2015
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,990,2,24,,0,0.0,0.0,dc460e94-8ad6-4810-a2f7-198fd07d7e75,Northern,Port Loko,,Epidemic,,12/3/2015
+2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,197,2,25,2504,0,0.0,0.0,d5bff0fa-72e7-4e7a-b245-d73c5f03d50d,Northern,Tonkolili,Kholifa Mabang,Epidemic,,26/3/2014
+1,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0,129,1,,,1,0.0,0.0,607ea24e-de48-499d-94b8-ffba8f8e72f8,Eastern,,,Epidemic,,11/11/2013
+0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,0,364,3,33,,0,0.0,0.0,c8905a9f-305a-4884-8aa8-31c75a3e4976,Southern,Moyamba,,Epidemic,,29/2/2012
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,363,3,32,,0,0.0,0.0,5091688e-793e-43ac-874e-188eedd560dc,Southern,Bonthe,,Epidemic,,29/4/2012
+10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,1,11,1102,0,0.0,0.0,938ef402-8573-4d7f-a674-3ce4a20d3c45,Eastern,Kailahun,Jawie,Epidemic,Madina ,7/1/2009
+17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114,1,11,1102,0,0.0,0.0,7a7b6199-d446-45c9-8761-05c540168f86,Eastern,Kailahun,Jawie,Epidemic,Njala ,7/1/2009

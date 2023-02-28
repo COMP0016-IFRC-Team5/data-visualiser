@@ -1,0 +1,5 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,event,start_date,primary_end,secondary_end
+3,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,STORMS,1995-08-23,1995-08-28,1995-08-28
+0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,136,0,STORMS,2007-07-30,2007-08-04,2007-08-04
+1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,STORMS,2010-06-17,2010-06-22,2010-06-22
+2,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,STORMS,2011-06-19,2011-06-24,2011-06-24

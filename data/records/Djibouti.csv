@@ -1,0 +1,1182 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,serial,level0,level1,level2,approved,latitude,longitude,uuid,name0,name1,name2,event,location,date
+25,20,10,0,0,0,0,0,100,0,0,0,0,0,200,0,1188,4,,,0,0.0,0.0,0a34bc87-3935-4f7f-8358-e5aa08fe6291,DJIBOUTI,,,INONDATION,DJIBOUTI VILLE,0/3/1981
+4,1,0,0,0,0,0,0,0,0,0,0,0,0,29,0,1,1,1092,,0,0.0,0.0,d11f12bd-2a30-4edf-9636-d2cf21c11612,Ali Sabieh,ali-adde,,FOUDRE,hamaro,0/1/1987
+7,2,0,0,0,0,2,0,4,0,0,0,0,0,240,0,2,1,1092,,0,0.0,0.0,5618270e-4f8a-448f-87c9-71edce7fa782,Ali Sabieh,ali-adde,,VAGUE DE FROID,guechamalie,0/2/1986
+1,1,0,0,0,0,1,0,0,0,0,0,0,0,17,0,5,1,1021,,0,0.0,0.0,acfce8f8-8709-4a49-8ce0-29d801178045,Ali Sabieh,assamo,,ATTAQUE ANIMAL,montagne godiro,0/3/1990
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1021,,0,0.0,0.0,97c51c93-ec47-48df-adf2-f67b32554bac,Ali Sabieh,assamo,,ATTAQUE ANIMAL,assamo,0/1/1990
+2,1,0,0,0,0,0,0,1,0,0,0,0,0,7,0,8,1,1020,,0,0.0,0.0,606ac4db-fa01-4e4e-af5c-c46da6182b23,Ali Sabieh,guestir,,GRELE,daremo(pres de guestir,0/4/1992
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,10,1,1092,,0,0.0,0.0,ede4c7a2-f202-4c17-bfad-d05c1bcd1571,Ali Sabieh,ali-adde,,INONDATION,guechamalie,0/1/1994
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,84,0,11,1,1092,,0,0.0,0.0,22c43b25-3e5a-4b47-855e-9fb4c9e188b6,Ali Sabieh,ali-adde,,INONDATION,danan,0/1/1994
+9,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,12,1,1020,,0,0.0,0.0,c5b52e62-457d-4d60-b664-a13aa3d30c3a,Ali Sabieh,guestir,,ÉPIDÉMIE,guestir,0/5/1994
+1,3,0,0,0,0,2,0,2,0,0,0,0,11,80,0,13,1,1021,,0,0.0,0.0,26ca5477-04f3-4965-960d-da10f33f8093,Ali Sabieh,assamo,,TEMPÊTE,assamo,0/3/1944
+3,0,1,0,0,0,0,0,0,0,0,0,0,0,130,0,15,1,1092,,0,0.0,0.0,48569198-e99b-4cfb-8ceb-e5419d6c5a22,Ali Sabieh,ali-adde,,INONDATION,oboley,0/12/1996
+3,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,16,1,1092,,0,0.0,0.0,87861699-5912-41c8-907d-e9f0f2fb9787,Ali Sabieh,ali-adde,,INONDATION,ali-addé,4/4/2002
+1,1,0,0,0,2,2,0,0,0,0,0,0,3,80,0,20,1,,,0,0.0,0.0,d74b2256-8b51-4abd-a16f-01d8b47e9dc8,Ali Sabieh,"ali-adde, guestir, arrey",,PLUIES EXTREME,"ali-adde, guestir, arrey",14/4/2007
+1,4,0,0,0,0,4,0,3,0,0,0,0,0,800,0,21,1,1001,,2,0.0,0.0,ffdebbd7-9b86-4c8d-b61e-f3099e16944c,ALI SABIEH,ALI SABIEH,,Incursion -,kabah-kabah,12/11/2008
+32,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,24,1,1021,,0,0.0,0.0,9e004306-ed7f-486b-bf6f-333c9152e6e7,Ali Sabieh,assamo,,EXPLOSION,godiro,0/11/1990
+3,7,0,0,0,0,0,0,2,0,0,0,0,24,473,0,25,1,1021,,0,0.0,0.0,5160425b-8fcf-44e7-80e4-34079ea47211,Ali Sabieh,assamo,,INONDATION,assamo,0/8/2006
+1,0,0,0,0,0,30,0,5,0,0,0,0,0,0,0,26,1,1021,,0,0.0,0.0,240affc1-f8e4-4de2-97b8-d30706380332,Ali Sabieh,assamo,,ÉPIDÉMIE,assamo,0/2/2010
+9,0,0,0,0,0,10,0,0,0,0,0,0,0,1300,0,27,1,1021,,0,0.0,0.0,412ec0ba-02db-420b-902b-0b1138ae33d3,Ali Sabieh,assamo,,SÉCHERESSE,assamo,0/1/1991
+200,23,0,0,0,0,0,0,23,0,0,0,0,0,0,0,29,1,1091,,0,0.0,0.0,6a16ebf6-3120-4df4-8c9d-5345ffd6fe63,Ali Sabieh,holl-holl,,ACCIDENT,holl-holl,0/0/1979
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,29,0,32,1,1091,,0,0.0,0.0,816fac27-2ff5-4652-bed3-376d3bd0718d,Ali Sabieh,holl-holl,,INONDATION,hadley,0/2/1984
+21,0,0,0,0,0,30,0,0,0,0,0,0,0,483,0,35,1,1001,,0,0.0,0.0,bd2875d4-6d2a-46f8-9ddf-5c52ae9e51ad,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,iroleh-hindi-iskoutir,2/2/1981
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,39,1,1091,,0,0.0,0.0,2af6fca1-4cb0-4f9f-862c-f3fc75a9a81d,Ali Sabieh,holl-holl,,INONDATION,hindi,0/9/1983
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,83,0,40,1,1017,,0,0.0,0.0,ee4ad16c-bdc6-4945-a14b-5ed839ef1aef,Ali Sabieh,goubetto,,INONDATION,bouleh,0/4/1983
+7,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,42,1,1091,,0,0.0,0.0,4b87d8b5-8598-4eec-8eb7-21ca3367c497,Ali Sabieh,holl-holl,,INONDATION,beya-adey,0/1/1985
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,32,0,44,1,1091,,0,0.0,0.0,c43f55d3-ab2b-4a67-9573-1a0471b3f699,Ali Sabieh,holl-holl,,FOUDRE,cousouraleh,0/2/1989
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,205,0,45,1,1091,,0,0.0,0.0,71574e56-c924-48c9-a07f-8b18f1838d90,Ali Sabieh,holl-holl,,INONDATION,day-day,0/2/1994
+2,1,0,0,0,0,0,0,1,0,0,0,0,0,30,0,46,1,1017,,0,0.0,0.0,b99e2740-1f54-4e83-8a11-58986a4164bd,Ali Sabieh,goubetto,,ATTAQUE ANIMAL,day-day,0/3/1993
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,47,1,1017,,0,0.0,0.0,e777fd23-c298-4da9-836e-784724e106c9,Ali Sabieh,goubetto,,INONDATION,day-day,0/2/1989
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,7,0,48,1,1091,,0,0.0,0.0,5a17671a-0b96-40e3-8acc-75f46235074a,Ali Sabieh,holl-holl,,ATTAQUE ANIMAL,alayleh,0/12/1989
+10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,49,1,1091,,0,0.0,0.0,842e8a82-669a-414f-b7c6-879b8ab87431,Ali Sabieh,holl-holl,,ACCIDENT,holl-holl,0/3/1991
+3,0,0,0,0,0,3,0,0,0,0,0,0,0,360,0,50,1,1091,,0,0.0,0.0,0bbee728-5b88-4a28-9202-4759c00166b8,Ali Sabieh,holl-holl,,ATTAQUE ANIMAL,cousouraleh,0/2/1992
+3,2,0,0,0,0,0,0,2,0,0,0,0,0,511,0,52,1,1091,,0,0.0,0.0,5aec653b-0fdf-44d2-8760-25b0619ae8ff,Ali Sabieh,holl-holl,,INONDATION,hindi,0/1/1993
+3,1,0,0,0,0,0,0,0,0,0,0,0,0,176,0,53,1,1091,,0,0.0,0.0,b7599098-25bf-4d79-a33d-a6d4326cb548,Ali Sabieh,holl-holl,,INONDATION,boulleh biyaleh,0/3/1994
+2,1,0,0,0,0,0,0,1,0,0,0,0,0,106,0,54,1,1091,,0,0.0,0.0,0636257e-a08c-49e0-a97a-10658d4dc3a6,Ali Sabieh,holl-holl,,INONDATION,beya-adey,0/3/1994
+5,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,55,1,1091,,0,0.0,0.0,7c13b974-4696-42ca-985a-ad5b68719ad2,Ali Sabieh,holl-holl,,INONDATION,holl-holl,0/3/1994
+3,1,0,0,0,0,0,0,1,0,0,0,0,0,62,0,56,1,1091,,0,0.0,0.0,a33310ab-f8e0-4202-8379-4c1c86e59dc8,Ali Sabieh,holl-holl,,INONDATION,hindi,0/3/1994
+6,2,0,0,0,0,3,0,0,0,0,0,0,0,267,0,57,1,1091,,0,0.0,0.0,00724e7e-39a1-49a2-845c-f068b918cd8e,Ali Sabieh,holl-holl,,INONDATION,coulouleh ou kouloumaleh,0/3/1994
+2,1,0,0,0,0,0,0,1,0,0,0,0,0,21,0,60,1,1091,,0,0.0,0.0,745f648d-6dc3-47a5-9828-c79d353c8039,Ali Sabieh,holl-holl,,FOUDRE,digri,0/2/1997
+3,1,0,0,0,2,6,0,1,0,0,0,0,0,35,0,61,1,1091,,0,0.0,0.0,562f2ebb-9ef7-4240-aae9-3a1b71e3590b,Ali Sabieh,holl-holl,,INONDATION,day-day,0/2/1999
+2,0,0,0,0,0,7,0,0,0,0,0,0,0,187,0,64,1,1091,,0,0.0,0.0,519c56e8-2e38-4914-a27c-edadae6d61d9,Ali Sabieh,holl-holl,,VAGUE DE FROID,godiro,0/5/2007
+5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,1,1091,,0,0.0,0.0,b58568a6-4bd8-4f3b-8c1d-750d31084b29,Ali Sabieh,holl-holl,,EXPLOSION,holl-holl,20/8/2008
+1,1,0,0,0,0,0,0,7,0,0,0,0,0,186,0,66,1,1091,,0,0.0,0.0,f680d04a-47a8-47b0-bc4d-aae8ae04a0d2,Ali Sabieh,holl-holl,,TEMPÊTE,araha,0/9/2011
+3,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,67,1,1091,,0,0.0,0.0,088ff36b-8bfa-4a98-a49f-2c4183ede6e3,Ali Sabieh,holl-holl,,ÉPIDÉMIE,holl-holl,0/5/2011
+1,5,0,0,0,0,1,0,5,0,0,0,0,0,0,0,68,1,1091,,0,0.0,0.0,6be10d89-8a11-4842-a724-07e18c6c08f2,Ali Sabieh,holl-holl,,ACCIDENT,beya-adey,31/12/2010
+2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,69,1,1091,,0,0.0,0.0,ddeadf5a-2088-4c52-a67f-7393dc665db7,Ali Sabieh,holl-holl,,ACCIDENT,holl-holl,0/10/2010
+11,5,0,0,0,0,5,0,5,0,0,0,0,0,537,0,70,1,1091,,0,0.0,0.0,b0a039c0-5dc8-4f87-8698-8d1bf625d05b,Ali Sabieh,holl-holl,,ACCIDENT,holl-holl,25/7/2010
+7,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,71,1,1091,,0,0.0,0.0,d3f1ade5-3c18-40ed-a8eb-c79cd7bbfac0,Ali Sabieh,holl-holl,,ACCIDENT,hindi,19/3/2009
+4,0,0,0,0,100,0,0,0,0,0,0,0,0,300,0,72,1,1091,,2,0.0,0.0,cd6df972-d3b0-4d7e-9823-2d7cd2f7c439,ALI SABIEH,Holhol,,SÉCHERESSE,araha,0/0/1900
+2,26,0,0,0,0,0,0,5,0,0,0,0,0,0,0,74,1,1091,,0,0.0,0.0,60fff41a-f0b5-4c73-bb00-03e6df0c7106,Ali Sabieh,holl-holl,,ACCIDENT,goubetto-chabelley,29/7/2004
+4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,1,1091,,0,0.0,0.0,a00cdd62-3ac1-4ace-92cf-e8e796039305,Ali Sabieh,holl-holl,,ATTAQUE ANIMAL,day-day,11/7/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,1,1091,,2,0.0,0.0,2dab7d13-8647-4b19-a928-24071195e368,ALI SABIEH,Holhol,,SÉCHERESSE,goubetto-chabelley,0/0/1900
+13,20,0,0,0,0,0,0,17,0,0,0,0,0,0,0,79,1,1001,,0,0.0,0.0,022c397f-52a5-48ef-9e6d-82d5a90c01dc,Ali Sabieh,ali-sabieh,,ACCIDENT,"holl-holl , goubetto",0/7/2009
+2,5,0,0,0,0,18,0,2,0,0,0,0,0,0,0,81,1,1091,,0,0.0,0.0,db69a914-d276-4ef1-a104-b5c486b3a038,Ali Sabieh,holl-holl,,ÉPIDÉMIE,digri,0/2/2011
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,82,1,1091,,0,0.0,0.0,786f9ede-b276-4c32-bc23-5306fce687f7,Ali Sabieh,holl-holl,,ATTAQUE ANIMAL,"gadid elow ,ali libah",0/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,670,0,83,1,1091,,2,0.0,0.0,95e02e68-b8d8-4692-953e-84122c35e79c,ALI SABIEH,Holhol,,SÉCHERESSE,iroleh,0/0/1900
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,84,1,1091,,0,0.0,0.0,f4e27d8f-7f6f-4390-a654-7259c66107c6,Ali Sabieh,holl-holl,,INONDATION,digri-doureh,0/10/2005
+2,2,0,0,0,0,0,0,2,0,0,0,0,0,33,0,85,1,1091,,0,0.0,0.0,17b4f701-1729-4f79-95ae-4b2a20130cac,Ali Sabieh,holl-holl,,INONDATION,holl-holl,0/2/2007
+0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,86,1,1001,,0,0.0,0.0,e5215c2d-c3c6-4a55-bf74-1db3ebfd04e8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2006
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,87,1,1001,,0,0.0,0.0,1ece89f2-cbe0-4e54-8d38-bf8fce66dcf9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/2/2006
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,88,1,1001,,0,0.0,0.0,e3b30b11-91e5-431f-ab05-2e28dfde8e58,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2006
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,89,1,1001,,0,0.0,0.0,6e58817f-910b-433a-8ac4-b85306545d26,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2006
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,90,1,1001,,0,0.0,0.0,294ab245-068b-4042-b665-7b3da8e03262,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2006
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,91,1,1001,,0,0.0,0.0,42218a5a-f69b-4ac0-93d4-7a335549975b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/6/2006
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,92,1,1001,,0,0.0,0.0,de555c5d-b16c-4c21-b5da-03fb1ca11826,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2006
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,93,1,1001,,0,0.0,0.0,2c097846-aeec-4d5b-9e79-f155052ec571,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2006
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,94,1,1001,,0,0.0,0.0,2dff2093-0009-4a34-b1f7-41f0aaf2115f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2006
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,95,1,1001,,0,0.0,0.0,0027bb3d-3f50-4528-bbc4-9ba104ee7fc4,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/11/2006
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,96,1,1001,,0,0.0,0.0,f6648bb6-2a57-4938-9f5f-0d41ba77a647,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2006
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,97,1,1001,,0,0.0,0.0,c060b57f-b699-4a6d-8526-b3580e99a9d5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/9/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,98,1,1001,,0,0.0,0.0,efa82db0-bab2-4c98-a470-02fa8dc851af,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/11/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,99,1,1001,,0,0.0,0.0,02b64206-c6be-498b-9471-e6c0089f9156,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2006
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,100,1,1001,,0,0.0,0.0,60ab73e2-ec6d-4d6c-86bd-6786c591feba,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/9/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,101,1,1001,,0,0.0,0.0,61a56e8e-e3b3-4796-9d18-6154d3729c87,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/8/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,102,1,1001,,0,0.0,0.0,d173110d-1365-452b-aded-5b83e705b0c6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/7/2006
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,103,1,1001,,0,0.0,0.0,2992125c-98ed-4848-83d1-95c4d0ad94d2,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/7/2006
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,104,1,1001,,0,0.0,0.0,306821f7-b6dd-402f-b4aa-abebcd3c0e56,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/12/2006
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,105,1,1001,,0,0.0,0.0,4a2c3dd0-568e-4b0e-ba1b-e2db53894e93,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/12/2006
+0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,106,1,1001,,0,0.0,0.0,bfa548c7-41f7-4fb1-a93e-478919eb0f18,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/11/2006
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,107,1,1001,,0,0.0,0.0,8bd7e294-9e5e-48da-a05a-c8d108d0b52f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Assamo,0/10/2006
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,108,1,1001,,0,0.0,0.0,0c379075-8a73-48ba-bb9b-92c9f488c28d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Assamo,0/10/2006
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,109,1,1001,,0,0.0,0.0,ac72cf5e-2e79-44e1-b0df-f0e2aab7b1b3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/7/2006
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,110,1,1001,,0,0.0,0.0,65c8b6d2-48fe-43fc-b211-c329001d37f3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Assamo,0/6/2006
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,111,1,1001,,0,0.0,0.0,e55a6042-8c01-49f5-a314-c500e8ed3805,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/5/2006
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,112,1,1001,,0,0.0,0.0,67dfd082-cc11-4693-9c70-28dfd2758ef2,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/11/2006
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,113,1,1001,,0,0.0,0.0,3e1837cf-c7ad-49c9-86d9-a4c2b796fcbd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/11/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,114,1,1001,,0,0.0,0.0,cf9de205-3426-48fc-9f5a-0d232cd14af1,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/10/2006
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,115,1,1001,,0,0.0,0.0,839e41b0-e681-4200-87f8-2efa7e7e4eaa,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/10/2006
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,116,1,1001,,0,0.0,0.0,5902206b-1f4f-4be4-ad46-b6f1e35a2cee,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/5/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,117,1,1001,,0,0.0,0.0,ea5f9b85-99a5-4746-816a-7fc92baa6920,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/4/2006
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,118,1,1001,,0,0.0,0.0,dfdb61db-9a17-4dfc-9c34-e5e93e024438,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/12/2006
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,119,1,1001,,0,0.0,0.0,d24cea84-63e1-483d-a116-f93aa5029c32,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/11/2006
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,120,1,1001,,0,0.0,0.0,ba54e82c-170f-4c96-9d50-9f655f86cbb5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/12/2006
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,121,1,1001,,0,0.0,0.0,dd19d42f-1823-49bf-9e65-cb6da3d99ba4,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/11/2006
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,122,1,1001,,0,0.0,0.0,e11bf01b-5544-4995-8f95-4fefbda1a8e2,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/10/2006
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,123,1,1001,,0,0.0,0.0,45f66d87-d68e-46ac-a3ba-1f937d86a12f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/10/2006
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,124,1,1001,,0,0.0,0.0,95403292-a8c8-4037-b76e-4ed0a9cfa2a5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/9/2006
+0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,125,1,1001,,0,0.0,0.0,5853a0bd-16d3-4232-a680-16467420aa0d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/9/2006
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,126,1,1001,,0,0.0,0.0,5ffa48db-dc8e-4904-af99-0d7616dd1146,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de ali-adde,0/8/2006
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,127,1,1001,,0,0.0,0.0,4e56c269-e21f-4e5a-aec1-f5c29b80560f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/7/2007
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,128,1,1001,,0,0.0,0.0,a31ac943-dac5-4f93-8d8c-9d56508ccd9f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/8/2007
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,129,1,1001,,0,0.0,0.0,f95fc48a-db6f-414d-9e20-ea42ace9932a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/9/2007
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,130,1,1001,,0,0.0,0.0,e4a82e34-61e9-456b-b026-e46ded5a4d57,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/12/2009
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,131,1,1001,,0,0.0,0.0,04f88588-7bd7-4a01-b4b7-0c750cd826ab,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/12/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,132,1,1001,,0,0.0,0.0,a5e17489-9e50-4cca-a60b-9df8b111cb5b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/11/2009
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,133,1,1001,,0,0.0,0.0,51678255-c94c-4c01-a040-e8de7b98c35d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/11/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,134,1,1001,,0,0.0,0.0,76dfed55-98d8-483f-909e-6efd78a3c70c,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/10/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,135,1,1001,,0,0.0,0.0,38c9aaf1-c653-47f1-a045-776cf8b392aa,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/10/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,136,1,1001,,0,0.0,0.0,53d51214-8a7b-42fd-8ec8-4728ca54f723,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/10/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,137,1,1001,,0,0.0,0.0,90161cde-d764-4e8a-8bde-a52a142efa44,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/9/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,138,1,1001,,0,0.0,0.0,c8eb0c2c-4bab-4c49-a4b9-08443711607b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/9/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,139,1,1001,,0,0.0,0.0,110e2a9f-9728-4b3a-8d00-2331bb819ec2,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/7/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,140,1,1001,,0,0.0,0.0,8b49d884-8fc6-49b0-b5bf-e1b1c0319354,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/6/2009
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,141,1,1001,,0,0.0,0.0,eeac9620-2fff-4de6-bdd2-d4e5f389dbb8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/5/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,142,1,1001,,0,0.0,0.0,d44eb8b1-c443-473c-817b-20b9a94a0c8d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/5/2009
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,143,1,1001,,0,0.0,0.0,7aea5226-f249-4b23-9711-fe7d7907c279,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/2/2009
+0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,144,1,1001,,0,0.0,0.0,f020eeb9-9cd8-44af-814f-4a04ea8d44f8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/1/2009
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,145,1,1001,,0,0.0,0.0,3b0b974c-4cc9-4e02-92f6-f815f228ec7c,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/1/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,146,1,1001,,0,0.0,0.0,c1af0132-b5f0-495c-a794-661c27c172cf,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/1/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,147,1,1001,,0,0.0,0.0,beb5a157-a91d-40a5-8d92-9321ea426db9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de assamo,0/4/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,148,1,1001,,0,0.0,0.0,a35190bd-a4cd-477c-a376-d7a7e1f75305,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,149,1,1001,,0,0.0,0.0,dca531e3-1d5d-4e4e-a0bf-c0f715e506a0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,150,1,1001,,0,0.0,0.0,0e13d3cb-5138-4d2f-a8eb-346d3e041ac0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,151,1,1001,,0,0.0,0.0,dcc0c419-8d67-47e2-8d4f-633e109ff7bd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/9/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,152,1,1001,,0,0.0,0.0,a66ad911-604a-4f5f-8074-5835e463b036,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,153,1,1001,,0,0.0,0.0,fb1f373a-c884-4347-af33-e054cea5e5f8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,154,1,1001,,0,0.0,0.0,dd68c7a4-e715-4b8e-a819-7ea4b3733954,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2009
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,155,1,1001,,0,0.0,0.0,3f107296-a9bd-41cf-aef8-feaf4763d512,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,156,1,1001,,0,0.0,0.0,c4ad281a-bd43-4872-ad16-c809625bc641,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,157,1,1001,,0,0.0,0.0,feb99ee1-43e4-4b5c-ac7f-235573d908ce,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,158,1,1001,,0,0.0,0.0,5fe0923c-bbb5-47a0-aec2-5af6294b079a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/6/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,159,1,1001,,0,0.0,0.0,1d49ae00-1b6b-4492-9334-420def54fb5b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/6/2009
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,160,1,1001,,0,0.0,0.0,93db269a-3baa-441c-afb6-5e85e1e3da71,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,161,1,1001,,0,0.0,0.0,450722a8-ed6b-44ad-845e-dd86d66b3ff6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,162,1,1001,,0,0.0,0.0,103e83b2-eb4c-4eb2-910d-a8fe65172a18,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2009
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,163,1,1001,,0,0.0,0.0,27c141ff-aaeb-453f-ac3c-157cc5023feb,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,164,1,1001,,0,0.0,0.0,17e3127d-1cbf-4a8d-bee0-03c53546470b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,165,1,1001,,0,0.0,0.0,a5d69c49-01c3-4a34-a0a7-c5cbe0d30d6b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,166,1,1001,,0,0.0,0.0,2ba65e68-c36e-454c-95d1-a8c18b6ad8ef,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2009
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,167,1,1001,,0,0.0,0.0,4b5506e6-0672-46cc-9735-d31a2ff5811e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,168,1,1001,,0,0.0,0.0,2817bbe8-b3c8-4e26-8aec-e4a1cc0c5714,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,169,1,1001,,0,0.0,0.0,071fd2b6-09d1-4681-a99d-5bfd1f610ea1,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/1/2009
+0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,170,1,1001,,0,0.0,0.0,3ca6c422-7eb1-4989-92a1-fdb868548fe6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/1/2009
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,171,1,1001,,0,0.0,0.0,78ce0891-ac95-4136-9a04-c152a7e56b67,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/12/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,172,1,1001,,0,0.0,0.0,e0e8a4ea-d858-47bb-91d3-54c6b0c9002e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/12/2009
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,173,1,1001,,0,0.0,0.0,30216a80-f99a-44e3-ad06-4c97720742d8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/12/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,174,1,1001,,0,0.0,0.0,3befcc55-a1aa-45a9-ad8c-a00f20f2aa6a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/11/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,175,1,1001,,0,0.0,0.0,25d0511a-f759-4910-929e-f5bc9b4cf64f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/11/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,176,1,1001,,0,0.0,0.0,bca16402-64cd-4de8-bba3-30a7129d9ec5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/11/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,177,1,1001,,0,0.0,0.0,c9a67687-c2ce-473e-8b95-5db576e0d01d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/11/2009
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,178,1,1001,,0,0.0,0.0,dabdefc8-13d8-4123-b348-e555f4e33218,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/10/2009
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,179,1,1001,,0,0.0,0.0,66f11974-e945-467f-8eee-5865137bbb22,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/10/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,180,1,1001,,0,0.0,0.0,11853671-62f5-4590-bc34-9e47ec6af971,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/10/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,181,1,1001,,0,0.0,0.0,08b8428d-9127-45ba-a1b4-1f510f40768b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/9/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,182,1,1001,,0,0.0,0.0,76e7cc18-edc4-4159-9410-4cc63d47e065,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/8/2009
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,183,1,1001,,0,0.0,0.0,c141398e-5cca-44b8-9135-390a1fa80175,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/8/2009
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,184,1,1001,,0,0.0,0.0,7afecd3a-b51a-4833-9c82-3f33ee259d41,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/7/2009
+0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,185,1,1001,,0,0.0,0.0,2500e5f0-6c44-41b3-9db3-c05af37bffe7,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/6/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,186,1,1001,,0,0.0,0.0,3f64eeb4-afa0-4474-be7d-370bd073c3b1,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/6/2009
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,187,1,1001,,0,0.0,0.0,799e9941-09d2-4db0-a046-ab6a3038501b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/6/2009
+0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,188,1,1001,,0,0.0,0.0,1c5fa4c2-10db-40de-9655-90dd252ed3a2,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/4/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,189,1,1001,,0,0.0,0.0,9da174e9-e3ed-4650-b03f-0d8f18a88268,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/4/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,190,1,1001,,0,0.0,0.0,be5f2e4b-ca38-41e6-996d-f27d9dfa153b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/4/2009
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,191,1,1001,,0,0.0,0.0,43a7a7be-7af0-437f-96e0-8b1cefe2e46e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/4/2009
+0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,192,1,1001,,0,0.0,0.0,f90c9287-88a8-45ec-9f21-b50df56a9aeb,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/3/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,193,1,1001,,0,0.0,0.0,388bb388-086a-4b98-aa78-7974865fbb72,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/3/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,194,1,1001,,0,0.0,0.0,e4d73f65-3e14-4dda-8e2b-0ac3d8fb576c,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/3/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,195,1,1001,,0,0.0,0.0,0033f2f1-1943-4263-b229-62034099fe8b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/3/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,196,1,1001,,0,0.0,0.0,44f2ba20-b19d-4f53-8405-2835b3ca9101,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/2/2009
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,197,1,1001,,0,0.0,0.0,469f02ae-de45-4212-86a5-40be40002628,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/2/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,198,1,1001,,0,0.0,0.0,0c3e02b8-3dfe-427a-8d83-25c00436ff25,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/2/2009
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,199,1,1001,,0,0.0,0.0,bdab1298-31f6-4242-9e96-5317693d8c2b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/2/2009
+0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,200,1,1001,,0,0.0,0.0,33e5b96e-2b41-4096-a262-a3ae847d1102,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/1/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,201,1,1001,,0,0.0,0.0,e9ca40ee-f8d4-406c-9247-8097c814b626,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/1/2009
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,202,1,1001,,0,0.0,0.0,c3b30cd0-45aa-4a5d-b7ff-7f6c6ea350f3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d' ali-adde,0/1/2009
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,203,1,1001,,0,0.0,0.0,c41dd670-7f1d-4abe-8527-bedf61637fcb,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2010
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,204,1,1001,,0,0.0,0.0,7c126bb1-c0d9-4fda-88f9-e6ac6406d13a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2010
+0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,205,1,1001,,0,0.0,0.0,e5c7b2ee-ea5b-45ae-9c2d-4fd5f91aa47d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2010
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,206,1,1001,,0,0.0,0.0,d70a5202-c04a-4fa1-9b55-46362595a014,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2010
+0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,207,1,1001,,0,0.0,0.0,87a0074d-4217-4c6b-9900-1281844041fd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/9/2010
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,208,1,1001,,0,0.0,0.0,ce51cfa6-1b0c-45c2-b452-eab7312ca2fc,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/9/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,209,1,1001,,0,0.0,0.0,4e7e2f0c-16ca-40d3-9497-c0c951426420,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2010
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,210,1,1001,,0,0.0,0.0,80dd0cd5-7c52-415f-9e32-caa1e229b0ce,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2010
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,211,1,1001,,0,0.0,0.0,a7b393f9-743d-4c50-b068-1cfb341d988d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2010
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,212,1,1001,,0,0.0,0.0,40200f80-c659-4929-bc2d-90e25ccf33a8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2010
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,213,1,1001,,0,0.0,0.0,60eaabfa-c864-4071-9571-391aba4454df,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/6/2010
+0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,214,1,1001,,0,0.0,0.0,0bc59c2e-d1cb-422d-858e-e7bb3d49004f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/6/2010
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,215,1,1001,,0,0.0,0.0,c8bc7c12-5429-453c-be68-2ee9e5da25db,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2010
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,216,1,1001,,0,0.0,0.0,86c642bc-a63c-451e-8a21-f88ba63a10a6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,217,1,1001,,0,0.0,0.0,a984699e-eaed-4d38-9378-eeaad42935de,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2010
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,218,1,1001,,0,0.0,0.0,82a38674-0c5f-4c2d-9ac5-02388dc77f36,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2010
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,219,1,1001,,0,0.0,0.0,7da362d7-4866-4fbb-91f6-0febb07ed4d1,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2010
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,220,1,1001,,0,0.0,0.0,f129642a-1d0e-4111-a2ab-769499fddad9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2010
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,221,1,1001,,0,0.0,0.0,ba8cb53f-e283-44b6-9c34-cd352c01112b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2010
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,222,1,1001,,0,0.0,0.0,f0b62868-7329-4ba3-9c36-a91065e575b5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/2/2010
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,223,1,1001,,0,0.0,0.0,bdecd694-b3d8-41ac-89b7-e82df6791d64,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/1/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,224,1,1001,,0,0.0,0.0,d93b5ecc-bd42-4cbe-bd67-d334094162a3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/1/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,225,1,1001,,0,0.0,0.0,f3eb20af-a694-4aa0-b125-ca28c7ce4e00,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/12/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,226,1,1001,,0,0.0,0.0,4e3e9235-561e-45b9-b7cf-4cc7bf46ce32,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/11/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,227,1,1001,,0,0.0,0.0,30100dc6-8a65-422c-8743-c1e5cba9116d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/10/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,228,1,1001,,0,0.0,0.0,cda885c3-9dd6-4bcd-a2db-f454ab428d49,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/9/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,229,1,1001,,0,0.0,0.0,984df0f7-e3b6-4724-8e8b-0fd166b03640,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/9/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,230,1,1001,,0,0.0,0.0,e8b6b404-38ae-4c9b-a995-083307c83b1c,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/8/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,231,1,1001,,0,0.0,0.0,eea109c4-15ea-4962-b94f-4227d60002fe,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/7/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,232,1,1001,,0,0.0,0.0,a8fec66c-04cf-48f7-8369-1f328c54118a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/5/2010
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,233,1,1001,,0,0.0,0.0,4fd75ba4-2b77-4052-b33f-5b74928c20e4,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/4/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,234,1,1001,,0,0.0,0.0,dca842c1-f28f-4136-83a7-67ab3781ce75,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/3/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,235,1,1001,,0,0.0,0.0,80073364-44e6-4369-97d6-a400c273f2a3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/2/2010
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,236,1,1001,,0,0.0,0.0,316f56ce-2d29-40c7-a877-a7015813d6e6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Holl-holl,0/1/2010
+0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,237,1,1001,,0,0.0,0.0,8b4ef8a8-6337-4559-81d5-bb01ee93fe23,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/12/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,238,1,1001,,0,0.0,0.0,16e72b58-b60c-4f8f-9ba3-bab4f98cb43f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/11/2010
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,239,1,1001,,0,0.0,0.0,2d48d620-2271-4ee3-bb32-9829cc28195b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/10/2010
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,240,1,1001,,0,0.0,0.0,36439441-8e37-4189-9386-f8139461fe37,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/9/2010
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,241,1,1001,,0,0.0,0.0,7bf5d774-466a-4c68-9dbb-d5ea5a031d36,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/8/2010
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,242,1,1001,,0,0.0,0.0,9e16f5a8-0c4c-4285-afb8-b7c4753d74a2,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/7/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,243,1,1001,,0,0.0,0.0,d0c140db-b276-456a-b20c-eb23a31552a3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/8/2010
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,244,1,1001,,0,0.0,0.0,e5aa7696-a55f-4f87-a16b-745941201a46,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/6/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,245,1,1001,,0,0.0,0.0,c53950d3-06c2-46b8-8ef3-60586a704286,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de Goubetto,0/1/2010
+38,11,0,0,0,0,0,0,4,0,0,0,0,0,0,0,246,1,1020,,0,0.0,0.0,9964bd6c-6071-4fda-864e-5761624895a8,Ali Sabieh,guestir,,INONDATION,guestir,0/2/1986
+30,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,247,1,1001,,0,0.0,0.0,5c3d3985-bdc2-4861-a578-be5acf3c5672,Ali Sabieh,ali-sabieh,,VAGUE DE CHALEUR,"araha,guestir,assamod",0/5/1986
+180,2,0,0,0,0,0,0,2,0,0,0,0,0,180,0,248,1,1020,,0,0.0,0.0,bf8191a4-2469-4765-9a4d-3bec9660d0f4,Ali Sabieh,guestir,,TEMPÊTE,guestir,0/2/1985
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,22,0,249,1,1020,,0,0.0,0.0,53969e38-e2f0-44d1-9574-fb92ba77726c,Ali Sabieh,guestir,,VAGUE DE FROID,darbiya,0/4/1985
+13,7,0,0,0,5,7,0,0,0,0,0,0,0,150,0,250,1,1092,,0,0.0,0.0,04f884aa-c31d-4f4b-b750-b702aba7feae,Ali Sabieh,ali-adde,,ATTAQUE ANIMAL,goddawo,0/3/1984
+9,0,0,0,0,9,100,0,0,0,0,0,0,0,1253,0,251,1,1020,,0,0.0,0.0,e11c2890-dc43-490f-8167-920701c10b9b,Ali Sabieh,guestir,,VAGUE DE FROID,guestir,0/1/1983
+4,0,7,0,0,0,174,0,0,0,0,0,0,0,0,0,253,1,1001,,0,0.0,0.0,4612f386-7636-490a-84ae-0a74fc89f63d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/0/2006
+3,0,0,0,0,0,205,0,0,0,0,0,0,0,0,0,254,1,1001,,0,0.0,0.0,08f2b735-17c5-4590-941d-3cad061b8527,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/0/2008
+6,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,255,1,1001,,0,0.0,0.0,6ec4438f-b0cc-4c71-b6ea-b7ece57d4538,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/0/1999
+5,0,0,0,0,0,255,0,0,0,0,0,0,0,0,0,256,1,1001,,0,0.0,0.0,52b3cbc7-04ab-4691-9971-fd3248e0b8fc,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,hopital ali-sabieh,0/0/2002
+5,0,0,0,0,0,276,0,0,0,0,0,0,0,0,0,257,1,1001,,0,0.0,0.0,b0a58df5-b57c-4e1e-9c6a-fc643ce0a71d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,hopital ali-sabieh,0/0/2003
+5,0,0,0,0,0,171,0,0,0,0,0,0,0,0,0,258,1,1001,,0,0.0,0.0,d9ae2d84-4d72-4ba4-91ee-294dc6576a74,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,hopital ali-sabieh,0/0/2005
+4,0,7,0,0,0,141,0,0,0,0,0,0,0,0,0,259,1,1001,,0,0.0,0.0,be25a002-5cf6-4c41-94a7-9cb1e200b912,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,hopital ali-sabieh,0/0/2007
+4,4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,262,1,1001,,0,0.0,0.0,182fc037-ffb3-4e01-82e6-429d25cf0b13,Ali Sabieh,ali-sabieh,,ACCIDENT,guellileh,25/2/2009
+2,8,0,0,0,6,0,0,0,0,0,0,0,0,0,0,263,1,1001,,0,0.0,0.0,780f5131-3d1c-45c9-add5-2490935157e3,Ali Sabieh,ali-sabieh,,ACCIDENT,iskutir,0/9/2008
+10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,264,1,1001,,0,0.0,0.0,fd9ff7ba-b9ff-4b5a-9a0a-5fb682db8a7d,Ali Sabieh,ali-sabieh,,ACCIDENT,iskutir,0/7/2010
+1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,266,1,1001,,0,0.0,0.0,fad63d6f-5526-4c5b-bd8c-c65d20e52c4e,Ali Sabieh,ali-sabieh,,ACCIDENT,ali-sabieh,0/2/2005
+0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,267,1,1001,,0,0.0,0.0,75e4bbf0-6077-4282-9e39-ee464db0cd3b,Ali Sabieh,ali-sabieh,,PLUIES EXTREME,ali-sabieh,3/5/2005
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,268,1,1001,,0,0.0,0.0,9eb9cc58-0090-4ca4-8166-8d4a684653ed,Ali Sabieh,ali-sabieh,,PLUIES EXTREME,ali-sabieh,0/4/2004
+0,3,0,0,0,0,0,0,0,0,0,0,0,2,13,0,269,1,1001,,0,0.0,0.0,17bfccde-38c6-4668-af36-4f203ef1ac67,Ali Sabieh,ali-sabieh,,PLUIES EXTREME,ali-sabieh,10/8/2004
+1,13,0,0,0,0,2,0,7,0,0,0,0,0,0,0,270,1,1001,,0,0.0,0.0,11d26741-b627-44b1-9240-2c18104bac8e,Ali Sabieh,ali-sabieh,,ACCIDENT,petit barra,1/11/2003
+7,0,0,0,0,0,250,0,0,0,0,0,0,0,480,0,271,1,1001,,0,0.0,0.0,467397ce-aea9-4338-b5d4-50c516818b39,Ali Sabieh,ali-sabieh,,SÉCHERESSE,ali-sabieh,0/0/2001
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,273,1,1001,,0,0.0,0.0,d8aca359-1f5b-4d29-9f37-6c0f653a41ab,Ali Sabieh,ali-sabieh,,INONDATION,barra jmaleh,0/4/1991
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274,1,1001,,0,0.0,0.0,7bf5feb2-4b5e-4530-ad00-74dbb54eabed,Ali Sabieh,ali-sabieh,,ACCIDENT,barra ,0/5/1991
+86,54,0,0,0,0,11,0,54,0,0,0,0,0,0,0,275,1,1001,,0,0.0,0.0,25e77610-789f-466a-a4d4-49eed7317eba,Ali Sabieh,ali-sabieh,,ACCIDENT,guellileh,0/2/1990
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,277,1,1001,,0,0.0,0.0,cc136066-e96f-4ad7-b096-a3c666aa0319,Ali Sabieh,ali-sabieh,,ATTAQUE ANIMAL,doulad,0/0/1989
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0,279,1,1001,,0,0.0,0.0,adc1eac5-3a37-4be0-9f57-aebbb10aa209,Ali Sabieh,ali-sabieh,,ATTAQUE ANIMAL,gued baladan,3/3/1985
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,280,1,1001,,0,0.0,0.0,f9ec311b-6983-4ec8-b972-089ac38ecacd,Ali Sabieh,ali-sabieh,,FOUDRE,hanmalay,0/0/1983
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,90,0,281,1,1001,,0,0.0,0.0,3b6932ff-946e-47c8-be54-77f3cf5ca8fa,Ali Sabieh,ali-sabieh,,INONDATION,gued baladan,0/1/1982
+3,2,0,0,0,0,0,0,2,0,0,0,0,0,47,0,286,1,1001,,0,0.0,0.0,a74c6661-54b7-40c3-9474-4389e7188257,Ali Sabieh,ali-sabieh,,ATTAQUE ANIMAL,haysamal,8/3/1987
+5,2,0,0,0,0,0,0,1,0,0,0,0,11,172,0,288,1,1001,,0,0.0,0.0,1978fff8-723b-4c8e-833c-794aac873fa2,Ali Sabieh,ali-sabieh,,INONDATION,ali-sabieh,20/11/1994
+0,35,0,0,0,0,0,0,4,0,0,0,0,0,0,0,289,1,1001,,0,0.0,0.0,4e2fa3cb-d68b-4f2c-88c8-4762bd6a9846,Ali Sabieh,ali-sabieh,,TEMPÊTE,ali-sabieh,3/5/2005
+30,0,0,0,0,30,30,0,0,0,0,0,0,0,90,0,290,1,1001,,0,0.0,0.0,ef0f6e69-421b-4494-b3d1-6ce3f265cfb2,Ali Sabieh,ali-sabieh,,VAGUE DE CHALEUR,ali-sabieh,0/0/1986
+0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,463,2,,,0,0.0,0.0,01adea58-d0d0-4073-9a80-5731b6935715,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/8/2009
+1,0,0,0,0,1,1,0,0,0,0,0,0,2,380,0,291,1,1001,,0,0.0,0.0,84512506-7bf3-489d-96b4-135658210a7c,Ali Sabieh,ali-sabieh,,TEMPÊTE,ali-sabieh,0/9/2011
+2,0,0,0,0,2,2,0,0,0,0,0,0,3,80,0,292,1,1001,,0,0.0,0.0,708c6202-1103-4bae-9fb0-382b47b5b371,Ali Sabieh,ali-sabieh,,PLUIES EXTREME,"assamo,guestir et arrey",14/4/2007
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,293,1,1001,,0,0.0,0.0,b45edb6d-c6d5-42c3-b434-59bf37317751,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/11/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,294,1,1001,,0,0.0,0.0,4b2cd0a7-b821-4f08-9aaa-4caf8673ea91,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/11/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,295,1,1001,,0,0.0,0.0,73753781-a471-46b3-8cfb-ab770324beac,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/3/2011
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,296,1,1001,,0,0.0,0.0,43820006-e727-4494-b7f5-e808d4be82e5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/12/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,297,1,1001,,0,0.0,0.0,d4449fcb-9190-4a5c-8831-bd7eb9cacbea,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/12/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,298,1,1001,,0,0.0,0.0,bd0f8523-89d0-4f9b-a889-84ee535f51da,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/7/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,299,1,1001,,0,0.0,0.0,53e29869-71ee-4ab9-ba55-b3227a3f6a97,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/9/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,300,1,1001,,0,0.0,0.0,b92a17d5-bc76-48f1-aca9-e8dc843c93b6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/9/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,301,1,1001,,0,0.0,0.0,a7bd4ff0-2ec7-448f-9874-0715f14d0292,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/10/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,302,1,1001,,0,0.0,0.0,92ad7d7f-2f29-432f-8a77-436a3f1d67f8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/10/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,303,1,1001,,0,0.0,0.0,b4872044-429c-4845-a689-7d54ea8c9022,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/10/2011
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,304,1,1001,,0,0.0,0.0,575e5d7a-cac2-49ce-8b36-d9f4fe1dcaa6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/7/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,305,1,1001,,0,0.0,0.0,28f803bf-b400-4d1a-9852-61f0ed445ee7,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/8/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,306,1,1001,,0,0.0,0.0,6a842e37-35f6-4ed0-82c3-2aecab446d1e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/8/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,307,1,1001,,0,0.0,0.0,8b10a6a4-adc9-4ac2-a085-cf62302689cf,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/8/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,308,1,1001,,0,0.0,0.0,97a7fa51-75b8-427f-b0e6-3a7510acbee9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/8/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,309,1,1001,,0,0.0,0.0,086c99e6-ca7c-4dda-80f8-39ec58bc5c60,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/10/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,310,1,1001,,0,0.0,0.0,6f2fefce-7231-4911-9331-5ee5465f446c,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/10/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,311,1,1001,,0,0.0,0.0,4bcb196c-3ab6-494f-8b47-e5326c7b78d0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo et ali-sabieh,0/12/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,312,1,1001,,0,0.0,0.0,fd14601e-0f3b-4885-9f5d-1b27b389a1eb,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/4/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,313,1,1001,,0,0.0,0.0,927b442a-0704-4982-a04c-875be99367db,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/5/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,314,1,1001,,0,0.0,0.0,41da9d90-adcd-46c7-b0c4-b47ff4d8bd17,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/5/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,315,1,1001,,0,0.0,0.0,b794b41f-ac23-4322-b2b0-5911cc229eb3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/6/2011
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,316,1,1001,,0,0.0,0.0,3b42345c-504e-4b2e-b79e-95d0cbf4fc94,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,assamo,0/5/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,317,1,1001,,0,0.0,0.0,573c780b-c110-450a-b662-96f543be19fa,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/6/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,318,1,1001,,0,0.0,0.0,a761e2be-dbc7-4c68-868a-4243cca72a61,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/6/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,319,1,1001,,0,0.0,0.0,d23a35d6-21f0-4cfd-b8fb-340d503fbe8f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/7/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,320,1,1001,,0,0.0,0.0,3f0cb8c5-a21d-4a9e-ac1a-5c23e0e2b922,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/7/2009
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,321,1,1001,,0,0.0,0.0,402c338f-4410-4588-a9ca-3437c0d2e480,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/4/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,322,1,1001,,0,0.0,0.0,37971b8c-e333-4681-9ee2-ddf39f57b241,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/4/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,323,1,1001,,0,0.0,0.0,7032969b-4e7c-4e55-847b-5bbe69a8aaf6,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/5/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,324,1,1001,,0,0.0,0.0,d7ee32c8-5670-415b-8c45-423ca35ad898,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/7/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,325,1,1001,,0,0.0,0.0,f335d057-8766-4e5e-87a4-b2158cd6ce9b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/4/2009
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,326,1,1001,,0,0.0,0.0,3f25c24e-e1e0-4c50-8e4a-e4cef7c095aa,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/3/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,327,1,1001,,0,0.0,0.0,7a8c0466-86a1-4ead-ae3f-b1a4fca3d998,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/3/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,328,1,1001,,0,0.0,0.0,5ee3dce1-7b26-4ef7-9df2-d22c59708e6a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/3/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,329,1,1001,,0,0.0,0.0,7404c239-c21b-462c-8dbd-509d528a6bfd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/1/2009
+0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,330,1,1001,,0,0.0,0.0,4f8b51f3-85fa-43a9-bf6a-f7e7e6f12d54,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,ali-sabieh,0/1/2009
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,331,1,1001,,0,0.0,0.0,fcdf1158-0857-4fc9-97cd-4934790e049e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,332,1,1001,,0,0.0,0.0,c5f0b01e-a4c3-43f8-8923-89404edd5b56,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2011
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,333,1,1001,,0,0.0,0.0,00cb62fd-f70d-4caf-baf5-719968d066dd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/12/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,334,1,1001,,0,0.0,0.0,40eaf578-7e24-4c36-a107-6461bfa29f67,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/11/2011
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,335,1,1001,,0,0.0,0.0,d1c8d5b2-4b23-4e0d-a93a-b9e5cbfcf847,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,336,1,1001,,0,0.0,0.0,eda3c373-eaec-4d43-b79a-8132b77e341b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/10/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,337,1,1001,,0,0.0,0.0,6c047bd6-48dc-42d7-bff5-eeba20efabba,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/9/2011
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,338,1,1001,,0,0.0,0.0,f5102051-1734-4512-b169-b7322fd624e0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,339,1,1001,,0,0.0,0.0,8b39435d-8667-41eb-849f-92d45e261ff0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/8/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,340,1,1001,,0,0.0,0.0,c54a6ba0-1668-4ed8-b87d-b0c9389fc36a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/7/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,341,1,1001,,0,0.0,0.0,83bb252c-6823-47d0-bc6e-4b38de3d3a39,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/5/2011
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,342,1,1001,,0,0.0,0.0,95fa06e5-f92f-4082-b639-7ab29e2a3b76,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,343,1,1001,,0,0.0,0.0,d282e088-14a7-4f03-ae98-74de74a9e3db,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/4/2011
+0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,344,1,1001,,0,0.0,0.0,00a1b019-cec5-47b1-ab6b-b64cfe75e464,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/3/2011
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,345,1,1001,,0,0.0,0.0,8d0950c6-7d45-45d4-94e5-c711c8374195,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/2/2011
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,346,1,1001,,0,0.0,0.0,0719e0dc-1c05-4348-bebc-5a90faedb3af,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,CMH d' ali-sabieh,0/1/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,347,1,1001,,0,0.0,0.0,c6ee91d9-1cd5-4e50-85f5-f5e28ad6dc0e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/12/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,348,1,1001,,0,0.0,0.0,6f36e5ac-5f54-4d1c-b6a9-783bd8a2c03d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/11/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,349,1,1001,,0,0.0,0.0,db2f1f3c-7538-451c-9451-bf57d9da3e20,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/10/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,350,1,1001,,0,0.0,0.0,b298819d-87b7-4c30-a3bc-f3cabe7d4229,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/10/2011
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,351,1,1001,,0,0.0,0.0,e84bbbf8-9810-4646-904c-34d5d85ce255,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/9/2011
+0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,352,1,1001,,0,0.0,0.0,dd3bb526-9b26-4275-9e8c-d5efda8738c0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/8/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,353,1,1001,,0,0.0,0.0,5d9e2177-7181-4ac4-a1df-315d478ae899,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/7/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,354,1,1001,,0,0.0,0.0,95888f04-c693-4a61-b516-5f2a774563b0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/7/2011
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,355,1,1001,,0,0.0,0.0,0bf219c6-5ace-4db0-aa6c-3217b4e3ab9d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/6/2011
+0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,356,1,1001,,0,0.0,0.0,b2616445-3768-4c4c-ad3f-6ca1d40a7b0e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/5/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,357,1,1001,,0,0.0,0.0,b35c5faf-c3ee-4b3c-9e3c-a1481fda47b3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/4/2011
+0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,358,1,1001,,0,0.0,0.0,561892bd-f8a3-45ee-9b0c-68d77995f7cd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/3/2011
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,359,1,1001,,0,0.0,0.0,2309fbc0-36c3-44d4-9f1c-28dc90561c7f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/2/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,360,1,1001,,0,0.0,0.0,ace5c0d6-00da-48fd-926d-688e2c47fa0f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'assamo,0/1/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,361,1,1001,,0,0.0,0.0,277913af-d795-44c6-9693-ab1a5b1edc93,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/12/2011
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,362,1,1001,,0,0.0,0.0,790eb4ae-571e-487c-b523-0fa1308a2b4b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/12/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,363,1,1001,,0,0.0,0.0,2fd6be43-4de6-40db-985b-7bb4a7181a17,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/11/2011
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,364,1,1001,,0,0.0,0.0,e962d88f-5f65-4a04-8744-00d00ce92903,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/11/2011
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,365,1,1001,,0,0.0,0.0,7c4a2932-9b6f-4434-9fc2-188e9e52ff23,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/11/2011
+0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,366,1,1001,,0,0.0,0.0,75016737-63f8-4284-bec9-3765262b565a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/10/2011
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,367,1,1001,,0,0.0,0.0,5713aea3-03e3-40b7-b0d9-0140e66b55b5,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/10/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,368,1,1001,,0,0.0,0.0,51cf5785-93b4-4156-8b8f-dd82d6e072fa,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/10/2011
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,369,1,1001,,0,0.0,0.0,b0b58f67-2cf4-490c-a4aa-d2767ee2506d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/9/2011
+0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,370,1,1001,,0,0.0,0.0,80789309-9720-462f-8e9a-707f187d3c2e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/8/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,371,1,1001,,0,0.0,0.0,1f49d134-c32c-40fa-a4a6-304aee0b2ab0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/8/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,372,1,1001,,0,0.0,0.0,357d2646-c10c-4672-bb77-2616bc5cdbc7,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/8/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,373,1,1001,,0,0.0,0.0,c08177be-4b96-4ca0-9874-6f0b806d9799,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/6/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,374,1,1001,,0,0.0,0.0,259c6920-2dc7-4fa9-900f-d78a6fa87136,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/6/2011
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,375,1,1001,,0,0.0,0.0,edb424f2-e444-47ad-8360-60f4ab7b8fc0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/5/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,376,1,1001,,0,0.0,0.0,ccb3f2d9-c599-48a5-be55-644acd367040,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/5/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,377,1,1001,,0,0.0,0.0,4e6d719f-f840-4e8a-91ee-f008f9016a06,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/4/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,378,1,1001,,0,0.0,0.0,b92bef28-58a1-46e2-a00e-e840aa8b628d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/4/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,379,1,1001,,0,0.0,0.0,5bfc5097-f092-44b6-bb92-fbda2ad1834d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/2/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,380,1,1001,,0,0.0,0.0,e08040b3-ac0d-47da-94d1-8cb6e3bac709,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/2/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,381,1,1001,,0,0.0,0.0,27a42081-ad96-40ce-a254-d6a232f73159,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/1/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,382,1,1001,,0,0.0,0.0,92b3fa61-ed6c-40db-8361-3e91546f4d11,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS d'ali-addé,0/1/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,383,1,1001,,0,0.0,0.0,98ec57e8-a813-4fa7-a9b8-d3aa5c725e79,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/12/2011
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,384,1,1001,,0,0.0,0.0,d5f50981-7596-4fac-a265-c74be37c7b64,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/12/2011
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,385,1,1001,,0,0.0,0.0,cfcc7232-52bd-48ac-b830-def1276c9407,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/10/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,386,1,1001,,0,0.0,0.0,99aee656-ee2a-4fd2-b498-7fc725846ba7,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/10/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,387,1,1001,,0,0.0,0.0,fbf32504-9ebf-4361-a9e6-46d555867968,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/9/2011
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,388,1,1001,,0,0.0,0.0,a69e9978-be62-4640-a40c-7b652052bc43,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/9/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,389,1,1001,,0,0.0,0.0,c564af25-ec3d-4c13-911c-afd0230eb6de,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/8/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,390,1,1001,,0,0.0,0.0,6d67bbd9-277d-49bf-bb2d-6f29f8ee964d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/7/2011
+0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,391,1,1001,,0,0.0,0.0,7aad1e77-6a0d-4ba6-ace0-ee3b867db1b0,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/7/2011
+0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,392,1,1001,,0,0.0,0.0,85f9fa5f-74ec-4c31-972d-e2d88af2e1bc,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/6/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,393,1,1001,,0,0.0,0.0,029972fc-b31f-4d70-bb08-4b3d0f536363,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/6/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,394,1,1001,,0,0.0,0.0,12ecebe2-af63-4d39-9450-495e925fe766,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/5/2011
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,395,1,1001,,0,0.0,0.0,887b7a8e-6759-49b0-9afe-c88da04b947d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/5/2011
+0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,396,1,1001,,0,0.0,0.0,c1ed4cff-904a-44fe-80e1-b615b8d68ae7,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/4/2011
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,397,1,1001,,0,0.0,0.0,cde312a6-cde3-498f-aa9f-1b2bbcec2e84,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/4/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,398,1,1001,,0,0.0,0.0,942a8fa5-7204-42fd-a0ee-7f48840d031f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/3/2011
+0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,399,1,1001,,0,0.0,0.0,f12e37d2-ab9b-4424-b139-00d2ce515a6f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/3/2011
+0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,400,1,1001,,0,0.0,0.0,0e5a5681-a58e-4aa0-ba27-3e37ef4e348b,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/2/2011
+0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,401,1,1001,,0,0.0,0.0,3fbce627-0957-4cec-99b2-dc6d01ff9a6d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/1/2011
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,402,1,1001,,0,0.0,0.0,4abebd64-35bc-4cbd-8899-885252cd7e2d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de dasbio,0/1/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,403,1,1001,,0,0.0,0.0,5a92435d-41b6-4893-be39-1561a5d72cf8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/11/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,404,1,1001,,0,0.0,0.0,cd5d81f7-1416-44f7-9ee3-af09445adfd9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/11/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,405,1,1001,,0,0.0,0.0,e0445afa-64d4-4b75-8847-6dc61d2cbe9a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/10/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,406,1,1001,,0,0.0,0.0,5cadbdc7-273c-47b5-bf27-7e8a8192c9de,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/10/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,407,1,1001,,0,0.0,0.0,94402ad5-c77f-4bdc-b3e1-460a768c651f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/9/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,408,1,1001,,0,0.0,0.0,7f606460-042f-4a74-90b4-09d22a4243c7,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/8/2011
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,409,1,1001,,0,0.0,0.0,570c0e38-7b77-4192-8791-1bbc37f95bbe,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/7/2011
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,410,1,1001,,0,0.0,0.0,22323735-2ddb-425e-ad6d-11a21c8ad0aa,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/6/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,411,1,1001,,0,0.0,0.0,1b85473b-1679-467b-ae04-ce2ae0ea3f6e,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/5/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,412,1,1001,,0,0.0,0.0,16dc3762-5a9f-48fd-84ed-f819e5453374,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/4/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,413,1,1001,,0,0.0,0.0,b4a69eed-0f1c-4782-af35-b0a61ae6eca9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/3/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,414,1,1001,,0,0.0,0.0,ea7cb9da-f55a-4a95-9407-ba2995a0d85a,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/2/2011
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,415,1,1001,,0,0.0,0.0,ac5e85a0-3447-436e-bf90-b4a79060b8df,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS holl-holl,0/2/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,416,1,1001,,0,0.0,0.0,1ccf0cfd-8450-414b-802d-99313e3f2d59,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de holl-holl,0/1/2011
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,417,1,1001,,0,0.0,0.0,97f9f9a0-681d-4a48-adc8-88d3561133b3,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/11/2011
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,418,1,1001,,0,0.0,0.0,8b1ca07c-8515-43a7-957d-6a82c0e46699,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/10/2011
+0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,419,1,1001,,0,0.0,0.0,6c230227-95a7-45f2-88ef-2115fe104699,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/9/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,420,1,1001,,0,0.0,0.0,3c6c6ff9-4a1d-4af1-9215-c216ca7587db,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/9/2011
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,421,1,1001,,0,0.0,0.0,85173e12-c9cf-4465-a8b7-367a8e4ea529,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/8/2011
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,422,1,1001,,0,0.0,0.0,55d9d61f-b488-4fa5-9adb-d44f86254d57,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/8/2011
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,423,1,1001,,0,0.0,0.0,900f7dcd-e1a0-44be-a07c-bb1afde75388,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/7/2011
+0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,424,1,1001,,0,0.0,0.0,1af7f737-0333-46c7-afa0-67dbf542ac51,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/6/2011
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,425,1,1001,,0,0.0,0.0,85edf001-519d-43c0-94eb-ee4afd0b3e5f,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/5/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,426,1,1001,,0,0.0,0.0,e5442207-151e-4dc1-90b0-decf5f77dcfd,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/4/2011
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,427,1,1001,,0,0.0,0.0,4a927dae-6a8d-48fc-8c26-7c2587099384,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/3/2011
+0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,428,1,1001,,0,0.0,0.0,89951d93-0455-4c47-883a-d16bbc321bd9,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/2/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,429,1,1001,,0,0.0,0.0,e2662373-9829-4648-87c6-f59ec1aef189,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/2/2011
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,430,1,1001,,0,0.0,0.0,3013cad5-f9bf-4af3-914f-7250d8634308,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,PS de goubetto,0/1/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,431,1,1001,,0,0.0,0.0,9f2362f9-f918-4937-a21d-1de86630fa94,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/12/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,532,2,,,0,11.5011209,42.86013249999996,f6157fb1-9741-4eb7-b08c-00e10f369efd,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,432,1,1001,,0,0.0,0.0,2d4a8898-642f-42c2-bde4-14a4beaf2d95,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/12/2011
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,433,1,1001,,0,0.0,0.0,e91eb064-e286-4c5a-af19-2575d19fda15,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/11/2011
+0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,434,1,1001,,0,0.0,0.0,e8900721-c2df-45b7-b488-409d0bcbf159,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/11/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,435,1,1001,,0,0.0,0.0,a28b3e76-5c08-4ddf-9e1b-393e167ca07d,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/10/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,436,1,1001,,0,0.0,0.0,54abe819-5804-486a-ad67-3d2e8b3b3f61,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/9/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,437,1,1001,,0,0.0,0.0,0be07a8f-89d9-4f21-bb49-8c57d7bed8e8,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/8/2011
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,438,1,1001,,0,0.0,0.0,a2ab3e31-7454-49f6-91ea-dbd0f8bd35db,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/7/2011
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,439,1,1001,,0,0.0,0.0,a775de8d-4cca-40fe-92ce-7481eb099077,Ali Sabieh,ali-sabieh,,ÉPIDÉMIE,centre de soin de guestir,0/6/2011
+0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,440,2,,,0,0.0,0.0,8bcb6d95-c206-4f8b-b5cd-4096cb9ffb0c,ARTA,ARTA,,TEMPÊTE,ARTA,6/8/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,441,2,,,0,0.0,0.0,25513389-5271-40e2-b643-15dfa7a2adeb,ARTA,ARTA,,TEMPÊTE,WEA,6/8/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,442,2,,,0,0.0,0.0,1f76358e-5251-4cbd-bef4-6246baeb8d79,ARTA,ARTA,,TEMPÊTE,CONSEIL REGIONALE,13/8/2010
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,443,2,,,0,0.0,0.0,8035fd54-3e36-465b-ae4e-ebf7d9e671b1,ARTA,ARTA,,ÉPIDÉMIE,CMH D' ARTA,0/1/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,444,2,,,0,0.0,0.0,09cf084b-a45f-45ac-852e-49edc8b1ee14,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/2/2009
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,445,2,,,0,0.0,0.0,55426d07-6389-437d-9c43-185828f544ae,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,446,2,,,0,0.0,0.0,e2119d19-d1ba-4a47-93f3-a0dba173e3d7,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2009
+0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,447,2,,,0,0.0,0.0,e29ef312-e3c8-4a53-a225-a8ff5af679ec,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,448,2,,,0,0.0,0.0,5c6cbb42-ddf0-42fa-ab04-b04b7d13daf1,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2009
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,449,2,,,0,0.0,0.0,e2facd62-40c8-4bd5-9951-fc1d7a1f8dc5,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,450,2,,,0,0.0,0.0,cefed7fc-158f-4c41-b7a9-ae750d9d16ae,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2009
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,451,2,,,0,0.0,0.0,2bec609c-4f60-495b-8628-056e9d5dfcef,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,452,2,,,0,0.0,0.0,0059acac-a446-48e1-85ef-710423d01c02,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2009
+0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,453,2,,,0,0.0,0.0,e08f9686-54f5-4ab9-8743-a2081a71da8c,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2009
+0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,454,2,,,0,0.0,0.0,2524ab0d-5942-4414-ac1c-80015ec299a5,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,455,2,,,0,0.0,0.0,cc7b2edb-9721-4b47-a0fb-8c57e91c96e1,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,456,2,,,0,0.0,0.0,1e938325-0166-4703-961e-bacbe44f217e,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2009
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,457,2,,,0,0.0,0.0,61345942-6602-48b9-a493-412296155614,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2009
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,458,2,,,0,0.0,0.0,3742a287-0868-4a56-9340-2f30201984e0,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/2/2009
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,459,2,,,0,0.0,0.0,2d60b183-ac67-4e69-9a8f-4636b5e1252c,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2009
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,460,2,,,0,0.0,0.0,cd7d6db2-82bd-4f02-bc0c-0c512491967e,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/5/2009
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,461,2,,,0,0.0,0.0,2b361c42-0633-45e5-95a3-0a38a671eee7,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/6/2009
+0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,462,2,,,0,0.0,0.0,a4147260-5f62-4a02-8feb-f352d55b5114,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/7/2009
+0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,464,2,,,0,0.0,0.0,3c2df312-2268-4024-8533-55c218abacbe,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/9/2009
+0,0,0,0,0,0,83,0,0,0,0,0,0,0,0,0,465,2,,,0,0.0,0.0,1d69c97c-724f-4cc7-97d1-02fdccb41993,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2009
+0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,466,2,,,0,0.0,0.0,c4cfb1c8-e897-469c-8f2d-830078f3fb0a,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2009
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,467,2,,,0,0.0,0.0,b49c6709-6a18-46cf-a309-858a16512e42,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/12/2009
+0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,468,2,,,0,0.0,0.0,e14bcf84-3d0e-40e0-b692-5e7308c7409f,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/1/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,469,2,,,0,0.0,0.0,6a82cb96-9aa3-4af6-b132-545d0d7fd0d8,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/1/2009
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,470,2,,,0,0.0,0.0,c3b75d6f-4464-4a0c-939f-41a62f62a2cc,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,471,2,,,0,0.0,0.0,feffabf5-0fce-431e-b6c9-bff660e5f29f,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2009
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,472,2,,,0,0.0,0.0,f5626dcc-6bee-4845-bccb-da2b91eb56a0,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,473,2,,,0,0.0,0.0,f9d83863-71e3-4f25-a978-8210346aeb1b,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,474,2,,,0,0.0,0.0,d62b77e3-191b-4620-9775-628ee58d429d,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2009
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,475,2,,,0,0.0,0.0,fba70db6-8d82-40a0-89b5-c58fca5014a0,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/12/2009
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,476,2,,,0,0.0,0.0,4f2898b0-feea-45c6-8165-ed7d36125045,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/12/2009
+0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,477,2,,,0,0.0,0.0,fba5034e-c6ea-4dfb-8fdf-f6dcc2c3e900,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2010
+0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,478,2,,,0,0.0,0.0,972abc4b-8788-4271-95d9-49a78a6a24b0,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2010
+0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,479,2,,,0,0.0,0.0,5da5410e-6013-4640-a1d8-36c59d33c649,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2010
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,480,2,,,0,0.0,0.0,a653a275-f1ef-4d6d-91ac-b863b821fc77,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,481,2,,,0,0.0,0.0,42183ba0-5ea2-49b4-9b23-4005dbd4c42c,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,482,2,,,0,0.0,0.0,3e55a840-fe1b-4520-a05e-29287b08c8cb,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2010
+0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,483,2,,,0,0.0,0.0,f7e62252-52fa-4f28-9f18-d00bdb407649,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,484,2,,,0,0.0,0.0,37ffcd51-a2bd-4578-8d8d-f7c6d65ea50c,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2010
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,485,2,,,0,0.0,0.0,cdebd9ba-9dc2-477e-9cd0-88d4e5f15492,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2010
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,486,2,,,0,0.0,0.0,8a2724c3-3afe-4ec1-bde8-2ade9e8f77c3,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2010
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,487,2,,,0,0.0,0.0,25422228-a50c-4ca2-8b93-61a337cdbce0,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,488,2,,,0,0.0,0.0,663d0cd5-ce82-4b73-b135-05d2194fa883,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2010
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,489,2,,,0,0.0,0.0,1906cd6a-7bce-4e02-bf86-c738ad2927d4,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/2/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,490,2,,,0,0.0,0.0,888704eb-55be-4ded-b46e-ec73b68767b0,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2010
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,491,2,,,0,0.0,0.0,9d02d74f-9e91-4f16-9da2-d9ca80b7caf3,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,492,2,,,0,0.0,0.0,d689fdd6-623e-4e54-aa29-4de607810693,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/7/2010
+0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,493,2,,,0,0.0,0.0,d470ef96-180b-4563-92b1-5e734c17d242,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,494,2,,,0,0.0,0.0,a05e9dc9-cef0-4307-9600-de4c8f786c1f,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2010
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,495,2,,,0,0.0,0.0,768ca5ae-dbb3-4391-b859-28edbc199d67,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,496,2,,,0,0.0,0.0,3b49787b-dfc1-46a2-91c3-fcad6a571179,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/12/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,497,2,,,0,0.0,0.0,e12ba628-d073-47fa-a536-68f430318d87,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/1/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,498,2,,,0,0.0,0.0,a95ead9f-c6b7-415c-ab51-1c6d89068700,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,499,2,,,0,0.0,0.0,da04c952-5d02-434a-a8e8-163b343a6d11,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/3/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,500,2,,,0,0.0,0.0,6ea22d0d-70db-4053-a82f-74315019fe53,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/4/2010
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,501,2,,,0,11.5204799,42.84111000000007,4321dbb6-e4ba-414e-bf4a-3c2b61faba56,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/4/2010
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,502,2,,,0,11.5204799,42.84111000000007,0c73cdae-87be-4070-b0e9-64a9985d02b0,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/6/2010
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,503,2,,,0,11.5204799,42.84111000000007,a71e36ea-f8f6-45cc-8ce5-165549ffedb1,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/7/2010
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,504,2,,,0,11.5204799,42.84111000000007,14963cd1-ce90-4f06-966a-bd3c6e02ab89,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/9/2010
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,505,2,,,0,11.5204799,42.84111000000007,be1ad273-49c4-4d97-a4e0-b4ede6bd3317,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2010
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,506,2,,,0,11.5204799,42.84111000000007,edbb313e-1995-4e91-aa89-07628042adfd,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,507,2,,,0,11.5204799,42.84111000000007,aee12305-77bd-444c-be00-a346be7fb214,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,508,2,,,0,11.5204799,42.84111000000007,df79dec5-999c-4159-8d0b-be367363174a,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2011
+0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,509,2,,,0,11.5204799,42.84111000000007,2e7e83a1-08c9-4c7f-97aa-f6db783009cf,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,510,2,,,0,11.5204799,42.84111000000007,26c06ed0-6bfc-4d66-95f7-00f15da68cac,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,511,2,,,0,11.5204799,42.84111000000007,191cec5a-8250-4f3f-a951-7f4ec84e30aa,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,512,2,,,0,11.5204799,42.84111000000007,c58fbddf-f63f-4076-beb3-0d6c74755c14,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2011
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,513,2,,,0,11.5204799,42.84111000000007,6c36b3cd-3e58-42f3-9914-c52ba39a4fac,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2011
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,514,2,,,0,11.5204799,42.84111000000007,498d6858-4dcf-4e36-ae03-0cf73090e4e7,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2011
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,515,2,,,0,11.5011209,42.86013249999996,4b8e42fc-30fd-4eee-879d-f94ee1fcec56,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/1/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,516,2,,,0,11.5011209,42.86013249999996,ed072876-09bb-4355-ad21-2a4a64438e45,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/2/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,517,2,,,0,11.5011209,42.86013249999996,751487a7-27d1-423f-a580-a15c59082fa8,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2011
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,518,2,,,0,11.5011209,42.86013249999996,cdb8662c-2b0c-4414-b281-34d22b86657e,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,519,2,,,0,11.5011209,42.86013249999996,925ea2bb-7f02-47e4-b280-7d61783029f6,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2011
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,520,2,,,0,11.5011209,42.86013249999996,5fe7e31d-140a-4a77-b43d-5fe37b7bc4cd,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/5/2011
+0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,521,2,,,0,11.5011209,42.86013249999996,e03dc28f-b6de-4b2e-a875-c00e03fd453f,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2011
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,522,2,,,0,11.5011209,42.86013249999996,eb35ec47-f6e4-4706-a01e-33ceb8b3f4d3,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/12/2011
+0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,523,2,,,0,11.5204799,42.84111000000007,c388e6df-f52b-4d7a-8497-d2a7e672d1de,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/9/2007
+0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,524,2,,,0,11.5011209,42.86013249999996,69dfe0e3-3b48-42d2-b3be-9929e8bf2cb4,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/8/2007
+0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,525,2,,,0,11.5011209,42.86013249999996,40beeedd-17da-4694-a00e-eba0fc0fa6ba,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2007
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,526,2,,,0,11.5204799,42.84111000000007,69ecc131-4ba0-42e3-bc63-e0107ebe0a15,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/2/2010
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,527,2,,,0,11.5204799,42.84111000000007,ccd45e03-6b25-492a-8884-dd330c8e13d6,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2010
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,528,2,,,0,11.5204799,42.84111000000007,5423cb62-176b-4a8d-a632-d568af7dfce5,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,529,2,,,0,11.5204799,42.84111000000007,5c9d5b94-1bd6-4951-bcd3-b2541e37866d,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/8/2010
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,530,2,,,0,11.5011209,42.86013249999996,70b8c56a-a777-49d2-b9f7-e3b23ba84d93,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/1/2010
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,531,2,,,0,11.5011209,42.86013249999996,842ed281-044e-4f2d-9e9c-d2c39b4568a3,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2010
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,533,2,,,0,11.5011209,42.86013249999996,1ca40490-3b7b-4a67-bf8c-4889c6e0bf0a,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/9/2010
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,534,2,,,0,11.5011209,42.86013249999996,09eb5065-5e8a-40a2-8f46-0cce2308914e,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2010
+0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,535,2,,,0,11.5011209,42.86013249999996,8864d31b-128a-41a3-91f3-7aec49b8668e,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,536,2,,,0,11.5204799,42.84111000000007,963064ea-69f2-46cc-9403-fd862c004e0b,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2010
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,537,2,,,0,11.5204799,42.84111000000007,0a5694dc-ba50-4434-9247-305a517577ec,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2010
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,538,2,,,0,11.5204799,42.84111000000007,8fd8805a-0b7d-4956-8a3a-b607d624b3c7,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2010
+0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,539,2,,,0,11.5204799,42.84111000000007,0e7764d7-8457-4b5f-ba00-1554c60094b2,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2010
+0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,540,2,,,0,11.5204799,42.84111000000007,fbba43fe-31df-4194-9d44-468707bf8a76,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2010
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,541,2,,,0,11.5204799,42.84111000000007,7422dac4-c4da-4948-8cd2-05363ff2f41a,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,542,2,,,0,11.5204799,42.84111000000007,97a93191-0fb2-42b5-b04f-e90fdab94668,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2010
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,543,2,,,0,11.5204799,42.84111000000007,89b7d9d1-7895-4d05-b818-d118fb6860ec,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2010
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,544,2,,,0,11.5204799,42.84111000000007,e29bd437-a8a9-4da3-ac61-8b73fd420c7c,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/8/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,545,2,,,0,11.5204799,42.84111000000007,d7bf2357-c6ec-46ae-af19-e770b57f2417,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/8/2010
+0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,546,2,,,0,11.5204799,42.84111000000007,07c13f88-f282-4dfb-92a4-c0fb39829adc,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,547,2,,,0,11.5204799,42.84111000000007,d3c20a37-5c92-4924-8df4-d20315a9af8f,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,548,2,,,0,11.5204799,42.84111000000007,494213e7-5afb-4774-b8bf-5364d6b8ffff,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,549,2,,,0,11.5204799,42.84111000000007,48a64b27-6f56-45a0-840b-bd0ee083a13b,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,550,2,,,0,11.5204799,42.84111000000007,e1292d37-f4c0-4d6b-80b3-f7c9ce467fe5,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2010
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,551,2,,,0,11.5204799,42.84111000000007,8fe8bdcb-504d-498e-9be9-75b743befc3a,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2010
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,552,2,,,0,11.5204799,42.84111000000007,590a8a74-6783-4a80-8146-6c3a2e937a5a,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,553,2,,,0,11.5011209,42.86013249999996,09c33a77-516d-4a8c-98ad-b002fc759a04,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/6/2010
+0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,554,2,,,0,11.5011209,42.86013249999996,b1293890-bfea-4b6c-9c49-7c3c7b6688a7,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/5/2010
+0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,555,2,,,0,11.5011209,42.86013249999996,2a0e3a8c-2942-4cd6-a522-f225dce41648,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/9/2010
+0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,556,2,,,0,11.5011209,42.86013249999996,f2a6f077-943a-4671-bd4b-d56877d09e53,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/5/2010
+0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,557,2,,,0,11.5011209,42.86013249999996,b0cfec7e-a8a6-448a-860d-2ce5b9fba9f3,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2010
+0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,558,2,,,0,11.5011209,42.86013249999996,4d692ac7-405b-4add-8506-b3817492862c,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2010
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,559,2,,,0,11.5011209,42.86013249999996,c5cb772c-8e59-43be-896e-6e1dfa0069f6,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,560,2,,,0,11.5011209,42.86013249999996,cdef4922-f311-4bec-9f60-6ac6eb28f9af,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2010
+0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,561,2,,,0,11.5204799,42.84111000000007,1896614e-a311-4144-879a-c622d065d220,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/3/2011
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,562,2,,,0,11.5011209,42.86013249999996,62613d13-dd2d-4d3c-b1b3-d154c89776b5,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/12/2010
+0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,563,2,,,0,11.5204799,42.84111000000007,25b790c8-c5c7-4ad6-8d5d-2e1b4d144876,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/1/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,564,2,,,0,11.5204799,42.84111000000007,9d7a1b7a-fad1-4726-8dc4-e6b84dc854bf,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2010
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,565,2,,,0,11.5204799,42.84111000000007,a1f9399b-d4bd-412e-aa47-d2ef8884c350,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2009
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,566,2,,,0,11.5204799,42.84111000000007,54acae92-b3f9-46fe-ba77-07975b3dadc3,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2009
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,567,2,,,0,11.5204799,42.84111000000007,89269e33-50c5-4e49-93b4-15dee3ffc85d,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/6/2009
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,568,2,,,0,11.5204799,42.84111000000007,4845208b-74b5-4f3c-8522-ac5e414cb6a2,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/8/2009
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,569,2,,,0,11.5204799,42.84111000000007,f35a3c00-29a8-4d63-9c66-e817fffdf32a,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/7/2007
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,570,2,,,0,11.5204799,42.84111000000007,a8d60554-b534-4849-a5f0-633ca3b6230c,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/3/2007
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,571,2,,,0,11.5011209,42.86013249999996,eec91f6d-8165-4738-b691-9884175a892c,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/2/2010
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,572,2,,,0,11.5204799,42.84111000000007,5d3d8f0a-1464-4b94-a113-5a21fe97fdb0,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/3/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,573,2,,,0,11.5204799,42.84111000000007,9388e90e-0419-4c19-ad47-e116c9df5223,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/9/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,574,2,,,0,11.5204799,42.84111000000007,1e8dbcfb-2e61-4a09-b278-dfb2f6d45783,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,575,2,,,0,11.5204799,42.84111000000007,bb6e9c47-0113-4a25-b5be-1ca8db6529a9,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2011
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,576,2,,,0,11.5204799,42.84111000000007,93345c11-d99c-4e21-8487-6a98c9c94f9e,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2011
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,577,2,,,0,11.5204799,42.84111000000007,777db7e5-51f6-49da-b60a-4e14b2dfaf39,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2011
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,578,2,,,0,11.5204799,42.84111000000007,be92591f-27e0-4bfc-9ea3-03010a35fa26,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2011
+0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,579,2,,,0,11.5204799,42.84111000000007,8119d92c-b891-4805-aa63-bee799d4d331,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2011
+0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,580,2,,,0,11.5204799,42.84111000000007,22a9662d-3f5d-42ee-9184-2e62082fdc2b,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/5/2011
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,581,2,,,0,11.5204799,42.84111000000007,1a1a2572-0ad6-49fa-8476-6226d25f6fbb,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2011
+0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,582,2,,,0,11.5204799,42.84111000000007,67650fd9-d732-4a99-9e53-2aaae294209c,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/9/2009
+0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,583,2,,,0,11.5204799,42.84111000000007,74831cc5-b049-4378-b9b7-cf721e38384f,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/8/2009
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,584,2,,,0,11.5204799,42.84111000000007,9fda57a9-0a8a-43dd-a249-45e3042ebaf6,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/4/2009
+0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,585,2,,,0,11.5204799,42.84111000000007,2b3dec4f-1e6e-48e6-a8e5-2c392b1a3562,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/1/2009
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,586,2,,,0,11.5204799,42.84111000000007,c59aaedb-8e72-4c7d-a84e-f6cff3ff3909,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/8/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,587,2,,,0,11.5204799,42.84111000000007,9af52737-036d-49a0-bcb5-542e266a3b03,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/12/2009
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,588,2,,,0,11.5204799,42.84111000000007,57b1f279-89ca-428c-a87f-c5fa799da1e3,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/1/2011
+0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,589,2,,,0,11.5204799,42.84111000000007,ef4752f0-f894-4d42-98a1-3f0dde6827d0,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2011
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,590,2,,,0,11.5011209,42.86013249999996,79218449-5018-477f-b7ad-abc54c9afd48,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2009
+0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,591,2,,,0,11.5204799,42.84111000000007,a91b465b-6720-44e4-9534-413f49f3c4f1,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/8/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,592,2,,,0,11.5204799,42.84111000000007,1fdbbc84-0a0d-4978-9fb3-b010204d4c4b,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2011
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,593,2,,,0,11.5204799,42.84111000000007,7dba77f8-4ab4-49ce-a641-ff756f842b50,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2009
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,594,2,,,0,11.5204799,42.84111000000007,9b1f9894-78f4-48e9-a23e-eb59c3c69fd3,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2009
+0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,595,2,,,0,11.5204799,42.84111000000007,e4b527ad-76f6-41d1-83a4-255ed55fb327,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2009
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,596,2,,,0,11.5204799,42.84111000000007,b4f7981d-929c-4a1e-bcb5-97c627fdde65,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/7/2009
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,597,2,,,0,11.5204799,42.84111000000007,be15e8ca-e9b2-4a0a-ad6c-a132d39a0c42,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2009
+0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,598,2,,,0,11.5204799,42.84111000000007,afad8a66-4b01-4948-95aa-704985229602,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2011
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,599,2,,,0,11.5204799,42.84111000000007,70a81f3c-b57b-47c1-802e-d2dc7f25d58b,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/11/2011
+0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,600,2,,,0,11.5204799,42.84111000000007,a81587c1-8ff5-41a0-84d0-a871c1af7d60,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/5/2009
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,601,2,,,0,11.5204799,42.84111000000007,308d3daf-5a1c-4001-9ef2-18c785958d4e,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2011
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,602,2,,,0,11.5204799,42.84111000000007,f7a2d7bd-50af-4485-8778-711859d22370,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/9/2011
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,603,2,,,0,11.5204799,42.84111000000007,e6d10507-13a3-481d-8cf3-2c109a3cd38f,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2011
+0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,604,2,,,0,11.5204799,42.84111000000007,a3cdec44-ff7e-4e3f-95c1-ae7e341ea19a,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/6/2011
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,605,2,,,0,11.5204799,42.84111000000007,d33d9915-b36e-44f9-a9ea-4034432d910d,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/1/2011
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,606,2,,,0,11.5204799,42.84111000000007,1ea60302-9ddb-499a-8bd7-00150efbab87,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2009
+0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,607,2,,,0,11.5204799,42.84111000000007,126c8bb0-cb0b-4a0c-ab22-8630b51c96ee,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2011
+0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,608,2,,,0,11.5204799,42.84111000000007,f50ed22e-f61a-4e9b-a137-35cf9bc5afd9,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/4/2009
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,609,2,,,0,11.5204799,42.84111000000007,91c2a88e-9b5a-4c56-8cd9-5b75515e2170,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2011
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,610,2,,,0,11.5204799,42.84111000000007,25a30331-f59e-44ce-afe3-019b4198ba9a,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/5/2009
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,611,2,,,0,11.5204799,42.84111000000007,4b79243e-a81c-4f6e-a816-e0d9f78878be,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2011
+0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,612,2,,,0,11.5204799,42.84111000000007,70de84fb-7264-4ddc-8f0d-76679819a9ef,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2009
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,613,2,,,0,11.5204799,42.84111000000007,b76e670e-1b49-4837-a4e1-1d2e04f05c0d,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/6/2009
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,614,2,,,0,11.5204799,42.84111000000007,51bbeb47-2956-4d19-ba67-0806ae2562fc,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/2/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,615,2,,,0,11.5204799,42.84111000000007,5732dbbb-ff1d-440c-88d0-9e19d53c6355,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/10/2009
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,616,2,,,0,11.5204799,42.84111000000007,7228751f-e5b1-4c82-8f8a-1fa6c781a46c,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/12/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,617,2,,,0,11.5204799,42.84111000000007,0309b2c3-fc94-4284-97f3-c6de014c57e1,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/1/2009
+0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,618,2,,,0,11.5204799,42.84111000000007,1f8c2c99-82f9-47b2-af01-1f8303759d0e,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2010
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,619,2,,,0,11.5204799,42.84111000000007,52a601c5-8d2b-4716-bd81-32ecbd4d9b54,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/9/2010
+0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,620,2,,,0,11.5204799,42.84111000000007,5757f6fe-5a69-4a02-bab1-7733b89f5450,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2010
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,621,2,,,0,11.5204799,42.84111000000007,414d49c1-7d92-4d62-b0df-1466261ed81d,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/5/2010
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,622,2,,,0,11.5204799,42.84111000000007,13ca14db-890a-4000-b204-4a457fa6c01d,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/3/2010
+0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,623,2,,,0,11.5204799,42.84111000000007,76d5f5b5-1ac1-4a15-89a2-081c7577bdaf,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2010
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,624,2,,,0,11.5204799,42.84111000000007,6e3b4edc-c08c-4723-9bc4-cfd8a1e28106,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/8/2011
+0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,625,2,,,0,11.5204799,42.84111000000007,002c0e92-df0e-43af-b98e-9cac9e7e0fde,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/7/2009
+0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,626,2,,,0,11.5204799,42.84111000000007,47840f06-7aa8-442a-9fce-3c5269187570,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2009
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,627,2,,,0,11.5204799,42.84111000000007,1908d669-c095-4932-873e-8d1bea48c4fa,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,628,2,,,0,11.5011209,42.86013249999996,83f7ca6a-a997-4a50-8653-86cc8a7e2c87,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/2/2010
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,629,2,,,0,11.5011209,42.86013249999996,fd2d6591-39cc-4e35-a600-70d550447fa6,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/1/2010
+0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,630,2,,,0,11.5204799,42.84111000000007,e2dd5b00-ea6f-4c94-9f3e-ca4255c87f82,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/10/2007
+0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,631,2,,,0,11.5204799,42.84111000000007,a619fdf7-80f3-4309-83eb-0f3e68be827b,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/12/2007
+0,0,0,0,0,0,111,0,0,0,0,0,0,0,0,0,632,2,,,0,11.5204799,42.84111000000007,0a00188b-d186-4b9c-8a17-968b45f525e5,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2007
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,633,2,,,0,11.5204799,42.84111000000007,271f8998-5c10-4546-a5a7-20673f3b2cb9,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/11/2010
+0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,634,2,,,0,11.5204799,42.84111000000007,de12213f-be51-4133-a59c-bbacedf8ae59,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/8/2009
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,635,2,,,0,11.5204799,42.84111000000007,ce3b4a8d-f974-4705-a49c-4aeb216f7523,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2007
+0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,636,2,,,0,11.5204799,42.84111000000007,02cb860f-5b69-4a78-a2c4-8fe98825facd,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/1/2007
+0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,637,2,,,0,11.5204799,42.84111000000007,16628e82-9c4e-4d46-aa2c-92451923496c,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/6/2007
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,638,2,,,0,11.5204799,42.84111000000007,d0343878-1e9b-44b7-a7c7-3ccc77a08638,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2007
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,639,2,,,0,11.5204799,42.84111000000007,1493b567-76a8-44b6-be66-4bfba0c4edba,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2007
+0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,640,2,,,0,11.5204799,42.84111000000007,56a1687d-7cf3-4de5-8124-292e99153578,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/5/2007
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,641,2,,,0,11.5204799,42.84111000000007,63683954-6bd6-4aa5-ba46-dedf6fcae2e8,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2007
+0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,642,2,,,0,11.5011209,42.86013249999996,bc33f689-9187-4b8a-ab2a-24a4f185544d,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/9/2007
+0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,643,2,,,0,11.5204799,42.84111000000007,fac3678e-4d40-4b6f-b7e4-492af95e0878,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/12/2007
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,644,2,,,0,11.5204799,42.84111000000007,d71bfe45-365e-47f3-9d08-a380d53184bd,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/2/2007
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,645,2,,,0,11.5204799,42.84111000000007,bc9a9f72-ca70-42e9-b5db-b92edfa687dc,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/9/2007
+0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,646,2,,,0,11.5204799,42.84111000000007,dfa2fe99-c1bc-43a5-a373-8e5df686244a,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/8/2007
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,647,2,,,0,11.5204799,42.84111000000007,906508b5-33db-453d-bc7e-3fb4bfc9f147,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/7/2007
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,648,2,,,0,11.5204799,42.84111000000007,f3af71fc-afe9-4be6-8075-cdb2db440e6d,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/3/2007
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,649,2,,,0,11.5204799,42.84111000000007,9b2a9dbd-264e-49f5-8745-5585ec491ee7,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/4/2007
+0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,650,2,,,0,11.5204799,42.84111000000007,0509ff0e-7ae4-4115-b6a3-293f3c5e60d9,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/5/2007
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,651,2,,,0,11.5204799,42.84111000000007,077ed609-7d38-4025-9864-574432385ddb,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/2/2007
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,652,2,,,0,11.5204799,42.84111000000007,93992a7b-f556-4403-b262-bdc419ad9bdf,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/6/2007
+0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,653,2,,,0,11.5011209,42.86013249999996,c5fd0229-a9bb-47c8-bbed-fb2da0e8cf98,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/6/2007
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,654,2,,,0,11.5011209,42.86013249999996,214be956-cfc0-479c-b2c3-4311df7754ba,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2007
+0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,655,2,,,0,11.5011209,42.86013249999996,2ef8a090-696d-4eb0-8c23-7cd220ea527e,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/12/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,656,2,,,0,11.5011209,42.86013249999996,541c62e4-92cd-408c-8cac-8501d607343b,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/12/2011
+0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,657,2,,,0,11.5011209,42.86013249999996,1de7a428-f396-48ad-a0fc-3c825fcff870,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2011
+0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,658,2,,,0,11.5011209,42.86013249999996,eb783ae3-d861-442f-abc4-a242cc508ed7,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/10/2011
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,659,2,,,0,11.5011209,42.86013249999996,8374a491-a709-4ba1-88ee-c5b42f800ff4,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/9/2011
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,660,2,,,0,11.5011209,42.86013249999996,070876fc-d53b-4db0-8022-6850b851bc19,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/7/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,661,2,,,0,11.5011209,42.86013249999996,84a4c26c-8553-45a0-b392-1e3493fb4c1b,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/6/2011
+0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,662,2,,,0,11.5011209,42.86013249999996,428bcde6-de7c-4777-ac93-fac78430f99e,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/5/2011
+0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,663,2,,,0,11.5011209,42.86013249999996,f4e9535e-1565-4653-a69f-d9845314336d,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/4/2011
+0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,664,2,,,0,11.5011209,42.86013249999996,a5333362-c479-4f20-8b80-60869c34ff1c,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/3/2011
+0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,665,2,,,0,11.5011209,42.86013249999996,2ffee111-c572-4866-bc59-2219368dff69,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/2/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,666,2,,,0,11.5011209,42.86013249999996,08b62a11-28a7-4c8e-af8e-106d04400e94,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/1/2011
+0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,667,2,,,0,11.5204799,42.84111000000007,48c38900-4286-4b5f-a9e2-52c96e0ffe0e,ARTA,ARTA,,ÉPIDÉMIE,CMH D'ARTA,0/1/2007
+0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,668,2,,,0,11.5011209,42.86013249999996,af248e83-e0d9-4238-ae44-88f2b4f48445,ARTA,ARTA,,ÉPIDÉMIE,PS WEA,0/11/2011
+0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,669,2,,,0,11.5204799,42.84111000000007,d4262f69-134c-4892-b877-6a892937312b,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/8/2009
+0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,670,2,,,0,11.5204799,42.84111000000007,891b6bd5-1f98-46f0-b2b7-4ca1520fcf72,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/4/2007
+0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,671,2,,,0,11.5204799,42.84111000000007,e4a49ff2-3e65-4eaa-aa40-f149503fc44b,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/8/2007
+0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,672,2,,,0,11.5204799,42.84111000000007,ea3930e5-941a-4df0-85ff-deffd0da599b,ARTA,ARTA,,ÉPIDÉMIE,PS DAMERJOG,0/12/2010
+0,0,0,0,0,0,57,0,0,0,0,0,0,57,0,0,674,3,,,0,11.10421,42.37243999999998,cf48b754-1f2f-43de-9223-906b7ca67f6a,DIKHIL,GOBAAD,,INONDATION,OUED DE GOBAAD,20/4/2006
+0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,675,3,3002,,0,11.10421,42.37243999999998,05f4a0cb-f0d2-4f65-905f-9d61c87bcec2,DIKHIL,DIKHIL VILLLE,,ÉPIDÉMIE,QUARTIER DE LA VILLE,8/8/2005
+3,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,676,3,3007,,0,11.720448,41.83896319999997,431ee31c-8533-4729-a49b-c8ecc623984b,DIKHIL,GALAFI,,ACCIDENT,ENTRE DAGUIRROU,16/12/2006
+1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,677,3,3008,,0,11.10421,42.37243999999998,5139bf05-e2b9-40de-bc15-fafe3498dbbe,DIKHIL,GOURABOUS,,NOYADE,OUED DE GOURABOUS ,17/8/2006
+1,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,678,3,3093,,0,11.50591,42.10382100000004,6246d148-8aec-44b4-a949-508eae7b3845,DIKHIL,YOBOKI,,ÉPIDÉMIE,YOBOKI VILLAGE,11/8/2007
+2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,679,3,3094,,0,11.10421,42.37243999999998,222a6c42-89c4-4db9-8073-4ea8302fad28,DIKHIL,AS-EYLA,,ÉPIDÉMIE,AS-EYLA VILLAGE,11/8/2007
+2,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,680,3,,,0,11.10421,42.37243999999998,c94eb907-c680-443e-9ddf-8eb213892e76,DIKHIL,ISKOUTIR,,ACCIDENT,ISKOUTIR,18/9/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,681,3,3002,,0,11.10421,42.37243999999998,387d8961-523c-4bca-b103-0634ff4a4381,DIKHIL,DIKHIL VILLLE,,POLLUTION,PRES DE LA PALMERAIE,2/9/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,682,3,,,0,11.10421,42.37243999999998,11bdb1bc-68ef-4875-b35c-2a7e8e1aec96,DIKHIL,GOBAAD,,FOUDRE,GOBAAD,16/9/2009
+3,0,0,0,0,48,48,0,0,0,0,0,0,0,0,0,683,3,3002,,0,11.10421,42.37243999999998,29885b60-b94d-45a4-82e4-9be4820d5ba7,DIKHIL,DIKHIL,,ÉPIDÉMIE,TOUS LES QUARTIERS,11/8/2007
+2,0,0,0,0,0,656,0,0,0,0,0,0,0,869,0,684,3,3025,,0,11.10421,42.37243999999998,f3f6b0c2-31fa-4dfd-b462-a1cf185ec212,DIKHIL,SANKAL,,SÉCHERESSE,SANKAL,25/8/2008
+1,6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,686,3,3002,,0,11.10421,42.37243999999998,b5324393-57a6-484a-9b6f-886eca6a64a7,DIKHIL,DIKHIL VILLLE,,INONDATION,"OUED DE CHEKEITTI,, DIKHIL PERIPHERIE",17/8/2006
+2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,687,3,3007,,0,11.720448,41.83896319999997,10be25f6-8132-4037-9249-0323c0566094,DIKHIL,GALAFI,,ACCIDENT,DAGUIROU,5/12/2005
+1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,688,3,3002,,0,11.10421,42.37243999999998,717c1285-71c8-4025-8c03-e8380b7115dd,DIKHIL,DIKHIL VILLLE,,GLISSEMENT DE TERRAIN,"CHEKEITTI, DIKHIL PERIPHERIE",18/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,689,3,,,0,11.10421,42.37243999999998,e1112738-86ce-487b-8784-03fb513e2a44,DIKHIL,GARABEIS,,POLLUTION,OUED DE GARABEIS,1/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,690,3,,,0,11.10421,42.37243999999998,708a4e29-77b4-4fa2-8de7-a49870e2aaf9,DIKHIL,ALOUMBOLTO,,POLLUTION,ALOUMBOLTO,14/6/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,691,3,,,0,11.1661111,42.310277799999994,42669354-4064-4788-af85-ea70d3dea91c,DIKHIL,ABAITOU,,ACCIDENT,ABAITOU,25/4/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,693,3,3002,,0,11.10421,42.37243999999998,8457d6df-e114-4300-a440-2a89f8fe5d15,DIKHIL,DIKHIL VILLLE,,NOYADE,HARROU,12/4/2010
+0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,753,3,,,0,11.10421,42.37243999999998,b0399ac5-076a-4a7c-a7cf-b512f11b1810,DIKHIL,GALAMO,,ACCIDENT,GALAMO,22/10/1997
+6,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,694,3,,,0,11.10421,42.37243999999998,b0cf8775-177d-49ad-abe4-6338fa9df49e,DIKHIL,TOURKAYLO,,ACCIDENT,PENTE DE TOURKAYLO,26/2/2010
+1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,695,3,,,0,11.10421,42.37243999999998,4655aa03-eeae-45b9-bfad-5a009e111a1c,DIKHIL,BALAMBALEY,,ACCIDENT,2KM DU BARRAGE,6/2/2010
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,696,3,3002,,0,11.10421,42.37243999999998,7105d4be-d832-43f6-a021-865302a81a65,DIKHIL,DIKHIL VILLLE,,ACCIDENT,PRES DU BARRAGE,5/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,700,3,3093,,0,11.720448,41.83896319999997,ff38be3f-67ef-4c41-989f-7deb806b75e8,DIKHIL,YOBOKI,,ACCIDENT,GALAFI,3/7/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,701,3,3094,,0,11.10421,42.37243999999998,fdb0ba68-5c71-4e18-8dd5-e6c1bd3bbfd0,DIKHIL,AS-EYLA,,BIOLOGIQUE,KOUTABOUYA,9/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,709,3,3002,,0,11.10421,42.37243999999998,f8374809-0d82-44bd-bbb7-70e41d61aab0,DIKHIL,DIKHIL VILLLE,,INONDATION,"KONTALI , DIKHIL PERIPHERIE",25/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,710,3,3094,,0,11.10421,42.37243999999998,c0d36d06-2902-4d31-8aa7-c0c02d26c338,DIKHIL,AS-EYLA,,INONDATION,YALAHLOU,25/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,712,3,3094,,0,11.10421,42.37243999999998,e4c86ec9-650e-4b72-84b7-6e8ddfe5d876,DIKHIL,AS-EYLA,,INONDATION,AFAHTOU,25/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,713,3,3094,,0,11.10421,42.37243999999998,c1d3d8ce-9e72-4e26-9377-2d0fed579344,DIKHIL,AS-EYLA,,INONDATION,KOUTABOUYA,15/11/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,714,3,,,0,11.10421,42.37243999999998,e0f5e91a-7325-4849-aa34-a57e61ea15ad,DIKHIL,MOULOUD VILLAGE,,INONDATION,MOULOUD VILLAGE ,3/12/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,717,3,3093,,0,11.50591,42.10382100000004,ec6a65fa-2c95-4cdc-a4d2-1d004695be67,DIKHIL,YOBOKI,,ACCIDENT,DARMAL-AF,1/11/2004
+5,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,718,3,3002,,0,11.10421,42.37243999999998,2330bacd-99a8-4f8c-b187-e7be5231b6da,DIKHIL,DIKHIL VILLLE,,SÉCHERESSE,SOUS PREFECTURE DE YOBOKI,23/7/2004
+0,0,0,0,0,0,270,0,0,0,0,0,0,0,0,0,719,3,3093,,0,11.50591,42.10382100000004,adc08681-a998-417e-a6c1-abce64cb0a08,DIKHIL,YOBOKI,,SÉCHERESSE,GAGADE,11/8/2004
+0,0,0,0,0,0,730,0,0,0,0,0,0,0,0,0,720,3,3093,,0,11.50591,42.10382100000004,c28f915b-7850-4050-bfb8-ced2b78155b9,DIKHIL,YOBOKI,,SÉCHERESSE,HANLE/AGNA,11/8/2004
+0,0,0,0,0,0,190,0,0,0,0,0,0,0,0,0,721,3,3094,,0,11.10421,42.37243999999998,b15a9e1f-3885-4473-ba9a-1a6f35a87615,DIKHIL,AS-EYLA,,SÉCHERESSE,KOUTABOUYA,11/8/2004
+0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,722,3,3094,,0,11.10421,42.37243999999998,1f49ff7a-7697-4e8b-a325-f7342b4877d6,DIKHIL,AS-EYLA,,SÉCHERESSE,SANKAL,11/8/2004
+0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,723,3,3093,,0,11.720448,41.83896319999997,438f7c29-4cd8-4bbe-adc8-14d15ccfed0c,DIKHIL,YOBOKI,,EXPLOSION,GALAFI,9/9/2004
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,726,3,3093,,0,11.50591,42.10382100000004,2010afea-c3f0-4a51-affd-c7bd41728560,DIKHIL,YOBOKI,,POLLUTION,HANLE,15/8/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,727,3,3008,,0,11.10421,42.37243999999998,dc1fb8f6-44eb-4b80-ab7a-74c655b84aca,DIKHIL,GOURABOUS,,INONDATION,GOURABOUS ,18/8/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,728,3,,,0,11.10421,42.37243999999998,13b03582-029e-4fbc-9096-044986fce0eb,DIKHIL,AOUR-AWSA,,INONDATION, A PROXIMITE DE L'INTERSECTION D'ALI SABIEH ,20/8/2003
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,729,3,3007,,0,11.720448,41.83896319999997,1a3e1294-0754-4d1a-99b9-df7b6f5670a9,DIKHIL,GALAFI,,POLLUTION,AU NIVEAU DE DOT D'ANE A 2 KM DU POSTE DE POLICE ,21/12/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,731,3,,,0,11.10421,42.37243999999998,10bdf785-2c31-46b6-bccb-6197eab77e60,DIKHIL,BARRIERE DE LA POLICE ,,ACCIDENT,BARRIERE DE LA POLICE ,4/6/2003
+0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,734,3,3002,,0,11.10421,42.37243999999998,f008d589-7285-4c9c-b307-93d756587fa5,DIKHIL,DIKHIL VILLLE,,ACCIDENT,DIKHIL VILLE ,25/7/2001
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,735,3,3002,,0,11.10421,42.37243999999998,a88d6361-4db0-454d-93d7-d9b7b89e63bb,DIKHIL,DIKHIL VILLLE,,ACCIDENT,DIKHIL VILLE ,9/7/2001
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,736,3,3002,,0,11.10421,42.37243999999998,e9221194-7553-46bf-823c-943ab2f15be0,DIKHIL,DIKHIL VILLLE,,ACCIDENT,QUARTIER 3,30/10/2000
+10,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,737,3,3094,,0,11.10421,42.37243999999998,08483dbc-60d1-470b-8ccb-cee59d8246db,DIKHIL,AS-EYLA,,ÉPIDÉMIE,SOUS PREFECTURE D'AS-EYLA,26/8/2000
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,738,3,3094,,0,11.10421,42.37243999999998,64c46712-5fe9-4d31-9f40-0f873fae9d8c,DIKHIL,AS-EYLA,,FOUDRE,SOUS PREFECTURE D'AS-EYLA,24/8/2000
+0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,742,3,3024,,0,11.10421,42.37243999999998,a7265797-c0e5-4c6d-88c9-7b981072615e,DIKHIL,BONDARA ,,SÉCHERESSE,BONDARA,2/7/2000
+0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,743,3,3094,,0,11.10421,42.37243999999998,bcaab8f8-7ff3-442a-9d91-6cdf65b5e2f1,DIKHIL,AS-EYLA,,SÉCHERESSE,AS-EYLA ,23/6/2000
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,744,3,3002,,0,11.10421,42.37243999999998,49db0f1f-bd0e-44be-a870-8dcffd4b621d,DIKHIL,DIKHIL VILLLE,,ACCIDENT,DIKHIL VILLE ,9/2/2000
+4,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,745,3,3094,,0,11.10421,42.37243999999998,7c5c911f-fe7a-4799-8a09-2c6e5e89bd10,DIKHIL,AS-EYLA,,ÉPIDÉMIE,AS-EYLA VILLAGE,15/2/1999
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,746,3,3094,,0,11.10421,42.37243999999998,71de76ad-4a41-4a15-b16a-116da5b29454,DIKHIL,AS-EYLA,,ACCIDENT,AS-EYLA,29/4/1999
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,747,3,3093,,0,11.50591,42.10382100000004,b0750436-3b5e-4a49-90c0-300da9d4bf02,DIKHIL,YOBOKI,,TEMPÊTE,YOBOKI VILLAGE,31/7/1999
+0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,749,3,3024,,0,11.10421,42.37243999999998,e48ffe69-b38b-4c30-b77a-a47c4030a806,DIKHIL,BONDARA ,,SÉCHERESSE,BONDARA,0/0/1997
+2,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,750,3,,,0,11.10421,42.37243999999998,59e27878-5c41-4116-be85-f153f06c3dac,DIKHIL,GOBAAD,,INONDATION,GOBAAD,15/8/1997
+0,0,0,0,0,0,2000,0,0,0,0,0,0,0,0,0,752,3,3024,,0,11.10421,42.37243999999998,fc43dcda-af12-4702-b24a-a3a34dd3518f,DIKHIL,BONDARA ,,SÉCHERESSE,BONDARA,0/0/1997
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,754,3,3002,,0,11.10421,42.37243999999998,7e9f8525-35af-4bda-9413-c11279e5ced3,DIKHIL,DIKHIL VILLLE,,POLLUTION,DIKHIL VILLE ,18/11/1997
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,756,3,,,0,11.10421,42.37243999999998,8182289a-37c3-41bb-8908-df24ee1bf596,DIKHIL,MASGUIDLOU,,FOUDRE,MASGUIDLOU,23/2/1997
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,757,3,3094,,0,11.10421,42.37243999999998,57414e95-39b4-4cdb-be82-3a0d74b28a1c,DIKHIL,AS-EYLA,,ÉPIDÉMIE,AS-EYLA,17/4/1997
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,758,3,,,0,11.10421,42.37243999999998,2f418f41-1fd6-4ca1-8fc3-3b550310944b,DIKHIL,GAMI,,NOYADE,GAMI,12/5/1996
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,759,3,,,0,11.10421,42.37243999999998,fa7160aa-b049-468b-b954-883b6267fd82,DIKHIL,DIKSA-DERA,,GLISSEMENT DE TERRAIN,DIKSA-DERA,13/9/1996
+1,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,760,3,,,0,11.10421,42.37243999999998,4d64caea-f1af-4393-a84e-969a2f12f358,DIKHIL,GRAND BARA,,ACCIDENT,GRAND BARA,2/10/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,761,3,3002,,0,11.10421,42.37243999999998,af56e36c-0894-430e-b066-fe6a66db6906,DIKHIL,DIKHIL VILLLE,,INONDATION,DIKHIL VILLE ,13/12/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,762,3,3094,,0,11.10421,42.37243999999998,a6200f2b-47ee-4566-b670-cad50d5a4906,DIKHIL,AS-EYLA,,INONDATION,AS-EYLA,16/1/1995
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,763,3,3008,,0,11.10421,42.37243999999998,57a85005-ae62-436a-b17b-2b9fab539098,DIKHIL,GOURABOUS,,INONDATION,GOURABOUS ,16/1/1995
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,765,3,,,0,11.10421,42.37243999999998,dcb9d627-817b-45cc-bc3b-7bd2a3ce4922,DIKHIL,BALAMBALEY,,ACCIDENT,BALAMBALEY,5/11/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,766,3,3094,,0,11.10421,42.37243999999998,dca086a1-8c1a-49a3-aacd-0a3aa280f5b5,DIKHIL,AS-EYLA,,PLUIES EXTREME,AS-EYLA,19/5/1994
+0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,767,3,,,0,11.10421,42.37243999999998,c73d461a-cf50-43cf-8130-b43cffa46f9d,DIKHIL,KATOUMBATI,,ÉPIDÉMIE,KATOUMBATI,30/9/1994
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768,3,3002,,0,11.10421,42.37243999999998,e5313fdd-2681-4dfc-9e99-2b57760a39d9,DIKHIL,DIKHIL VILLLE,,ACCIDENT,DIKHIL VILLE ,9/7/1993
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,769,3,,,0,11.10421,42.37243999999998,c8f1fe54-5896-4706-8709-45471516732e,DIKHIL,GARABEIS,,ACCIDENT,GARABEIS,25/11/1992
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,772,3,,,0,11.10421,42.37243999999998,63beb211-a70c-4db1-ac8f-e380f6d03a0d,DIKHIL,GAGADE,,INONDATION,GAGADE,0/0/1991
+0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,773,3,,,0,11.10421,42.37243999999998,fcb48956-b129-49cd-ae26-dcd926a8446d,DIKHIL,HANLE,,TEMPÊTE,HANLE,0/0/1991
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,123,0,774,3,3094,,0,11.10421,42.37243999999998,0a8352af-8c18-4f69-bd2c-373fbe3296b6,DIKHIL,AS-EYLA,,FOUDRE,DAOUD-DABA,0/5/1991
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,775,3,,,0,11.10421,42.37243999999998,43719555-ad3a-4c6f-a50c-18a39cddb516,DIKHIL,GOBAAD,,INONDATION,GOBAAD,17/7/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,776,3,3094,,0,11.10421,42.37243999999998,a0105a32-0f6c-474a-81c7-feb6ecf0d90d,DIKHIL,AS-EYLA,,INONDATION,BONTA,22/9/1990
+0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,778,3,3094,,0,11.10421,42.37243999999998,f4705050-4458-4231-8088-033fb25fd7ed,DIKHIL,AS-EYLA,,ÉPIDÉMIE,AS-EYLA,0/0/1987
+0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,779,3,3024,,0,11.10421,42.37243999999998,0271a61b-5355-4b3f-b574-a0b2450b7ca7,DIKHIL,BONDARA ,,TEMPÊTE,BONDARA,0/0/1986
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,780,3,3008,,0,11.10421,42.37243999999998,709e4069-2260-4928-a29e-9c4494ae8664,DIKHIL,GOURABOUS,,ACCIDENT,GOURABOUS ,19/1/2011
+1,14,0,0,0,0,0,0,6,0,0,0,0,0,0,0,782,3,,,0,11.10421,42.37243999999998,cd25512d-5a86-4eb2-8ed5-cafed54c7199,DIKHIL,MOULOUD VILLAGE,,ACCIDENT,MOULOUD VILLAGE ,2/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,783,3,,,0,11.10421,42.37243999999998,76f27480-9649-406b-b5ac-5104f634edff,DIKHIL,OURGUINI,,BIOLOGIQUE,OURGUINI,8/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,784,3,,,0,11.10421,42.37243999999998,a7f57dec-5f26-4314-96ff-ce5e9eaecab1,DIKHIL,GOLO-DABA,,FOUDRE,GOLO-DABA,18/5/2011
+0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,785,3,3093,,0,0.0,0.0,eaf394b7-33a4-4c38-a6db-ab63b4810454,DIKHIL,YOBOKI,,ÉPIDÉMIE,YOBOKI,14/6/2011
+2,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,786,3,3002,,0,0.0,0.0,ae72473f-0bdf-4d2f-90d3-cf1a957d1a00,DIKHIL,DIKHIL VILLLE,,ACCIDENT,BARRAGE,30/6/2011
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,788,3,,,0,0.0,0.0,b8f6c67f-be92-40e4-b535-b406f28b32c8,DIKHIL,SABIR,,ACCIDENT,SABIR,11/7/2011
+1,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,791,3,,,0,0.0,0.0,05a06962-e83e-45ff-867e-bc6e3ce95dbf,DIKHIL,MOUTROUS,,ÉPIDÉMIE,MOUTROUS,10/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,792,3,3093,,0,0.0,0.0,27abd02d-92fa-442c-bb63-9bfc0ef77ed3,DIKHIL,YOBOKI,,FOUDRE,YOBOKI,1/9/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,793,3,,,0,0.0,0.0,36af443e-9a31-49da-ad07-cf9243c7ab61,DIKHIL,YOBOKI-VILLAGE,,ACCIDENT,YOBOKI-VILLAGE,22/9/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,794,3,,,0,0.0,0.0,dd0dc02e-edab-4666-8da3-3aed0060d106,DIKHIL,MOULOUD VILLAGE,,ACCIDENT,MOULOUD VILLAGE ,2/10/2011
+0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,795,3,3052,,0,0.0,0.0,ee80fbfa-fd7c-4db7-bafc-5e18c3692929,DIKHIL,KOUTABOUYA,,BIOLOGIQUE,KOUTABOUYA,15/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,796,3,3002,,0,0.0,0.0,6241a873-f0c4-41cf-9229-54a2ccb2040b,DIKHIL,DIKHIL VILLLE,,ÉPIDÉMIE,DIKHIL VILLE ,18/10/2011
+0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,797,3,3008,,0,0.0,0.0,3b534f93-aa20-445c-90ac-31aadd49ecf5,DIKHIL,GOURABOUS,,ÉPIDÉMIE,GOURABOUS ,10/11/2011
+0,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,798,3,,,0,0.0,0.0,7593f71c-9b84-40dd-b356-960e138ccf53,DIKHIL,AOUR-AWSA,,ACCIDENT,AOUR-AWSA,1/11/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,799,3,,,0,0.0,0.0,214ef300-722e-4766-9db8-5604d3617ffa,DIKHIL,BALAMBALEY,,ACCIDENT,BALAMBALEY,2/11/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,800,3,3002,,0,0.0,0.0,756b24be-e380-4aaf-bcc7-a9e2a35e1fd4,DIKHIL,DIKHIL VILLLE,,ACCIDENT,VIRAGE DE LA PALMERAIE,11/11/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,5,5005,,0,0.0,0.0,7c1c16fb-f3bb-4979-b8d2-0154b850da54,OBOCK,obock,,TEMPÊTE,fanteherou,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,802,5,5005,,0,0.0,0.0,1888c7ab-3b78-44d1-9ffe-8a85e1f43d2f,OBOCK,obock,,TEMPÊTE,neant,29/8/2011
+2,3,0,0,0,3,0,0,3,0,0,0,0,0,0,0,804,5,,,0,0.0,0.0,38b24f3d-ccf2-44b4-9dd5-781068f9e902,OBOCK,Badoyta-ela,,FOUDRE,neant,15/8/2011
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,805,5,,,0,0.0,0.0,3d436ae8-7b6e-4e33-8ee0-9e89a2cc4543,OBOCK,Araatou,,FOUDRE,neant,14/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,806,5,5005,,0,0.0,0.0,1cc70b3c-e358-4202-813d-e5e0bc405b8b,OBOCK,obock,,FOUDRE,secteur fanteherou,0/8/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,807,5,5010,,0,0.0,0.0,1a900fba-4a9e-47b9-98f8-7802a4aae96f,OBOCK,Khor anghar,,NAUFRAGE, en plein mer,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,808,5,5049,,0,0.0,0.0,da3b1c0e-4818-4167-8d32-8c1c8afedf41,OBOCK,godoria,,SÉCHERESSE,neant,0/0/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,809,5,5010,,0,0.0,0.0,a9b904e2-6eb2-4ae4-9744-99241d489941,OBOCK,Khor anghar,,SÉCHERESSE,neant,0/0/2004
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,810,5,5010,,0,0.0,0.0,f666b6b0-3309-4dc0-b879-09eddb1a3308,OBOCK,Khor anghar,,SÉCHERESSE,neant,0/0/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,812,5,,,0,0.0,0.0,ed1be7b2-3f48-443f-a46a-9d54ef82b509,OBOCK,Ras ciyan,,SÉCHERESSE,neant,0/0/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,813,5,,,0,0.0,0.0,6d4ae94a-25bc-41e3-86bd-15c05ffc5fd2,OBOCK,Ras ciyan,,SÉCHERESSE,neant,0/0/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,814,5,,,0,0.0,0.0,a39db72c-2f4d-4f3c-b638-f30f70620510,OBOCK,Ras ciyan,,SÉCHERESSE,neant,0/7/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,815,5,,,0,0.0,0.0,f72a9b04-68dc-4ad1-b3f3-27f552087737,OBOCK,waddi,,FOUDRE,neant,0/0/2011
+2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,816,5,,,0,0.0,0.0,e444bb9b-ecd1-4ad5-9406-90e9a372cc68,OBOCK,Tagarré,,FOUDRE,neant,0/7/2011
+0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,818,5,5036,,0,0.0,0.0,34edf3e0-8732-4f3c-8e9a-63fe01e6de1f,OBOCK,Bissidro,,FOUDRE,neant,0/0/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,819,5,5035,,0,0.0,0.0,6df10fc7-f6e3-48b1-b33e-69d2572f16b6,OBOCK,Andolli,,FOUDRE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,820,5,5096,,0,0.0,0.0,2781c9d8-d831-4aed-a945-5dbcf00197a7,OBOCK,allaily dada,,FOUDRE,Bossali,0/9/2009
+1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,821,5,,,0,0.0,0.0,ee139170-a7ab-404f-a66e-489dcf795c74,OBOCK,Badoyta-ela,,TEMPÊTE,neant,0/0/2010
+10,6,0,0,0,5,0,0,0,0,0,0,0,0,0,0,822,5,5033,,0,0.0,0.0,f0d02081-3b6c-4a0b-b0ea-e930b5629399,OBOCK,DADDATO,,ÉPIDÉMIE,neant,0/0/1999
+3,3,0,0,0,3,0,0,1,0,0,0,0,0,0,0,823,5,,,0,0.0,0.0,755bce32-3083-460c-8b11-11f9da00b267,OBOCK,eger dabba,,EXPLOSION,neant,0/8/1999
+1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,824,5,,,0,0.0,0.0,1c940af1-0422-4e26-bcc1-32a0cb6cf6b0,OBOCK,Soublali,,EXPLOSION,neant,0/8/1999
+6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,832,5,5005,,0,0.0,0.0,31059198-7a5d-428c-a25a-51273795d452,OBOCK,obock,,NAUFRAGE, en plein mer,0/0/2000
+8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,835,5,,,0,0.0,0.0,007d9e06-5b00-403f-8fd0-9ce9890000b2,OBOCK,Dallay-af,,NAUFRAGE,la cote du Dallay-af,0/0/2010
+12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,836,5,,,0,0.0,0.0,b3082950-210a-4ebe-bd2e-0ca6aedf45de,OBOCK,Ras birou,,ÉPIDÉMIE,neant,0/7/2011
+35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,837,5,5049,,0,0.0,0.0,6e291083-0bda-4e71-bc8b-44df69cecc4d,OBOCK,godoria,,NAUFRAGE, en plein mer,0/0/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,838,5,5036,,0,0.0,0.0,7d2aca2d-4841-489d-83e7-8188726deb20,OBOCK,Bissidro,,FOUDRE,neant,0/9/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,839,5,5036,,0,0.0,0.0,5d2c5562-2ffc-4e9d-a870-da270ade0966,OBOCK,Bissidro,,INONDATION,neant,0/9/2009
+3,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,841,5,5005,,0,0.0,0.0,e7e2473a-701f-44de-89af-5db2f3015455,OBOCK,obock,,ÉPIDÉMIE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,879,5,,,0,0.0,0.0,abf67d7e-33dc-4d23-adc0-a91b9ee28d5e,OBOCK,Belmel,,INONDATION,neant,0/12/2006
+22,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,842,5,5005,,0,0.0,0.0,237cadd0-4ec2-49bf-bb69-ee6a723c4218,OBOCK,obock,,ÉPIDÉMIE,neant,0/7/2009
+5,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,843,5,5005,,0,0.0,0.0,235e64aa-d50b-4da6-9d7e-f4afd7d27174,OBOCK,obock,,ÉPIDÉMIE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,844,5,5049,,0,0.0,0.0,65a8bfa1-85e2-419e-9692-d0355a5d522f,OBOCK,godoria,,SÉCHERESSE,neant,0/0/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,845,5,5084,,0,0.0,0.0,12d4564f-4917-472d-a116-79580c484488,OBOCK,Oulma,,SÉCHERESSE,neant,0/7/2008
+1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,846,5,5084,,0,0.0,0.0,a489b45b-33c3-43ca-89f9-bf2db1a46f10,OBOCK,Oulma,,FOUDRE,neant,0/5/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,847,5,5084,,0,0.0,0.0,53c2351f-3644-4a05-ba0c-3fb0a5b5d953,OBOCK,Oulma,,TEMPÊTE,neant,28/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,850,5,5084,,0,0.0,0.0,ccbbc091-8147-4d85-91cd-2859699621ba,OBOCK,Oulma,,TEMPÊTE,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,851,5,5084,,0,0.0,0.0,366a1b55-9b42-4535-8498-072f913f96a5,OBOCK,Oulma,,SÉCHERESSE,neant,0/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,852,5,5084,,0,0.0,0.0,b969de44-892b-4c49-b6bb-cfe3665c67e9,OBOCK,Oulma,,SÉCHERESSE,neant,0/6/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,853,5,5084,,0,0.0,0.0,40d0d3cb-cc76-47e1-927d-d2af0143273c,OBOCK,Oulma,,SÉCHERESSE,neant,0/0/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,854,5,5084,,0,0.0,0.0,0334b71e-8626-4436-9b28-4f4a32881b46,OBOCK,Oulma,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,855,5,5084,,0,0.0,0.0,bd94b59b-11ea-4880-9ac0-b69a8b41a851,OBOCK,Oulma,,INONDATION,neant,0/2/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,857,5,5035,,0,0.0,0.0,bd2f25a6-f2db-42e1-8105-ca4d64f4242f,OBOCK,Andolli,,TEMPÊTE,neant,0/4/2011
+0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,859,5,5035,,0,0.0,0.0,564b1332-de4d-4892-8b72-267d815b327c,OBOCK,Andolli,,SÉCHERESSE,neant,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,860,5,5035,,0,0.0,0.0,3ff3efd9-10cd-418c-a823-4287fdd1573e,OBOCK,Andolli,,FOUDRE,neant,0/9/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,862,5,,,0,0.0,0.0,fae540a2-f354-4bee-adb5-b3139147a54e,OBOCK,Mabla,,EXPLOSION,neant,0/0/1991
+2,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,863,5,,,0,0.0,0.0,2d2db8e2-ab6d-4297-a1d5-5b695181b670,OBOCK,Mabla,,EXPLOSION,neant,0/0/1992
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,5,5083,,0,0.0,0.0,2ce3bb26-78d9-4bda-8d18-9b1719422818,OBOCK,Assa-san,,EXPLOSION,neant,0/0/1994
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,865,5,,,0,0.0,0.0,f5c7999a-d84b-424e-8167-491bad351395,OBOCK,Mabla,,TEMPÊTE,Sadassa,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,866,5,,,0,0.0,0.0,a7341dc7-6dff-4527-ba9f-6c9b8ac0ea75,OBOCK,agag-baladou,,TEMPÊTE,neant,0/7/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,867,5,,,0,0.0,0.0,00fc17db-286a-4e77-a4e4-fc84d5632416,OBOCK,Gal-ela,,FOUDRE,neant,0/0/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,868,5,,,0,0.0,0.0,69840e6d-a1ed-43eb-9916-cd0bec3880e9,OBOCK,Hawassé,,FOUDRE,neant,0/0/2005
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,869,5,,,0,0.0,0.0,39d25bc0-782c-4175-8dab-328485f79573,OBOCK,wabayta,,FOUDRE,neant,0/8/2011
+2,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0,870,5,,,0,0.0,0.0,3e55fec4-b529-4b44-9ba3-c91222241f8a,OBOCK,Sadai,,FOUDRE,Dakka,0/3/2011
+2,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,871,5,,,0,0.0,0.0,3ca24dc3-a0d9-4d23-b930-a524931b76be,OBOCK,Indai,,FOUDRE,neant,0/0/2011
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,872,5,,,0,0.0,0.0,49e92fa8-92fc-4436-8710-766af6b1e985,OBOCK,Mabla,,FOUDRE,neant,0/8/2011
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,873,5,,,0,0.0,0.0,6af2ea4f-ad6e-46aa-93bb-92509f176b8f,OBOCK,Moukour,,FOUDRE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,874,5,5030,,0,0.0,0.0,c329c4fd-3127-4b41-b03f-2d6ee7435ba7,OBOCK,Medeho,,INONDATION,neant,0/0/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,875,5,5063,,0,0.0,0.0,7cdbb12b-31e1-4a33-864e-1a2edc5614a3,OBOCK,Orobor,,INONDATION,neant,0/2/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,876,5,,,0,0.0,0.0,5c038986-e421-4bcc-b092-cf0469e2034b,OBOCK,Dalay af,,INONDATION,neant,0/2/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,877,5,,,0,0.0,0.0,143dc122-9608-45c7-b975-d3db6a6109ce,OBOCK,Ahel,,INONDATION,neant,0/2/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,878,5,5030,,0,0.0,0.0,2449965b-f9da-451f-b0f0-9f4453796b85,OBOCK,Medeho,,INONDATION,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,880,5,5030,,0,0.0,0.0,e1d701c3-0ff9-4588-aac3-be30fdcae0a5,OBOCK,Medeho,,SÉCHERESSE,neant,0/5/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,881,5,5030,,0,0.0,0.0,ea4fdcfe-9103-4f37-b0b4-e38eff27b2ba,OBOCK,Medeho,,SÉCHERESSE,neant,0/0/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,882,5,5030,,0,0.0,0.0,0e09a411-c07c-4dd4-b02c-4435c1a8f6f2,OBOCK,Medeho,,SÉCHERESSE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,883,5,5096,,0,0.0,0.0,44edfdbb-609d-4287-864a-2e0d0cb4e25b,OBOCK,allaily dada,,TEMPÊTE,neant,0/0/2000
+4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,885,5,,,0,0.0,0.0,600e44c4-73c5-47c3-aa4b-4facbc80ac2c,OBOCK,waddi,,FOUDRE,neant,0/0/1980
+0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,886,5,5035,,0,0.0,0.0,b2fcdf77-fe32-4c26-85fc-8eb14e857279,OBOCK,Andolli,,EXPLOSION,neant,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,888,5,5037,,0,0.0,0.0,9377e41b-573e-4438-9777-9f12863de1a3,OBOCK,Moulhoulé,,INONDATION,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,889,5,5037,,0,0.0,0.0,bd57182d-df27-4aad-bed8-07f2887684f2,OBOCK,Moulhoulé,,TEMPÊTE,neant,0/8/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,890,5,5037,,0,0.0,0.0,92469d8b-f10d-49b8-be7a-701b3d50dc93,OBOCK,Moulhoulé,,SÉCHERESSE,neant,0/0/2011
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,892,5,5010,,0,0.0,0.0,25d09bb7-5f5a-467a-aeaf-a1359f4bccd8,OBOCK,Khor anghar,,NAUFRAGE,neant,0/0/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,893,5,5010,,0,0.0,0.0,6d1fecd4-b9ab-4294-a523-56d14ca78ca4,OBOCK,Khor anghar,,SÉCHERESSE,neant,0/6/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1102,6,6028,,0,0.0,0.0,8317709d-a6b7-4773-b0a2-94c7eb176c79,Tadjourah,adaylou,,FOUDRE,neant,0/10/2010
+0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,894,5,5049,,0,0.0,0.0,95cec422-8b9d-4bb5-8bf4-8969606ee421,OBOCK,godoria,,ACCIDENT,la cote du godoria,29/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,895,5,,,0,0.0,0.0,9bacf689-d141-4e13-be6f-4cc5f2f6b0a4,OBOCK,waddi,,TEMPÊTE,neant,0/7/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,896,5,,,0,0.0,0.0,7046c7a6-360b-49ac-a8d5-70ce9a0ef5f2,OBOCK,waddi,,TEMPÊTE,Amokrada,0/0/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,897,5,,,0,0.0,0.0,6f08eec4-b031-4ea2-a053-326f4ab0a773,OBOCK,Folo,,TEMPÊTE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,898,5,,,0,0.0,0.0,b75a8809-a586-4888-a4a2-9794cfe118a0,OBOCK,Badoyta-ela,,TEMPÊTE,neant,0/6/2009
+1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,899,5,,,0,0.0,0.0,dfcb6626-daa7-4173-807e-52b81c7f006e,OBOCK,Badoyta-ela,,FOUDRE,neant,0/5/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,900,5,,,0,0.0,0.0,711763fc-97b7-4ed7-a03c-b2b6ee98869d,OBOCK,Baladlou,,FOUDRE,neant,10/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,903,5,,,0,0.0,0.0,3ac3ea90-5679-4373-bfc9-0dfaa7d075ce,OBOCK,waddi,,SÉCHERESSE,Affaha,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,904,5,,,0,0.0,0.0,a198c1a6-0203-42fb-a289-df1adc810a4b,OBOCK,Ass-haran,,SÉCHERESSE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,905,5,,,0,0.0,0.0,3820d22b-37ae-4a77-b3b5-229b7ffb85bd,OBOCK,Baladlou,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,906,5,,,0,0.0,0.0,c748bada-c819-43c8-80aa-cb93eae1a6c2,OBOCK,Wassie,,SÉCHERESSE,neant,0/0/2010
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,908,5,5063,,0,0.0,0.0,d539cb82-f40d-4404-90d0-3aa77c6b68e1,OBOCK,Orobor,,FOUDRE,neant,21/9/2011
+6,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,909,5,5049,,0,0.0,0.0,6d911fd6-6618-4ee9-b203-d5dcd8c16b27,OBOCK,godoria,,NAUFRAGE, en plein mer,25/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,910,5,,,0,0.0,0.0,29ac0b0a-a36a-4927-81f9-205b7ffbcc4f,OBOCK,waddi,,SÉCHERESSE,neant,0/0/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,911,5,,,0,0.0,0.0,11c8aecb-2a6a-449a-80f6-4d3c0e6fe043,OBOCK,waddi,,SÉCHERESSE,neant,0/0/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,912,5,,,0,0.0,0.0,e521ea02-add5-49d0-99d2-f9bd08fe1129,OBOCK,waddi,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,913,5,5096,,0,0.0,0.0,52538d4d-b8eb-42dc-9326-a449ccdccf97,OBOCK,allaily dada,,SÉCHERESSE,neant,0/0/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,914,5,5096,,0,0.0,0.0,f3f28976-0f9e-448a-b2eb-b6e545f39ef9,OBOCK,allaily dada,,SÉCHERESSE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916,5,5034,,0,0.0,0.0,db21edcb-c449-4fb2-b13e-6490420578a5,OBOCK,Lahassa,,TEMPÊTE,neant,0/0/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,918,5,5034,,0,0.0,0.0,528da956-25ba-444b-b90f-9de301a19c40,OBOCK,Lahassa,,TEMPÊTE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,919,5,5034,,0,0.0,0.0,fd592ab0-1881-4e41-b320-8d6d0d34e602,OBOCK,Lahassa,,INONDATION,neant,0/0/1987
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,920,5,5034,,0,0.0,0.0,bf84a89a-1c60-4ee8-a7d5-9dfd51812252,OBOCK,Lahassa,,INONDATION,neant,0/0/1992
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,921,5,5034,,0,0.0,0.0,f088bce5-45d5-4f5d-8a3e-a28b9c2924c4,OBOCK,Lahassa,,INONDATION,neant,0/0/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,922,5,5034,,0,0.0,0.0,2133f00c-0bf9-4e5b-b439-743cd1050d37,OBOCK,Lahassa,,INONDATION,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,923,5,5034,,0,0.0,0.0,87e03c4d-3b1a-4d1a-8d38-9b811c844378,OBOCK,Lahassa,,SÉCHERESSE,neant,0/0/2001
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,924,5,5034,,0,0.0,0.0,88de2605-11bc-4a2b-a0fa-23b6ee4c314e,OBOCK,Lahassa,,SÉCHERESSE,neant,0/0/2004
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,925,5,5034,,0,0.0,0.0,704981d5-5eb4-496b-ae7a-6bbe2808595e,OBOCK,Lahassa,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,927,5,5034,,0,0.0,0.0,a4f7a9a7-344e-45bf-b338-1b40a841dcc1,OBOCK,Lahassa,,TEMPÊTE,neant,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,928,5,5005,,0,0.0,0.0,6cdf0727-35ce-4af6-ae48-07ef8533116d,OBOCK,obock,,INONDATION,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,929,5,5005,,0,0.0,0.0,a8dec5bf-3c61-45eb-aeab-17549b9a004c,OBOCK,obock,,INONDATION,neant,0/0/2004
+23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,930,5,5005,,0,0.0,0.0,37b6105c-aa27-4b32-8d61-a9316d8ca10f,OBOCK,obock,,NAUFRAGE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,931,5,,,0,0.0,0.0,23e1a8cb-43ad-4925-9397-4c75f5306c02,OBOCK,Dalay-af,,INONDATION,neant,0/0/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,932,5,5005,,0,0.0,0.0,58008fac-d4ea-489e-be7d-2ce5eba5bb2f,OBOCK,obock,,NAUFRAGE,neant,17/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,933,5,5083,,0,0.0,0.0,66aa2afc-2fc3-4d12-8bfa-07e32dc39700,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,934,5,5083,,0,0.0,0.0,f6e8e837-b323-4b28-889f-e8c1788c10a2,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,935,5,5083,,0,0.0,0.0,7bd48229-53cb-4635-8c15-08096084a8dd,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,936,5,5083,,0,0.0,0.0,467acd55-aff9-42a7-b2e3-ba015b044e19,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,937,5,,,0,0.0,0.0,e013d753-4e24-4f7d-9f56-52fb5f9c94b7,OBOCK,waddi,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,938,5,5083,,0,0.0,0.0,555aef53-c26d-41fb-ba2e-5e79471de4ed,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,939,5,5083,,0,0.0,0.0,d99619a2-0564-48e8-9561-97ef53791f5d,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,940,5,5083,,0,0.0,0.0,24064f90-8989-420a-998b-e0be4297efb5,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,941,5,5083,,0,0.0,0.0,25bfc3ac-1ed3-4465-a857-fe9019158fab,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,942,5,5083,,0,0.0,0.0,a6680ac7-a5e8-4808-9d66-ecd5ae905c01,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,943,5,,,0,0.0,0.0,20e1b0ad-1134-4328-a038-0d2818166c67,OBOCK,waddi,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,944,5,,,0,0.0,0.0,b60312c4-73c1-458f-bddc-62291426772b,OBOCK,waddi,,ÉPIDÉMIE,neant,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,945,5,,,0,0.0,0.0,c25fb788-23e8-422b-b328-c58b7f123860,OBOCK,waddi,,ÉPIDÉMIE,neant,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,946,5,,,0,0.0,0.0,a1e58e12-1861-45f7-bf8d-10a5f0bac4fd,OBOCK,waddi,,ÉPIDÉMIE,neant,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,947,5,5010,,0,0.0,0.0,ccefab5a-e424-4247-ae06-fa3effed0c32,OBOCK,Khor anghar,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,948,5,5005,,0,0.0,0.0,5fad59f1-9ff0-4715-a861-ad3a156382a6,OBOCK,obock,,ÉPIDÉMIE,neant,0/3/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,949,5,5005,,0,0.0,0.0,4ac036ba-10f5-4696-974b-90c3e1af1754,OBOCK,obock,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,5,,,0,0.0,0.0,c4ba474d-e964-484a-ba93-0f357924b795,OBOCK,waddi,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,951,5,5005,,0,0.0,0.0,53481fcf-2f82-492a-b9af-0771164436b3,OBOCK,obock,,ÉPIDÉMIE,neant,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,952,5,5005,,0,0.0,0.0,21d8d993-719c-411a-8f4a-4556e07c820d,OBOCK,obock,,ÉPIDÉMIE,neant,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,953,5,5005,,0,0.0,0.0,581a7f45-c858-4d52-8b95-a681af432270,OBOCK,obock,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,954,5,5030,,0,0.0,0.0,71cc0825-0bb9-4730-ad78-69f9fde32c17,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,955,5,5030,,0,0.0,0.0,9d2ce4f6-9002-4f15-acb6-617cadb27624,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,956,5,5030,,0,0.0,0.0,0942c5e3-d878-474f-9893-7ccd8329de67,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/12/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,957,5,5030,,0,0.0,0.0,1627000a-9c0a-41be-b17f-e3978cca76f8,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,958,5,5030,,0,0.0,0.0,adc20103-00be-44cd-adac-b179dbcdcf3a,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,959,5,5030,,0,0.0,0.0,fdca5621-e325-46f5-8f64-cd6c0ec7c615,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/6/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,960,5,5030,,0,0.0,0.0,26148c85-177d-4c8c-bae9-8549d3aac75d,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/5/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,961,5,5030,,0,0.0,0.0,fdca830f-8269-4626-aa54-a4e6193365a9,OBOCK,Medeho,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,962,5,5083,,0,0.0,0.0,8701eaca-2ff8-4b53-952e-6a7166991107,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/12/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,963,5,5083,,0,0.0,0.0,6b1772a3-7687-46ff-899c-30c0e746cde7,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,964,5,5083,,0,0.0,0.0,1dbfd3f7-37ee-44de-b66f-e3fdfaae2edf,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/5/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,965,5,5083,,0,0.0,0.0,9c07b9e8-37a4-4a0d-9ac8-3fdfe30c7ed2,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,966,5,5083,,0,0.0,0.0,28a3101a-5c8c-462b-a921-2c3726d9a73f,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,967,5,5083,,0,0.0,0.0,26e22820-cc2d-4fd8-b3a4-6873bc2067f9,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/7/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,968,5,5083,,0,0.0,0.0,382d40c0-caca-4b55-a3e3-28bef2759e5a,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,969,5,5083,,0,0.0,0.0,4e8de60f-9341-44c8-b0fd-d84d2bfa25ad,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,970,5,5083,,0,0.0,0.0,df70dbec-ea35-4690-bbee-a7e74aa1b053,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/6/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,971,5,5083,,0,0.0,0.0,4faa8f18-b581-455c-97f0-2654eaf9ed6a,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,972,5,5083,,0,0.0,0.0,f3b2acae-120f-49d1-90ad-8a9e4b10a8d6,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,973,5,5083,,0,0.0,0.0,2ec77b0b-9101-4208-a52d-d623af67964e,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/5/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,974,5,5083,,0,0.0,0.0,86f5b19a-3c76-412d-89a2-14ea4d1975bd,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/2/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,975,5,5005,,0,0.0,0.0,b1b80f99-b6a9-41bc-8d9a-475ba894d9f8,OBOCK,obock,,ÉPIDÉMIE,neant,0/6/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,976,5,5005,,0,0.0,0.0,e3d48291-6f67-46d2-a57a-15cbaa687a09,OBOCK,obock,,ÉPIDÉMIE,neant,0/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,977,5,5005,,0,0.0,0.0,7e10aebc-ec29-4f27-8ad4-141ee1548d8a,OBOCK,obock,,ÉPIDÉMIE,neant,0/5/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,978,5,5005,,0,0.0,0.0,144431a2-1b10-43f5-a2d7-b81d12b1e2fd,OBOCK,obock,,ÉPIDÉMIE,neant,0/2/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,979,5,5005,,0,0.0,0.0,1de4e453-d39a-430a-954b-4b11cb5297b0,OBOCK,obock,,ÉPIDÉMIE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,980,5,5083,,0,0.0,0.0,47d7c635-2659-4b51-826c-e2b404c6208b,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,981,5,5005,,0,0.0,0.0,a134881d-b375-48ed-920d-73ea140ddbdd,OBOCK,obock,,ÉPIDÉMIE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,982,5,5083,,0,0.0,0.0,a33fdb93-7bd2-4481-806e-b19f4b152bc3,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/6/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,983,5,5005,,0,0.0,0.0,245386a2-b35e-45fc-827e-b6d06607b9f2,OBOCK,obock,,ÉPIDÉMIE,neant,0/9/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,984,5,5005,,0,0.0,0.0,973b1f27-9cfa-40a8-b5f1-404b26d22b15,OBOCK,obock,,ÉPIDÉMIE,neant,0/11/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,985,5,5005,,0,0.0,0.0,a0191ac9-c7ae-4a17-b5ee-9bc51d5a1aa9,OBOCK,obock,,ÉPIDÉMIE,neant,0/10/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,986,5,5005,,0,0.0,0.0,362038ee-72d7-442b-b2f7-dcc8485e28a5,OBOCK,obock,,ÉPIDÉMIE,neant,0/6/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,987,5,5005,,0,0.0,0.0,503c75ab-6b7b-44b3-af5f-3ae31a7d907c,OBOCK,obock,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,988,5,5096,,0,0.0,0.0,d8196dd5-cc25-404d-a692-622691e5aba2,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,989,5,5096,,0,0.0,0.0,a638e0e8-ccd0-4281-8fe5-1209fe193510,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,990,5,5096,,0,0.0,0.0,327dc451-08f7-446a-b9af-0ce36b3eff24,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,991,5,5005,,0,0.0,0.0,ef0950cb-c2ae-4dc2-b7b4-aa2433f6df83,OBOCK,obock,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,992,5,5096,,0,0.0,0.0,6162caca-e4f6-4663-a151-cb21f7c40c63,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,993,5,5096,,0,0.0,0.0,39cada9a-5716-4354-b94a-2a95ac5bd087,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,994,5,5096,,0,0.0,0.0,24920440-bce2-4255-b207-015589dd14d3,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,995,5,5096,,0,0.0,0.0,808be425-fb0d-4a7f-ac11-03df6355ce8e,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,996,5,5096,,0,0.0,0.0,0c1eef90-8094-472a-b901-fa301d0bcbf6,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,997,5,5096,,0,0.0,0.0,a4c0437d-1d6f-4698-b41f-835c8175d9f7,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,998,5,5096,,0,0.0,0.0,4547949a-ba28-419f-895b-6b4d2c2c2964,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/5/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,999,5,5096,,0,0.0,0.0,95ace572-8598-4064-b2b3-ed6db5c6473c,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000,5,5096,,0,0.0,0.0,46f5997d-5795-4585-be88-abfc450eb3a3,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1001,5,5096,,0,0.0,0.0,b9f66b5d-9e2a-4213-8bdc-ecdf0e0ea725,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1002,5,5096,,0,0.0,0.0,6a15c6c3-8415-4574-a7ba-4c1107d70c8a,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1003,5,5096,,0,0.0,0.0,0dd38a39-e894-4a2e-99a3-f03991c1ce66,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1004,5,5096,,0,0.0,0.0,ed31e526-147d-4735-9635-4ef32c59530a,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1005,5,5096,,0,0.0,0.0,50dea002-3aff-49f8-9e4f-5efb6e6f3ec1,OBOCK,allaily dada,,ÉPIDÉMIE,neant,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1006,5,5083,,0,0.0,0.0,63215827-b985-4c60-866d-be1c94891b27,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,5,5083,,0,0.0,0.0,fbfdb357-8207-4643-9a64-fd73964b899f,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1008,5,5083,,0,0.0,0.0,d31d339f-3386-4fc9-ad4b-abfd909caf86,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1009,5,5083,,0,0.0,0.0,c92b13ea-1131-42f7-8fe5-8b4b23989bcc,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1010,5,5083,,0,0.0,0.0,60f8b2ac-d86d-47c8-ad6b-12be9d7dd562,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1011,5,5083,,0,0.0,0.0,8241826b-510e-43bf-abb3-fc762094ef3f,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1012,5,5083,,0,0.0,0.0,b230c36f-c840-42a2-99f0-c6bb42d91579,OBOCK,Assa-san,,ÉPIDÉMIE,neant,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1013,5,,,0,0.0,0.0,1b640dbe-b954-42be-86a0-ca17f50d7e24,OBOCK,waddi,,ÉPIDÉMIE,neant,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1014,5,,,0,0.0,0.0,bc47bc41-0f1d-46e5-8c01-509ecdac2a73,OBOCK,waddi,,ÉPIDÉMIE,neant,0/5/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1015,5,,,0,0.0,0.0,2b01f913-8e2b-4235-bea5-a47886edd9ae,OBOCK,waddi,,ÉPIDÉMIE,neant,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1016,5,,,0,0.0,0.0,c3d83f4f-5f4b-4b86-ada0-8c36f725d0e2,OBOCK,waddi,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1017,5,,,0,0.0,0.0,5d2a95c5-7c3a-4806-8fdf-614d58b91602,OBOCK,waddi,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1018,5,,,0,0.0,0.0,7aaaa8a3-10b1-4aa2-b6b5-b44229aed68c,OBOCK,waddi,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1019,5,,,0,0.0,0.0,0389b461-4905-4457-9aca-de5f2ba69c84,OBOCK,waddi,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1020,5,,,0,0.0,0.0,27898ef2-9c6c-4746-9489-ce083340d791,OBOCK,waddi,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1021,5,,,0,0.0,0.0,2055a31c-b5ce-4554-9aad-522c54f6a5e7,OBOCK,waddi,,ÉPIDÉMIE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1022,5,,,0,0.0,0.0,37c644a9-ba92-4bdf-8c0c-82cbde18b275,OBOCK,waddi,,ÉPIDÉMIE,neant,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1023,5,,,0,0.0,0.0,156fcae0-1f2b-44c7-960e-f32db60716e7,OBOCK,waddi,,ÉPIDÉMIE,neant,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1024,5,,,0,0.0,0.0,41c843c8-459a-45f0-bd04-616d819c57ef,OBOCK,waddi,,ÉPIDÉMIE,neant,0/6/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1025,5,,,0,0.0,0.0,d1543548-a03e-49f7-82f3-8dc7623a9cfa,OBOCK,waddi,,ÉPIDÉMIE,neant,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1026,5,,,0,0.0,0.0,ef2655b4-da82-4146-ae90-e4b21b4a087b,OBOCK,waddi,,ÉPIDÉMIE,neant,0/5/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1027,5,,,0,0.0,0.0,21eee3b9-c20a-4007-840f-a4283fac85d9,OBOCK,waddi,,ÉPIDÉMIE,neant,0/5/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1028,5,,,0,0.0,0.0,37fbc2e5-7dc1-42c6-ba66-fb99665b83b0,OBOCK,waddi,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1029,5,,,0,0.0,0.0,14f8e4a0-5b06-43d6-bb77-797ce80fd35f,OBOCK,waddi,,ÉPIDÉMIE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1030,5,,,0,0.0,0.0,bb875c26-c8d3-4e36-9bdb-4902e1b3efc9,OBOCK,waddi,,ÉPIDÉMIE,neant,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,5,,,0,0.0,0.0,4093cd7c-4fba-4c3b-8c98-040670655836,OBOCK,waddi,,ÉPIDÉMIE,neant,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1032,5,,,0,0.0,0.0,8b60134c-9abc-45ee-bf85-55b59ef5a757,OBOCK,waddi,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1033,5,,,0,0.0,0.0,b31bcf55-1af5-49c8-88d7-59751eb47736,OBOCK,waddi,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1034,5,,,0,0.0,0.0,7a2b542e-f720-4bd5-b1d9-069f766e85f2,OBOCK,waddi,,ÉPIDÉMIE,neant,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1035,5,,,0,0.0,0.0,fa44a11a-3818-4735-8dec-04c44fa8e5bc,OBOCK,waddi,,ÉPIDÉMIE,neant,0/1/2009
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1036,6,,,0,0.0,0.0,52f9c93c-dcee-45f5-89a4-dc29a16a8f02,Tadjourah,ditilou,,ÉPIDÉMIE,neant,9/8/2007
+0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1039,6,6050,,0,0.0,0.0,153b2873-caec-48ec-9d47-844a84290243,Tadjourah,kalaf,,ACCIDENT,neant,16/12/2006
+1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1041,6,6004,,0,0.0,0.0,09c7812a-8876-4076-a593-5d6c5778b7de,Tadjourah,tadjourah ville,,NAUFRAGE,a la mer,20/8/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1042,6,6004,,0,0.0,0.0,d8cc1df9-f226-4e60-84c3-aa770b274f9f,Tadjourah,tadjourah ville,,NAUFRAGE,a la mer,20/5/1994
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1045,6,6004,,0,0.0,0.0,9590a1df-77b8-4612-a801-da4b5b529808,Tadjourah,tadjourah ville,,INONDATION,harrak,0/2/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1103,6,,,0,0.0,0.0,0c86cb94-76ef-4e0e-bd8b-6a1b2f329b44,Tadjourah,dissay,,INONDATION,neant,0/9/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1046,6,6004,,0,0.0,0.0,07a7a1c4-8ee4-4304-be62-7f0527a6fb91,Tadjourah,tadjourah ville,,INONDATION,elamo,0/2/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1047,6,6004,,0,0.0,0.0,f66f0d16-8ab2-4397-b1c8-00cd154b90d7,Tadjourah,tadjourah ville,,INONDATION,3aki,0/2/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1048,6,6004,,0,0.0,0.0,d114c599-0311-4331-b25b-fa70323d2215,Tadjourah,tadjourah ville,,INONDATION,yomatra,0/2/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1049,6,,,0,0.0,0.0,c61fcbc9-6a11-493b-b473-78d4d597657c,Tadjourah,madgoul,,SÉCHERESSE,neant,0/7/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1050,6,,,0,0.0,0.0,50004fb7-52cb-486f-8ac7-7522f2789997,Tadjourah,boli,,FOUDRE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1051,6,,,0,0.0,0.0,9898da73-5344-41f6-8b41-e5d3bf9f80bc,Tadjourah,margoita,,SÉCHERESSE,neant,0/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1052,6,6009,,0,0.0,0.0,bb4c3e49-7e37-4a52-93b8-adb1f301d91c,Tadjourah,assa-gayla,,SÉCHERESSE,neant,0/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1053,6,6097,,0,0.0,0.0,11e58c62-1498-496e-a0b4-feb8d5d1dc16,Tadjourah,dorra,,SÉCHERESSE,neant,0/7/2011
+10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1054,6,6027,,0,0.0,0.0,11610e8e-cb30-43f5-a082-a0a9c07eae78,Tadjourah,bankoualeh,,SÉCHERESSE,neant,0/5/2011
+29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1055,6,6060,,0,0.0,0.0,ed084a7c-ca66-433b-bf6b-dd8b07a4a298,Tadjourah,ardo,,SÉCHERESSE,neant,0/8/2011
+21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1056,6,6059,,0,0.0,0.0,943c9554-40f1-4394-ac11-77dfaeb1cabb,Tadjourah,day,,SÉCHERESSE,neant,0/8/2011
+28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1057,6,,,0,0.0,0.0,d1e07041-5648-4e9a-a804-e1b9b6018d5f,Tadjourah,lagalene,,SÉCHERESSE,neant,0/5/2011
+31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1058,6,,,0,0.0,0.0,09f465b5-3627-40fd-b585-ba6210dd4fa6,Tadjourah,hamboka,,SÉCHERESSE,neant,0/6/2011
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1059,6,,,0,0.0,0.0,32a860e5-35a8-4a2a-b253-db49ed2ada88,Tadjourah,daleyi,,INONDATION,neant,10/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1060,6,6023,,0,0.0,0.0,63ea6e86-320f-4172-aa4f-b7906060c96a,TADJOURAH,Sâgallou,,INONDATION,"neant, forage de sagalou",20/12/2008
+50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1061,6,,,0,0.0,0.0,6e7013e9-f37b-468d-b74b-f746a9528be5,Tadjourah,hamboka,,INONDATION,neant,17/8/2004
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1062,6,6004,,0,0.0,0.0,78b22896-a266-4cf4-91cc-1a5731441af1,Tadjourah,tadjourah ville,,INONDATION,palmaraie,20/12/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1063,6,6004,,0,0.0,0.0,b8c50fce-ae0c-444a-820e-d7c1ba01a77d,Tadjourah,tadjourah ville,,INONDATION,3aki,20/12/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1064,6,6004,,0,0.0,0.0,f7f43f1c-bc83-4a55-8011-ad2f2466e846,Tadjourah,tadjourah ville,,INONDATION,gablassan,20/12/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1065,6,6004,,0,0.0,0.0,03221eb6-24ad-4433-9e35-5b70f3e82881,Tadjourah,tadjourah ville,,INONDATION,harak,20/12/1990
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1067,6,6058,,0,0.0,0.0,d811907c-ec2b-4eeb-8584-83220cac68af,Tadjourah,gerenle,,INONDATION,neant,15/8/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1070,6,6028,,0,0.0,0.0,37c19685-1d1a-4054-b174-3dd0b5a9e4dd,Tadjourah,adaylou,,INONDATION,neant,30/9/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1073,6,,,0,0.0,0.0,51c25743-cb44-4b03-939a-a840ac39ab63,Tadjourah,boli,,FOUDRE,neant,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1074,6,,,0,0.0,0.0,904ed83e-9873-4232-8f57-3f82cf204929,Tadjourah,ilayssa,,INONDATION,neant,0/7/2009
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1076,6,6059,,0,0.0,0.0,4e16d3ad-6f44-4b8e-a2e4-8215013d532c,Tadjourah,day,,INONDATION,neant,18/8/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1077,6,6095,,0,0.0,0.0,5a45acaa-d5a9-4841-8972-9eb2fa8f4aa8,Tadjourah,randa,,INONDATION,gaboli,11/7/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1081,6,6095,,0,0.0,0.0,0123750d-d31e-4d50-b22d-f92c46f880af,Tadjourah,randa,,INONDATION,neant,8/7/2002
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1082,6,,,0,0.0,0.0,470cceef-ed10-45d3-80ed-5de5239a8d72,Tadjourah,ewali,,INONDATION,neant,23/4/2002
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1202,4,4002,,0,0.0,0.0,efedd261-7ac3-4305-8b07-1fe1bf5cd44f,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/3/2009
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1084,6,6004,,0,0.0,0.0,66e52cac-8c9d-46f9-ac24-cc97dfd6a65c,Tadjourah,tadjourah ville,,ÉPIDÉMIE,3aki,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1085,6,6004,,0,0.0,0.0,fae4e535-a07b-461d-ade1-24eacef3465f,Tadjourah,tadjourah ville,,ÉPIDÉMIE,3aki,0/11/2010
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1086,6,6004,,0,0.0,0.0,71cca677-bc15-4201-a2d4-4d618197408f,Tadjourah,tadjourah ville,,ÉPIDÉMIE,gablassan,0/7/2009
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1087,6,6004,,0,0.0,0.0,8d7c947a-29c4-45f4-8207-6dc0a85079f3,Tadjourah,tadjourah ville,,ÉPIDÉMIE,harrak,0/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1088,6,6097,,0,0.0,0.0,b1e4cad1-e3cc-4de1-a54f-dd209a90413f,Tadjourah,dorra,,ÉPIDÉMIE,neant,0/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1089,6,6004,,0,0.0,0.0,70e0a27e-b92a-4e69-b3b3-71e64384d90a,Tadjourah,tadjourah ville,,ÉPIDÉMIE,galaqto,0/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1090,6,6004,,0,0.0,0.0,e8db8e32-96b7-440b-8cd8-36d048bd9b5d,Tadjourah,tadjourah ville,,ÉPIDÉMIE,3aki,0/2/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1091,6,6004,,0,0.0,0.0,eb235e79-209e-41e4-8220-b75f1317124f,Tadjourah,tadjourah ville,,ÉPIDÉMIE,fia,0/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1092,6,6097,,0,0.0,0.0,6799f095-b11b-4d7d-962c-c067f035e188,Tadjourah,dorra,,ÉPIDÉMIE,neant,0/10/2010
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1093,6,6004,,0,0.0,0.0,72256c35-ffe1-45d1-95db-6adb8a4ce22f,Tadjourah,tadjourah ville,,ÉPIDÉMIE,elamo,0/9/2009
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1094,6,6004,,0,0.0,0.0,9092d379-ede2-4fe7-960f-659c4df31a41,Tadjourah,tadjourah ville,,ÉPIDÉMIE,3aki,0/7/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1096,6,6028,,0,0.0,0.0,a7fc936b-66a8-41c8-8096-c3b6899774c6,Tadjourah,adaylou,,SÉCHERESSE,neant,0/12/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1097,6,6028,,0,0.0,0.0,b8180625-dc1a-4cb2-b3d4-dd4e4b511c46,Tadjourah,adaylou,,SÉCHERESSE,neant,0/7/2009
+0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1098,6,6031,,0,0.0,0.0,70bc7b3f-8188-4162-9f18-8053dd55eeca,Tadjourah,guirrori,,SÉCHERESSE,neant,0/0/2011
+3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1099,6,6028,,0,0.0,0.0,e86d90e8-c9f7-41ee-b69f-62bf72ced129,Tadjourah,adaylou,,ACCIDENT,neant,0/4/1999
+0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1100,6,6009,,0,0.0,0.0,d86079ff-4067-473b-b869-90fb0298a989,Tadjourah,assa-gayla,,ACCIDENT,neant,0/2/2006
+0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1101,6,,,0,0.0,0.0,e2fb7c2e-ec1c-439a-a5a0-54bbd66fc048,Tadjourah,saké,,FOUDRE,neant,0/7/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1104,6,,,0,0.0,0.0,ba59f720-adca-418b-8e55-ac27e93ec61e,Tadjourah,himbisso,,SÉCHERESSE,neant,0/9/2009
+0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1106,6,,,0,0.0,0.0,3a41d31e-7a54-43a3-a367-376bb08e99a5,Tadjourah,himbisso,,INONDATION,neant,0/11/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1108,6,6060,,0,0.0,0.0,b2195656-34bf-4aa3-b67f-79c94f3f82e4,Tadjourah,ardo,,INONDATION,neant,24/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1116,6,6060,,0,0.0,0.0,c974af25-3ad1-4444-8f14-34359d70130e,Tadjourah,ardo,,INONDATION,neant,0/7/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1117,6,6060,,0,0.0,0.0,809c209a-8be7-4bce-aaca-82392018997d,Tadjourah,ardo,,INONDATION,neant,0/11/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1118,6,,,0,0.0,0.0,4b7e2281-bbbe-4299-816d-3231c77f1382,Tadjourah,madgal,,SÉCHERESSE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1119,6,,,0,0.0,0.0,13d12b67-399c-43b3-98f6-c53e5397e7b5,Tadjourah,dirri,,SÉCHERESSE,neant,0/9/2009
+1,8,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1121,6,6095,,0,0.0,0.0,a7f977d2-c841-473b-ba95-f775e44137ed,Tadjourah,randa,,ACCIDENT,neant,0/7/2004
+2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1122,6,6095,,0,0.0,0.0,c3ef3579-99c6-4808-b8c2-86fc3f51c588,Tadjourah,randa,,ACCIDENT,neant,0/9/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1123,6,,,0,0.0,0.0,827ade7d-9b42-4a34-8a41-73405463dd56,Tadjourah,garabti-san,,SÉCHERESSE,neant,0/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1124,6,,,0,0.0,0.0,a229b4d1-cb66-4e10-a8a8-5a8b969829a7,Tadjourah,garati-san,,SÉCHERESSE,neant,0/5/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1125,6,6075,,0,0.0,0.0,7d3b5e63-a933-40a0-b3d3-1983603b20a6,Tadjourah,terdo,,SÉCHERESSE,neant,0/6/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1126,6,,,0,0.0,0.0,82401b64-1935-4892-8aaa-bc3c3896a63d,Tadjourah,debne,,SÉCHERESSE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1127,6,,,0,0.0,0.0,3741342d-29f8-4163-acc1-4d26cb616d7b,Tadjourah,amayla-af,,SÉCHERESSE,neant,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1128,6,,,0,0.0,0.0,94182942-a6b0-4eab-acfc-30ab339098ec,Tadjourah,adoytoli,,SÉCHERESSE,neant,0/11/2008
+0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1129,6,,,0,0.0,0.0,7d8765bc-8dd5-4dcd-8316-dfc164725fc2,Tadjourah,dadha,,SÉCHERESSE,neant,0/10/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1130,6,,,0,0.0,0.0,0e5560aa-105f-4704-a04f-4d2b48a9a028,Tadjourah,gibagible,,SÉCHERESSE,neant,0/9/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1131,6,,,0,0.0,0.0,53986f80-9871-4e20-8a14-12d65201e369,Tadjourah,itki,,SÉCHERESSE,neant,0/10/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1132,6,,,0,0.0,0.0,bc3ed863-b2af-4b9a-a4c0-67e0638f4d90,Tadjourah,asmeli,,SÉCHERESSE,neant,0/3/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1133,6,,,0,0.0,0.0,2a70556e-39ff-4b6c-9c5f-19fe6afc5dfc,Tadjourah,ouda leguera,,SÉCHERESSE,neant,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1134,6,,,0,0.0,0.0,7727740c-5879-4e31-89f5-117de2e29889,Tadjourah,boli,,SÉCHERESSE,neant,0/4/2007
+0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1135,6,,,0,0.0,0.0,6d0048bf-7acf-435d-a4a4-e0cb6dddd441,Tadjourah,boli,,FOUDRE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1137,6,6004,,0,0.0,0.0,6bc4ca8d-ea7b-465b-95d3-46b9a3edd2f1,Tadjourah,tadjourah ville,,SÉCHERESSE,agra af,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1138,6,6004,,0,0.0,0.0,1e980f08-c08b-487b-9a2d-abc1d99462d9,Tadjourah,tadjourah ville,,SÉCHERESSE,3aki,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1139,6,6004,,0,0.0,0.0,dac3ca3c-abde-4c63-ba90-8cf6e5d10a03,Tadjourah,tadjourah ville,,SÉCHERESSE,cité alwan,0/9/2009
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1141,6,,,0,0.0,0.0,0dff7906-e146-4589-8b19-255446ad1e8d,Tadjourah,boli,,FOUDRE,neant,0/8/2008
+0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1142,6,,,0,0.0,0.0,9438c866-6f97-4f6c-acb8-cf9229554889,Tadjourah,boli,,FOUDRE,neant,0/6/2002
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1143,6,6095,,0,0.0,0.0,54ce8f93-4047-40c1-a905-4708f965a487,Tadjourah,randa,,INCENDIE,neant,0/6/2006
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1144,6,,,0,0.0,0.0,0fdc20ab-5dd8-4cd0-b6dc-f63d4833f32c,Tadjourah,hamboka,,INCENDIE,neant,0/4/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1145,6,6011,,0,0.0,0.0,1a92bad4-0b9a-46d6-9521-158a1867c02d,Tadjourah,balho,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1146,6,6011,,0,0.0,0.0,5db12b4b-390f-4fa7-ab5c-faccde701985,Tadjourah,balho,,SÉCHERESSE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1147,6,6011,,0,0.0,0.0,3d28847a-0d43-4e28-bcbf-f241f52b4a05,Tadjourah,balho,,SÉCHERESSE,neant,0/0/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1148,6,,,0,0.0,0.0,a02f0ac3-5db3-4c05-876a-80ec54a1d67d,Tadjourah,margoyta,,SÉCHERESSE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1149,6,,,0,0.0,0.0,bef1c34c-1804-45f1-a0e1-c7b02a34afd4,Tadjourah,andaba,,SÉCHERESSE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1150,6,6097,,0,0.0,0.0,105a9772-b498-48df-9d00-0e19d21774d3,Tadjourah,dorra,,SÉCHERESSE,neant - doda,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1151,6,6039,,0,0.0,0.0,f3cb84bb-9c21-4685-9c9e-2187b426ce03,Tadjourah,malaho,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1152,6,6039,,0,0.0,0.0,42a8a627-fad4-4aa7-a67d-6e7011b239ed,Tadjourah,malaho,,SÉCHERESSE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1153,6,6039,,0,0.0,0.0,215a49fe-c87e-457c-9cd3-5eaa0ce85173,Tadjourah,malaho,,SÉCHERESSE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1154,6,6029,,0,0.0,0.0,539b3fdd-4462-49bb-881b-fad6b33e9be7,Tadjourah,ripta,,SÉCHERESSE,neant,0/0/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1155,6,6004,,0,0.0,0.0,29744a61-ac67-433c-882d-24b3bf2f47aa,Tadjourah,tadjourah ville,,INONDATION,neant,0/0/1992
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1156,6,6004,,0,0.0,0.0,f7d6762a-8bea-4658-8a11-8cc16a694109,Tadjourah,tadjourah ville,,INONDATION,neant,0/0/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1157,6,6004,,0,0.0,0.0,32e2fe44-6c28-4621-af91-965d9c9f83e1,Tadjourah,tadjourah ville,,INONDATION,neant,0/8/2004
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1158,6,6027,,0,0.0,0.0,7471dde0-01b9-416f-a633-e6ab9526c62c,Tadjourah,bankoualeh,,SÉCHERESSE,neant,0/0/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1159,6,,,0,0.0,0.0,402ba9db-b2a3-4041-90d4-82f2703c7481,Tadjourah,dissay,,SÉCHERESSE,neant,0/0/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1160,6,,,0,0.0,0.0,7d21a333-d05f-4ec0-b0f7-8334213eaa2d,Tadjourah,hamboka,,SÉCHERESSE,neant,0/0/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1161,6,,,0,0.0,0.0,2ee3c4b4-e0c3-46d0-b809-22133714cd6e,Tadjourah,moudaqa,,INONDATION,neant,0/1/1997
+0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1162,6,,,0,0.0,0.0,dd6674c2-e051-41cf-8fe5-c549fbc37a0d,Tadjourah,boli,,INONDATION,neant,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1163,6,,,0,0.0,0.0,4246340d-47a1-4929-a571-286084aa706f,Tadjourah,boli,,INONDATION,neant,0/9/2007
+28,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1164,6,6029,,0,0.0,0.0,4375fb39-ba33-40ea-bf51-cd8b78c97706,Tadjourah,ripta,,ACCIDENT,neant,0/6/2012
+13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1165,6,6004,,0,0.0,0.0,9a1305b1-d580-41c0-a358-5b077840f7ed,Tadjourah,tadjourah ville,,NAUFRAGE,neant,0/1/1996
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1166,6,6004,,0,0.0,0.0,9262d396-1371-4704-9c9d-4edf374c0f53,Tadjourah,tadjourah ville,,NAUFRAGE,neant,17/7/1998
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1167,6,6097,,0,0.0,0.0,41dd338d-2018-446a-9775-de58dce186a6,Tadjourah,dorra,,ÉPIDÉMIE,neant,0/12/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1168,6,6097,,0,0.0,0.0,c66f17a6-7764-42a0-a9dc-ef9c71b0ca9c,Tadjourah,dorra,,ÉPIDÉMIE,neant,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1169,6,6011,,0,0.0,0.0,7d73e57e-2ee3-4657-a73e-481a3a7e887d,Tadjourah,balho,,ÉPIDÉMIE,neant,0/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1170,6,,,0,0.0,0.0,f8eea2d8-3fd0-4689-b299-a4bfcfb48ec2,Tadjourah,bouyya,,ÉPIDÉMIE,neant,0/3/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1171,6,6004,,0,0.0,0.0,c5ba9e05-dbb1-4123-89cb-24303df815f4,Tadjourah,tadjourah ville,,ÉPIDÉMIE,neant,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1172,6,6004,,0,0.0,0.0,eaf75f69-bb22-4c11-85cf-7a0b2d5a8593,Tadjourah,tadjourah ville,,ÉPIDÉMIE,neant,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1173,6,6004,,0,0.0,0.0,d234ac73-6197-4fcf-b19f-794b0e617f83,Tadjourah,tadjourah ville,,ÉPIDÉMIE,neant,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1174,6,6004,,0,0.0,0.0,17b5e872-475f-4f2e-b4b2-32e6f629028a,Tadjourah,tadjourah ville,,ÉPIDÉMIE,neant,0/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1175,6,6004,,0,0.0,0.0,4be48e3d-0005-4f64-a7ba-1d8f6cb337cb,Tadjourah,tadjourah ville,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1176,6,6004,,0,0.0,0.0,3b258a86-6da4-4e0d-87b6-d2e7c964a978,Tadjourah,tadjourah ville,,ÉPIDÉMIE,neant,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1177,6,6028,,0,0.0,0.0,af35bc42-da21-4f5f-bfee-f5a19b025506,Tadjourah,adaylou,,ÉPIDÉMIE,neant,0/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1178,6,6028,,0,0.0,0.0,0d1967dc-7a7b-4f18-83a2-7bf2eb47cdb0,Tadjourah,adaylou,,ÉPIDÉMIE,neant,0/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1179,6,6031,,0,0.0,0.0,d1f1ad0b-e07a-4e0b-a705-fdafece2b6c9,Tadjourah,guirrori,,ÉPIDÉMIE,neant,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1180,6,6031,,0,0.0,0.0,f4dd463a-2141-41e9-87c9-f67cf5c676b2,Tadjourah,guirrori,,ÉPIDÉMIE,neant,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1181,6,6011,,0,0.0,0.0,717fdead-abd7-4b95-89a5-cf7c269ae545,Tadjourah,balho,,ÉPIDÉMIE,neant,0/1/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1182,6,6011,,0,0.0,0.0,d6ea4d80-58fe-4d23-94aa-5fd342edc7ea,Tadjourah,balho,,ÉPIDÉMIE,neant,0/7/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1183,6,6039,,0,0.0,0.0,ccef6133-5aac-4b9b-82c2-9ed2882ba0bb,Tadjourah,malaho,,ÉPIDÉMIE,neant,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1184,6,6039,,0,0.0,0.0,982fc342-4c39-4aab-ab5e-86808b7972fd,Tadjourah,malaho,,ÉPIDÉMIE,neant,0/1/2011
+1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1185,4,4001,,0,0.0,0.0,7bb163f2-753e-49dc-950c-a7f1451d66a3,DJIBOUTI,RAS DIKA,,NAUFRAGE,Port de Djibouti,0/1/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1186,4,4002,,0,0.0,0.0,0f6b7572-619d-44be-8f3d-9937554d0043,DJIBOUTI,BOULAOS,,INCENDIE,QUARTIER 1,0/2/1986
+1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1187,4,4002,,0,0.0,0.0,d4b3e2ec-9bab-4ee2-b303-9a7506c2eb8a,DJIBOUTI,BOULAOS,,ACCIDENT,COMMUNE DE BOULAOS,0/2/2011
+78,50,10,0,0,0,0,0,400,0,0,0,0,0,50,0,1189,4,,,0,0.0,0.0,e7104edc-8a04-4ad5-b775-f64a7681ab6d,DJIBOUTI,,,INONDATION,DJIBOUTI VILLE,0/4/2004
+115,70,0,0,0,0,0,0,50,0,0,0,0,0,0,0,1190,4,4001,,0,0.0,0.0,3ee39110-88eb-4a9a-a293-46e964543821,DJIBOUTI,RAS DIKA,,NAUFRAGE,PORT DE DJIBOUTI,0/4/2006
+1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1191,4,4002,,0,0.0,0.0,34fc04b4-1f67-4f83-9642-5b62702f6df3,DJIBOUTI,BOULAOS,,ACCIDENT,COMMUNE DE BOULAOS,0/8/1981
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1192,4,4002,,0,0.0,0.0,353e3093-9f89-42f2-91af-5034de88750f,DJIBOUTI,BOULAOS,,ACCIDENT,COMMUNE DE BOULAOS,0/8/1983
+3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1193,4,4002,,0,0.0,0.0,79000fe3-44c9-4ecc-8535-cbcc5b22c79c,DJIBOUTI,BOULAOS,,ACCIDENT,COMMUNE DE BOULAOS,0/9/1984
+1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1194,4,4002,,0,0.0,0.0,08493c18-a940-4d1f-b491-3abcd21ff637,DJIBOUTI,BOULAOS,,ACCIDENT,COMMUNE DE BOULAOS,0/10/1986
+2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1195,4,4002,,0,0.0,0.0,5a8b6c5b-520e-4d23-9cac-1a35213c2f38,DJIBOUTI,BOULAOS,,ACCIDENT,COMMUNE DE BOULAOS,0/11/1981
+50,40,20,0,0,0,0,0,370,0,0,0,0,0,0,0,1196,4,,,0,0.0,0.0,f84eff0b-8a95-4a3e-9f2d-15b80d1a4197,DJIBOUTI,,,INONDATION,DJIBOUTI VILLE,0/11/1994
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1197,4,4002,,0,0.0,0.0,6f556465-2b0d-4958-afd3-24792a041511,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/8/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1198,4,4002,,0,0.0,0.0,bcb50d7c-0723-4485-afd4-ea249b513455,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/10/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1199,4,4002,,0,0.0,0.0,23b9e46b-801a-4508-a2ee-d5b53446d0bb,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/10/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1200,4,4002,,0,0.0,0.0,0f4df2dc-4715-491e-9c69-8eb577885ee6,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1201,4,4002,,0,0.0,0.0,3403dcd2-c111-4442-bb90-63ad9a7dd2e7,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1203,4,4002,,0,0.0,0.0,39a1a270-2408-48d4-8c1b-fb9057741b6d,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/6/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1204,4,4002,,0,0.0,0.0,6b4e3cd2-7276-4b2c-8d9c-4d0c864de8c8,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1205,4,4002,,0,0.0,0.0,5203c792-6dea-4481-9beb-47362e69f0f4,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1206,4,4002,,0,0.0,0.0,2a713153-2900-428e-a162-b023088656f4,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1207,4,4002,,0,0.0,0.0,67766e6e-52e6-4af5-9ca4-f688d6f51386,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1208,4,4002,,0,0.0,0.0,425c22ce-31a7-4911-a73b-194985114667,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1209,4,4002,,0,0.0,0.0,466e3ed7-9052-4313-89bd-3d179a648c13,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1210,4,4002,,0,0.0,0.0,5e213f9f-06e6-4487-b54d-a0810246dce5,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1211,4,4002,,0,0.0,0.0,f00c0cc9-1a5e-42d1-b856-3a6face21365,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1212,4,4002,,0,0.0,0.0,89d619a8-c3db-4920-b471-fd0e27669e45,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1213,4,4002,,0,0.0,0.0,d651eb36-ee5e-4521-b9fb-353d23e09ee0,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1214,4,4002,,0,0.0,0.0,05e9423a-5559-4b36-a0a3-2e4bcea723c1,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/2/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1215,4,4002,,0,0.0,0.0,5a1956f4-5a53-4018-92df-803cb4c95a48,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/3/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1216,4,4002,,0,0.0,0.0,f4903fef-9405-45f5-ab6b-998607b17176,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,AMBOULI,0/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1217,4,4003,,0,0.0,0.0,3a5b3470-a492-4117-a980-ea348712a0c9,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1218,4,4003,,0,0.0,0.0,bf5ff6d1-4a89-410e-95bc-1b085c86e830,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1219,4,4003,,0,0.0,0.0,c5713896-1215-4b25-b20c-d7915d600ffa,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/1/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1220,4,4003,,0,0.0,0.0,e5ed19ad-4b19-42bb-be42-bb4b80fec48a,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/2/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1221,4,4003,,0,0.0,0.0,c8850d8c-02ee-492c-ac29-808079e17b69,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/3/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1222,4,4003,,0,0.0,0.0,21247239-af85-4696-9fb9-a2305780617f,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1223,4,4003,,0,0.0,0.0,a99951b6-c962-4cb5-8abd-bfc7af949e63,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/7/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1224,4,4003,,0,0.0,0.0,b5b936f9-0333-4bb8-8a70-baae13e8e567,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1225,4,4003,,0,0.0,0.0,d9543896-6837-4c3c-b3c7-8f122e72e459,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1226,4,4003,,0,0.0,0.0,ee39bc41-ab2f-4f31-b362-072c9b00d86f,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1227,4,4003,,0,0.0,0.0,3566a208-cf45-4250-bea1-bdfec0126a13,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1228,4,4003,,0,0.0,0.0,92658c94-1b9c-4d69-91e7-085b64f9f8a8,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1229,4,4003,,0,0.0,0.0,9e3b058d-a37f-4841-a30d-8ea73e0543c9,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1230,4,4003,,0,0.0,0.0,f4b74043-6d0f-43ba-b4c5-524c518fa768,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1231,4,4003,,0,0.0,0.0,736b59ea-a349-4348-a927-9caa6d115553,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA I,0/12/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1232,4,4003,,0,0.0,0.0,51d10fbc-3320-44da-85d8-7f1170aafb9e,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/1/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1233,4,4003,,0,0.0,0.0,61be1565-47d1-4f18-836a-9a19c703588f,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/2/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1234,4,4003,,0,0.0,0.0,bcfc9a32-f272-464e-ac32-219a73506d36,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/6/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1235,4,4003,,0,0.0,0.0,3bc5b47d-a7ce-4f05-baa4-1855c0cdfc01,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/7/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1236,4,4003,,0,0.0,0.0,502081b5-f6f4-4753-b341-7a3741137b00,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/10/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1237,4,4003,,0,0.0,0.0,61f46c16-df37-4791-a3bc-d7da1d11337c,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1238,4,4003,,0,0.0,0.0,aa5c6d8b-4cf6-4c95-b773-e3afaad246eb,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1239,4,4003,,0,0.0,0.0,def015b6-cae2-4bea-a80c-3deb7fc7f85a,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1240,4,4003,,0,0.0,0.0,034c84ab-cbfd-40e8-a441-2e4b03cfaf9b,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1241,4,4003,,0,0.0,0.0,6a1e4959-42f1-4602-b203-b5489f7b7678,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1242,4,4003,,0,0.0,0.0,01345cb4-d776-4be0-8caf-d5beebbe2d9d,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/12/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1243,4,4003,,0,0.0,0.0,61f7858b-6359-4564-aa16-3aa6848d61b5,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/3/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1244,4,4003,,0,0.0,0.0,6d6d3244-ff62-4743-8507-f5ef5495ecf3,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/6/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1245,4,4003,,0,0.0,0.0,e3fa4b8e-6a11-44da-8690-2101f259d45c,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/11/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1246,4,4003,,0,0.0,0.0,31172a4e-8c97-408b-b3f2-d44bed706e1b,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1247,4,4003,,0,0.0,0.0,4c6c29be-962a-4ded-b6f5-907df1c1d910,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1248,4,4003,,0,0.0,0.0,8e219150-1e05-4a6d-a0bf-9b9f0c22c3b4,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1249,4,4003,,0,0.0,0.0,927d2177-9a43-4cbc-939b-75e90b72c32f,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1250,4,4003,,0,0.0,0.0,462642df-5ca8-4a3e-a8be-8a1f0a4558ea,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1251,4,4003,,0,0.0,0.0,c6050fef-4fa5-4dc7-a8f8-1f6aab91c6dd,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1252,4,4003,,0,0.0,0.0,bcdbd5a6-f349-47c2-ac44-bd1468553f2d,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1253,4,4003,,0,0.0,0.0,95872c8b-43d7-4c99-9a04-b7c0725c0227,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/8/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1254,4,4003,,0,0.0,0.0,7a956870-871e-4506-ad79-08371e92d0f3,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1255,4,4003,,0,0.0,0.0,1fceed48-2d7b-4c27-8af5-dce7fa643607,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1256,4,4003,,0,0.0,0.0,bd3775f8-99f0-43ea-97cc-9522e417e8dc,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1257,4,4003,,0,0.0,0.0,54d34239-06e8-4800-8525-f3ac4c0f93c0,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1258,4,4003,,0,0.0,0.0,bb7a5c35-a097-493c-8d70-4bdd923760e8,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,BALBALLA II,0/12/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1259,4,4002,,0,0.0,0.0,49c614f0-66d3-4873-97bf-77d9db61f6bb,DJIBOUTI,DORALEH,,ÉPIDÉMIE,DORALEH,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1260,4,4002,,0,0.0,0.0,0558f8b4-cb79-4ec6-a57e-a184605ad021,DJIBOUTI,DORALEH,,ÉPIDÉMIE,DORALEH,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1261,4,4002,,0,0.0,0.0,97c9e2b6-baea-4860-95e7-8283e143af85,DJIBOUTI,DORALEH,,ÉPIDÉMIE,DORALEH,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1262,4,4002,,0,0.0,0.0,003a0557-a1f0-4f38-8e08-ebb55de8853d,DJIBOUTI,DORALEH,,ÉPIDÉMIE,DORALEH,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1263,4,4002,,0,0.0,0.0,65695984-6454-4899-ae8e-cb4fe55ab81c,DJIBOUTI,DORALEH,,ÉPIDÉMIE,DORALEH,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1264,4,4002,,0,0.0,0.0,17292365-0606-479b-8e9f-5aaf3ca43842,DJIBOUTI,DORALEH,,ÉPIDÉMIE,DORALEH,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1265,4,4002,,0,0.0,0.0,931ce771-e870-4e2b-b68b-1c1ff8015ff8,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1266,4,4002,,0,0.0,0.0,9c190c18-e345-40a3-b341-b23c3ff5daf3,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1267,4,4002,,0,0.0,0.0,de1b49b8-99a8-4529-97b9-219d43e94ff6,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1268,4,4002,,0,0.0,0.0,1400fc8e-1431-43da-acfb-77968b0c17e6,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1269,4,4002,,0,0.0,0.0,5b9c09c7-4781-425d-a77f-0e85497fe5aa,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/3/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1270,4,4002,,0,0.0,0.0,2eed711a-e73a-4138-81f1-ed25118ed7a8,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/5/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1271,4,4002,,0,0.0,0.0,05d836cf-a192-4907-9456-821ef94e76c0,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1272,4,4002,,0,0.0,0.0,4de4391e-1d5b-4345-8a3e-6828745c8b5c,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1273,4,4002,,0,0.0,0.0,adde9e05-879c-44c3-9b21-2df3810f6265,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1274,4,4002,,0,0.0,0.0,d4d362c9-d38b-4db9-aa81-faee0e7cd22e,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1275,4,4002,,0,0.0,0.0,a7fa46a6-a8f5-4556-ad66-ed817db07348,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1276,4,4002,,0,0.0,0.0,886ba618-807a-4dfe-8952-efd3b8924310,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1277,4,4002,,0,0.0,0.0,90d085f6-9634-4f64-ae0f-66e55ff48ea8,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1278,4,4002,,0,0.0,0.0,2e552d1b-7d1d-49a7-9663-e6970ce65f86,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/11/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1279,4,4002,,0,0.0,0.0,766f0fa1-b5aa-4e0c-9477-fbf9e8ab0f59,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/3/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,4,4002,,0,0.0,0.0,d16cf413-48fd-4a59-b9b0-e5f00a33c429,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1281,4,4002,,0,0.0,0.0,2c969be5-1325-4f60-8595-24f0f6938818,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1282,4,4002,,0,0.0,0.0,d06264c7-ac21-470e-9cbb-7f0d1c801192,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/10/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1283,4,4002,,0,0.0,0.0,592ebcc5-85df-4c27-9358-96881ba49a48,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/11/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1284,4,4002,,0,0.0,0.0,e24358dd-f824-495b-866f-3af28799d005,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/11/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1285,4,4002,,0,0.0,0.0,c6aeeab4-2d55-43d8-8b5c-0f743d6b8237,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1286,4,4002,,0,0.0,0.0,2db4f54f-86ba-48cb-87aa-f13ab8858090,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,EINGUELA,0/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1287,4,4002,,0,0.0,0.0,ad97abc1-27ff-4ea0-953e-17c5fc445d2b,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/3/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1288,4,4002,,0,0.0,0.0,065de9fc-f672-46d1-a1df-d67ccd01f755,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/10/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1289,4,4002,,0,0.0,0.0,b9117ba8-9b4c-4d32-9d54-0f493e61392c,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/12/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1290,4,4002,,0,0.0,0.0,6408e002-b5cc-4343-95bf-09d8b8020d79,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1291,4,4002,,0,0.0,0.0,67e09a70-a570-4ded-a759-0037e0f13637,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1292,4,4002,,0,0.0,0.0,31f11bb0-8de9-4486-83d2-7ebd0911157c,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1293,4,4002,,0,0.0,0.0,5ba6f606-c35e-407b-9e50-47b73aac4a7a,DJIBOUTI,BOULAOS,,ÉPIDÉMIE,FARAHAD,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1294,4,4003,,0,0.0,0.0,436faf06-4973-4676-917e-72e0a615b3de,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1295,4,4003,,0,0.0,0.0,7d5dff43-5668-4286-b961-bf14427e20fe,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/1/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1296,4,4003,,0,0.0,0.0,d164eba0-47d2-431e-aac0-9f2aaec3d589,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1297,4,4003,,0,0.0,0.0,99123602-c688-4173-ae4f-7897d25dd9cf,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1298,4,4003,,0,0.0,0.0,b584c057-9942-4f51-b139-86ea5ebcad83,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/2/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1299,4,4003,,0,0.0,0.0,b3304174-84c2-42a7-9d78-8c9c4e828cae,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300,4,4003,,0,0.0,0.0,8533189d-b220-4723-82dd-6fbdaf7cc92d,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/3/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1301,4,4003,,0,0.0,0.0,866f17ca-3c0a-49ae-aa3f-416f85f7076f,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1302,4,4003,,0,0.0,0.0,677e4c98-99ad-4172-8e9f-53fee3df6b78,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/4/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1303,4,4003,,0,0.0,0.0,27f29bd8-0e7f-4bb2-ae43-e2d7cf73739d,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/5/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1304,4,4003,,0,0.0,0.0,1782dfbf-5355-47c5-ab2e-c56ac3d50979,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1305,4,4003,,0,0.0,0.0,46d9084a-4350-4402-aeaf-b44a6aee87df,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/7/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1306,4,4003,,0,0.0,0.0,7b1ed9f1-8a02-406c-9040-84ac31627eb6,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1307,4,4003,,0,0.0,0.0,c98b702e-97b0-4677-b8b2-6cd6b1830c58,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1308,4,4003,,0,0.0,0.0,6669c874-7633-45e9-b34a-bd40c2a5bc94,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1309,4,4003,,0,0.0,0.0,5d03717b-bdde-4657-b981-98f249b19e92,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/10/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1310,4,4003,,0,0.0,0.0,fa1281eb-1ebc-45e8-85d2-b44fc62fedfc,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1311,4,4003,,0,0.0,0.0,18ad5982-3465-44bf-82c2-5fc3e150b797,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1312,4,4003,,0,0.0,0.0,a829997e-33db-4071-898a-11f4361b55fe,DJIBOUTI,BALBALLA,,ÉPIDÉMIE,HAYABLEY,0/4/2009

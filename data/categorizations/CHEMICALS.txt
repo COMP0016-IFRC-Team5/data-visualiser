@@ -1,0 +1,37 @@
+aflatoxin.csv
+air pollution.csv
+chemical spills.csv
+chemical substance.csv
+chemical.csv
+coastal erosion.csv
+contamination.csv
+emission+leak.csv
+erosion.csv
+erosión.csv
+erossion.csv
+eruption.csv
+explosion.csv
+explosions.csv
+explosión.csv
+explotion.csv
+fell into a black oil tanker.csv
+food poisoning.csv
+fuel explosion.csv
+fuel tanke explosion.csv
+gas explosion.csv
+gas spills.csv
+generator fumes.csv
+industrial explosions.csv
+industrial pollution.csv
+leak or spill.csv
+leak.csv
+materiales peligrosos.csv
+oil spills.csv
+oil+hns spill.csv
+ozono.csv
+poisoning.csv
+pollution marine.csv
+pollution.csv
+riverbank erosion.csv
+seaerosion.csv
+spill.csv

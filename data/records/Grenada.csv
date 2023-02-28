@@ -1,0 +1,163 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,serial,level0,level1,level2,approved,latitude,longitude,uuid,name0,name1,name2,event,location,date
+0,0,0,0,0,45,0,0,0,290000,775000,0,0,0.0,0,0.0,2,GRD,GRD01,GRD0105,0,12.17851748,-61.72622683,2e610d35-14bf-4f15-aebe-52d65022b850,Grenada,Grenada,St Mark,STORM,"Victoria, Waltham, La Source, Bonnaire, Gros Pt etc.",11/4/2011
+1,0,0,0,350,1650,5837,0,0,0,0,0,1,0.0,0,0.0,3,GRD,GRD02,,0,0.0,0.0,707b8862-0545-423e-8d1f-36b5ecdede02,Grenada,Carriacou,,HURRICANE,"Carricou & PM Harvey Vale, Hillsborough, Belmont",14/7/2005
+21,680,0,15,11367,34101,35575,0,0,889000000,2389810000,45,1,28.0,4043,0.0,4,GRD,GRD01,GRD0101,0,0.0,0.0,82ff4bb3-cca5-4972-b8ce-72a85df5daea,Grenada,Grenada,St George,HURRICANE,Parish & National $ losses,7/9/2004
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,5,GRD,GRD01,GRD0107,0,0.0,0.0,d27903ec-1c2a-413c-b089-f05b1ea8d3a0,Grenada,Grenada,St Patrick,VOLCANO,Kick em Jenny Volcano,4/12/2001
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,6,GRD,GRD01,,0,12.30332986,-61.61590582,fb1287dc-d293-43cc-86b0-c6d64bd746af,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou,29/12/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,8,GRD,GRD01,,0,0.0,0.0,6fb55cf7-b5ab-496a-9195-2c02b4c6ae43,Grenada,Grenada,,TSUNAMI,Northern Gda & S. Grenadines - Kick em Jenny,23/7/1939
+1,6,0,6,0,18,0,0,0,0,0,0,0,0.0,0,0.0,9,GRD,GRD01,GRD0101,0,12.05655626,-61.7420196,ca61f65f-48ce-41f6-a2c0-69f5bd686c5a,Grenada,Grenada,St George,FLOOD,"Cemetery Hill, Fontenoy, River Rd, Tempe, Queens Park, Tante",20/11/1938
+0,0,0,0,0,33,0,0,0,0,0,0,0,0.0,0,0.0,149,GRD,GRD01,GRD0103,4,12.1225789,-61.62918091,69770b2a-dfff-48c7-994b-8f2e6fe0a57f,Grenada,Grenada,St Andrew,FIRE,Grenville - ,27/7/2010
+1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,150,GRD,GRD02,GRD0202,4,12.5116654,-61.42456055,e10a79e6-7350-49c4-9566-5ef438d1d2fc,Grenada,Carriacou,Carriacou,THUNDERSTORM,Windward,14/9/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,203,GRD,GRD01,,0,11.092165893502,-60.84228515625,23712872-5caf-4f67-8c91-0d1c493ce062,Grenada,Grenada,,EARTHQUAKE,Off Tobago - EQ swarm,22/4/1997
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,10,GRD,GRD01,,0,0.0,0.0,46670518-a513-4f14-a36a-c918e46070ef,Grenada,Grenada,,FLOOD,,0/0/1921
+6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,11,GRD,GRD01,,0,0.0,0.0,3080e35c-3a65-4ae4-8814-0e6cd5dd9e77,Grenada,Grenada,,HURRICANE,General Description,30/9/1963
+0,0,0,0,0,0,0,0,0,5300000,0,0,0,0.0,0,0.0,13,GRD,GRD01,,0,0.0,0.0,b122a725-5c52-428f-b420-99991756c490,Grenada,Grenada,,HURRICANE,National - H. Allan,4/8/1980
+0,0,0,0,98,0,1000,0,0,3000000,0,0,0,0.0,0,0.0,14,GRD,GRD01,,0,0.0,0.0,3986b043-9d61-405d-8216-a32fac57f7df,Grenada,Grenada,,STORM,National - TS Arthur,25/7/1990
+0,0,0,0,0,220,0,0,0,7925000,0,0,0,0.0,0,0.0,15,GRD,GRD01,GRD0101,0,0.0,0.0,826e09eb-5cba-4ba7-ad5c-ddaa945b91da,Grenada,Grenada,St George,FIRE,St.George's - Financial Center,27/4/1990
+0,0,0,2,0,210,0,0,0,5500000,0,0,0,0.0,0,0.0,16,GRD,GRD02,,0,0.0,0.0,77a09323-6a93-4006-ac8b-8cd4da13a35d,Grenada,Carriacou,,COASTAL EROSION,Carricou & PM,15/11/1999
+0,0,0,2,151,0,430,0,195,0,0,1,0,0.0,0,4667.0,42,GRD,GRD01,GRD0106,0,0.0,0.0,ac919813-6fc1-4b91-8bcd-c824fd6ceea8,Grenada,Grenada,St John,HURRICANE,"Belvedere, Gouyave",14/7/2005
+0,0,0,0,499,0,8539,0,0,0,0,6,0,0.0,0,9093.0,38,GRD,GRD01,GRD0107,0,0.0,0.0,ad9bc4cb-01c4-490a-87d6-edfcda7671fe,Grenada,Grenada,St Patrick,HURRICANE,"Sauteurs, Peggy's Whim - H. Emily",14/7/2005
+0,0,0,0,0,0,6500,0,0,0,0,0,0,0.0,0,0.0,19,GRD,GRD02,GRD0202,0,12.4928952272006,-61.4437866210938,503518e1-edc5-410d-9981-02545f4b7914,Grenada,Carriacou,Carriacou,DROUGHT,"Mt. Pleasant, Belair, Brunswick",0/10/2009
+0,1,0,1,18,60,0,0,4,3904000,10423000,0,0,0.0,0,0.0,21,GRD,GRD01,GRD0106,0,12.16912063,-61.72851564,3c26c8cd-2a01-4d4f-9529-8c5bc7c1c570,Grenada,Grenada,St John,FLOOD," Gouyave & Clozier Mt. Millette, Brothers,  Grand Etang",11/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,28,GRD,GRD01,,0,0.0,0.0,566a57fd-a37b-40ed-99d0-f701d03565f1,Grenada,Grenada,,EARTHQUAKE,,10/1/1888
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,23,GRD,GRD01,GRD0101,0,0.0,0.0,3cafd4b5-0258-4507-95aa-47a48336ca1a,Grenada,Grenada,St George,FLOOD,St.George's - St. Georges ,11/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,24,GRD,GRD01,GRD0103,0,12.1348864,-61.63513185,29ff6447-42ed-4973-9e7c-cd15564d2b5f,Grenada,Grenada,St Andrew,FLOOD,Balthazar River,11/4/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,25,GRD,GRD01,GRD0103,4,12.12750197,-61.63856508,ecf43f87-6275-4d65-96b1-11a5c8b254c3,Grenada,Grenada,St Andrew,FLOOD,Balthazar River,13/9/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,26,GRD,GRD01,GRD0101,0,0.0,0.0,822036ef-3675-4e43-81ac-b1ca83bf0224,Grenada,Grenada,St George,TSUNAMI,"National -Tsunami; South & West coast Grenada, Carriacou",18/11/1867
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,27,GRD,GRD01,GRD0106,0,12.1677782,-61.72027589,ed525274-d9a8-4e23-afdc-9d29bb09e3b0,Grenada,Grenada,St John,TSUNAMI,Dougaldston - ,18/11/1867
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,29,GRD,GRD01,GRD0101,0,0.0,0.0,a10d27e1-e985-4d24-ae99-7c9d3f28e4a8,Grenada,Grenada,St George,TSUNAMI,,0/0/1868
+0,0,0,10,77,0,200,0,125,0,0,0,0,0.0,0,10461.0,41,GRD,GRD01,GRD0105,0,0.0,0.0,5c01c9a2-3630-43a4-8d94-70d8db4fd1cf,Grenada,Grenada,St Mark,HURRICANE,"Victoria, Duquense",14/7/2005
+0,0,0,0,0,0,0,0,0,60000000,0,0,0,0.0,0,0.0,30,GRD,GRD01,,0,0.0,0.0,c627a3e3-f954-4235-94ee-a74c769b8bde,Grenada,Grenada,,BIOLOGICAL,National - Mealy Bug,0/11/1994
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,180,GRD,GRD01,GRD0101,0,12.020516709146,-61.732177734375,1a4b1f04-e9c6-472e-9e4a-e3ee47c49208,Grenada,Grenada,St George,OTHER,South Grenada - dry spell,0/7/1994
+5,0,0,10,6783,20349,23759,0,0,0,0,8,1,307.6,3599,0.0,31,GRD,GRD01,GRD0103,0,0.0,0.0,4a589aa6-e0d4-4838-b114-c164537a031b,Grenada,Grenada,St Andrew,HURRICANE,"Soubise, Marquis, River Antoine, Waltham Crochu, Pearls",7/9/2004
+0,0,0,0,770,2310,0,0,1216,0,0,2,1,0.0,0,0.0,32,GRD,GRD02,,0,0.0,0.0,fec64f7c-ebc5-4d9e-a94c-a0dc5b802f28,Grenada,Carriacou,,HURRICANE,Carricou and PM,7/9/2004
+0,0,0,0,847,2541,0,0,799,0,0,0,0,60.0,1184,0.0,33,GRD,GRD01,GRD0105,0,0.0,0.0,c0bb00c3-fe09-4674-9292-757c33c07476,Grenada,Grenada,St Mark,HURRICANE,,7/9/2004
+0,0,0,0,2247,6741,2135,0,0,0,0,0,0,73.0,1662,0.0,34,GRD,GRD01,GRD0107,0,0.0,0.0,018fdda9-862d-42a5-8f09-b80187776b00,Grenada,Grenada,St Patrick,HURRICANE,H. Ivan,7/9/2004
+6,0,0,15,3530,10590,10337,0,0,0,0,0,0,50.1,2381,0.0,35,GRD,GRD01,GRD0102,0,12.03327661,-61.67816157,0429ca8f-a782-46d6-a36d-e0a696a2177e,Grenada,Grenada,St David,HURRICANE,"Apres Tout, Belle Vue, Corinth, Beaton, Berrotte, Belle Isle",7/9/2004
+1,0,0,0,2191,6573,7732,0,0,0,0,0,0,101.2,1522,0.0,36,GRD,GRD01,GRD0106,0,0.0,0.0,f68cbf77-84ce-4811-a07f-95736f374793,Grenada,Grenada,St John,HURRICANE,"Gouyave, Gouyave Estate, Palmiste",7/9/2004
+0,0,0,87,1153,0,19799,0,2521,0,0,6,0,0.0,0,49408.0,37,GRD,GRD01,GRD0103,0,0.0,0.0,c690d39f-c8b5-4c31-99fc-c73f1e99e361,Grenada,Grenada,St Andrew,HURRICANE,"Grenville, Seamoon, Pearls, Paradise, Marqui and Telescope ",14/7/2005
+0,0,0,10,126,0,574,0,18,0,0,0,0,0.0,0,6035.0,39,GRD,GRD01,GRD0102,0,0.0,0.0,15ba449e-3c47-43c9-bb87-cd16e6b0f218,Grenada,Grenada,St David,HURRICANE,H. Emily,14/7/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,154,GRD,GRD02,GRD0202,4,12.47948713,-61.4465332,6bbf5574-15c3-4cb0-9105-71dd40e6b9da,Grenada,Carriacou,Carriacou,BIOLOGICAL,"Hillsborough, Brunswick, Six Roads, Mt. Desire, Prospect Hal",0/7/2013
+0,0,0,8,285,0,3706,0,1192,0,0,1,1,0.0,0,3621.0,40,GRD,GRD01,GRD0101,0,12.0527510721794,-61.7459106445313,d28d1417-8f5e-4e52-b843-079c07e66383,Grenada,Grenada,St George,HURRICANE,"Richmond Hill, Morne Rouge etc.",14/7/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,43,GRD,GRD01,,0,0.0,0.0,1689f42f-d09d-408e-95a3-62549a99c798,Grenada,Grenada,,BIOLOGICAL,National - Pink locust,22/10/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,44,GRD,GRD01,,4,0.0,0.0,661d3858-fa34-4612-9fc7-1a15ff71da45,Grenada,Grenada,,BIOLOGICAL,Banana fields Sigatoka,0/0/2006
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,46,GRD,GRD01,GRD0101,0,0.0,0.0,fe14b049-55ee-4d1c-8159-223492506e49,Grenada,Grenada,St George,FIRE,St.George's - ,15/5/1792
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,47,GRD,GRD01,GRD0101,0,0.0,0.0,48b64b51-66e1-44cc-ab27-2005cddbaec5,Grenada,Grenada,St George,FIRE,St.George's - ,0/0/1771
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,48,GRD,GRD01,GRD0101,0,0.0,0.0,d971650c-6f3f-4183-8b2b-7ab1171e45c7,Grenada,Grenada,St George,FIRE,St.George's - ,0/0/1775
+0,0,0,5,3,24,0,0,0,0,0,0,0,0.0,0,0.0,51,GRD,GRD01,GRD0106,4,0.0,0.0,faed3b00-3464-4282-8300-afa19cc62867,Grenada,Grenada,St John,FIRE,"Gouyave - Edward St, Gouyave",8/3/2014
+1,12,0,0,0,672,0,0,0,0,0,0,0,0.0,0,0.0,52,GRD,GRD01,GRD0101,0,0.0,0.0,21980fc1-9af2-4ace-9e25-2cc00727f162,Grenada,Grenada,St George,FIRE,St.George's - St. George's Harbour,22/10/1961
+0,0,0,0,0,2,0,0,0,86000,230000,0,0,0.0,0,0.0,151,GRD,GRD02,GRD0202,4,12.52641244,-61.44104004,b083e5a1-fd22-4162-a68a-f4810a6bef50,Grenada,Carriacou,Carriacou,OTHER,Gun Point Ship wreck,24/12/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,54,GRD,GRD02,GRD0202,0,0.0,0.0,ca00a360-f6a6-427b-99a7-0c7d076b1231,Grenada,Carriacou,Carriacou,DROUGHT,,0/0/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,55,GRD,GRD02,GRD0202,0,0.0,0.0,6d78dbdb-92dc-47cc-9284-c81b04a0ffab,Grenada,Carriacou,Carriacou,DROUGHT,"Limiair, Windward, Dumfries",0/0/1992
+0,0,0,50,499,0,0,0,238,0,0,0,0,0.0,0,0.0,56,GRD,GRD01,GRD0107,0,0.0,0.0,f1a4499b-dd3b-4fa5-9704-e8d58ca92baa,Grenada,Grenada,St Patrick,LANDSLIDE,"River Salle, Montreuil, Hermitage, Levera and Morne Fendue ",14/7/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,57,GRD,GRD01,GRD0103,0,0.0,0.0,266831f1-61b7-462c-b2dd-3f8da1afa9a3,Grenada,Grenada,St Andrew,LANDSLIDE,"St. Cloud - St. Cloud, Mirabeau",14/7/2005
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,58,GRD,GRD01,,0,11.80283423,-61.86401367,2a26f56b-cb56-45c0-958c-ee2937df848f,Grenada,Grenada,,EARTHQUAKE,11.74N 61.86 W 80KM deep,28/11/1986
+0,0,0,0,0,0,0,0,0,0,0,0,0,40.5,0,0.0,59,GRD,GRD01,,0,0.0,0.0,24102126-cf84-4803-87a5-382ade859a23,Grenada,Grenada,,STORM,N. Eastern Agricultural Districts - TS Danielle,8/9/1986
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,60,GRD,GRD01,,0,0.0,0.0,4c6d2375-c309-4688-bce8-75ad88e0732c,Grenada,Grenada,,LANDSLIDE,,0/10/1986
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,61,GRD,GRD01,,0,12.31316919,-61.61407471,763d7de3-765d-490b-b0d3-70d4719df4f4,Grenada,Grenada,,VOLCANO,St. Patrick & Carricou,5/9/1943
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,164,GRD,GRD01,GRD0103,4,12.11452277,-61.64840698,6e30d9ee-195d-455e-9f42-e16ac0f7d040,Grenada,Grenada,St Andrew,LANDSLIDE,Brizan Perseverance Road,1/2/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,165,GRD,GRD01,GRD0102,0,12.0520795624055,-61.6923522949219,e7436a90-644f-4f58-b0f6-eb03a86b7e73,Grenada,Grenada,St David,FIRE,"Belle Isle, Mt. Williams bush fires",0/2/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,166,GRD,GRD01,GRD0101,0,12.0534225802728,-61.7534637451172,b8cfac1d-2327-4700-a17a-c79e2c84f87f,Grenada,Grenada,St George,FLOOD,St.George's - Melville & Granby Streets,27/11/2010
+0,0,0,0,0,40,0,0,0,0,0,0,0,0.0,0,0.0,167,GRD,GRD01,GRD0103,0,12.120564888387,-61.6271209716797,0926bc1f-6d59-4eee-92c0-7633635878d3,Grenada,Grenada,St Andrew,FLOOD,Grenville - Grenville,26/11/2010
+0,0,0,0,0,4,0,0,0,0,0,0,0,0.0,0,0.0,168,GRD,GRD01,GRD0101,4,12.0567801,-61.74728394,de16e0e0-1ffd-4eb7-b5d0-688ba0f3df90,Grenada,Grenada,St George,COASTAL EROSION,St.George's - St. George's coastal surge,20/1/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,92,GRD,GRD02,,0,0.0,0.0,05889482-37f7-43ca-ad26-3d8bbc5935e1,Grenada,Carriacou,,HURRICANE,"St. Patrick, Carricou & PM - H. Hazel",6/10/1954
+0,0,0,0,1,0,0,0,2,0,0,0,0,0.0,0,0.0,169,GRD,GRD01,GRD0101,0,0.0,0.0,828bcb91-e023-42b6-9b7b-41da74d5462e,Grenada,Grenada,St George,THUNDERSTORM,Springs - Springs,21/7/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,171,GRD,GRD01,GRD0101,0,12.0648379606711,-61.7472839355469,bd8b0853-24d4-48ad-b9bf-2ae6bce21c1c,Grenada,Grenada,St George,THUNDERSTORM,"River Road, Grand Anse",4/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,172,GRD,GRD01,GRD0103,0,12.120564888387,-61.6250610351563,0591d280-88f6-4d59-8a0c-7cdd7c1d74ce,Grenada,Grenada,St Andrew,FLOOD,Grenville - Grenville,4/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,62,GRD,GRD01,,0,12.29975184,-61.61132812,3bb15634-123c-4665-b712-a4e0c158df7d,Grenada,Grenada,,VOLCANO,St. Patrick and Carricou,30/10/1953
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,63,GRD,GRD01,,0,12.29975184,-61.60583496,ef3ee400-507d-4a69-a22d-7c49b3bd2f31,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou,25/10/1965
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,64,GRD,GRD01,,0,12.30511887,-61.60858154,33c440fe-e6c5-4acc-b07b-bc41a6a3b206,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou,6/8/1966
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,65,GRD,GRD01,,0,12.50093975,-61.53442383,be5b1c8d-22a3-4fad-af23-91f28d49a11c,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou,5/7/1972
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,66,GRD,GRD01,,0,12.49021366,-61.54541016,4b4c7da3-bd3a-4125-82ec-10f3292cfa0e,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou,5/9/1974
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,67,GRD,GRD01,,0,12.29170111,-61.62231445,83adf47b-ad86-45de-a914-ae2109b8d755,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou,4/11/1977
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,68,GRD,GRD01,,0,12.30780234,-61.61132812,5c433701-daae-420d-a281-96c5fd69361e,Grenada,Grenada,,EARTHQUAKE,St. Patrick and Carricou -KeJ,26/3/1990
+65,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,69,GRD,GRD02,,0,12.38829366,-61.6607666,30d53420-f028-4123-8255-2c4bf11f24a8,Grenada,Carriacou,,OTHER,Between Grenada and St. Vincent- Island Queen,5/8/1944
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,70,GRD,GRD01,GRD0105,0,12.19574421,-61.70677185,2b4fab9a-e4df-42bb-a32a-1c0610835783,Grenada,Grenada,St Mark,COASTAL EROSION,"Victoria, Duquense",17/11/1999
+8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,126,GRD,GRD01,GRD0106,0,12.12526422,-61.73355103,7cac3b22-1c8c-4c5c-bb3b-4dc8cf38d70b,Grenada,Grenada,St John,FLOOD,"Gouyave, Gouyave Estate, L'Anse, Concord",22/9/1955
+0,0,0,0,4,0,0,0,0,0,0,0,0,0.0,0,0.0,75,GRD,GRD01,GRD0103,0,0.0,0.0,0a82ab8c-171e-42a8-92b5-c8a1257cda8f,Grenada,Grenada,St Andrew,STORM,"Maribeau, Byelands, Beauregard, Mt. Horne, Belmont, Grenvill",24/9/2002
+0,0,0,14,31,45,0,0,46,0,0,0,0,0.0,0,40234.0,71,GRD,GRD01,GRD0106,0,12.16688324,-61.72016144,7495765f-43d6-4cb3-b3d9-a298076dc187,Grenada,Grenada,St John,COASTAL EROSION,"Gouyave, Charleston Harbour",17/11/1999
+0,12,0,12,0,40,0,0,0,94340000,250000000,0,0,0.0,0,44000.0,72,GRD,GRD01,GRD0101,0,0.0,0.0,d3070e64-6c2d-48c4-9b18-d165bee0ca9c,Grenada,Grenada,St George,COASTAL FLOOD,St.George's - Coastal areas St. Georges & Grand Anse,17/11/1999
+0,0,0,1,8,0,0,0,0,0,0,0,0,0.0,0,4.9,73,GRD,GRD01,GRD0107,0,12.21789121,-61.6456604,da77cd4c-4d00-43ed-96e9-c8303403922b,Grenada,Grenada,St Patrick,STORM,"Sauteurs, Redd Mud, Chantimelle, Gouyave, Mahoe, Berean Camp",24/9/2002
+0,0,0,0,3,0,0,0,0,0,0,0,0,0.0,3,0.0,74,GRD,GRD02,,0,0.0,0.0,40832a42-14e7-47d2-9487-4324857e7080,Grenada,Carriacou,,STORM,Carricou & PM -TS Lili,24/9/2002
+1,0,0,0,0,0,0,0,0,0,40843000,0,0,0.0,0,0.0,121,GRD,GRD01,,0,0.0,0.0,ccacb280-e5e8-451f-8f6f-99fde822c611,Grenada,Grenada,,FIRE,National,0/0/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,122,GRD,GRD01,GRD0101,0,0.0,0.0,bb6b3834-1bd6-4fd4-8f61-0fb5457192eb,Grenada,Grenada,St George,FOREST FIRE,Parish & National,0/3/2007
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,123,GRD,GRD01,GRD0101,0,12.05207956,-61.73698425,3010b52a-28a3-405e-9df6-044f3c801cc1,Grenada,Grenada,St George,FIRE,Parish & national,0/3/2010
+3,6,0,3,0,10,0,0,0,0,0,0,0,0.0,0,0.0,124,GRD,GRD01,GRD0102,0,12.04469284,-61.68685913,c0063fd8-311c-4e61-9adb-e4b1b7985cd5,Grenada,Grenada,St David,LANDSLIDE,"Corinth, Beaulieu Bridge, Beaton Place",20/11/1938
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,76,GRD,GRD01,GRD0105,0,0.0,0.0,391114ef-0cca-4c66-b0aa-d61a3d50dfb6,Grenada,Grenada,St Mark,LANDSLIDE,Crayfish Bay & La Source - TS Lili,24/9/2002
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,80,GRD,GRD01,,0,0.0,0.0,f2de9156-3486-4050-914b-9866c9158924,Grenada,Grenada,,BIOLOGICAL,National fish kill,17/9/1999
+1,0,0,170,2641,4311,39085,0,3097,75478000,0,0,0,0.0,0,88514.0,82,GRD,GRD01,,0,0.0,0.0,4aacdc14-5302-4d5a-b654-2743cf3ea184,Grenada,Grenada,,HURRICANE,National - Emily,14/7/2005
+0,0,0,8,40,0,0,0,36,0,0,0,0,0.0,0,0.0,114,GRD,GRD01,GRD0101,0,12.0529749016197,-61.7518615443259,3570f630-dd97-4abf-84db-dd98a01a473c,Grenada,Grenada,St George,FLOOD,River Road,13/12/2003
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,153,GRD,GRD02,GRD0202,0,12.49557676,-61.44104004,53477f92-0552-402e-b1cc-7b177feb4734,Grenada,Carriacou,Carriacou,BIOLOGICAL,National -Black Sigatoka,0/3/2011
+0,0,0,0,0,155,0,0,0,0,0,0,0,0.0,0,0.0,84,GRD,GRD01,,4,0.0,0.0,a54dbd96-cadd-4141-83d1-e06923f8f080,Grenada,Grenada,,BIOLOGICAL,National - Dengue,0/0/2013
+0,1,0,0,0,28,0,0,0,0,0,0,0,0.0,0,0.0,86,GRD,GRD01,,0,0.0,0.0,f3b136f1-c989-4e5f-85ad-90af09ecc01b,Grenada,Grenada,,BIOLOGICAL,National H1N1,28/7/2009
+0,7,0,0,0,134,0,0,0,0,0,0,0,0.0,0,0.0,87,GRD,GRD01,,4,0.0,0.0,ab11e128-dd8f-45c1-896c-e790744b5ff2,Grenada,Grenada,,BIOLOGICAL,National - Dengue,19/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,89,GRD,GRD01,,0,0.0,0.0,592b94ec-c1ac-4087-aff6-e88ace126669,Grenada,Grenada,,HURRICANE,National,22/9/1877
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,90,GRD,GRD01,,0,0.0,0.0,8d11aa77-c42d-4d0f-8966-550836e6c987,Grenada,Grenada,,HURRICANE,National,2/9/1878
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,91,GRD,GRD01,,0,0.0,0.0,bb6a260a-80af-4319-83a2-a636b0022c2f,Grenada,Grenada,,HURRICANE,National,16/8/1866
+4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,93,GRD,GRD01,GRD0101,0,0.0,0.0,45105644-a183-46a0-9754-40f2031a30a0,Grenada,Grenada,St George,HURRICANE,"Morne Jaloux, Calliste, Mt. Moritz & National",22/9/1955
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,107,GRD,GRD01,GRD0101,4,0.0,0.0,bd105a99-4ffd-4d08-8a1d-d8da54ea97c2,Grenada,Grenada,St George,FIRE,,0/0/1885
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,156,GRD,GRD01,GRD0105,4,12.19507306,-61.71020508,d18d8a5f-af45-420a-8153-1d91ae9ead5d,Grenada,Grenada,St Mark,LANDSLIDE,Lower St. Marks road,27/8/2013
+0,0,0,0,0,2,0,0,0,0,9000,0,0,0.0,0,0.0,173,GRD,GRD01,GRD0107,0,12.30780234,-61.59484863,220db7ac-7cca-4310-b398-a8a973c34f57,Grenada,Grenada,St Patrick,THUNDERSTORM,Sauteurs extreme Seas,4/8/1988
+0,0,0,0,0,0,1185,0,0,0,0,0,0,0.0,0,0.0,175,GRD,GRD01,GRD0101,4,12.05207956,-61.75346375,bbfe9279-e82d-4b1a-b496-1465c3bd4c53,Grenada,Grenada,St George,OTHER,"St.George's - St. George's Harbour, ship aground",20/3/1991
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,176,GRD,GRD01,GRD0103,0,12.10545934,-61.66110992,bba9cc75-f4f4-4528-b16d-1e575e0f00f7,Grenada,Grenada,St Andrew,BIOLOGICAL,"L'Esterre, Birch Grove & Balthazar Black Pod",0/11/1991
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,178,GRD,GRD01,GRD0105,4,12.18634796,-61.68720245,8b1c35fe-9843-4923-b5dc-29b11406e0df,Grenada,Grenada,St Mark,BIOLOGICAL,"Non Pareil, Mt. Stanhope, Belmont - Black pod",0/11/1991
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,179,GRD,GRD01,,0,0.0,0.0,521111b3-a84c-4105-adb8-c205c2a583d8,Grenada,Grenada,,COASTAL EROSION,National - sea surge,22/12/1991
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,181,GRD,GRD01,GRD0103,0,12.1326487123593,-61.6106414794922,e773df92-7e9c-472c-a4a2-3537ea259f8c,Grenada,Grenada,St Andrew,COASTAL EROSION,"Telescope - Telescope Beach, Grenville",0/5/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,94,GRD,GRD01,,0,0.0,0.0,f362e031-7a75-4c37-af50-731c104e46bb,Grenada,Grenada,,STORM,National - TS Felix,1/9/2007
+0,0,0,0,0,531,0,0,0,0,0,0,0,0.0,0,0.0,95,GRD,GRD01,,4,0.0,0.0,e175458f-6d4d-43e1-af4b-04b0147d16aa,Grenada,Grenada,,BIOLOGICAL,National HIV AIDS 1984- 23 Sept 2014,0/0/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,96,GRD,GRD01,GRD0101,4,12.0536464,-61.7511749,38551473-7470-4ef9-b40e-1b6465c4330e,Grenada,Grenada,St George,LANDSLIDE,St.George's - Sendall's Tunnel,21/9/2014
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,108,GRD,GRD01,GRD0101,4,0.0,0.0,48fd146c-6c3f-4b01-ab15-9286bd65afdc,Grenada,Grenada,St George,FIRE,St.George's - ,0/1/1920
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,109,GRD,GRD01,GRD0101,4,0.0,0.0,bd0d2af4-1c55-4d32-a2f6-89ab11c3b65f,Grenada,Grenada,St George,FIRE,St.George's - ,0/3/1925
+0,0,0,0,0,2120,0,0,0,0,0,0,0,0.0,0,0.0,97,GRD,GRD01,,0,0.0,0.0,533e58f8-701c-4bb4-95a0-f0da7344f1c1,Grenada,Grenada,,EPIDEMIC,National - Chikungunya virus,0/6/2014
+27,500,0,0,0,5000,0,0,0,0,0,0,0,0.0,0,0.0,99,GRD,GRD02,GRD0202,0,0.0,0.0,60f16819-2034-41ee-94c0-30d983e001c8,Grenada,Carriacou,Carriacou,HURRICANE,Carricou & Petit Martinique,22/9/1955
+32,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,100,GRD,GRD01,GRD0107,0,0.0,0.0,92a677f7-db91-4734-8808-1ca6e46f8a95,Grenada,Grenada,St Patrick,FLOOD,"Madeys, Fendue, Mt. Reuil, Snell Hall, Hermitage, Samaritan",22/9/1955
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,101,GRD,GRD01,,0,0.0,0.0,fdedb2ea-b569-4f55-8eb8-e141d3e4f1e6,Grenada,Grenada,,STORM,,15/10/1988
+804,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,102,GRD,GRD01,GRD0101,0,0.0,0.0,df456aae-ffbb-400d-aea0-7f2a4e0d4d13,Grenada,Grenada,St George,EPIDEMIC,Cholera -Ft. George Richmond Hill Calvigny Est.+ national,10/6/1854
+1250,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,103,GRD,GRD01,GRD0107,0,0.0,0.0,d52a273e-a305-4230-a012-270ea2b93d24,Grenada,Grenada,St Patrick,EPIDEMIC,National - Cholera,24/6/1854
+9,3,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,104,GRD,GRD01,GRD0106,0,12.13063478,-61.74591064,e0bfd3ef-f10d-47d0-9ad8-4c5fcbeec743,Grenada,Grenada,St John,ACCIDENT,Cotton Bailey or Coteau Meille bus accident,16/1/1991
+9,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,105,GRD,GRD02,GRD0202,4,12.50272734,-61.43737748,183c38ba-e0df-49fe-a110-0dba1d2eca1c,Grenada,Carriacou,Carriacou,EXPLOSION,Windward,6/7/1945
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,185,GRD,GRD01,,0,0.0,0.0,21953a3a-522e-4805-909c-4543094ed7af,Grenada,Grenada,,STORM,National -TS Alma,14/8/1974
+22,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,106,GRD,GRD02,,4,10.77575074,-61.81640446,21538cad-5968-4283-b8a3-a82945c2b101,Grenada,Carriacou,,FIRE,Carriacou & PM,19/7/1971
+0,0,0,5,0,100,0,0,0,0,25000,0,0,0.0,0,0.0,110,GRD,GRD01,GRD0101,0,0.0,0.0,2db121fb-515a-4790-9b7b-866e03de5815,Grenada,Grenada,St George,FIRE,St.George's - ,26/8/1952
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,111,GRD,GRD01,GRD0101,4,0.0,0.0,f27aa62d-8c82-4312-8828-5a7a7b43c461,Grenada,Grenada,St George,FIRE,St.George's - ,0/0/1975
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,112,GRD,GRD01,GRD0101,4,0.0,0.0,0e5be2fe-0497-4b27-8cfc-5f2f8114f6d8,Grenada,Grenada,St George,FIRE,,11/7/2002
+1154,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,113,GRD,GRD01,,0,0.0,0.0,9893def4-d6ec-4a37-9c7a-4706ab91e0b7,Grenada,Grenada,,EPIDEMIC,National - Yellow Fever,0/0/1793
+0,0,0,0,0,0,0,0,0,4237000,10000000,0,0,80.94,0,193121.0,115,GRD,GRD01,GRD0101,0,0.0,0.0,d59fae8f-a651-4495-a4be-18a29cd5255e,Grenada,Grenada,St George,FLOOD,St. George & National,9/11/1975
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,116,GRD,GRD02,GRD0202,0,12.4893198,-61.45385731,f65b1b04-f816-4d3a-8cbb-5110d9dea166,Grenada,Carriacou,Carriacou,FLOOD,,11/9/1975
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,117,GRD,GRD01,GRD0103,0,12.06461413,-61.65847776,ebd0898a-0e1d-46b4-b73e-409192d1e5d7,Grenada,Grenada,St Andrew,FLOOD,"Conference, Simon, Paradise, Birch Grove, Grenville Vale",11/9/1975
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,186,GRD,GRD01,,0,0.0,0.0,8b664dd4-514a-4f06-bbfd-f0e3afd143c7,Grenada,Grenada,,STORM,National - TS Gertrude,2/10/1974
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,118,GRD,GRD01,GRD0102,0,12.04290209,-61.69189448,bed6bdf3-624d-40d6-9ca2-08337ddbe12c,Grenada,Grenada,St David,FLOOD,"Bacolet, La Sagesse, La Avocat, ",11/9/1975
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,119,GRD,GRD01,GRD0107,0,12.20737721,-61.68457028,9f8d52c7-1cc3-486d-ab21-6f801e2a910f,Grenada,Grenada,St Patrick,FLOOD,,11/9/1975
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,142,GRD,GRD01,GRD0103,4,0.0,0.0,afc22b19-1bb0-4b81-b3be-7976e2d57115,Grenada,Grenada,St Andrew,LANDSLIDE,Brizan Perseverance Road,15/11/2009
+0,0,0,0,0,0,100000,0,0,0,0,0,0,0.0,0,0.0,120,GRD,GRD01,,0,0.0,0.0,3479b380-66b5-4604-9660-6b52ce67dacf,Grenada,Grenada,,DROUGHT,Islandwide,0/0/2010
+10,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,128,GRD,GRD01,GRD0105,0,0.0,0.0,3c79b0ad-cc56-409f-b0c5-8dc9325e48c5,Grenada,Grenada,St Mark,HURRICANE,"Union, Victoria, Industry",22/9/1955
+21,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,129,GRD,GRD01,GRD0103,0,0.0,0.0,7cfe63ae-809d-4f0d-b2f4-6bb09c0d5c1d,Grenada,Grenada,St Andrew,HURRICANE,"Grenville, St. Ervans, Munich, Marquis, Byelands, Birchgrove",22/9/1955
+13,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,131,GRD,GRD01,GRD0102,0,0.0,0.0,7fdff48e-0956-4696-a282-251118b1a30e,Grenada,Grenada,St David,HURRICANE,"Corinth, Pomme Rose, Requin, La Tante, La Sargesse Laura",22/9/1955
+347,0,0,0,0,724,0,0,0,0,0,0,0,0.0,0,0.0,132,GRD,GRD01,GRD0106,0,12.12526422,-61.74179077,22a7284a-7083-4dd0-82fd-372d10ea8fc0,Grenada,Grenada,St John,EPIDEMIC,Cholera,0/7/1854
+182,0,0,0,0,295,0,0,0,0,0,0,0,0.0,0,0.0,133,GRD,GRD01,GRD0105,0,0.0,0.0,eab0466f-7b53-4c71-b295-f44afa1ef447,Grenada,Grenada,St Mark,EPIDEMIC,Cholera,0/7/1854
+616,0,0,0,0,1599,0,0,0,0,0,0,0,0.0,0,0.0,134,GRD,GRD01,GRD0103,0,12.11586548,-61.62643433,fd4c33a3-2de6-4189-a19e-06ce8e5604c0,Grenada,Grenada,St Andrew,EPIDEMIC,Cholera,0/7/1854
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,136,GRD,GRD02,GRD0202,0,12.5116654,-61.45751953,0a1adbab-3d5b-4a99-94b8-e0b3aff32274,Grenada,Carriacou,Carriacou,BIOLOGICAL,Island wide -Typhoid,0/0/1940
+1,0,0,0,0,5,0,0,0,0,0,0,0,0.0,0,0.0,137,GRD,GRD01,GRD0101,4,0.0,0.0,08d1e754-ba4c-4386-a7eb-8ec092938b00,Grenada,Grenada,St George,BIOLOGICAL,St. George's - Typhoid,0/0/1944
+0,0,0,0,0,4470,0,0,0,0,0,0,0,0.0,0,0.0,139,GRD,GRD01,GRD0107,4,12.21520682,-61.65115356,5b251940-345b-4f10-bb3a-5da79faea622,Grenada,Grenada,St Patrick,RAINS,"Chantilelle, Duquesne, Prospect, part of Resourse  Mt. Rose",24/4/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,192,GRD,GRD01,,0,0.0,0.0,58b279e7-9106-4ddc-b5fe-9ddb03714091,Grenada,Grenada,,STORM,National -TS Earl,14/8/2004
+0,18,0,0,0,115,0,0,15,0,0,0,0,0.0,0,0.0,145,GRD,GRD01,GRD0103,4,0.0,0.0,242afc64-f986-4b80-be48-fb54a3f36312,Grenada,Grenada,St Andrew,LEAK,Telescope - Telescope,24/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,157,GRD,GRD01,,4,0.0,0.0,f4d7d4cc-658e-4497-b2fa-3df8a6a8d1dc,Grenada,Grenada,,OTHER,National MoAgriculture Water Alert,30/11/2012
+0,0,0,0,0,5,0,0,0,0,0,0,0,0.0,0,0.0,158,GRD,GRD01,GRD0101,4,12.05073654,-61.78642273,cbd29abb-cf37-4e2b-8163-06f0f67c0c18,Grenada,Grenada,St George,FIRE,,14/1/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,159,GRD,GRD01,GRD0103,0,12.1118373417605,-61.6250610351563,49b9064d-9822-4f30-bc09-01d2621878ef,Grenada,Grenada,St Andrew,OTHER,Marquis & Telescope beach - sea weed ,11/6/2011
+0,0,0,0,0,100,0,0,0,0,0,0,0,0.0,0,0.0,160,GRD,GRD01,GRD0102,4,12.03864901,-61.69509888,7d8e725e-38d1-4d05-9f14-847dacf40646,Grenada,Grenada,St David,FIRE,Laura - Laura Land,13/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,161,GRD,GRD02,GRD0202,4,12.47814628,-61.4616394,d8242f6d-23b0-4847-88a5-f619b76fc4ae,Grenada,Carriacou,Carriacou,FLOOD,"Hillsborough, Belair, Top Hill, Mt. Royal",20/11/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,163,GRD,GRD01,GRD0103,0,12.1225788970723,-61.6264343261719,33b3de43-af2b-4159-8c09-b90f68f90fbd,Grenada,Grenada,St Andrew,FLOOD,"Grenville, Hartford Village",6/12/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,182,GRD,GRD01,,0,0.0,0.0,2219e51d-98a9-4349-9f8b-969ef80aa6db,Grenada,Grenada,,STORM,National,20/7/1961
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,183,GRD,GRD01,,0,0.0,0.0,341ce0ea-cb75-43f5-b191-92a7c25fab1f,Grenada,Grenada,,HURRICANE,National - H. Dorothy,20/9/1970
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,184,GRD,GRD01,,0,0.0,0.0,851c4359-0e37-47fa-b6b5-82f3589f66a7,Grenada,Grenada,,STORM,National - TS Fern,0/8/1971
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,187,GRD,GRD01,,0,0.0,0.0,5485effb-e208-46a8-aa66-9c135b34bf47,Grenada,Grenada,,STORM,National TS Cora,11/8/1978
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,189,GRD,GRD01,,0,0.0,0.0,154b1430-e42f-4ef8-a0c3-4c8be44784b6,Grenada,Grenada,,STORM,National - TS Issac,1/10/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,190,GRD,GRD01,,0,0.0,0.0,1636aacf-a199-4af6-8500-33dd29c9ac22,Grenada,Grenada,,STORM,National- TS Berth,0/0/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,191,GRD,,,0,0.0,0.0,250b5464-d331-4b6e-b5c9-f7dc620aaa17,Grenada,,,STORM,National  -TS Jerry,8/10/2001
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,193,GRD,,,0,0.0,0.0,42ea2703-cdb7-4c30-9254-16cf713966a1,Grenada,,,STORM,National - TS. Tomas,26/10/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,194,GRD,GRD01,,0,0.0,0.0,2d354195-9b34-4d7b-8bfc-387c777ae1bc,Grenada,Grenada,,STORM,National - TS Ernesto,3/8/2012
+8,0,0,0,0,1612,0,0,0,0,0,0,0,0.0,0,0.0,195,GRD,GRD02,,0,0.0,0.0,674b5fac-ace9-4c1d-b1c3-1a282539bbe8,Grenada,Carriacou,,EPIDEMIC,Islandwide - Malaria,0/0/1951
+386,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,200,GRD,GRD02,,0,12.48485045,-61.4630127,e892978f-8b2b-4feb-a0d8-b3363791782c,Grenada,Carriacou,,EPIDEMIC,Carriacou - Cholera,0/7/1854
+193,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,202,GRD,GRD01,GRD0102,0,0.0,0.0,ffb0a5b3-b97a-4bdd-b65c-03cb3de6c8cd,Grenada,Grenada,St David,EPIDEMIC,Cholera,0/7/1854
+0,0,0,0,0,0,0,0,0,0,600000,0,0,0.0,0,0.0,197,GRD,GRD01,GRD0101,0,12.0648379606711,-61.7349243164063,65c70e48-e77a-4460-bcf0-e1720d141b23,Grenada,Grenada,St George,BIOLOGICAL,National - Moko disease,0/0/1978
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,198,GRD,GRD01,GRD0101,0,12.05543709,-61.75140381,0464b250-f72e-4afc-9a5c-23bf7745bbb7,Grenada,Grenada,St George,COASTAL EROSION,National - TS Omar,15/10/2008

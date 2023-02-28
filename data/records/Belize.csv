@@ -1,0 +1,167 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,serial,level0,level1,level2,approved,latitude,longitude,uuid,name0,name1,name2,event,location,date
+0,0,0,0,32,103,477,0,0,0.0,0.0,0,0,0.0,0,0,2010-00026a,5,507,,3,16.98,88.29,414db155-a547-446d-b356-4ec591f93a41,Stann Creek,Hope Creek,,Hurricane,Junction of the Hummingbird Highway and the Manatee Road,24/10/2010
+0,0,0,0,1,0,0,0,0,0.0,0.0,0,1,0.0,0,0,2010-00007,1,113,,0,17.5,88.6,7e3d2f96-f05f-40a3-a79b-1b0de01ed9a1,Belize,Flowers Bank,,Hurricane,"Flowers Bank, Belize River Valley, Belize District",24/10/2010
+307,200,0,2480,1860,0,31000,0,0,30000000.0,60000000.0,10,6,2000000.0,0,0,1961-00001,1,,,0,17.5,88.3,f16df8de-4853-4fdb-8919-5aa60f81a7ce,Belize,,,Hurricane,Belize City,27/10/1961
+0,0,0,53,180,265,900,0,0,2600000.0,5200000.0,0,0,107.65,0,0,2010-00001,4,,,0,18.08,88.06,2774d0f3-5c6c-4b23-9653-f01d4a081b1d,Orange Walk,,,Hurricane,Orange Walk District,24/10/2010
+0,0,0,2,21,10,105,0,0,18350.0,36700.0,0,0,0.0,0,0,2010-00002,2,220,,0,17.27,88.57,9de9c1a4-616f-419d-be9a-1a4a69cfd0b9,Cayo,Frank's Eddy,,Hurricane,"Frank's Eddy Village, Cayo District",24/10/2010
+0,0,0,0,12,60,543,0,0,0.0,0.0,0,0,0.0,0,0,2010-00003,2,207,,0,17.23,88.92,a38f9eeb-36a7-41df-80e0-93e9c5dd63b7,Cayo,Blackman Eddy,,Hurricane,"Blackman Eddy Village, Cayo District",24/10/2010
+0,0,0,0,6,0,24,0,0,68300.0,136600.0,1,1,0.0,0,0,2010-00004,2,239,,0,17.23,88.98,d2215eb2-b5c1-4f3d-be37-2ee7a4e91b1b,Cayo,Spanish Lookout,,Hurricane,"Spanish Lookout, Cayo District, Belize",24/10/2010
+0,0,0,0,5,0,17,0,0,0.0,0.0,0,0,0.0,0,0,2010-00005,1,121,,0,17.6,88.6,92e86f95-78bf-4fb3-a50c-efff9fc6f978,Belize,Lemonal,,Hurricane,"Lemonal Village, Belize District",24/10/2010
+0,0,0,1,11,189,500,0,189,0.0,0.0,0,0,3.0,0,0,2010-00006,2,245,,0,17.15,88.64,85a90886-58fb-4af9-bb82-f002dfb5952b,Cayo,Armenia,,Hurricane,"Armenia Village, Cayo District",24/10/2010
+0,0,0,7,123,35,615,0,0,75000.0,150000.0,1,1,0.0,0,0,2010-00008,2,216,,0,17.27,88.71,b5720c5b-e69b-42d4-8cd8-4c19b618794e,Cayo,Cotton Tree,,Hurricane,"Cotton Tree Village, Cayo District",24/10/2010
+0,0,0,0,2,0,10,0,0,0.0,0.0,0,0,0.0,0,0,2010-00009,2,219,,0,17.18,89.04,02076e4a-c3d3-4084-992f-576850179a5a,Cayo,Esperanza CY,,Hurricane,"Esperanza Village, Cayo District",24/10/2010
+0,0,0,0,4,0,20,0,0,0.0,0.0,0,0,0.0,0,0,2010-00010,2,241,,0,17.23,88.85,8040d38a-2635-41e9-9428-b0e7431505ad,Cayo,Teakettle,,Hurricane,"Teakettle Village, Cayo District",24/10/2010
+0,5,0,2,18,10,90,0,0,6262.5,12525.0,0,0,0.0,0,0,2010-00011,2,225,,0,17.35,88.7,257094f4-6787-4f6f-82c5-c643e6b8206f,Cayo,More Tomorrow,,Hurricane,"More Tomorrow Village, Cayo District",24/10/2010
+0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00012,1,129,,0,0.0,0.0,18a1fd7a-7b4a-4a32-944d-69fae8e9af0a,Belize,Scotland Halfmoon,,Hurricane,"Scotland Halfmoon, Belize District",24/10/2010
+0,0,0,2,33,10,165,0,0,0.0,0.0,0,0,0.0,0,0,2010-00013,2,211,,0,17.25,88.82,c102216f-2f20-43a2-a16f-2ed68c4076ed,Cayo,Camalote,,Hurricane,Camalote Village is located approximately 3 miles from the C,24/10/2010
+0,0,0,0,3,0,15,0,0,0.0,0.0,1,0,0.0,0,0,2010-00014,2,242,,0,17.21,88.93,9db68e98-3dce-4ef3-b038-bb15c4cc60e3,Cayo,Unitedville,,Hurricane,"From Belmopan, Unitedville Village is 12 miles west along th",24/10/2010
+0,0,0,0,0,0,0,0,0,192000.0,384000.0,0,0,40.47,0,0,2010-00015,4,408,,0,17.56,89.05,a4f3d9fc-db89-435e-9e76-3e2ca96e2b79,Orange Walk,Gallon Jug,,Hurricane,"Gallon Jug Village, Orange Walk District",24/10/2010
+0,0,0,5,22,5,99,0,0,378500.0,757000.0,0,0,0.0,0,0,2010-00016,1,116,,0,17.4,88.46,d33903d5-33ba-4d01-a046-ea22b56baadd,Belize,Gracie Rock,,Hurricane,"Gracie Rock, Belize District",24/10/2010
+0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,186.0,0,0,2010-00017,2,245,,0,88.0,17.0,21bb7975-8f0d-4c6d-aaff-1bcbb1869ff3,Cayo,Armenia,,Hurricane,"St. Herman's Blue Hole National Park, Armenia Village, Cayo ",24/10/2010
+0,0,0,0,10,0,0,0,0,0.0,23500.0,0,0,0.0,0,0,2010-00018,2,203,,0,0.0,0.0,66b9bb2a-ad28-40ea-8237-c28e80995d25,Cayo,San Ignacio/Santa Elena,,Hurricane,"San Ignacio & Santa Elena town, Cayo district",24/10/2010
+0,0,0,21,48,220,1758,0,0,35700.0,71400.0,0,0,0.0,0,0,2010-00019,1,117,,0,18.08,88.06,27e52d5c-f6c7-4be6-8553-21904f1f24a1,Belize,Hattieville,,Hurricane,"Hattieville Village, Belize District",24/10/2010
+0,0,0,0,5,0,23,0,0,1035.0,2070.0,0,0,0.0,0,0,2010-00020,1,131,,0,17.53,88.57,12fb9e99-322c-4bb1-b8aa-66fc9c03e245,Belize,Willows Bank,,Hurricane,"Willows Bank, Belize District",24/10/2010
+0,0,0,0,0,0,0,0,0,2540000.0,5080000.0,0,0,64.75,0,0,2010-00021,4,431,,0,0.0,0.0,597b9369-7fec-4d0a-8c0d-e152914a22d5,Orange Walk,Indian Creek OW,,Hurricane,"Indian Creek Village, Orange Walk District",24/10/2010
+0,0,0,0,0,0,0,0,0,9000.0,18000.0,0,0,2.4,0,0,2010-00023,4,435,,0,0.0,0.0,ca304fc5-4db9-4ce0-b5dc-ce84bec02337,Orange Walk,San Carlos,,Hurricane,"San Carlos Village, Orange Walk District",24/10/2010
+0,0,0,0,8,0,40,0,0,0.0,0.0,0,0,0.0,0,0,2010-00024,2,236,,0,17.18,89.07,aaa893b0-8565-4b1b-a934-cd3718296ed5,Cayo,Santa Familia,,Hurricane,"Santa Familia Village, Cayo District",24/10/2010
+0,0,0,0,5,0,23,0,0,955.0,1910.0,0,0,0.0,0,0,2010-00025,1,126,,0,17.54,88.62,3400926e-e3d8-4514-bd11-f5e8f5a26537,Belize,Rancho Dolores,,Hurricane,"Rancho Dolores Village, Belize District",25/10/2010
+0,0,0,0,32,0,103,0,0,0.0,0.0,0,0,0.0,0,0,2010-00026,5,507,,0,0.0,0.0,4b816b49-d4bf-4166-b34c-d2d52102cdb4,Stann Creek,Hope Creek,,Hurricane,Junction of the Hummingbird Highway and the Manatee Road.,24/10/2010
+0,0,0,2,15,10,75,0,0,39800.0,79600.0,0,0,0.0,0,0,2010-00027,2,248,,0,17.25,88.77,345979ca-aa84-4a7c-8460-1c44ba329dae,Cayo,San Martin,,Hurricane,This is a village within the city of Belmopan.,24/10/2010
+0,0,0,0,13,65,6460,0,0,106500.0,213000.0,1,1,0.0,0,2,2010-00028,2,201,,0,17.25,88.77,b9192667-b0d5-4d46-b4e5-a47001ae9c0f,Cayo,Belmopan,,Hurricane,"City of Belmopan (Capital of Belize), Cayo District",24/10/2010
+0,0,0,0,34,0,177,0,0,0.0,0.0,0,0,0.0,0,0,2010-00029,2,243,,0,17.34,88.83,19ac1693-bbf3-4984-8719-caf23ec1526d,Cayo,Valley Of Peace,,Hurricane,"Valley of Peace Village, Cayo District.",24/10/2010
+0,0,0,1,16,4,80,0,0,0.0,0.0,0,0,0.0,0,0,2010-00030,2,221,,0,17.19,88.98,c8a4dc36-77e9-402e-9e9c-0d118b56f7e7,Cayo,Georgeville,,Hurricane,"Georgeville Village, Cayo District",24/10/2010
+0,0,0,0,1,0,5,0,0,0.0,0.0,0,0,0.0,0,0,2010-00031,2,235,,0,17.09,89.13,428f02b7-32e0-48a9-933a-eeb0e035487b,Cayo,San Jose Succotz,,Hurricane,"San Jose Succotz, Cayo District",24/10/2010
+0,0,0,0,7,3,33,0,0,0.0,9318.0,0,0,0.0,0,0,2010-00032,1,130,,0,17.52,88.6,ee8b1eb0-eed3-4e67-aacf-757a2227f7e6,Belize,St. Paul's Bank,,Hurricane,"St. Paul's Bank, Belize District",24/10/2010
+0,0,0,0,3,0,15,0,0,8500.0,17000.0,0,0,0.0,0,0,2010-00033,2,232,,0,17.25,88.75,1a48362b-b64a-47d6-a48f-64f7a4043487,Cayo,Salvapan,,Hurricane,This is a village inside of Belmopan City.,24/10/2010
+0,0,0,0,9,0,45,0,0,0.0,0.0,0,0,0.0,0,0,2010-00034,5,523,,0,16.97,88.28,8f03459b-97d4-4928-9f8f-6f34800aece2,Stann Creek,Sarawee,,Hurricane,"Sarawee Village, Stann Creek District",24/10/2010
+0,0,0,0,3,0,15,0,0,1600.0,3200.0,0,0,0.0,0,0,2010-00035,2,218,,0,17.25,89.02,f5c78365-620d-4f08-b5b7-8974f87fc128,Cayo,Duck Run,,Hurricane,"Duck Run 3, Cayo District",24/10/2010
+0,0,0,0,28,0,140,0,0,48050.0,96100.0,0,0,0.0,0,0,2010-00036,2,246,,0,17.25,88.99,dcc1fe69-9278-4c63-a1af-4d84a9c597dd,Cayo,Maya Mopan CY,,Hurricane,"Maya Mopan, City of Belmopan",24/10/2010
+0,0,0,3,1,14,4,0,0,8000.0,16000.0,0,0,0.0,0,0,2010-00037,2,218,,0,17.25,89.02,37a04b6b-1ba8-49fa-a6ce-42dc2850e215,Cayo,Duck Run,,Hurricane,"Duck Run 1, Cayo District",24/10/2010
+0,0,0,1,15,1,93,0,0,30000.0,60000.0,0,0,0.0,0,0,2009-00001,6,629,,0,16.0,88.0,30a88188-5442-405b-9509-2bd0570d70da,Toledo,Monkey River,,Earthquake,"May 28, 2009 Earthquake impact at Monkey River, northern Tol",28/5/2009
+4,0,0,0,0,0,0,0,0,750000.0,1500000.0,0,0,0.0,0,0,2010-00038,1,102,,0,0.0,0.0,20839918-6fb4-4b5f-8140-329a0e3474b4,Belize,San Pedro Town,,Accident,Sir Barry Bowen's Cessna aircraft went down on Ambergris Cay,26/2/2010
+3,0,0,0,0,0,0,0,0,1000000.0,2000000.0,0,0,0.0,0,0,2005-00001,2,,,0,17.1,88.9,66ef5500-6e26-46c0-98d3-f637eb84e514,Cayo,,,Accident,The two-engine Islander Normandy (V3-HFO) aircraft operated ,18/11/2005
+0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2005-00002,1,,,0,18.5,89.3,308a486d-7985-4676-b17d-b6799f053556,Belize,,,Accident,"Belize City Municipal Airport, Belize District, Belize",15/10/2005
+16,0,0,2000,2500,500,20000,0,0,200000000.0,400000000.0,26,2,182.0,1000,2,1955-00001,3,301,,0,18.5,88.2,69a6dda9-914c-4fb5-b3eb-71951383eeee,Corozal,Corozal Town,,Hurricane,Corozal Town,28/9/1955
+4,0,3,0,0,0,0,0,0,12500000.0,25000000.0,0,0,1012.0,0,2,1978-00001,5,501,,0,17.0,88.2,f6ca634b-e718-49d9-8160-e209d80874bb,Stann Creek,Dangriga Town,,Hurricane,Stann Creek and Belize Districts,18/9/1978
+5,0,0,0,13000,3279,0,0,5000,261550000.0,523100000.0,60,3,8094.0,1000,10,2000-00001,1,102,,0,17.92,87.96,f1fc63a8-f081-4bd7-854c-5daf93004f0f,Belize,San Pedro Town,,Hurricane,"San Pedro, Ambergris Caye and Caye Caulker",29/9/2000
+3,36,0,0,0,0,0,0,0,15000.0,30000.0,0,1,0.0,0,1,2000-00002,4,416,,0,18.2,88.6,384db329-3eaa-4909-8646-35d84354721a,Orange Walk,San Jose OW,,Accident,"Mammiyal curve on the Northern Highway between Miles 58-59, ",4/10/2000
+0,0,0,50,161,0,787,0,136,20250000.0,40500000.0,2,1,16187.4,800,3,2000-00003,4,407,,0,18.2,88.6,390dcb1e-1612-400d-8dbe-e717d56c9a3b,Orange Walk,Douglas,,Inundation,"Douglas Village, Corozal District",3/10/2000
+0,0,0,0,0,0,300,0,0,125000000.0,250000000.0,0,0,116000.0,0,0,1999-00001,2,205,,0,16.96,88.98,a95aac22-f7f9-4180-b0aa-b982110a9efe,Cayo,Augustine,,Epidemic,Mountain Pine Ridge and the Southern Coastal Plains,1/11/1999
+0,0,0,60,60,300,400,0,0,50000.0,100000.0,0,2,0.0,0,0,1932-00001,1,101,,3,17.5,88.18,855ff418-1b83-4ed1-a22a-aacf84b0567b,Belize,Belize City,,Fire,"Monte Carlo Hotel Fire, Hydes Lane, Belize City",18/4/1932
+0,0,0,0,0,0,0,0,0,100000.0,200000.0,0,1,0.0,0,0,1944-00001,1,101,,0,17.5,88.18,e1d62e24-cf04-4b2a-873a-d4377dd9b312,Belize,Belize City,,Fire,"First of two Harley Fires, Belize City",13/9/1944
+0,0,0,13,13,105,105,0,0,57500.0,115000.0,0,1,0.0,0,0,1950-00001,1,101,,0,17.5,88.18,c7862fa6-a130-446c-b03f-cf78a32704cc,Belize,Belize City,,Fire,"Albert Street, Belize City",10/7/1950
+1,0,0,0,0,0,0,0,0,250000.0,500000.0,0,0,0.0,0,0,1953-00001,1,101,,0,17.5,88.18,8852ef07-0f0c-403b-b23f-1d6a5a12cd4f,Belize,Belize City,,Fire,"Second Harley Fire, Belize City",5/10/1953
+0,2,0,19,75,175,100,0,0,500000.0,1000000.0,0,0,0.0,0,3,1968-00001,1,101,,0,18.5,88.18,b9c0b22f-ab8f-45d6-babb-b945e6e3af74,Belize,Belize City,,Fire,"New Road - Queen Street Fire, April 1968, Belize City",16/4/1968
+0,0,0,29,0,182,200,0,0,1250000.0,2500000.0,2,3,0.0,0,5,1975-00001,1,101,,0,18.5,88.18,79d04727-3b4d-408b-aa3d-62c35cedfcd7,Belize,Belize City,,Fire,"The Easter Monday Fire on Albert Street, Belize City.",31/3/1975
+0,0,0,12,15,80,100,0,0,750000.0,1500000.0,0,2,0.0,0,3,1972-00001,2,203,,0,17.15,89.08,f79e96de-9ff1-4049-ae94-7953874bcdcf,Cayo,San Ignacio/Santa Elena,,Fire,"San Ignacio Town, Cayo District",4/5/1972
+0,0,0,0,0,0,28,0,0,7000.0,15000.0,0,0,0.0,0,2,1968-00002,5,501,,0,16.97,88.23,9c1f0267-d083-4ad1-91a2-fef850e00e2e,Stann Creek,Dangriga Town,,Fire,"Dangriga Town, Stann Creek District",3/1/1968
+0,0,0,0,0,0,15,0,0,150000.0,300000.0,0,0,0.0,0,2,2010-00039,1,101,,0,17.5,88.15,9c492a41-6ead-4c19-a844-45ab3a545647,Belize,Belize City,,Fire,"Belize Red Cross Headquarters, # 1 Gabourel Lane, Belize Cit",2/12/2010
+0,3,0,0,0,0,10,0,0,600000.0,1200000.0,0,0,0.0,0,0,1999-00002,2,205,,0,17.05,88.95,45826742-ede6-4bd8-bf34-db1f8fc22239,Cayo,Augustine,,Accident,"Dirt Road, Mountain Pine Ridge",30/4/1999
+0,0,0,0,0,0,50,0,0,1100000.0,2200000.0,0,0,0.0,0,4,2008-00001,1,101,,0,17.5,88.18,fd4cf962-b892-4934-89ef-03db4fbd8742,Belize,Belize City,,Fire,"Romac's Building Fire, Albert & Church Street, Belize City",27/3/2008
+0,14,0,0,0,0,0,0,0,750000.0,1500000.0,0,0,0.0,0,0,2001-00001,1,102,,0,17.87,87.97,47fc86a8-1159-4c6b-8304-9f1ed73a0e30,Belize,San Pedro Town,,Accident,"Two miles south of San Pedro, Ambergris Caye",27/12/2001
+0,0,0,60,60,300,400,0,0,50000.0,100000.0,0,2,0.0,0,0,1932-00002,1,101,,0,17.5,88.18,e437b4c4-f6c3-471a-a3f6-b1cee153894c,Belize,Belize City,,Fire,"Monte Carlo Hotel Fire, Hydes Lane, Belize City",18/4/1932
+0,0,0,0,0,0,0,0,0,500000.0,1000000.0,0,0,0.0,0,3,2002-00001,1,101,,0,17.5,88.18,8f756688-0f4e-4538-9dac-caa903e2f867,Belize,Belize City,,Fire,"Paslow Building Fire, downtown Belize City, Belize, Central ",29/9/2002
+3,0,0,2,4,7,20,0,0,77100.0,154200.0,0,0,0.0,0,2,2008-00002,5,533,,0,17.01,88.47,65aac179-cc20-4e47-af75-ca24862102a5,Stann Creek,Valley Community,,Inundation,"Valley Community, Stann Creek District",29/5/2008
+0,0,0,0,22,0,138,0,0,167200.0,334400.0,1,1,0.0,0,2,2008-00003,5,523,,0,16.97,88.27,e469152c-980c-4f71-92b0-6d168976c04a,Stann Creek,Sarawee,,Inundation,"Sarawee Village, Stann Creek District, Belize",2/6/2008
+0,0,0,0,16,110,238,0,0,212600.0,243200.0,1,0,0.0,0,2,2008-00004,5,515,,0,17.12,88.3,ee02e79d-65ec-44ba-aef9-461343fe4346,Stann Creek,Mullins River,,Inundation,"Mullins River, Stann Creek District",1/6/2008
+0,0,0,0,2,0,10,0,0,0.0,0.0,0,0,0.0,0,0,2010-00065,2,244,,0,17.31,89.01,921BEA12-8262-4383-B22E-77684A449687,Cayo,Los Tambos,,Hurricane,"Los Tambos Village, Cayo District",24/10/2010
+2500,0,500,0,0,2500,0,0,0,2500000.0,5000000.0,3,1,0.0,0,4,1931-00001,1,101,,0,17.5,88.18,d0f397ca-1b7d-4b8d-a125-6f1d449d1c36,Belize,Belize City,,Hurricane,"Belize City during the unnamed Hurricane of  Sept. 10th, 193",10/9/1931
+0,0,0,0,0,0,0,0,0,9000000.0,18000000.0,0,0,0.0,0,0,2001-00002,4,401,,0,18.08,88.56,69c4dec0-8361-4b5b-b133-df8c7062e0c5,Orange Walk,Orange Walk,,Storm,Orange Walk Town,19/8/2001
+0,0,0,0,0,0,0,0,7000,0.0,0.0,0,0,0.0,0,0,2001-00003,1,102,,0,17.9,87.98,2e24643f-d608-440a-a084-1579457bc66e,Belize,San Pedro Town,,Storm,"San Pedro, Ambergris Caye; Impact of Tropical Storm Chantel",20/8/2001
+0,0,0,15,140,75,238,0,0,1414250.0,2828500.0,2,0,0.0,0,0,2008-00005,5,507,,0,17.0,88.35,504e803e-9359-4e28-bdd2-22d055e13381,Stann Creek,Hope Creek,,Inundation,"HopeCreek/Melinda Village, Stann Creek District, Belize.",2/6/2008
+1,0,0,0,30,150,374,0,0,228000.0,456000.0,1,1,1821085.39,100,3,2008-00006,5,526,,0,16.83,88.03,654b12f8-faca-4935-9e1a-f0772117ed5c,Stann Creek,Sittee River,,Inundation,"Sittee River, Stann Creek District",9/5/2008
+0,0,0,0,2,0,0,0,0,85500.0,42750.0,0,0,0.0,0,1,2007-00001,4,401,,0,18.08,88.55,adb7e693-dd99-4fc6-b713-379f7b2e78e6,Orange Walk,Orange Walk,,Leak,Orange Walk Town,19/1/2007
+0,0,0,0,15,75,1193,0,0,114000.0,228000.0,2,1,0.0,0,2,2008-00007,5,508,,0,16.87,88.28,950986af-f6f7-4955-9584-1cbd0e30a20b,Stann Creek,Hopkins,,Hurricane,"Hopkins Village, Stann Creek District",2/6/2008
+0,0,0,0,80,400,296,0,0,608000.0,1216000.0,1,1,0.0,0,3,2008-00008,1,114,,0,17.2,88.33,e45b4b42-a846-46f6-8214-3921e69ab4dc,Belize,Gales Point,,Hurricane,"Gales Point Village, Belize District. Impacts of TS Arthur 2",2/6/2008
+0,0,0,0,0,0,0,0,0,90.0,180.0,0,0,0.0,0,0,2009-00002,2,239,,0,17.25,89.0,a9a67152-a6ae-4071-9b74-8ea06bf398a1,Cayo,Spanish Lookout,,Leak,"Mike Usher #3 (Oil Well), Spanish Lookout, Cayo District",25/7/2009
+0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0.0,0,1,2008-00038,1,131,,2,17.53,88.57,CCA884BB-E1EC-483B-93D6-76EF7C288E60,Belize,Willows Bank,,Inundation,"Willows Bank, Belize District",16/10/2008
+0,0,0,0,6,30,0,0,0,31871.33,63742.65,1,1,0.0,0,2,2008-00009,4,433,,0,18.17,88.6,d3d54e6f-9451-4861-a157-3cebd8929e98,Orange Walk,San Luis,,Inundation,"San Luis Village,Orange Walk District.",2/6/2008
+0,0,0,1,25,125,0,0,125,155109.0,310218.0,1,1,728.4,50,2,2008-00010,4,407,,0,18.24,88.6,28ad86cb-b06f-4764-b069-e50ccf89ee31,Orange Walk,Douglas,,Inundation,"Douglas Village, Orange Walk District",2/6/2008
+0,0,0,3,23,115,0,0,0,189109.01,378218.02,1,1,728.4,0,2,2008-00011,4,420,,0,18.22,88.57,c9ef19a5-b220-4dff-b60b-a417d5067da8,Orange Walk,San Pablo OW,,Inundation,"San Pablo, Orange Walk District",2/6/2008
+0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0.0,0,0,1982-00001,1,120,,0,17.53,88.3,ce65b9db-8922-46eb-832c-cb9967347f83,Belize,Ladyville,,Volcanic Activity,"Met Office PSWGIA, Ladyville",4/4/1982
+0,0,0,1,0,4,110,0,0,1700.0,3400.0,0,0,0.0,0,0,2010-00040,1,118,,0,17.59,88.55,A46AE2A0-12D1-4153-AF4C-B6522596CAEF,Belize,Isabella Bank,,Hurricane,"Isabella Bank, Belize District",24/10/2010
+0,0,0,0,33,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00041,1,112,,0,17.54,88.55,506ABC99-08DC-4424-9D1E-BA34F5E5C864,Belize,Double Head Cabbage,,Hurricane,"Double Head Cabbage, Belize District",24/10/2010
+0,0,0,0,8,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00042,1,103,,0,17.55,88.53,63F7F2EA-F917-403D-B8AF-D39908CF1B0A,Belize,Bermudian Landing,,Hurricane,"Bermudian Landing, Belize District",24/10/2010
+0,0,0,1,8,5,40,0,0,14550000.0,29100000.0,0,0,607.0,0,0,2010-00043,5,517,,0,17.0,88.38,BF277F06-ED5C-4FC3-A5C5-C29F30772702,Stann Creek,Pomona,,Hurricane,"Pomona, Stann Creek District",24/10/2010
+0,0,0,0,26,0,130,0,0,0.0,0.0,0,0,0.0,0,0,2010-00044,5,515,,0,17.11,88.23,332AE1EE-BCAB-4E39-BD5A-4543B0C6D133,Stann Creek,Mullins River,,Hurricane,"Mullins River, Stann Creek District",26/10/2010
+0,0,0,0,0,0,29,0,0,0.0,0.0,0,0,0.0,0,0,2010-00045,5,523,,3,0.0,0.0,F08C79A3-5E02-44FC-9C80-45EA80897822,Stann Creek,Sarawee,,Hurricane,"Sarawee, Belize District",24/10/2010
+0,0,0,0,48,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00046,1,114,,0,17.2,88.32,E365A00E-E263-4756-973A-30A1F741D14E,Belize,Gales Point,,Hurricane,"Gales Point, Stann Creek District",24/10/2010
+0,0,0,0,8,0,35,0,0,0.0,0.0,0,0,0.0,0,0,2010-00047,5,528,,0,17.0,88.74,10318F9E-A736-4653-9021-14E78294E162,Stann Creek,Steadfast,,Hurricane,"Steadfast Village, Stann Creek District",24/10/2010
+0,0,0,0,9,0,48,0,0,0.0,0.0,0,0,0.0,0,0,2010-00048,5,533,,0,0.0,0.0,62EC0E69-2746-4295-92A3-D369AD2BDAA3,Stann Creek,Valley Community,,Hurricane,"Valley Community, Stann Creek District",24/10/2010
+0,0,0,1,7,5,56,0,0,0.0,0.0,0,0,0.0,0,0,2010-00049,5,530,,0,0.0,0.0,C11F2BC7-6246-4D44-BCA3-2416D1BB581A,Stann Creek,Hummingbird Community,,Hurricane,"Hummingbird Community, Stann Creek District",24/10/2010
+0,0,0,25,102,125,485,0,0,0.0,0.0,0,0,0.0,0,0,2010-00050,5,501,,0,16.97,88.24,A6FE7A00-9180-43BA-A801-99171469AA1E,Stann Creek,Dangriga Town,,Hurricane,"Dangriga Town, Stann Creek District",24/10/2010
+0,0,0,1,22,0,92,0,0,9650.0,19300.0,0,0,0.0,0,0,2010-00051,1,119,,0,17.35,88.6,28E9C8EB-839C-42F3-8D02-E4D986F8E3E5,Belize,La Democracia,,Hurricane,"La Democracia, Belize District",24/10/2010
+0,0,0,0,4,0,0,0,0,34500.0,69000.0,0,0,0.0,0,0,2010-00052,2,201,,0,17.25,88.77,648148B5-08FE-422D-98E7-9CCD2DE9F24A,Cayo,Belmopan,,Hurricane,"Cohune Walk, Belmopan City, Cayo District",24/10/2010
+0,0,0,0,2,0,0,0,0,38000.0,76000.0,0,0,0.0,0,0,2010-00053,2,201,,0,17.25,88.77,AB9D84F9-6112-400B-8FEA-EEE2442C2B2E,Cayo,Belmopan,,Hurricane,"New Site, Belmopan City, Cayo District",24/10/2010
+0,0,0,0,4,16,0,0,0,24000.0,48000.0,0,0,0.0,0,0,2010-00054,2,201,,0,17.25,88.77,BD395EB0-08D7-4FEC-B3D3-F8B74CAC13AF,Cayo,Belmopan,,Hurricane,"Central Site, Belmopan City, Cayo District",24/10/2010
+0,0,0,0,2,4,0,0,0,5500.0,11000.0,0,0,0.0,0,0,2010-00055,2,201,,0,17.25,88.77,4F51BD08-CD5C-4261-AFCB-098A38EB3A07,Cayo,Belmopan,,Hurricane,"Industrial Site, Belmopan City, Cayo District",24/10/2010
+0,0,0,0,1,0,5,0,0,0.0,0.0,0,0,0.0,0,0,2010-00056,2,254,,0,17.14,88.66,2FB33E1B-8DFF-44B6-9FFE-F679B8DF0BEB,Cayo,Other CY Rural Communities,,Hurricane,"Ring Tail Village, Cayo District",24/10/2010
+0,0,0,0,3,0,15,0,0,0.0,0.0,0,0,0.0,0,0,2010-00057,2,254,,0,17.1,88.97,B71E8AD1-4F4B-4C38-B6AA-C8C8AD9B163E,Cayo,Other CY Rural Communities,,Hurricane,"7 Miles, Cayo District",24/10/2010
+0,0,0,0,7,35,80,0,0,0.0,0.0,0,0,0.0,0,0,2010-00058,2,209,,0,17.28,89.18,9CFC8054-DE9A-45A0-997C-F6FAC49FC333,Cayo,Bullet Tree Falls,,Hurricane,"Bullet Tree Falls, Cayo District",24/10/2010
+0,0,0,0,0,0,0,0,0,0.0,0.0,1,0,0.0,0,0,2010-00059,2,218,,0,17.25,89.02,3FB15537-1681-41FD-A126-013232DCC613,Cayo,Duck Run,,Hurricane,"Duck Run 2, Cayo District",24/10/2010
+0,0,0,0,3,0,15,0,0,0.0,0.0,0,0,0.0,0,0,2010-00060,2,251,,0,0.0,0.0,5783766C-E35F-4520-9FBC-1EEE0A9CE082,Cayo,La Gracia,,Hurricane,"La Gracia, Cayo District",24/10/2010
+0,0,0,0,4,20,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00061,2,250,,0,0.0,0.0,C6AB20C2-D018-4F56-8848-FEBD57F8E953,Cayo,Buena Vista CY,,Hurricane,"Buena Vista, Cayo District",24/10/2010
+0,0,0,0,1,0,5,0,0,0.0,0.0,0,0,0.0,0,0,2010-00062,2,213,,0,17.19,89.0,CBC7BA33-8C49-4D07-ABCE-2EC016015F22,Cayo,Central Farm,,Hurricane,"Central Farm, Cayo District",24/10/2010
+0,0,0,0,11,0,55,0,0,17500.0,35000.0,0,0,0.0,0,0,2010-00063,2,240,,0,17.28,88.64,76300205-3E58-4C02-A318-33A9C606CB6E,Cayo,St. Mathew's,,Hurricane,"St. Matthew's Village, Cayo District",24/10/2010
+0,0,0,0,2,0,10,0,0,0.0,0.0,0,0,0.0,0,0,2010-00064,2,253,,0,0.0,0.0,156EE497-D74C-4D13-BC42-FB8F006F17AB,Cayo,Yalbac,,Hurricane,"Yalbac Region, Cayo District",24/10/2010
+0,0,0,0,1,0,5,0,0,0.0,0.0,0,0,0.0,0,0,2010-00066,2,254,,0,0.0,0.0,AA44B6D7-A322-4AE4-96E1-CEC9A668BF04,Cayo,Other CY Rural Communities,,Hurricane,"San Marcos, Cayo District",24/10/2010
+0,0,0,0,0,0,0,0,0,7500.0,15000.0,0,0,2.0,0,0,2010-00067,2,254,,0,0.0,0.0,141B3142-C6FD-45F6-B69C-7DC3DD8BD0CE,Cayo,Other CY Rural Communities,,Hurricane,"Springfield Village, Cayo District",24/10/2010
+0,0,0,3,27,15,135,0,100,0.0,0.0,0,0,0.0,0,0,2010-00068,2,254,,0,17.09,88.63,491F12C0-3848-4922-9F35-14804721490E,Cayo,Other CY Rural Communities,,Hurricane,"St. Margret's Village, Cayo District",24/10/2010
+0,0,0,0,1,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00069,2,249,,0,17.22,89.05,37A3F950-B1EF-42F8-9FC0-1DE4D72837BE,Cayo,Billy White,,Hurricane,"Billy White Village, Cayo District",24/10/2010
+0,0,0,0,4,0,20,0,0,0.0,0.0,0,0,0.0,0,0,2010-00070,2,210,,0,17.2,88.22,F002E85E-7100-441A-991C-602F0A4A78FA,Cayo,Calla Creek,,Hurricane,"Calla Creek Village, Cayo District",24/10/2010
+0,0,0,0,1,4,0,0,0,200.0,400.0,0,0,0.0,0,0,2010-00071,2,202,,0,17.24,89.14,85939092-7748-4333-BB02-2C30C5D80FAB,Cayo,Benque Viejo,,Hurricane,"Benque Viejo Town, Cayo District",24/10/2010
+0,0,0,0,73,0,0,0,0,0.0,0.0,0,0,0.0,0,0,2010-00072,1,101,,0,17.22,88.77,9CBF1C8E-6F84-42BE-B680-BCDD6D160275,Belize,Belize City,,Hurricane,"Belize City, Belize District",24/10/2010
+3,0,0,0,11,0,54,0,0,0.0,0.0,0,0,0.0,0,1,2008-00012,2,204,,0,17.02,89.15,ED104549-AFF7-40E3-9E1D-B4A2C14BB5B6,Cayo,Arenal,,Inundation,"Arenal Village, Cayo District",16/10/2008
+0,0,0,0,134,0,668,0,0,0.0,0.0,0,0,0.0,0,1,2008-00013,2,202,,0,17.4,89.23,8B2C97DA-5F7D-4D90-BD97-625BA55AAF21,Cayo,Benque Viejo,,Inundation,"Benque Viejo Town , Cayo District",16/10/2008
+0,0,0,0,48,0,240,0,0,0.0,0.0,0,0,0.0,0,1,2008-00014,2,235,,2,17.08,89.13,9711468A-AE20-4DAE-8863-0D1279ACC12D,Cayo,San Jose Succotz,,Inundation,"San Jose Succotz Village, Cayo District",18/10/2008
+0,0,0,0,53,0,318,0,0,0.0,0.0,0,0,0.0,0,1,2008-00015,2,210,,0,17.2,88.22,7034CE51-FDBA-4B22-A5A1-762E0B36CE74,Cayo,Calla Creek,,Inundation,"Calla Creek Village, Cayo District",16/10/2008
+0,0,0,0,5,0,24,0,0,0.0,0.0,0,0,0.0,0,1,2008-00016,2,228,,2,17.12,89.13,EA47D06A-C6FC-428F-A3C7-5D16DA78E2AE,Cayo,Paslow Falls/P. Sucker/Rmzo.,,Inundation,"Paslow Falls, Cayo District",16/10/2008
+0,0,0,0,240,0,1440,0,88,0.0,0.0,0,0,0.0,0,1,2008-00017,2,209,,0,17.28,89.18,B75DF3CC-2D4D-46D5-BB24-5765E548CAF1,Cayo,Bullet Tree Falls,,Inundation,"Bullet Tree Falls, Cayo District",16/10/2008
+0,0,0,0,58,0,288,0,0,0.0,0.0,0,0,0.0,0,1,2008-00018,2,250,,0,17.13,89.13,E4B27B9D-BAC2-44C6-82B8-6CD2DAE1D12F,Cayo,Buena Vista CY,,Inundation,"Buena Vista, Cayo District",16/10/2008
+0,0,0,0,17,0,84,0,0,0.0,0.0,0,0,0.0,0,1,2008-00019,2,254,,0,17.1,88.97,18542D8B-3C65-4C24-AB53-B81107F5960F,Cayo,Other CY Rural Communities,,Inundation,"Seven (7) Miles, Cayo District",16/10/2008
+0,0,0,0,8,0,38,0,0,0.0,0.0,0,0,0.0,0,1,2008-00020,2,233,,2,17.08,89.02,71C96CF4-818C-4711-BBE7-82C84643F6EF,Cayo,San Antonio CY,,Inundation,"San Antonio Village, Cayo District",16/10/2008
+0,0,0,0,5,0,20,0,0,0.0,0.0,0,0,0.0,0,1,2008-00021,2,254,,0,17.28,88.78,39622B88-D107-449D-84E4-AB711E59F129,Cayo,Other CY Rural Communities,,Inundation,"Banana Bank, Cayo District",16/10/2008
+0,0,0,0,2,0,15,0,0,0.0,0.0,0,0,0.0,30,1,2008-00039,1,130,,2,17.52,88.6,5CB1A89D-7212-4978-8ADA-42A15A55C2B9,Belize,St. Paul's Bank,,Inundation,"St. Paul's Bank, Belize Distict",16/10/2008
+0,0,0,0,6,0,32,0,0,0.0,0.0,0,0,0.0,0,1,2008-00022,2,249,,0,17.22,89.05,42CF8116-D1FA-4C04-A24C-64987AA7BCAC,Cayo,Billy White,,Inundation,"Billy White Village, Cayo District",16/10/2008
+0,0,0,0,49,0,245,0,0,0.0,0.0,0,0,0.0,0,1,2008-00023,2,208,,0,17.18,89.08,C4B314F5-2E48-4AE8-AC1A-43F2C01AD9B7,Cayo,Branch Mouth,,Inundation,"Branch Mouth, Cayo District",16/10/2008
+0,0,0,0,78,0,389,0,0,0.0,0.0,0,0,0.0,0,1,2008-00024,2,218,,0,17.25,89.02,2C59CBD8-C17A-45D1-B98B-CFD19609E953,Cayo,Duck Run,,Inundation,"Duck Run 1, Cayo District",16/10/2008
+0,0,0,0,5,0,25,0,0,0.0,0.0,0,0,0.0,0,1,2008-00025,2,228,,0,17.12,89.13,7259921A-8A40-4977-BF53-E7249076DBD5,Cayo,Paslow Falls/P. Sucker/Rmzo.,,Inundation,"Plant Sucker, Cayo Distict",16/10/2008
+0,0,0,0,49,0,224,0,0,0.0,0.0,0,0,0.0,0,2,2008-00026,2,225,,0,17.35,88.7,C6FC8493-0EF5-47B4-BCC5-09308525665F,Cayo,More Tomorrow,,Inundation,"More Tomorrow Village, Cayo District",16/10/2008
+0,0,0,0,4,0,22,0,0,0.0,0.0,0,0,0.0,0,1,2008-00027,2,231,,0,17.27,88.8,B046ED6E-7521-44E4-A4CE-8F966843F9C7,Cayo,Roaring Creek,,Inundation,"Roaring Creek Village, Cayo District",16/10/2008
+0,0,0,0,161,0,806,0,0,0.0,0.0,0,0,0.0,0,1,2008-00028,2,236,,2,17.18,89.07,2C660268-61CB-4807-82BE-3177FEFE1987,Cayo,Santa Familia,,Inundation,"Santa Familia Village, Cayo District",16/10/2008
+0,0,0,0,28,0,140,0,0,0.0,0.0,0,0,0.0,0,1,2008-00029,2,203,,2,17.15,89.08,D56CDF04-18C1-4762-8FC3-AE786812698A,Cayo,San Ignacio/Santa Elena,,Inundation,"San Ignacio/Santa Elena Town, Cayo District",16/10/2008
+0,0,0,0,8,0,39,0,0,0.0,0.0,0,0,0.0,0,1,2008-00030,2,226,,0,17.23,88.88,07AC9C10-4EEB-4925-8688-592033469E5C,Cayo,Ontario,,Inundation,"Ontario Village, Cayo District",16/10/2008
+0,0,0,0,967,0,5096,0,0,0.0,0.0,0,0,0.0,0,1,2008-00031,2,,,2,0.0,0.0,32F67189-EEA4-437F-9E5C-D5E802E15529,Cayo,,,Inundation,The entire Cayo District area.,16/10/2008
+0,0,0,0,5,0,34,34,0,0.0,0.0,0,0,0.0,0,1,2008-00032,1,110,,0,17.8,88.53,5D255F56-62E7-428D-B655-449A8BD168C1,Belize,Crooked Tree,,Inundation,"Crooked Tree Village, Belize District",16/10/2008
+0,0,0,0,2,0,9,9,0,0.0,0.0,0,0,0.0,0,1,2008-00033,1,125,,2,0.0,0.0,B1FD14D6-D93F-4489-86FD-011CA4303655,Belize,May Pen,,Inundation,"May Pen Village, Belize District",16/10/2008
+0,0,0,0,34,0,144,49,0,0.0,0.0,0,0,0.0,0,1,2008-00034,1,121,,0,17.61,88.6,EF12382F-42AF-4F9C-A8C2-1FA0216427AD,Belize,Lemonal,,Inundation,"Lemonal Village, Cayo District",16/10/2008
+0,0,0,0,13,0,29,5,0,0.0,0.0,0,0,0.0,0,1,2008-00035,1,126,,2,17.6,88.62,6E18081D-3792-4DFF-8D3E-382525BC97C2,Belize,Rancho Dolores,,Inundation,"Rancho Dolores Village, Belize District",16/10/2008
+1,0,0,0,0,0,2,0,0,3500.0,7000.0,0,0,0.0,0,1,2011-00001,2,213,,0,18.2,89.0,BFB702A5-FF8E-4D5A-8E27-A58EF066B5E6,Cayo,Central Farm,,Accident,Running W Meats near Central Farm on the Western Highway bet,25/2/2011
+0,0,0,0,0,0,0,0,0,0.0,0.0,0,0,0.0,0,1,2008-00036,1,128,,2,17.8,88.3,005509F3-9FDF-4E5B-9B05-C59E5590B3C5,Belize,Santana,,Inundation,"Santana Village, Belize District",16/10/2008
+0,0,0,0,4,0,20,0,0,0.0,0.0,0,0,0.0,0,1,2008-00037,1,129,,2,0.0,0.0,FE323BA2-1965-412C-A891-21976105EF76,Belize,Scotland Halfmoon,,Inundation,"Scotland Halfmoon, Belize District",16/10/2008
+0,0,0,0,1,0,7,7,0,0.0,0.0,0,0,0.0,0,1,2008-00040,1,107,,0,17.6,88.4,361E3084-976D-47D3-B3DD-31F401BA79DB,Belize,Burrel Boom,,Inundation,"Burrel Boom Village, Belize District",16/10/2008
+0,0,0,0,12,0,42,14,0,0.0,0.0,0,0,0.0,0,1,2008-00041,1,119,,0,17.34,88.6,FC572A99-057B-479C-B948-AE0693499898,Belize,La Democracia,,Inundation,"La Democracia Village, Belize District",16/10/2008
+0,0,0,0,5,0,27,13,0,0.0,0.0,0,0,0.0,0,1,2008-00042,1,116,,0,17.4,88.3,33912352-E3E2-404A-999F-F9F95D434028,Belize,Gracie Rock,,Inundation,"Gracie Rock Village, Belize District",16/10/2008
+0,0,0,0,7,0,35,25,0,0.0,0.0,0,0,0.0,0,1,2008-00043,1,133,,2,17.43,88.4,036F79DE-D08E-46EF-BE0B-2364A7242C03,Belize,Other BZE Rural Communities,,Inundation,"Freetown Sibun, Belize Distict",16/10/2008
+0,0,0,0,19,0,96,96,0,0.0,0.0,0,0,0.0,0,1,2008-00044,1,117,,0,17.5,88.4,74587487-4400-4CD3-A1A7-1BBD795045B7,Belize,Hattieville,,Inundation,"Hattieville Village, Belize District",16/10/2008
+0,0,0,0,12,0,60,57,0,0.0,0.0,0,0,0.0,0,1,2008-00045,4,401,,2,0.0,0.0,DECA79E1-6668-4C92-B453-AFC8ACDAD64F,Orange Walk,Orange Walk,,Inundation,Complex is an area in Orange Walk Town,16/10/2008
+0,0,0,0,40,0,200,54,0,0.0,0.0,0,0,0.0,0,0,2008-00046,4,436,,2,0.0,0.0,80EAEE16-F0B2-4BB7-9CF3-05F06EADF839,Orange Walk,Other OW Rural Communities,,Inundation,"Louisana Village, Orange Walk District",16/10/2008
+0,0,0,0,20,0,100,0,0,0.0,0.0,0,0,0.0,0,1,2008-00047,4,436,,2,0.0,0.0,ABC8A6F2-5F7B-48D3-8FC8-46F02ABBF899,Orange Walk,Other OW Rural Communities,,Inundation,"Smithsonian, Orange Walk District",16/10/2008
+0,0,0,0,17,0,71,0,0,0.0,0.0,0,0,0.0,0,1,2008-00048,4,404,,2,18.02,88.54,127EA356-A6BA-4445-9331-7D897C7E4CA6,Orange Walk,Carmelita OW,,Inundation,"Carmelia Village, Orange Walk District",16/10/2008
+0,0,0,0,13,0,76,0,0,0.0,0.0,0,0,0.0,0,1,2008-00049,4,409,,2,17.97,88.6,40E87DBF-2CF6-47E9-9219-E9D59CCF6515,Orange Walk,Guinea Grass,,Inundation,"Guinea Grass, Orange Walk District",16/10/2008
+0,0,0,0,11,0,64,0,0,0.0,0.0,0,0,0.0,0,0,2008-00050,4,401,,2,0.0,0.0,E28E509B-774F-497B-9664-01FF08457B72,Orange Walk,Orange Walk,,Inundation,"San Antonio Road, Marcus Canal, and Smithsonia Alley are all",16/10/2008
+0,0,0,0,2,0,14,14,0,0.0,0.0,0,0,0.0,0,1,2008-00051,4,436,,2,17.2,89.1,D882A82B-B4AA-4110-AC7B-8EFE6FE56986,Orange Walk,Other OW Rural Communities,,Inundation,"Santa Familia, Orange Walk District",16/10/2008
+0,0,0,0,5,0,23,0,0,0.0,0.0,0,0,0.0,0,1,2008-00052,4,413,,2,18.13,88.7,83EFF691-4C98-4B36-85CB-01D37C35A5EA,Orange Walk,San Antonio Rio Hondo,,Inundation,"San Antonio, Orange Walk District",16/10/2008
+0,0,0,0,15,0,56,0,0,0.0,0.0,0,0,0.0,0,1,2008-00053,4,407,,2,18.23,88.6,C294480C-A8F3-4C5C-9D0B-F1B20C34EFBA,Orange Walk,Douglas,,Inundation,"Douglas, Orange Walk District",16/10/2008
+0,0,0,0,12,0,51,0,0,0.0,0.0,0,0,0.0,0,1,2008-00054,4,414,,2,18.2,88.51,4718A5D7-8A13-47D8-A647-D1A8232D11CC,Orange Walk,San Estevan,,Inundation,"San Esteban Village, Cayo District",16/10/2008
+0,0,0,0,4,0,20,0,0,0.0,0.0,0,0,0.0,0,1,2008-00055,4,426,,2,18.04,88.6,A3D80F07-0B18-4769-9885-90CE9C3E03FD,Orange Walk,Tower Hill,,Inundation,"Tower Hill, Orange Walk District",16/10/2008
+0,0,0,0,5,0,25,0,0,0.0,0.0,0,0,0.0,0,1,2008-00056,3,331,,2,18.4,88.15,7BC8E398-FCA0-4119-AEA9-513C62A60D64,Corozal,Sarteneja,,Inundation,"Sarteneja, Corozal District",16/10/2008
+0,0,0,0,3,0,17,17,0,0.0,0.0,0,0,0.0,0,1,2008-00057,3,308,,2,18.31,88.5,E509347C-4FCE-49A4-B161-C802F404E5B2,Corozal,Concepcion,,Inundation,"Concepcion, Corozal Village",16/10/2008
+0,0,0,0,7,0,35,0,0,0.0,0.0,0,0,0.0,0,1,2008-00058,3,314,,2,18.3,88.5,FF6EDD54-0786-49F1-BC7F-4747614F45BF,Corozal,Libertad,,Inundation,"Libertad, Corozal District",16/10/2008
+0,0,0,0,6,0,30,0,0,0.0,0.0,0,0,0.0,0,1,2008-00059,3,304,,2,18.23,88.5,D8A4F70D-AE2F-4D92-AD98-474BA2B5E8C0,Corozal,Caledonia,,Inundation,"Caledonia Village, Corozal District",16/10/2008
+0,0,0,0,19,0,95,0,0,0.0,0.0,0,0,0.0,0,1,2008-00060,3,328,,2,18.3,88.6,602C732A-5DCF-4DEF-BC7D-3A17550FA9A6,Corozal,San Victor,,Inundation,"San Victor Village, Corozal District",16/10/2008
+0,0,0,0,8,0,40,32,0,0.0,0.0,0,0,0.0,0,1,2008-00061,3,333,,2,18.4,88.43,679C2492-D253-4325-A812-20D415273746,Corozal,Xaibe,,Inundation,"Xaibe, Corozal District",16/10/2008
+2,1,0,0,0,0,3,0,0,0.0,0.0,0,0,0.0,0,1,2011-00002,5,531,,2,0.0,0.0,92E7BD30-5A37-4026-90D1-E3A401B5D125,Stann Creek,Kendall,,Accident,"Kendall Causeway, Kendall Village",26/3/2011
+0,0,0,0,104,0,454,0,0,0.0,0.0,0,0,0.0,0,0,2008-00062,1,,,2,0.0,0.0,2558E778-D2D8-4326-95F8-A5AA804C1879,Belize,,,Inundation,All the villages within the Belize District which experience,16/10/2008
+0,0,0,0,154,0,735,0,0,0.0,0.0,0,0,0.0,0,0,2008-00063,4,,,2,0.0,0.0,7617316B-F2CF-4433-85F9-5989458DB3E1,Orange Walk,,,Inundation,All villages in the Orange Walk District which experienced i,16/10/2008
+0,0,0,0,48,0,242,0,0,0.0,0.0,0,0,0.0,0,0,2008-00064,3,,,2,0.0,0.0,6F1CB2C1-4C8D-4365-BCDF-68328A94932F,Corozal,,,Inundation,All villages in the Corozal District which experienced inund,16/10/2008

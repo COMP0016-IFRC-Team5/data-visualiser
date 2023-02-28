@@ -1,0 +1,504 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,serial,level0,level1,level2,approved,latitude,longitude,uuid,name0,name1,name2,event,location,date
+0,0,0,32,68,472,0,0,0,0,0,0,0,0,0,0,58,ATG,ATG01,ATG0102,0,0.0,0.0,a7cabec7-caac-4e43-95bb-bcb7e34ea21d,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,4/9/1995
+0,0,0,28,157,595,0,0,0,0,0,0,0,0,0,0,59,ATG,ATG01,ATG0102,0,0.0,0.0,8f2af68d-4f13-4bc9-b9cf-afd0916b94a3,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,4/9/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,537,ATG,ATG01,ATG0102,0,0.0,0.0,1a145da0-8db4-47ef-84c9-ac560312a739,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,1/9/2010
+0,0,0,0,0,0,1325,0,0,0,0,0,0,0,0,0,552,ATG,ATG02,,0,17.6266242,-61.7713028,f8050cbd-f6ff-4595-baf8-ca55a37a8859,Antigua and Barbuda,Barbuda,,RAINS,,21/8/2003
+3,15,0,0,1700,3338,0,0,6200,59400000,0,0,2,0,0,0,5,ATG,ATG01,,0,0.0,0.0,8af98d90-dea1-4b26-b5c4-1a88646ee814,Antigua and Barbuda,Antigua,,HURRICANE,Country wide total,20/9/1998
+1,0,0,0,12,0,1325,0,0,0,0,0,0,0,0,0,6,ATG,ATG02,,0,0.0,0.0,1b3002ab-f4cb-445f-b79b-386e39c78ac7,Antigua and Barbuda,Barbuda,,HURRICANE,,29/8/2010
+0,5,0,0,0,0,60,0,0,0,0,0,0,0,0,0,8,ATG,ATG01,ATG0102,0,0.0,0.0,abd612e9-7124-45de-8672-dc1ce064df24,Antigua and Barbuda,Antigua,Saint John,FIRE,,26/11/1987
+3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,ATG,ATG01,ATG0102,0,0.0,0.0,24b89328-a349-42f7-a547-541b05d4b2b0,Antigua and Barbuda,Antigua,Saint John,ACCIDENT,V.C. Bird Airport,7/10/2010
+2,400,0,0,2180,2000,0,0,0,0,199999000,0,1,0,0,0,10,ATG,ATG01,,0,0.0,0.0,6e88a738-2e93-45c5-ac8b-43ba5efe8e8e,Antigua and Barbuda,Antigua,,HURRICANE,Country wide total,17/9/1989
+1,15,1,0,0,516,0,43,2000,0,0,0,1,0,0,0,11,ATG,ATG01,,0,0.0,0.0,da8db4bc-7179-4272-a7cb-c1cc00da9860,Antigua and Barbuda,Antigua,,HURRICANE,Country wide total,20/10/1999
+2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45,ATG,ATG01,ATG0102,0,0.0,0.0,080267c2-ee5c-4385-9a66-e9b5a9047b75,Antigua and Barbuda,Antigua,Saint John,FIRE,Villa,21/4/2013
+2,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,46,ATG,ATG01,ATG0101,0,0.0,0.0,04838aa4-d7eb-492e-a68f-56c92aba81e1,Antigua and Barbuda,Antigua,Saint George,FIRE,Grenville,15/4/2014
+0,0,0,9,1339,5088,0,0,0,54000000,0,0,0,0,0,0,13,ATG,ATG01,,0,0.0,0.0,a51e960c-6355-4211-ab7e-fa8381b47c71,Antigua and Barbuda,Antigua,,HURRICANE,Country wide total,15/10/2008
+1,3,0,1,0,1000,0,0,259,12600000,34000000,0,0,266,0,48280,14,ATG,ATG01,,0,0.0,0.0,f22dc750-defc-4e54-94ed-6a2abedd8edf,Antigua and Barbuda,Antigua,,HURRICANE,Country wide total,29/8/2010
+0,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,ATG,ATG01,ATG0102,0,0.0,0.0,9a6bbefc-cc33-4571-ade0-2e0938d10471,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1988
+0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,ATG,ATG01,ATG0102,0,0.0,0.0,499bfdc8-fe12-4cc8-9e14-61506c18079f,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1999
+0,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,ATG,ATG01,ATG0102,0,0.0,0.0,e54040e8-ae25-4019-94f2-c7fc32a95353,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1994
+0,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,ATG,ATG01,ATG0102,0,0.0,0.0,905c6186-27db-4e41-b746-9250d82478d8,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1995
+0,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,ATG,ATG01,ATG0102,0,0.0,0.0,729f8f21-6534-4157-b7a4-c900010c4c21,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1996
+0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,ATG,ATG01,ATG0102,0,0.0,0.0,3f459e0f-2291-47cc-9529-3c5e6468df28,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1997
+0,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,ATG,ATG01,ATG0102,0,0.0,0.0,00035a68-7aba-40a7-ab23-3a6851f00456,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/1998
+0,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,ATG,ATG01,ATG0102,0,0.0,0.0,25384440-2009-4e83-8ac5-0c82a70ec27a,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/2000
+0,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,ATG,ATG01,ATG0102,0,0.0,0.0,f740a77f-37b0-4198-83b1-34ceef0143d9,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/2001
+0,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,ATG,ATG01,ATG0102,0,0.0,0.0,f0030a03-7da6-4cee-a344-06d05b5bec0b,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/2002
+0,243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,ATG,ATG01,ATG0102,0,0.0,0.0,7dbc035e-ed3a-41fb-b1a7-fee6d6ca2a0a,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/2003
+0,244,0,0,0,0,45346,0,0,0,0,0,0,0,0,0,27,ATG,ATG01,ATG0102,0,0.0,0.0,85d22d1e-5203-42c9-a6c3-5a81ea13ce14,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/2004
+0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,ATG,ATG01,ATG0102,0,0.0,0.0,39b31dbc-6859-40d2-8b47-b1a7ba1f44af,Antigua and Barbuda,Antigua,Saint John,BIOLOGICAL,Country wide total,1/1/2005
+2,167,0,0,0,2000,0,0,0,500000000,0,46,7,0,0,0,29,ATG,ATG01,,0,0.0,0.0,67e4eb2a-ae5c-4aae-a660-c9f2180e4b98,Antigua and Barbuda,Antigua,,HURRICANE,Country wide total,4/9/1995
+1,0,0,0,0,0,0,0,0,51328679,136021000,0,0,0,0,0,32,ATG,,,0,0.0,0.0,42f642ad-054c-46f9-8e52-8958ba272728,Antigua and Barbuda,,,HURRICANE,Country wide total,14/11/1999
+0,0,0,20,224,661,1025,0,0,0,0,0,1,0,0,0,33,ATG,ATG02,,0,0.0,0.0,591f0446-68ac-4414-af09-ac2b3b06501d,Antigua and Barbuda,Barbuda,,HURRICANE,Island wide,4/9/1995
+0,0,0,66,114,200,7898,0,0,0,0,0,0,0,0,0,37,ATG,ATG01,ATG0104,0,0.0,0.0,b05a2467-3602-4356-bee4-d6a8d1c57765,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul Parish,20/9/1998
+0,0,0,5,43,0,1325,0,0,0,0,0,0,0,0,0,38,ATG,ATG02,,0,0.0,0.0,c238ede4-2f40-42fb-8fe2-b92e8d559a95,Antigua and Barbuda,Barbuda,,HURRICANE,Island wide,20/9/1998
+0,0,0,0,0,0,1325,0,0,0,0,0,0,0,0,0,39,ATG,ATG02,,0,0.0,0.0,34a905f9-5ee0-476e-bec0-ec29646721ec,Antigua and Barbuda,Barbuda,,HURRICANE,Island wide,14/11/1999
+0,0,0,9,83,227,5439,0,0,0,0,0,0,0,0,0,87,ATG,ATG01,ATG0105,0,0.0,0.0,e143749b-288e-4d87-86de-6e80caacc269,Antigua and Barbuda,Antigua,Saint Peter,HURRICANE,St Peter's Parish,20/9/1998
+0,0,0,28,96,200,6673,0,0,0,0,0,0,0,0,0,88,ATG,ATG01,ATG0101,0,0.0,0.0,464761da-a897-48d2-9019-c1f6addfdcc9,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George's Parish,20/9/1998
+0,0,0,4,53,100,0,0,0,0,0,0,0,0,0,0,89,ATG,ATG01,ATG0102,0,0.0,0.0,51abe5d6-12b2-4191-9a0f-00679f3b575d,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,20/9/1998
+0,0,0,1,0,0,1025,0,0,0,0,1,0,0,0,0,41,ATG,ATG02,,0,0.0,0.0,7b2b8cda-1a60-4304-9aef-0bdc04769626,Antigua and Barbuda,Barbuda,,HURRICANE,Island wide,20/10/1999
+0,0,0,0,0,0,1325,0,0,0,0,0,0,0,0,0,43,ATG,ATG02,,0,0.0,0.0,b7519a63-41b2-440e-b2e3-c181458bfc73,Antigua and Barbuda,Barbuda,,HURRICANE,,15/10/2008
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,47,ATG,ATG01,ATG0106,0,0.0,0.0,81fd04bf-c16d-4487-bedd-ffbcd1b16492,Antigua and Barbuda,Antigua,Saint Philip,BIOLOGICAL,Potworks Dam,1/1/2010
+0,0,0,27,45,263,0,0,0,0,0,0,0,0,0,0,49,ATG,ATG01,ATG0102,0,0.0,0.0,0cafbc1a-3898-495f-8ba9-e620bc285389,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints East and St Luke,4/9/1995
+0,0,0,25,90,367,3000,0,0,0,0,0,0,0,0,0,50,ATG,ATG01,ATG0106,0,0.0,0.0,5f440f3a-a971-4c94-a6a9-54ce6b87bc61,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,Saint Philip South ,4/9/1995
+0,0,0,33,99,223,0,0,0,0,0,0,0,0,0,0,52,ATG,ATG01,ATG0106,0,0.0,0.0,32ac97b2-3596-4344-b671-00e75c9b0908,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philips North,4/9/1995
+0,0,0,42,203,338,0,0,0,0,0,0,0,0,0,0,54,ATG,ATG01,ATG0102,0,0.0,0.0,3e1f48ad-221a-4aa8-ad76-6c3c819c8aac,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,4/9/1995
+0,0,0,17,124,479,0,0,0,0,0,0,0,0,0,0,56,ATG,ATG01,ATG0102,0,0.0,0.0,85811725-4f3a-43f0-9ec4-c688720c666b,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,4/9/1995
+0,0,0,53,236,812,0,0,0,0,0,0,0,0,0,0,60,ATG,ATG01,ATG0102,0,0.0,0.0,231aa495-2ad5-4277-888c-9abd8d49e941,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,4/9/1995
+0,0,0,42,209,840,40000,0,0,0,0,0,0,0,0,0,61,ATG,ATG01,ATG0102,0,0.0,0.0,b6b175a6-5561-41dc-b732-a6bf50bf1152,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,4/9/1995
+0,0,0,109,552,2312,0,0,0,0,0,0,0,0,0,0,62,ATG,ATG01,ATG0102,0,0.0,0.0,0fd275d5-3293-4fa3-beaf-3aaec05c4afd,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,4/9/1995
+0,0,0,18,32,448,5000,0,0,0,0,0,0,0,0,0,67,ATG,ATG01,ATG0105,0,0.0,0.0,9b6603a6-a9d6-41dc-b069-80317bd9c781,Antigua and Barbuda,Antigua,Saint Peter,HURRICANE,Saint Peter's Parish,4/9/1995
+1,0,0,1,0,4,0,4,0,0,0,0,0,0,0,0,102,ATG,ATG01,ATG0102,0,0.0,0.0,96115e8b-e535-479f-a361-ffcf65b97777,Antigua and Barbuda,Antigua,Saint John,FIRE,Upper Fort Road,5/6/2009
+0,0,0,82,182,446,6000,0,0,0,0,0,0,0,0,0,63,ATG,ATG01,ATG0101,0,0.0,0.0,f83a6185-0b19-4252-9245-9d129c8221b5,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George Parish,4/9/1995
+0,0,0,96,199,1080,0,0,0,0,0,0,0,0,0,0,64,ATG,ATG01,ATG0103,0,0.0,0.0,4d127a30-13c2-464f-b266-8161976f7654,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's North,4/9/1995
+0,0,0,62,125,630,7600,0,0,0,0,0,0,0,0,0,65,ATG,ATG01,ATG0103,0,0.0,0.0,928ce401-39a0-4f5f-8a44-8a0b5347d8fa,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,South Mary's South,4/9/1995
+0,0,0,49,95,469,7600,0,0,0,0,0,0,0,0,0,66,ATG,ATG01,ATG0104,0,0.0,0.0,e1dcb9c4-1c76-402c-9354-676d86b6db6a,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul Parish,4/9/1995
+0,0,0,62,129,101,101,0,0,0,0,0,0,0,0,0,68,ATG,ATG01,ATG0102,0,0.0,0.0,9c93659e-d6d7-4290-a4c6-461c0209b169,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints West,4/9/1995
+0,0,0,7,23,64,7848,0,0,0,0,2,0,0,0,0,70,ATG,ATG01,ATG0104,0,0.0,0.0,3d512042-10b4-4188-bb04-283fefe1872a,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul's Parish,20/10/1999
+0,0,0,4,4,0,5439,0,0,0,0,4,0,0,0,0,71,ATG,ATG01,ATG0105,0,0.0,0.0,6632cc1d-fc3c-4cbc-a52a-c15f9f7d7fd8,Antigua and Barbuda,Antigua,Saint Peter,HURRICANE,St Peter Parish,20/10/1999
+0,0,0,8,8,24,6000,0,0,0,0,2,0,0,0,0,72,ATG,ATG01,ATG0101,0,0.0,0.0,018e3f4b-8588-4ede-969f-0499ff0944de,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George Parish,20/10/1999
+0,0,0,4,9,25,0,0,0,0,0,1,0,0,0,0,73,ATG,ATG01,ATG0102,0,0.0,0.0,d7c381fd-8d17-42cd-9572-8f7e18864bfd,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,20/10/1999
+0,0,0,5,8,20,0,0,0,0,0,2,0,0,0,0,74,ATG,ATG01,ATG0102,0,0.0,0.0,e08c00ce-1b94-453a-acea-9b5cb42223ef,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,20/10/1999
+0,0,0,4,3,15,45346,0,0,0,0,0,0,0,0,0,75,ATG,ATG01,ATG0102,0,0.0,0.0,55eab36f-f9e3-4306-92e1-5eb644b73fc3,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,20/10/1999
+0,0,0,19,44,72,0,0,0,0,0,5,0,0,0,0,76,ATG,ATG01,ATG0102,0,0.0,0.0,c3ecdc9d-459a-4da5-aae1-3b6471079489,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints East and St Luke,20/10/1999
+0,0,0,2,7,14,0,0,0,0,0,2,0,0,0,0,77,ATG,ATG01,ATG0102,0,0.0,0.0,136f7c92-7a65-4139-8b93-a9911d903c5c,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints West,20/10/1999
+0,0,0,10,86,101,0,0,0,0,0,2,0,0,0,0,78,ATG,ATG01,ATG0106,0,0.0,0.0,4777d47a-f0db-4d1d-8556-9777788de570,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip North,20/10/1999
+0,0,0,9,18,27,3462,0,0,0,0,2,0,0,0,0,79,ATG,ATG01,ATG0106,0,0.0,0.0,154e2025-b5c0-41e8-81a0-94e593166ea0,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip South,20/10/1999
+0,0,0,7,5,16,6793,0,0,0,0,2,0,0,0,0,80,ATG,ATG01,ATG0103,0,0.0,0.0,80295725-6ac2-447d-b5cc-a73bec9d1597,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary South,20/10/1999
+0,0,0,13,10,33,0,0,0,0,0,4,0,0,0,0,81,ATG,ATG01,ATG0103,0,0.0,0.0,1115d69d-0b47-449e-83b7-c78d7f4f774d,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary North,20/10/1999
+0,0,0,38,31,87,0,0,0,0,0,2,0,0,0,0,82,ATG,ATG01,ATG0102,0,0.0,0.0,96473be5-0b45-4704-903a-331ba8fa709d,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,20/10/1999
+0,0,0,4,4,12,0,0,0,0,0,3,0,0,0,0,83,ATG,ATG01,ATG0102,0,0.0,0.0,8702d51d-1e75-4496-bee7-554fc2a45b65,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,20/10/1999
+0,0,0,2,3,11,0,0,0,0,0,1,0,0,0,0,84,ATG,ATG01,ATG0102,0,0.0,0.0,478f7e95-88a1-45c0-a598-2aaacca6411b,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,20/10/1999
+0,0,0,7,13,33,0,0,0,0,0,5,0,0,0,0,85,ATG,ATG01,ATG0102,0,0.0,0.0,e561c2bc-e09b-464d-8a71-090dacac02ed,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,20/10/1999
+0,0,0,3,38,60,0,0,0,0,0,0,0,0,0,0,90,ATG,ATG01,ATG0102,0,0.0,0.0,73d30b11-41c2-4c3e-a894-ff864fe097c9,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,20/9/1998
+0,0,0,1,18,30,0,0,0,0,0,0,0,0,0,0,91,ATG,ATG01,ATG0102,0,0.0,0.0,7071fe67-616c-4025-80e6-cd7700e084a9,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,20/9/1998
+0,0,0,10,88,108,3462,0,0,0,0,0,0,0,0,0,92,ATG,ATG01,ATG0106,0,0.0,0.0,98bce2c3-a79e-4d2d-8208-c44bb7ab938d,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip North,20/9/1998
+0,0,0,8,150,300,0,0,0,0,0,0,0,0,0,0,93,ATG,ATG01,ATG0106,0,0.0,0.0,30182cea-c732-4553-92f7-49122d3f0730,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip South,20/9/1998
+0,0,0,31,62,110,45346,0,0,0,0,0,0,0,0,0,94,ATG,ATG01,ATG0102,0,0.0,0.0,f932f325-b6ac-4709-adc1-8fb7f91800ba,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints East and St Luke's,20/9/1998
+0,0,0,7,107,125,0,0,0,0,0,0,0,0,0,0,95,ATG,ATG01,ATG0102,0,0.0,0.0,f0a3fd9a-9870-4e36-ae46-4d251944ecb5,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints West,20/9/1998
+0,0,0,35,73,150,6793,0,0,0,0,0,0,0,0,0,96,ATG,ATG01,ATG0103,0,0.0,0.0,88f24500-9da4-4dbe-8007-1640c670050c,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's North,20/9/1998
+0,0,0,62,188,275,0,0,0,0,0,0,0,0,0,0,97,ATG,ATG01,ATG0103,0,0.0,0.0,a7f9b2e7-edbe-4499-ac56-86925091698c,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,Saint Mary's South,20/9/1998
+0,0,0,15,73,125,0,0,0,0,0,0,0,0,0,0,98,ATG,ATG01,ATG0102,0,0.0,0.0,d42a9cd0-fb42-419a-9739-5d531e49d09e,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,20/9/1998
+0,0,0,12,209,300,0,0,0,0,0,0,0,0,0,0,99,ATG,ATG01,ATG0102,0,0.0,0.0,4a8e8209-a8cf-4a28-9764-606d4f112ac1,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,20/9/1998
+0,0,0,50,285,500,0,0,0,0,0,0,0,0,0,0,100,ATG,ATG01,ATG0102,0,0.0,0.0,ac4595dd-2a74-4186-a27e-e48ac54a13ab,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,20/9/1998
+0,0,0,26,464,600,0,0,0,0,0,0,0,0,0,0,101,ATG,ATG01,ATG0102,0,0.0,0.0,02af2b2b-9d91-4120-ab8a-66c60e440cd9,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,20/9/1998
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,103,ATG,ATG01,ATG0103,0,0.0,0.0,6b113917-381a-4e98-82b8-f1f9033bede2,Antigua and Barbuda,Antigua,Saint Mary,FIRE,Bolans,16/9/2013
+1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,104,ATG,ATG01,ATG0102,0,0.0,0.0,2b0ec9cc-5a71-47d0-a750-3a87df1e5b47,Antigua and Barbuda,Antigua,Saint John,FIRE,Gray's Farm,26/5/2013
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,ATG,ATG01,ATG0102,0,0.0,0.0,c72a2202-6d45-4f7a-ab66-618989044b66,Antigua and Barbuda,Antigua,Saint John,FIRE,V.C. Bird Airport,12/6/2012
+0,0,0,7,23,64,7848,0,0,0,0,0,0,0,0,0,106,ATG,ATG01,ATG0104,0,0.0,0.0,3bf40b99-db85-40df-8cbd-e8b17f4c7c66,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul Parish,14/11/1999
+0,0,0,13,10,33,6793,0,0,0,0,0,0,0,0,0,108,ATG,ATG01,ATG0103,0,0.0,0.0,28a23a2a-41ef-4940-a4e2-34eab098dbb9,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary North,14/11/1999
+0,0,0,5,8,20,0,0,0,0,0,0,0,0,0,0,109,ATG,ATG01,ATG0102,0,0.0,0.0,937bce83-cff8-402f-b0c3-3b0dcd1e13c1,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,14/11/1999
+0,0,0,4,9,25,0,0,0,0,0,0,0,0,0,0,110,ATG,ATG01,ATG0102,0,0.0,0.0,40c7d418-b50e-41a4-a94f-305326e6ea1c,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,14/11/1999
+0,0,0,19,44,72,0,0,0,0,0,0,0,0,0,0,111,ATG,ATG01,ATG0102,0,0.0,0.0,7ea0660b-02a7-421e-8572-d6297f0a26d1,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints East,14/11/1999
+0,0,0,8,8,24,6673,0,0,0,0,0,0,0,0,0,112,ATG,ATG01,ATG0101,0,0.0,0.0,58d49f20-6e18-4ac3-907b-91eaa869c2f1,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George's Parish,14/11/1999
+0,0,0,4,4,0,5439,0,0,0,0,0,0,0,0,0,113,ATG,ATG01,ATG0105,0,0.0,0.0,9f099b35-4df3-442b-b891-26f88ecd3e03,Antigua and Barbuda,Antigua,Saint Peter,HURRICANE,St Peter's Parish,14/11/1999
+0,0,0,4,3,15,0,0,0,0,0,0,0,0,0,0,114,ATG,ATG01,ATG0102,0,0.0,0.0,f0b2d4d7-48cf-4396-bbce-f66d722fbf71,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,14/11/1999
+0,0,0,7,5,15,0,0,0,0,0,0,0,0,0,0,115,ATG,ATG01,ATG0103,0,0.0,0.0,f86f3c20-60db-4c7b-b0f4-4dde482739de,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's South,14/11/1999
+0,0,0,7,13,33,45346,0,0,0,0,0,0,0,0,0,116,ATG,ATG01,ATG0102,0,0.0,0.0,336c383c-3ce9-43c0-937e-d5c99d34a1eb,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,14/11/1999
+0,0,0,9,18,27,0,0,0,0,0,0,0,0,0,0,117,ATG,ATG01,ATG0106,0,0.0,0.0,95883c0a-8afe-4ae8-85ff-6b22a26ee0da,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip's South,14/11/1999
+0,0,0,2,3,11,0,0,0,0,0,0,0,0,0,0,118,ATG,ATG01,ATG0102,0,0.0,0.0,a9ae1ea8-666e-4b8b-924d-4f0d43e598b1,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,14/11/1999
+0,0,0,2,7,14,0,0,0,0,0,0,0,0,0,0,119,ATG,ATG01,ATG0102,0,0.0,0.0,9a2c59e3-413b-42e5-a2fe-c84f578f1e2f,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints West,14/11/1999
+0,0,0,4,4,12,0,0,0,0,0,0,0,0,0,0,120,ATG,ATG01,ATG0102,0,0.0,0.0,ba8bb2b3-9c29-47eb-a62a-320c1e30f9ea,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,14/11/1999
+0,0,0,38,31,87,0,0,0,0,0,0,0,0,0,0,121,ATG,ATG01,ATG0102,0,0.0,0.0,8eb4d836-a91b-40e9-ba77-319de8e47319,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,14/11/1999
+0,0,0,10,86,101,3462,0,0,0,0,0,0,0,0,0,122,ATG,ATG01,ATG0106,0,0.0,0.0,e5eac572-e6b0-41f3-ba07-d8775131710d,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip North,14/11/1999
+0,0,0,0,5,0,1025,0,0,0,0,0,0,0,0,0,144,ATG,ATG02,,0,0.0,0.0,635f7360-c009-42a9-836a-56f943e59901,Antigua and Barbuda,Barbuda,,HURRICANE,,7/7/1996
+0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,145,ATG,ATG01,ATG0102,0,0.0,0.0,22d5282a-717e-4fbf-896d-d9d1cbfb9890,Antigua and Barbuda,Antigua,Saint John,ACCIDENT,V.C. Bird Airport,20/2/1997
+0,4,0,0,1000,0,60000,0,0,20000000,0,0,0,0,0,0,123,ATG,,,0,0.0,0.0,113bc41d-0ac2-4481-a65c-818ef6250cf1,Antigua and Barbuda,,,EARTHQUAKE,Country wide,8/10/1974
+0,0,0,0,98,468,6673,0,62,0,0,0,0,0,0,0,124,ATG,ATG01,ATG0101,0,0.0,0.0,3c40eea2-23bb-4dfa-a465-c733e7634e98,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George Parish,15/10/2008
+0,0,0,0,445,1355,1355,0,82,0,0,0,0,0,0,0,125,ATG,ATG01,ATG0102,0,0.0,0.0,07432f6b-8ff8-46dd-b0a3-2ad4bf44844c,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,15/10/2008
+0,0,0,0,197,711,6793,0,52,0,0,0,0,0,0,804,126,ATG,ATG01,ATG0103,0,0.0,0.0,63ea2298-3475-422a-be80-14eac30ec624,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Marys South / Bolans,15/10/2008
+0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,910,127,ATG,ATG01,ATG0102,0,0.0,0.0,3097747d-7f2d-4cff-8077-a2c88d3b3c74,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,29/8/2010
+0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,128,ATG,ATG01,ATG0102,0,0.0,0.0,7c012642-5513-4959-9689-430a678f679b,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,29/8/2010
+0,0,0,0,22,0,7496,0,0,0,0,0,0,0,0,910,129,ATG,ATG01,ATG0101,0,0.0,0.0,76d82e16-3db2-427b-b8b4-994bfdc52ce0,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George's Parish,29/8/2010
+0,0,0,0,18,0,5269,0,0,0,0,0,0,0,0,150,130,ATG,ATG01,ATG0105,0,0.0,0.0,8b7cf990-dcff-4948-b93f-c53f46028e60,Antigua and Barbuda,Antigua,Saint Peter,HURRICANE,St Peter's Parish,29/8/2010
+0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,150,131,ATG,ATG01,ATG0106,0,0.0,0.0,92be56f3-deaa-4922-8250-dec020a4c165,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Phillip's North,29/8/2010
+0,0,0,0,26,0,3125,0,0,0,0,0,0,0,0,900,132,ATG,ATG01,ATG0106,0,0.0,0.0,e0c0ee28-467c-4331-8282-0bc1a3ac8f9c,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Phillip's South,29/8/2010
+0,0,0,0,12,0,7979,0,0,0,0,0,0,0,0,1800,133,ATG,ATG01,ATG0104,0,0.0,0.0,63bc1d0a-5e62-4d24-928b-b9d968cffd2d,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul's Parish,29/8/2010
+0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,3000,134,ATG,ATG01,ATG0103,0,0.0,0.0,74261f05-b47c-4041-b2e3-244ec35b9964,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's South,29/8/2010
+0,0,0,0,0,170,170,0,0,0,0,0,0,0,0,0,146,ATG,ATG01,ATG0102,0,0.0,0.0,4f3769f7-17f2-41e7-947f-6a54931a9f6b,Antigua and Barbuda,Antigua,Saint John,ACCIDENT,V.C. Bird Airport,6/2/1997
+1,0,0,0,0,2,45346,0,0,0,0,0,0,0,0,0,147,ATG,ATG01,ATG0102,0,0.0,0.0,11ee2a8d-b3b0-4a07-a0bf-9cfd4bd97e31,Antigua and Barbuda,Antigua,Saint John,FLOOD,Tindale Rd in Gray's Farm,24/4/2010
+2,0,0,0,0,0,60000,0,0,0,1000000,0,0,0,0,0,150,ATG,ATG01,,0,0.0,0.0,3a94e44c-6dcf-4690-b923-c1ae2ecbeb8e,Antigua and Barbuda,Antigua,,HURRICANE,Country wide,1/9/1950
+0,0,0,100,0,0,60000,0,0,0,0,0,0,0,0,0,151,ATG,ATG01,,0,0.0,0.0,67f90aff-059b-4611-b182-584c3029d025,Antigua and Barbuda,Antigua,,HURRICANE,Country wide,20/8/1950
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,152,ATG,ATG01,ATG0101,0,0.0,0.0,2da17999-09e1-4a7d-a6d5-aace6087eba1,Antigua and Barbuda,Antigua,Saint George,FLOOD,,27/8/1995
+0,0,0,0,0,0,40000,0,0,0,0,0,0,0,0,0,153,ATG,ATG01,ATG0102,0,0.0,0.0,18211ffe-b855-42a2-875e-c7b4f49c9836,Antigua and Barbuda,Antigua,Saint John,FLOOD,,26/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,ATG,ATG01,ATG0102,0,0.0,0.0,dbaa5ef3-bee9-4858-aed5-9f1cf205ef89,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural East,27/8/1995
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,163,ATG,ATG01,ATG0103,0,0.0,0.0,a713c371-1beb-40a0-aa9d-74cea0225338,Antigua and Barbuda,Antigua,Saint Mary,FLOOD,St Mary's South,27/8/1995
+0,0,0,0,0,0,7600,0,0,0,0,0,0,0,0,0,164,ATG,ATG01,ATG0104,0,0.0,0.0,5461b302-628b-42e7-88b4-4d64dfbf857e,Antigua and Barbuda,Antigua,Saint Paul,FLOOD,St Paul Parish,27/8/1995
+0,0,0,0,0,0,5000,0,0,0,0,0,0,0,0,0,165,ATG,ATG01,ATG0105,0,0.0,0.0,7c0ff19d-0cb1-4113-b9c1-fb460ff6f8fa,Antigua and Barbuda,Antigua,Saint Peter,FLOOD,St Peter Parish,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,ATG,ATG01,ATG0106,0,0.0,0.0,6d32f080-eccf-4ad5-8c06-7cc884f7b01a,Antigua and Barbuda,Antigua,Saint Philip,FLOOD,St Philip's North,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,ATG,ATG01,ATG0106,0,0.0,0.0,79231008-4214-41e0-aed9-e529a7b98ecc,Antigua and Barbuda,Antigua,Saint Philip,FLOOD,St Philip's South,27/8/1995
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,168,ATG,ATG02,,0,0.0,0.0,3399d5ae-b792-47a8-80b1-449b62188228,Antigua and Barbuda,Barbuda,,FLOOD,,27/8/1995
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,169,ATG,ATG01,ATG0101,0,0.0,0.0,f5c3cb31-accd-4ab1-9d38-d0555fb86475,Antigua and Barbuda,Antigua,Saint George,FLOOD,St George's Parish,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170,ATG,ATG01,ATG0102,0,0.0,0.0,0f68b6fe-b5c0-4011-b3bf-15c10386a087,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural North,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,171,ATG,ATG01,ATG0102,0,0.0,0.0,e8c2afd8-7582-4e6e-a03d-47c394f389d8,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural East,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,172,ATG,ATG01,ATG0102,0,0.0,0.0,fc296359-191a-4742-b6c8-3b381339ae33,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural Souoth,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,173,ATG,ATG01,ATG0102,0,0.0,0.0,9344baf9-3ae4-43d2-a613-ad50634fdb6d,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural West,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,174,ATG,ATG01,ATG0102,0,0.0,0.0,2407ea4f-00bf-4510-ba8e-b3ba253ebb83,Antigua and Barbuda,Antigua,Saint John,FLOOD,City East,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175,ATG,ATG01,ATG0102,0,0.0,0.0,7ab1e480-bdc5-4003-bbce-3d9e95f10718,Antigua and Barbuda,Antigua,Saint John,FLOOD,City South,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,ATG,ATG01,ATG0102,0,0.0,0.0,9476b4d9-fa60-4341-b129-985127efac4b,Antigua and Barbuda,Antigua,Saint John,FLOOD,City West,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,177,ATG,ATG01,ATG0102,0,0.0,0.0,35f352a3-0076-46e8-88c0-0bd38d4afe08,Antigua and Barbuda,Antigua,Saint John,FLOOD,All Saints' East,23/8/1988
+0,0,0,0,0,0,39900,0,0,0,0,0,0,0,0,0,178,ATG,ATG01,ATG0102,0,0.0,0.0,888ea0ff-7af2-4bad-a59e-42992e2fa327,Antigua and Barbuda,Antigua,Saint John,FLOOD,All Saints West,23/8/1988
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,179,ATG,ATG01,ATG0103,0,0.0,0.0,e76d4509-9d32-4077-88e1-a37b8949486b,Antigua and Barbuda,Antigua,Saint Mary,FLOOD,St Mary's North,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,ATG,ATG01,ATG0103,0,0.0,0.0,c07cca43-b461-436f-83db-980b4738c585,Antigua and Barbuda,Antigua,Saint Mary,FLOOD,St Mary's South,23/8/1988
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,181,ATG,ATG01,ATG0104,0,0.0,0.0,704824cf-15e8-4ceb-a2fd-0a8c2b416c72,Antigua and Barbuda,Antigua,Saint Paul,FLOOD,St Paul's Parish,23/8/1988
+0,0,0,0,0,0,4900,0,0,0,0,0,0,0,0,0,182,ATG,ATG01,ATG0105,0,0.0,0.0,a2099248-ecc5-41b2-be1d-2c4e5aaf2de2,Antigua and Barbuda,Antigua,Saint Peter,FLOOD,St Peter's Parish,23/8/1988
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,ATG,ATG01,ATG0106,0,0.0,0.0,808f3eec-1772-4e15-bb25-854e803a4c9e,Antigua and Barbuda,Antigua,Saint Philip,FLOOD,St Philip's North,23/8/1988
+0,0,0,0,0,0,2900,0,0,0,0,0,0,0,0,0,184,ATG,ATG01,ATG0106,0,0.0,0.0,65f3bc68-4bdb-4310-97a4-efe144705073,Antigua and Barbuda,Antigua,Saint Philip,FLOOD,St Philip's South,23/8/1988
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,185,ATG,ATG02,,0,0.0,0.0,c2360277-7f70-4ad9-a1ee-826178b0cf7d,Antigua and Barbuda,Barbuda,,FLOOD,,23/8/1988
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,186,ATG,ATG01,ATG0101,0,0.0,0.0,9d6aeb2a-744f-4a88-98e0-fabfeec8b799,Antigua and Barbuda,Antigua,Saint George,RAINS,St George's Parish,3/8/1989
+0,0,0,0,24,0,7067,0,0,0,0,0,0,0,0,910,135,ATG,ATG01,ATG0103,0,0.0,0.0,49818cc3-7585-4674-9dd0-4dfd3935f0b7,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's North,29/8/2010
+0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,900,136,ATG,ATG01,ATG0102,0,0.0,0.0,6003a366-6349-45d4-9fe3-69c466b6dd0b,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints West,29/8/2010
+0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,2000,137,ATG,ATG01,ATG0102,0,0.0,0.0,95b685b3-a10f-4f71-903a-35c7363fa855,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints East and St Luke's,29/8/2010
+0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,910,138,ATG,ATG01,ATG0102,0,0.0,0.0,4c70d255-b44c-4b3f-a3fe-240639201c32,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,29/8/2010
+0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,910,139,ATG,ATG01,ATG0102,0,0.0,0.0,e5342129-c7de-46e6-b9ff-4b28518cf3e9,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,29/8/2010
+0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,910,140,ATG,ATG01,ATG0102,0,0.0,0.0,75e697f7-a521-4494-916c-a207a9530a0f,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,29/8/2010
+0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,910,141,ATG,ATG01,ATG0102,0,0.0,0.0,f391362f-e60f-4b45-918d-6cbe838a618f,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,29/8/2010
+0,0,0,0,64,0,45346,0,0,0,0,0,0,910,0,0,142,ATG,ATG01,ATG0102,0,0.0,0.0,6eaab73b-2648-4ba8-8e81-10ca3f316504,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,29/8/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,155,ATG,ATG01,ATG0102,0,0.0,0.0,077398b7-987f-4412-b9c9-bd2e6d0d3c1a,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural West,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,ATG,ATG01,ATG0102,0,0.0,0.0,7730d027-f722-4404-bc32-07a813f7fd98,Antigua and Barbuda,Antigua,Saint John,FLOOD,Rural South,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157,ATG,ATG01,ATG0102,0,0.0,0.0,80086ceb-bf1b-4146-b5fc-eb9c5e564fb1,Antigua and Barbuda,Antigua,Saint John,FLOOD,City East,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,158,ATG,ATG01,ATG0102,0,0.0,0.0,42c89c68-398c-4d14-8a22-0fa4ddaa451d,Antigua and Barbuda,Antigua,Saint John,FLOOD,City West,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159,ATG,ATG01,ATG0102,0,0.0,0.0,b00aae41-ba8d-4ed7-81f7-b71ce7132442,Antigua and Barbuda,Antigua,Saint John,FLOOD,City South,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160,ATG,ATG01,ATG0102,0,0.0,0.0,0f9e5955-33a6-4fe9-9e9d-00a1ead6dd2f,Antigua and Barbuda,Antigua,Saint John,FLOOD,All Saints' West,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161,ATG,ATG01,ATG0102,0,0.0,0.0,a0e29186-4ccc-44eb-8255-768844006150,Antigua and Barbuda,Antigua,Saint John,FLOOD,All Saints' East,27/8/1995
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,ATG,ATG01,ATG0103,0,0.0,0.0,469ced48-c2f6-481a-a3a4-d94244fb3738,Antigua and Barbuda,Antigua,Saint Mary,FLOOD,St Mary's North,27/8/1995
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,252,ATG,ATG01,ATG0101,0,0.0,0.0,179bd18f-7a45-490b-acaf-fe68420fafd5,Antigua and Barbuda,Antigua,Saint George,COASTAL EROSION,St George Parish,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,253,ATG,ATG01,ATG0102,0,0.0,0.0,21e46e29-95e8-4579-914e-e720d9b6aeb4,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural North,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,ATG,ATG01,ATG0102,0,0.0,0.0,44b289e8-b7f8-4c3d-a5f6-ca56b683cff7,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural East,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256,ATG,ATG01,ATG0102,0,0.0,0.0,5bd4ae2b-cb59-448d-901e-94b0f388d17a,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural South,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,257,ATG,ATG01,ATG0102,0,21.073838895541,-59.2822265625,19b350a5-8daa-40b8-80e6-9c0a1260a011,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural West,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,258,ATG,ATG01,ATG0102,0,0.0,0.0,0ef8671c-a6e8-42da-8fa1-faa1faf4c220,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City East,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,259,ATG,ATG01,ATG0102,0,0.0,0.0,e1b16810-1099-473e-8ad2-d9e231cf9e6c,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City South,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,ATG,ATG01,ATG0102,0,0.0,0.0,b9a9d682-ffed-489f-959e-fec66564cd0d,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,276,ATG,ATG01,ATG0102,0,0.0,0.0,8661c0e3-e0bc-46e4-b900-a018425457c7,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,277,ATG,ATG01,ATG0102,0,0.0,0.0,3f20e56f-6d08-4a94-ba55-da88e4ee7975,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,278,ATG,ATG01,ATG0102,0,0.0,0.0,47e2cbc9-3c5c-4837-b3d1-2a9dba7eeaba,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints East,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279,ATG,ATG01,ATG0102,0,0.0,0.0,003cd85c-89ca-4554-94cf-9d5d2772fd7c,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,ATG,ATG01,ATG0103,0,0.0,0.0,6782ebd2-eaf0-4635-bfc0-44cb0002d2c8,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,4/9/1981
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,281,ATG,ATG01,ATG0103,0,0.0,0.0,893924fd-2a96-4c9a-90a7-599b1acfda42,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,4/9/1981
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,282,ATG,ATG01,ATG0104,0,0.0,0.0,c6c64dc5-d1a4-43f5-bf64-1f666f801475,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,4/9/1981
+0,0,0,1,0,4,4,4,4,0,0,0,0,0,0,0,312,ATG,ATG01,ATG0103,0,0.0,0.0,fd8cc829-4186-4b14-a1f2-99ae4e94a213,Antigua and Barbuda,Antigua,Saint Mary,FIRE,Cashew Hill,4/8/2012
+0,0,0,1,0,2,2,2,2,0,0,0,0,0,0,0,313,ATG,ATG01,ATG0102,0,0.0,0.0,1b2c0698-1de5-4036-9c30-bd92650e12ee,Antigua and Barbuda,Antigua,Saint John,FIRE,Cashew Hill,19/8/2012
+0,1,0,1,0,3,3,3,2,0,0,0,0,0,0,0,314,ATG,ATG01,ATG0102,0,0.0,0.0,8402e2c8-7c4d-4d17-9f34-275ba2b86392,Antigua and Barbuda,Antigua,Saint John,FIRE,All Saints West,8/9/2012
+0,0,0,0,0,500,982,0,0,0,0,1,0,0,0,0,315,ATG,ATG01,ATG0102,0,0.0,0.0,0988d3db-57cf-4aa8-8dc3-9972f8525cd8,Antigua and Barbuda,Antigua,Saint John,FIRE,Princess Margaret School,29/11/2012
+0,0,0,1,0,3,3,3,0,0,0,0,0,0,0,0,316,ATG,ATG01,ATG0102,0,0.0,0.0,1f84ad12-e485-47d3-9f35-25ff9aed6f46,Antigua and Barbuda,Antigua,Saint John,FIRE,Ottos,1/1/2013
+0,0,0,0,0,0,6673,0,0,0,0,0,0,0,0,0,317,ATG,ATG01,ATG0101,0,0.0,0.0,3b6c5680-cbcc-4c64-8bb3-724452785207,Antigua and Barbuda,Antigua,Saint George,RAINS,St George's Parish,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,318,ATG,ATG01,ATG0102,0,0.0,0.0,42af3e2c-6b89-42a8-96ec-44879c65fd7e,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,17/9/2000
+0,0,0,0,0,0,39900,0,0,0,0,0,0,0,0,0,212,ATG,ATG01,ATG0102,0,0.0,0.0,b2ea2685-c203-4d72-9107-3b1c15193f88,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints' West,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,319,ATG,ATG01,ATG0102,0,0.0,0.0,77652ff4-5dad-425a-9fe1-63ec3e393dd9,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,320,ATG,ATG01,ATG0102,0,0.0,0.0,eb50796b-37cc-4608-b15f-08dca8306970,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,321,ATG,ATG01,ATG0102,0,0.0,0.0,2027625b-3d3b-40b4-9278-6f7d732a59cf,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,322,ATG,ATG01,ATG0102,0,0.0,0.0,62187caf-7e02-4dae-bc8c-c0f0bdc35882,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,323,ATG,ATG01,ATG0102,0,0.0,0.0,2f553ee8-0291-4b8d-ad43-cb37ec2f19bd,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,324,ATG,ATG01,ATG0102,0,0.0,0.0,12280e0a-4675-45df-8b49-3f682f851f56,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,17/9/2000
+0,0,0,0,0,0,45346,0,0,0,0,0,0,0,0,0,325,ATG,ATG01,ATG0102,0,0.0,0.0,660c9779-a51e-44a0-a34e-e8c3c6834d6a,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints East,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,326,ATG,ATG01,ATG0102,0,0.0,0.0,448ad142-815a-4fc0-82c1-91aeb8d0a4bb,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,ATG,ATG01,ATG0102,0,0.0,0.0,6fa8eb63-a8fb-4456-a011-25ec429d8c69,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,188,ATG,ATG01,ATG0102,0,0.0,0.0,31cd292b-078c-47fb-9656-7028dbb18ead,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,189,ATG,ATG01,ATG0102,0,0.0,0.0,bba22799-c4b5-41d3-a6d3-4350363638b8,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190,ATG,ATG01,ATG0102,0,0.0,0.0,51120a6e-11af-4ce8-b48e-8eee04021689,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,191,ATG,ATG01,ATG0102,0,0.0,0.0,7e9ead9f-1d86-4bef-857d-d1b98a79dfdb,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,ATG,ATG01,ATG0102,0,0.0,0.0,bba4bce5-006a-4018-a0ac-b5f3d7cb6f99,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193,ATG,ATG01,ATG0102,0,0.0,0.0,fe6d2169-76d7-41a8-bd46-9cc9e9cb9b60,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,3/8/1989
+0,0,0,0,0,0,39900,0,0,0,0,0,0,0,0,0,194,ATG,ATG01,ATG0102,0,0.0,0.0,6a041985-df96-4266-b6a8-fab3a1e68918,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints' East,3/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,ATG,ATG01,ATG0102,0,0.0,0.0,707b42d0-034c-48de-a852-6f2e2ecdcd9c,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints' West,3/8/1989
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,196,ATG,ATG01,ATG0103,0,0.0,0.0,ee6b1464-862f-409e-8579-bf660a8d4b26,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,2/8/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197,ATG,ATG01,ATG0103,0,0.0,0.0,a13761e3-939e-4943-a395-80741efec86b,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,3/8/1989
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,198,ATG,ATG01,ATG0104,0,0.0,0.0,a07a0886-3112-46cd-91d2-62e1c6e62113,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,3/8/1989
+0,0,0,0,0,0,4900,0,0,0,0,0,0,0,0,0,199,ATG,ATG01,ATG0105,0,0.0,0.0,813d0c09-8cac-42c5-b650-d37b26df88bd,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,3/8/1989
+0,0,0,0,0,0,2900,0,0,0,0,0,0,0,0,0,200,ATG,ATG01,ATG0106,0,0.0,0.0,22522507-1ce3-4dcb-a1a6-c471f04363e8,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,3/8/1989
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,236,ATG,ATG02,,0,0.0,0.0,59752790-1cd8-46d2-966c-e0b5c560e376,Antigua and Barbuda,Barbuda,,RAINS,,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,201,ATG,ATG01,ATG0106,0,0.0,0.0,4c22e921-6e4a-42ca-9773-5d6b23a812e6,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,3/8/1989
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,203,ATG,ATG01,ATG0101,0,0.0,0.0,0b38c140-2fc1-4cfb-900d-318a1bf95f2e,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George's Parish,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,204,ATG,ATG01,ATG0102,0,0.0,0.0,9a5eb48d-e9ac-4fa9-822b-f00bb0cbd266,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,205,ATG,ATG01,ATG0102,0,0.0,0.0,6f4d3c82-3744-420e-b557-4f2da43a2dbb,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,206,ATG,ATG01,ATG0102,0,0.0,0.0,c4e545d1-a589-4519-9256-e490b54fe8e7,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,ATG,ATG01,ATG0102,0,0.0,0.0,95a680c9-6a7f-49d0-bc9f-cd8575973cf7,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural West,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,208,ATG,ATG01,ATG0102,0,0.0,0.0,9e4145bc-cc0d-4f77-bcc4-be2ce8629c12,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,209,ATG,ATG01,ATG0102,0,0.0,0.0,3edf4d66-d17e-4a5d-8e9a-082e91aca312,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210,ATG,ATG01,ATG0102,0,0.0,0.0,ee255382-35da-48a2-8d60-af3951b5c8d4,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,211,ATG,ATG01,ATG0102,0,0.0,0.0,dff41af1-31a0-42a5-a317-29c4db6832a6,Antigua and Barbuda,Antigua,Saint John,HURRICANE,All Saints' East,17/9/1989
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,213,ATG,ATG01,ATG0103,0,0.0,0.0,2d18bc5a-b366-432c-81e6-ca6d70d9d02a,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's North,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,214,ATG,ATG01,ATG0103,0,0.0,0.0,1dccdb10-248c-44e4-ba20-0bebefea1e57,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's South,17/9/1989
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,215,ATG,ATG01,ATG0104,0,0.0,0.0,641f52f0-7ba2-4a0d-8430-bf0a452fd963,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul's Parish,17/9/1989
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,216,ATG,ATG01,ATG0104,0,0.0,0.0,3d5860db-ce49-466f-b59c-d95e5ec9c92e,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul's Parish,17/9/1989
+0,0,0,0,0,0,2900,0,0,0,0,0,0,0,0,0,217,ATG,ATG01,ATG0106,0,0.0,0.0,31c7f04e-8e5c-4224-9425-b93a123681fe,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip's North,17/9/1989
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,218,ATG,ATG01,ATG0106,0,0.0,0.0,5fd8a4a4-f251-44d3-ba54-2df0cf5a49b7,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip's South,17/9/1989
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,219,ATG,ATG02,,0,0.0,0.0,5e5805ab-e56a-472d-bce5-663bb71d7d19,Antigua and Barbuda,Barbuda,,HURRICANE,,17/9/1989
+0,0,0,0,0,0,6000,0,0,0,0,0,0,0,0,0,220,ATG,ATG01,ATG0101,0,0.0,0.0,171d4b59-8b37-4550-bf97-800ad8d9fa5e,Antigua and Barbuda,Antigua,Saint George,RAINS,St George's Parish,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221,ATG,ATG01,ATG0102,0,0.0,0.0,8fa2a872-0998-4908-9570-8d414dd69cfb,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,ATG,ATG01,ATG0102,0,0.0,0.0,82796f94-ed24-496c-9d80-e0aec8ab5bdd,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223,ATG,ATG01,ATG0102,0,0.0,0.0,c7a6ea25-bbe5-4db0-9b53-fba81c4daecf,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,224,ATG,ATG01,ATG0102,0,0.0,0.0,3b20424c-87cb-4c0d-b65f-26cabf9b31dc,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225,ATG,ATG01,ATG0102,0,0.0,0.0,142cf1b8-697e-4bf6-bbbf-97030ff5f86a,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,226,ATG,ATG01,ATG0102,0,0.0,0.0,dead1db4-04f8-4f5f-8d10-910a3a57d910,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,227,ATG,ATG01,ATG0102,0,0.0,0.0,3b0fff9a-5434-486e-a7d4-d7a661e6b5e1,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,228,ATG,ATG01,ATG0102,0,0.0,0.0,c7291e5e-43f3-42f8-914d-e947f9890d72,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints' East,6/10/1990
+0,0,0,0,0,0,40000,0,0,0,0,0,0,0,0,0,229,ATG,ATG01,ATG0102,0,0.0,0.0,64cb1bf2-cce0-4079-b5de-54fd27f4cfb1,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints' West,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230,ATG,ATG01,ATG0103,0,0.0,0.0,5f5cc73e-cdee-4c97-ac60-66c628a61dbc,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,6/10/1990
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,231,ATG,ATG01,ATG0103,0,0.0,0.0,38725429-5f41-495f-b273-cce9817bcb6b,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,6/10/1990
+0,0,0,0,0,0,7600,0,0,0,0,0,0,0,0,0,232,ATG,ATG01,ATG0104,0,0.0,0.0,a7875060-0ec5-4289-8d36-e2cd3aaa83a3,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,6/10/1990
+0,0,0,0,0,0,5000,0,0,0,0,0,0,0,0,0,233,ATG,ATG01,ATG0105,0,0.0,0.0,74cb3fb5-a95e-44b4-a9a5-2826d6a01718,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,6/10/1990
+0,0,0,0,0,0,3000,0,0,0,0,0,0,0,0,0,234,ATG,ATG01,ATG0106,0,0.0,0.0,fc02e61b-787b-4472-be39-0b9da8536401,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,6/10/1990
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,235,ATG,ATG01,ATG0106,0,0.0,0.0,6730cbee-2b29-4fa9-9a9c-f0625abc4401,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,6/10/1990
+0,0,0,0,0,0,6000,0,0,0,0,0,0,0,0,0,237,ATG,ATG01,ATG0101,0,0.0,0.0,212e938c-123e-4385-a89e-4aa0a3adc2f2,Antigua and Barbuda,Antigua,Saint George,HURRICANE,St George's Parish,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,238,ATG,ATG01,ATG0102,0,0.0,0.0,bbff1bf3-2133-4f01-b768-9d9ab336260a,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural North,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,239,ATG,ATG01,ATG0102,0,0.0,0.0,99430ad3-7595-4e2e-9488-6cfdf4a776d7,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural East,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,ATG,ATG01,ATG0102,0,0.0,0.0,f8119d87-13b9-4190-8914-a1f89f657539,Antigua and Barbuda,Antigua,Saint John,HURRICANE,Rural South,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,241,ATG,ATG01,ATG0102,0,0.0,0.0,efc6fea9-3066-4c28-a1cb-6106e3457276,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City East,7/7/1996
+0,0,0,0,0,0,40000,0,0,0,0,0,0,0,0,0,242,ATG,ATG01,ATG0102,0,0.0,0.0,687f0883-25eb-4bf8-ac2a-e1947c58be4a,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City South,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243,ATG,ATG01,ATG0102,0,0.0,0.0,0010b1f8-6966-44d3-ae49-c05d39ffd2f4,Antigua and Barbuda,Antigua,Saint John,HURRICANE,City West,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,245,ATG,ATG01,ATG0103,0,0.0,0.0,bded9605-58dd-4565-9fdf-8cacb58c4d99,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's North,7/7/1996
+0,0,0,0,0,0,6400,0,0,0,0,0,0,0,0,0,246,ATG,ATG01,ATG0103,0,0.0,0.0,bfdfa7db-ae62-4a66-97aa-8127d055c883,Antigua and Barbuda,Antigua,Saint Mary,HURRICANE,St Mary's South,7/7/1996
+0,0,0,0,0,0,7600,0,0,0,0,0,0,0,0,0,247,ATG,ATG01,ATG0104,0,0.0,0.0,222eaf77-d210-4f85-b506-312421d8247c,Antigua and Barbuda,Antigua,Saint Paul,HURRICANE,St Paul's Parish,7/7/1996
+0,0,0,0,0,0,5000,0,0,0,0,0,0,0,0,0,248,ATG,ATG01,ATG0105,0,0.0,0.0,422f4f39-2005-4514-9bed-829f3e052699,Antigua and Barbuda,Antigua,Saint Peter,HURRICANE,St Peter's Parish,7/7/1996
+0,0,0,0,0,0,3000,0,0,0,0,0,0,0,0,0,249,ATG,ATG01,ATG0106,0,0.0,0.0,3c98a238-b0fe-49f8-9981-1695660d1ab5,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip's North,7/7/1996
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,ATG,ATG01,ATG0106,0,0.0,0.0,34f5001c-b379-4d3b-a2d6-aed84434d20d,Antigua and Barbuda,Antigua,Saint Philip,HURRICANE,St Philip's South,7/7/1996
+2,3,0,1,0,5,5,3,3,0,0,0,0,0,0,0,300,ATG,ATG01,ATG0103,0,0.0,0.0,cc48f32c-8089-4763-9311-8ee94c55ccb2,Antigua and Barbuda,Antigua,Saint Mary,FIRE,Urlings,15/4/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,260,ATG,ATG01,ATG0102,0,0.0,0.0,45f6793a-e5ed-40a1-ae7d-bba9dddee013,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City West,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,261,ATG,ATG01,ATG0102,0,0.0,0.0,0ae857aa-43a4-4ce5-94b6-ccc45ed4526d,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,All Saints East,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,262,ATG,ATG01,ATG0102,0,0.0,0.0,3bcc7961-fadb-4d09-ad3f-33a702c1da16,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,All Saints West,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,263,ATG,ATG01,ATG0103,0,0.0,0.0,9e4ca99e-49dd-4203-959e-0428e0316476,Antigua and Barbuda,Antigua,Saint Mary,COASTAL EROSION,St Mary's North,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,264,ATG,ATG01,ATG0103,0,0.0,0.0,fae31453-db81-48a8-a20b-8a069a57798b,Antigua and Barbuda,Antigua,Saint Mary,COASTAL EROSION,St Mary's South,6/11/1984
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,265,ATG,ATG01,ATG0104,0,0.0,0.0,f5ad1374-0ddf-4617-84bf-9961afbbe204,Antigua and Barbuda,Antigua,Saint Paul,COASTAL EROSION,St Paul's Parish,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,266,ATG,ATG01,ATG0105,0,0.0,0.0,49c55fdd-b3a5-42b3-ab77-a68e3db93d3a,Antigua and Barbuda,Antigua,Saint Peter,COASTAL EROSION,St Peter's Parish,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,267,ATG,ATG01,ATG0106,0,0.0,0.0,be9c79fb-d251-4179-85d2-253d07fe58a0,Antigua and Barbuda,Antigua,Saint Philip,COASTAL EROSION,St Phillip's North,6/11/1984
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,268,ATG,ATG01,ATG0106,0,0.0,0.0,a3d084cc-8410-4743-adce-d7473d42c5df,Antigua and Barbuda,Antigua,Saint Philip,COASTAL EROSION,St Phillip's South,6/11/1984
+0,1249,0,0,0,1249,1249,0,0,0,0,0,0,0,0,0,269,ATG,ATG01,,0,0.0,0.0,abddb237-383a-4a6e-a82f-4d7be4dadaf2,Antigua and Barbuda,Antigua,,BIOLOGICAL,,1/1/2013
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,270,ATG,ATG01,ATG0101,0,0.0,0.0,aca324ad-ebdf-4d7e-8e1f-5397dc1d6cf1,Antigua and Barbuda,Antigua,Saint George,RAINS,,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,271,ATG,ATG01,ATG0102,0,0.0,0.0,2366f117-d929-4d4b-b259-57629bdc9fe8,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,272,ATG,ATG01,ATG0102,0,0.0,0.0,709b0a4b-a3ff-4222-892a-0cee0e9e0b93,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,273,ATG,ATG01,ATG0102,0,0.0,0.0,bf9bf8c5-8822-4f7f-bf0c-d6e95c11b9cb,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,4/9/1981
+0,0,0,0,0,0,39900,0,0,0,0,0,0,0,0,0,274,ATG,ATG01,ATG0102,0,0.0,0.0,7e378d41-adc9-4b05-81e3-334f99e4f96f,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,4/9/1981
+0,0,0,0,0,0,4900,0,0,0,0,0,0,0,0,0,283,ATG,ATG01,ATG0105,0,0.0,0.0,015f0de8-783b-49f9-b266-601c668f7b43,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284,ATG,ATG01,ATG0106,0,0.0,0.0,64e34386-83e5-41e3-9b86-45c6c4d1d2a7,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,4/9/1981
+0,0,0,0,0,0,2900,0,0,0,0,0,0,0,0,0,285,ATG,ATG01,ATG0106,0,0.0,0.0,c3dcefcd-cb5a-4420-b076-ef5c2c007c4e,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,4/9/1981
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,286,ATG,ATG02,,0,0.0,0.0,ea43829d-d192-4841-a766-9d5510641f70,Antigua and Barbuda,Barbuda,,RAINS,,4/9/1981
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,287,ATG,ATG02,,0,0.0,0.0,0888c14c-42d4-408d-a68f-2dbb8fd7259e,Antigua and Barbuda,Barbuda,,COASTAL EROSION,,6/11/1984
+0,0,0,1,0,3,3,3,0,0,0,0,0,0,0,0,288,ATG,ATG01,ATG0102,0,0.0,0.0,4a79a15c-c7df-4412-aa67-763951d346d3,Antigua and Barbuda,Antigua,Saint John,FIRE,Jenning's Extension,1/11/2014
+0,0,0,1,0,6,6,6,6,0,0,0,0,0,0,0,289,ATG,ATG01,ATG0104,0,0.0,0.0,867425e3-de2a-4a1b-88ac-d8b182fde687,Antigua and Barbuda,Antigua,Saint Paul,FIRE,Liberta,6/10/2014
+0,0,0,1,0,4,4,4,4,0,0,0,0,0,0,0,290,ATG,ATG01,ATG0102,0,0.0,0.0,07f3a1bb-0597-4479-9af9-f470b338c2a6,Antigua and Barbuda,Antigua,Saint John,FIRE,Pigotts,26/9/2014
+0,0,0,0,0,1,1,0,0,0,100000,0,0,4,0,0,291,ATG,ATG01,ATG0106,0,0.0,0.0,73c9ab02-e978-481d-88f9-25dace91a92c,Antigua and Barbuda,Antigua,Saint Philip,FIRE,Willikies Village,23/3/2014
+0,0,0,0,0,15,15,0,0,0,0,0,0,4,0,0,292,ATG,ATG01,ATG0102,0,0.0,0.0,84908ff3-34d9-4eb9-aa15-497c0cd635f6,Antigua and Barbuda,Antigua,Saint John,FIRE,"Buckleys, Swetes, Freeman’s Village, Sea View Farm, John Hug",21/3/2014
+1,1,0,2,2,6,6,3,0,0,0,0,0,0,0,0,293,ATG,ATG01,ATG0102,0,0.0,0.0,e9807737-63d5-40d7-bbf7-91732e0e5751,Antigua and Barbuda,Antigua,Saint John,FIRE,Gray's Farm,21/2/2014
+0,0,0,0,0,0,30,0,0,0,0,1,0,0,0,0,294,ATG,ATG01,ATG0102,0,0.0,0.0,28b1759f-48c5-428f-beed-8c6092eb2441,Antigua and Barbuda,Antigua,Saint John,FIRE,Antigua Grammar School,19/1/2014
+0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,295,ATG,ATG01,ATG0102,0,0.0,0.0,2226a968-09cd-4071-99df-c8e8cc07177f,Antigua and Barbuda,Antigua,Saint John,FIRE,Cashew Hill,3/1/2014
+0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,296,ATG,ATG01,ATG0102,0,0.0,0.0,5d5736c2-de7b-4ec6-8de0-7b2bb7b6678c,Antigua and Barbuda,Antigua,Saint John,FIRE,Johnson's Point,23/12/2013
+0,0,0,0,0,20,20,0,20,0,0,0,1,0,0,0,297,ATG,ATG01,ATG0102,0,0.0,0.0,9bea9b28-d605-48ed-a1df-11fee8645b53,Antigua and Barbuda,Antigua,Saint John,FIRE,Mount St John's Medical Centre,8/2/2010
+0,0,0,0,0,0,70000,0,0,0,0,0,0,0,0,0,298,ATG,ATG01,,0,0.0,0.0,3a062022-e8b4-438f-b93a-d9fdcad78fe5,Antigua and Barbuda,Antigua,,DROUGHT,Island wide,16/2/2010
+0,0,0,2,0,3,3,3,3,0,0,0,0,0,0,0,301,ATG,ATG01,ATG0102,0,0.0,0.0,df7a6a9d-ea0f-49db-8d4d-5864d068372b,Antigua and Barbuda,Antigua,Saint John,FIRE,Hatton ,19/9/2010
+0,0,0,0,0,27,27,0,0,0,0,0,0,0,0,0,302,ATG,ATG01,ATG0102,0,0.0,0.0,d4a5b610-0cd2-478c-94bc-5285101d38ae,Antigua and Barbuda,Antigua,Saint John,ACCIDENT,V.C. Bird International Airport,2/12/2010
+0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,303,ATG,ATG02,,0,0.0,0.0,342fa2a2-ad3d-474e-bc31-9ed9cc358dbd,Antigua and Barbuda,Barbuda,,ACCIDENT,Coddington,27/2/2011
+0,0,0,0,0,100,100,0,100,0,0,0,0,0,0,0,304,ATG,ATG01,ATG0102,0,0.0,0.0,f1f6de7e-8191-4a83-a72a-094f478de064,Antigua and Barbuda,Antigua,Saint John,FIRE,Her Majesty's Prison,7/4/2011
+0,0,0,1,0,20,7979,0,12,0,0,1,0,0,0,0,305,ATG,ATG01,ATG0104,0,0.0,0.0,c9ded8c3-f584-4ffa-8551-a03d849c9862,Antigua and Barbuda,Antigua,Saint Paul,FLOOD,Cobbs Cross,9/5/2011
+0,0,0,0,0,73,5269,0,0,0,0,1,0,0,0,0,306,ATG,ATG01,ATG0105,0,0.0,0.0,e19e7de4-05d0-4659-8569-c189249c3243,Antigua and Barbuda,Antigua,Saint Peter,FLOOD,Parham,9/5/2011
+0,0,0,0,0,53,7496,0,0,0,0,1,0,0,0,0,307,ATG,ATG01,ATG0101,0,0.0,0.0,7f6fa1ad-dba1-4c02-a207-3e93ad75f652,Antigua and Barbuda,Antigua,Saint George,FLOOD,Paynters,9/5/2011
+0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,308,ATG,ATG01,ATG0105,0,0.0,0.0,8b7e563d-870b-42fd-a41a-95906820e66d,Antigua and Barbuda,Antigua,Saint Peter,ACCIDENT,Crabbs,23/6/2011
+0,0,0,0,0,0,0,0,0,0,30000000,0,0,0,0,0,309,ATG,ATG01,ATG0102,0,0.0,0.0,756dc90e-ef95-4445-9bd9-88988dba1d5c,Antigua and Barbuda,Antigua,Saint John,FIRE,VC Bird International Airport,11/6/2012
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,310,ATG,ATG01,ATG0102,0,0.0,0.0,bf8cd860-6d76-47a5-91f4-a1921621c03a,Antigua and Barbuda,Antigua,Saint John,FIRE,Ottos Comprehensive School,5/7/2012
+0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,311,ATG,ATG01,ATG0102,0,0.0,0.0,0d78f0dd-c36b-447b-8df0-6130d939f303,Antigua and Barbuda,Antigua,Saint John,FIRE,Herberts,4/7/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,327,ATG,ATG01,ATG0103,0,0.0,0.0,583e56c2-c6b3-4c4e-a77c-b57666c33d71,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,17/9/2000
+0,0,0,0,0,0,6793,0,0,0,0,0,0,0,0,0,328,ATG,ATG01,ATG0103,0,0.0,0.0,ca24651b-43c1-4e64-917a-cce528407152,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,329,ATG,ATG01,ATG0104,0,0.0,0.0,bc0f657a-7792-49dc-bcfc-db7332cc8dfc,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul,17/9/2000
+0,0,0,0,0,0,7848,0,0,0,0,0,0,0,0,0,329,ATG,ATG01,ATG0104,0,0.0,0.0,6ecc002d-9813-4bd0-b55f-9f4cd188cef9,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul,17/9/2000
+0,0,0,0,0,0,5439,0,0,0,0,0,0,0,0,0,330,ATG,ATG01,ATG0105,0,0.0,0.0,cc170d2d-5d26-468e-b7aa-ce1ee92e501a,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,17/9/2000
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331,ATG,ATG01,ATG0106,0,0.0,0.0,11d47f5e-a7d6-456e-a8bd-60bafcf8ec26,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,17/9/2000
+0,0,0,0,0,0,3462,0,0,0,0,0,0,0,0,0,332,ATG,ATG01,ATG0106,0,0.0,0.0,081d7beb-e3cc-48b4-a436-0285a19bccb5,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,17/9/2000
+0,0,0,0,0,0,1325,0,0,0,0,0,0,0,0,0,333,ATG,ATG02,,0,0.0,0.0,41e8b485-f6b2-4961-b6f2-0e6d9ae4d773,Antigua and Barbuda,Barbuda,,RAINS,Barbuda,17/9/2000
+0,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,334,ATG,ATG01,ATG0101,0,0.0,0.0,7d9689f1-c028-4784-8db4-6e8c96185237,Antigua and Barbuda,Antigua,Saint George,RAINS,St George's Parish,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335,ATG,ATG01,ATG0102,0,0.0,0.0,71901eba-cce5-41ff-b7f2-de5cfc4e4c12,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336,ATG,ATG01,ATG0102,0,0.0,0.0,5dea2c78-1452-4e75-bde1-26138389c550,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,20/9/1983
+0,0,0,0,0,0,39900,0,0,0,0,0,0,0,0,0,337,ATG,ATG01,ATG0102,0,0.0,0.0,81e6da10-6e74-49a6-bf21-5ad8268db578,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,338,ATG,ATG01,ATG0102,0,0.0,0.0,0cb26888-2c6f-4cee-b6f1-f08423b8389a,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,339,ATG,ATG01,ATG0102,0,0.0,0.0,7869edeb-97a7-42fe-9686-d217f97c218a,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,340,ATG,ATG01,ATG0102,0,0.0,0.0,a2e77b30-934d-43b1-b635-246f6456e38a,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,341,ATG,ATG01,ATG0102,0,0.0,0.0,bd1c2d31-12d3-43fb-aec1-24f16ed2e0d0,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,342,ATG,ATG01,ATG0102,0,0.0,0.0,d2ece43e-dba7-4cf3-9da3-d44b55f7da36,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,343,ATG,ATG01,ATG0102,0,0.0,0.0,8d1e37e4-3c74-453c-873b-fb5a4c61e33f,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints East,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,344,ATG,ATG01,ATG0102,0,0.0,0.0,ee7faa20-a19b-45fc-9f32-225d0934e486,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,345,ATG,ATG01,ATG0103,0,0.0,0.0,8ef7aa4b-139f-496d-950c-304030e0d76b,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,20/9/1983
+0,0,0,0,0,0,6200,0,0,0,0,0,0,0,0,0,346,ATG,ATG01,ATG0103,0,0.0,0.0,4323c96a-b7f0-4218-94d7-31a1d3973705,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,20/9/1983
+0,0,0,0,0,0,7400,0,0,0,0,0,0,0,0,0,347,ATG,ATG01,ATG0104,0,0.0,0.0,d8202573-6ab6-475e-a709-c2494b7aa6bf,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,20/9/1983
+0,0,0,0,0,0,4900,0,0,0,0,0,0,0,0,0,348,ATG,ATG01,ATG0105,0,0.0,0.0,cb1d308e-89f0-4f4f-89b2-6e17fd5857a5,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,20/9/1983
+0,0,0,0,0,0,2700,0,0,0,0,0,0,0,0,0,349,ATG,ATG01,ATG0106,0,0.0,0.0,93977a91-e8a1-4eb0-82be-2b4fca5b3535,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,20/9/1983
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,350,ATG,ATG01,ATG0106,0,0.0,0.0,6843c6e4-d377-4789-9a14-449f953d7935,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,20/9/1983
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,351,ATG,ATG02,,0,0.0,0.0,f9da21b0-122d-450e-870f-f72e7f4df3d0,Antigua and Barbuda,Barbuda,,RAINS,Barbuda,20/9/1983
+0,0,0,0,0,0,6000,0,0,0,0,0,0,0,0,0,352,ATG,ATG01,ATG0101,0,0.0,0.0,b57efe73-023e-4e1a-8716-a8408986e20f,Antigua and Barbuda,Antigua,Saint George,RAINS,St George's Parish,14/9/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,353,ATG,ATG01,ATG0102,0,0.0,0.0,3225741d-5957-4747-a235-1fdbd8d0d4cd,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,354,ATG,ATG01,ATG0102,0,0.0,0.0,81cab3a1-ad3b-44cd-874c-9af4913a5ad0,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,355,ATG,ATG01,ATG0102,0,0.0,0.0,f207b0bf-6e95-4ede-8fd3-3f0de4d11512,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,356,ATG,ATG01,ATG0102,0,0.0,0.0,c2acb715-d7be-49d4-98f5-1713bdba4b5c,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,14/8/1993
+0,0,0,0,0,0,40000,0,0,0,0,0,0,0,0,0,357,ATG,ATG01,ATG0102,0,0.0,0.0,d050be94-5eea-47d4-b090-815c841f2b10,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,388,ATG,ATG01,ATG0102,0,0.0,0.0,808cf63a-6524-4d87-a0d4-d3fd510df499,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City South,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,389,ATG,ATG01,ATG0102,0,0.0,0.0,df87f7dd-2204-4566-8d01-e5e5ae21c570,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City West,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,390,ATG,ATG01,ATG0102,0,0.0,0.0,9ebee006-66c3-4ba3-a237-fa3ea02e35c0,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,All Saints East,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,391,ATG,ATG01,ATG0102,0,0.0,0.0,26b3018b-ad72-41c2-817a-83b4e5f8acde,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,All Saints West,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,392,ATG,ATG01,ATG0103,0,0.0,0.0,70c3ae0d-da1c-4437-8e13-53ed77e63b57,Antigua and Barbuda,Antigua,Saint Mary,COASTAL EROSION,St Mary's North,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,393,ATG,ATG01,ATG0103,0,0.0,0.0,35fa58a3-00e5-4154-9381-fd4ed513f366,Antigua and Barbuda,Antigua,Saint Mary,COASTAL EROSION,St Mary's South,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,394,ATG,ATG01,ATG0104,0,0.0,0.0,507f6204-84e7-465a-a7fc-778fea026d54,Antigua and Barbuda,Antigua,Saint Paul,COASTAL EROSION,St Paul's Parish,3/8/2012
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,395,ATG,ATG01,ATG0105,0,0.0,0.0,6efe6792-24c9-47ca-b52b-ccc4578b54a0,Antigua and Barbuda,Antigua,Saint Peter,COASTAL EROSION,St Peter's Parish,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,396,ATG,ATG01,ATG0106,0,0.0,0.0,68d9c32d-337b-4c74-bfbe-973881d5221e,Antigua and Barbuda,Antigua,Saint Philip,COASTAL EROSION,St Philip's South,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,397,ATG,ATG01,ATG0106,0,0.0,0.0,a48dcb4d-d29f-4a55-a904-39081bc337ec,Antigua and Barbuda,Antigua,Saint Philip,COASTAL EROSION,St Philip's South,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,398,ATG,ATG02,ATG0101,0,0.0,0.0,652cd866-706b-4776-aa24-cc19f99f0753,Antigua and Barbuda,Barbuda,Saint George,COASTAL EROSION,,3/8/2012
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,400,ATG,ATG02,,0,0.0,0.0,f0de0ef0-2bfd-4941-8a85-32eb2ebc1daa,Antigua and Barbuda,Barbuda,,RAINS,,3/8/2012
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,403,ATG,ATG02,,0,0.0,0.0,8840c880-3e5c-4b7c-921e-91841875ffda,Antigua and Barbuda,Barbuda,,WINDSTORM,,22/8/2012
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,404,ATG,ATG01,ATG0101,0,0.0,0.0,5294aba4-0e09-4e6a-b80a-14e74a968236,Antigua and Barbuda,Antigua,Saint George,WINDSTORM,St George's Parish,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,405,ATG,ATG01,ATG0102,0,0.0,0.0,dedf9aed-cbb1-463b-9b76-bd809b6d23f9,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural North,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,406,ATG,ATG01,ATG0102,0,0.0,0.0,3695d002-9ea0-4f38-96c5-5ee985bf96f3,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural East,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,407,ATG,ATG01,ATG0102,0,0.0,0.0,826b27a5-a460-4b35-841c-6596975ee87c,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural South,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,408,ATG,ATG01,ATG0102,0,0.0,0.0,89e3ff6e-aeea-4416-ac81-b7fa33ddb379,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural West,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,409,ATG,ATG01,ATG0102,0,0.0,0.0,0bfdceab-ba6c-4784-bcb2-a7cd7004421a,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City East,22/8/2012
+0,0,0,0,0,0,49225,0,0,0,0,0,0,0,0,0,410,ATG,ATG01,ATG0102,0,0.0,0.0,5aa6a9c1-7b8f-4260-a3f5-e52683ef0862,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City West,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,411,ATG,ATG01,ATG0102,0,0.0,0.0,3b42a6bf-4c46-4817-858c-3f7ef51ce9d0,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints East,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,412,ATG,ATG01,ATG0102,0,0.0,0.0,2d380d6a-29a3-4475-8b74-283803c072e7,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints West,22/8/2012
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,413,ATG,ATG01,ATG0103,0,0.0,0.0,60f9e923-8017-4205-9f9a-3558ffcf8b27,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's North,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,415,ATG,ATG01,ATG0103,0,0.0,0.0,55fee6c6-9511-42f8-b600-22e329381917,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's South,22/8/2012
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,416,ATG,ATG01,ATG0104,0,0.0,0.0,7d5c705f-47c7-40a5-8ab7-53e65e03c8a6,Antigua and Barbuda,Antigua,Saint Paul,WINDSTORM,St Paul's Parish,22/8/2012
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,417,ATG,ATG01,ATG0105,0,0.0,0.0,c37cd5b9-4f81-411b-97ac-74ca584cb8c4,Antigua and Barbuda,Antigua,Saint Peter,WINDSTORM,St Peter's Parish,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,418,ATG,ATG01,ATG0106,0,0.0,0.0,8e49934d-daa6-4098-b043-36b8f2fa39ee,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's North,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,419,ATG,ATG01,ATG0106,0,0.0,0.0,36bb33d1-21c3-4998-99f4-c3edc82b49d5,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's South,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,358,ATG,ATG01,ATG0102,0,0.0,0.0,1bfe2307-0ba6-499e-be95-78d0a2ad0c08,Antigua and Barbuda,Antigua,Saint John,RAINS,CIty South,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,359,ATG,ATG01,ATG0102,0,0.0,0.0,90f15814-dfae-46ed-90d4-db0852eaddcc,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,360,ATG,ATG01,ATG0102,0,0.0,0.0,9a1967ee-e221-4f8d-a273-68b09502abd4,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints East,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,361,ATG,ATG01,ATG0102,0,0.0,0.0,2a5a3932-c868-4e2a-ba1f-9fc9a81565a4,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,362,ATG,ATG01,ATG0103,0,0.0,0.0,765f7c55-4ada-4820-816e-c07322109921,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,14/8/1993
+0,0,0,0,0,0,6400,0,0,0,0,0,0,0,0,0,363,ATG,ATG01,ATG0103,0,0.0,0.0,306e56ad-dc7d-4e1c-8161-c759655ab4a6,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,14/8/1993
+0,0,0,0,0,0,7600,0,0,0,0,0,0,0,0,0,364,ATG,ATG01,ATG0104,0,0.0,0.0,7f87374b-a760-4b87-ac20-eeda26c28608,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,14/8/1993
+0,0,0,0,0,0,5000,0,0,0,0,0,0,0,0,0,365,ATG,ATG01,ATG0105,0,0.0,0.0,74fde8bc-4bd0-4d63-ac8d-fa0d72535d13,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,14/8/1993
+1,2,0,0,0,3,3,0,0,0,0,0,0,0,0,0,373,ATG,ATG01,ATG0102,0,0.0,0.0,6bcdf693-a55a-49f3-b6e7-ce42f35cbc43,Antigua and Barbuda,Antigua,Saint John,ACCIDENT,Five Islands,26/7/2011
+0,30,0,0,0,33,33,0,0,0,0,0,0,0,0,0,374,ATG,ATG01,ATG0102,0,0.0,0.0,7bda15f0-3abd-4636-b398-d3952585bd8e,Antigua and Barbuda,Antigua,Saint John,ACCIDENT,Wadidli National Park,21/7/2012
+1,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,375,ATG,ATG01,ATG0101,0,0.0,0.0,10e7fc9f-4017-4bf8-96f9-3e777e247689,Antigua and Barbuda,Antigua,Saint George,ACCIDENT,Coolidge,22/7/2012
+0,4,0,0,0,4,4,0,4,0,0,0,0,0,0,0,376,ATG,ATG01,ATG0101,0,0.0,0.0,c1e29b10-231f-476c-aafe-da394229beba,Antigua and Barbuda,Antigua,Saint George,ACCIDENT,,27/11/2012
+0,0,0,0,0,0,70000,0,0,0,0,0,0,0,0,0,377,ATG,ATG01,,0,0.0,0.0,2b593609-5702-4ea8-a090-c2b74d2143b8,Antigua and Barbuda,Antigua,,DROUGHT,Island wide,1/1/1995
+0,0,0,0,0,0,1200,0,0,0,0,0,0,0,0,0,378,ATG,ATG02,,0,0.0,0.0,df444207-c2ac-4cc0-8d02-e8421161c778,Antigua and Barbuda,Barbuda,,DROUGHT,Island wide - no specific dates,1/1/1995
+0,0,0,0,0,0,60000,0,0,0,0,0,0,0,0,0,379,ATG,ATG01,,0,0.0,0.0,325e35b0-1a31-4adf-b0ba-5c53449fd147,Antigua and Barbuda,Antigua,,DROUGHT,"Island-wide, no specific dates given",1/1/1983
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,380,ATG,ATG02,,0,0.0,0.0,5651f764-78d7-4e6f-b91d-017a9909fa8b,Antigua and Barbuda,Barbuda,,DROUGHT,Island wide - no specific dates given,1/1/1983
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,382,ATG,ATG01,ATG0101,0,0.0,0.0,19e53357-7d34-4d09-a1db-1090b2143343,Antigua and Barbuda,Antigua,Saint George,COASTAL EROSION,St George's Parish,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,383,ATG,ATG01,ATG0102,0,0.0,0.0,770fcd36-e278-4eb8-85b7-9a7c02649328,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural North,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,384,ATG,ATG01,ATG0102,0,0.0,0.0,ef9df3cd-3a95-454d-8e61-60e66299585a,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural East,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,385,ATG,ATG01,ATG0102,0,0.0,0.0,9fe7beb2-f5a9-4f13-bbd1-0b11aa6b200a,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural South,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,386,ATG,ATG01,ATG0102,0,0.0,0.0,8606568f-01e4-43f8-ab0a-eb07404b620e,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural West,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,387,ATG,ATG01,ATG0102,0,0.0,0.0,a298adee-26db-4993-aea6-0ebfebd31de5,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City East,3/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,426,ATG,ATG01,ATG0101,0,0.0,0.0,c4d75cf6-94ab-4371-adbd-e02a9d54aa47,Antigua and Barbuda,Antigua,Saint George,COASTAL EROSION,,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,427,ATG,ATG01,ATG0102,0,0.0,0.0,5a35eb1f-7e48-4795-8185-8838c25fe898,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural North,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,428,ATG,ATG01,ATG0102,0,0.0,0.0,ade46024-60bd-4ba1-af61-d20bc75d22f1,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural East,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,445,ATG,ATG01,ATG0102,0,0.0,0.0,cffb2c25-bf2f-46ae-820c-6687248a1d93,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,446,ATG,ATG01,ATG0102,0,0.0,0.0,f191ece5-f497-4081-aca4-1f60548e47e0,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,447,ATG,ATG01,ATG0102,0,0.0,0.0,e7485d58-14fa-4d0a-9dd1-db5197945d2c,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,12/10/2012
+0,0,0,0,0,0,49225,0,0,0,0,0,0,0,0,0,448,ATG,ATG01,ATG0102,0,0.0,0.0,bec9d9e3-73c8-4d7d-96e5-27ec8eed567e,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,449,ATG,ATG01,ATG0102,0,0.0,0.0,8abf2229-3420-4262-a971-9aef19d2ae67,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,450,ATG,ATG01,ATG0102,0,0.0,0.0,d318e622-2497-413b-ad4e-bce63a7b2b02,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,451,ATG,ATG01,ATG0102,0,0.0,0.0,ae8c518f-56e3-4397-a13c-3472e62ac16f,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,452,ATG,ATG01,ATG0102,0,0.0,0.0,3f4081f4-6b84-4661-bccd-c0a7ff318447,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints East,12/10/2012
+0,0,0,0,0,0,3000,0,0,0,0,0,0,0,0,0,366,ATG,ATG01,ATG0106,0,0.0,0.0,661b44e4-e179-4b8b-b9c0-d32d2f109f0f,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,14/8/1993
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,367,ATG,ATG01,ATG0106,0,0.0,0.0,eadc49d6-17c1-4952-abe1-d68b71190b2c,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,14/8/1993
+0,0,0,0,0,0,1025,0,0,0,0,0,0,0,0,0,368,ATG,ATG02,,0,0.0,0.0,11b43545-57e2-4485-b9bc-b3f067b369c7,Antigua and Barbuda,Barbuda,,RAINS,Barbuda,14/8/1993
+0,0,0,1,0,2,5,2,2,0,0,0,0,0,0,0,369,ATG,ATG01,ATG0102,0,0.0,0.0,e0f0a759-d8c3-4a2b-a03d-c3e1a017f23a,Antigua and Barbuda,Antigua,Saint John,FIRE,Nathan's Alley,2/4/2013
+0,2,0,0,0,3,3,0,0,0,0,0,0,0,0,0,370,ATG,ATG01,ATG0105,0,0.0,0.0,cbe2db42-e912-4e76-8b64-b75f3b1f421a,Antigua and Barbuda,Antigua,Saint Peter,ACCIDENT,Parham,20/1/2010
+0,4,0,0,0,4,4,0,0,0,0,0,0,0,0,0,371,ATG,ATG01,ATG0103,0,0.0,0.0,55297e4a-52a0-43f2-a351-288e204f90e6,Antigua and Barbuda,Antigua,Saint Mary,ACCIDENT,Ebenezer,10/12/2010
+1,3,0,0,0,4,4,0,0,0,0,0,0,0,0,0,372,ATG,ATG01,ATG0105,0,0.0,0.0,4ff44763-ac6b-4c78-a744-98d5fd962563,Antigua and Barbuda,Antigua,Saint Peter,ACCIDENT,Parham,9/11/2009
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,429,ATG,ATG01,ATG0102,0,0.0,0.0,3a31c810-05fa-44fd-afb4-03f16a0dcea8,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural South,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,430,ATG,ATG01,ATG0102,0,0.0,0.0,cae61f9e-d19f-4531-8707-5e5e73674d49,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,Rural West,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,431,ATG,ATG01,ATG0102,0,0.0,0.0,1c3bde9d-14bf-4cc4-a6b1-68748ea226a8,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City East,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,432,ATG,ATG01,ATG0102,0,0.0,0.0,e631fda0-950d-40c3-a549-a25cc8db62b2,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City South,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,433,ATG,ATG01,ATG0102,0,0.0,0.0,ed1ceafc-fc69-4633-8107-a98b3dec4345,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,City West,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,434,ATG,ATG01,ATG0102,0,0.0,0.0,46312224-bf19-4b23-a44c-5041afa19df5,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,All Saints West,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,435,ATG,ATG01,ATG0102,0,0.0,0.0,40c1377b-c2b1-4b71-8b19-b0fbe11add2b,Antigua and Barbuda,Antigua,Saint John,COASTAL EROSION,All Saints East,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,436,ATG,ATG01,ATG0103,0,0.0,0.0,324e42f5-9340-4826-88fe-f5c873187f3a,Antigua and Barbuda,Antigua,Saint Mary,COASTAL EROSION,St Mary's North,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,453,ATG,ATG01,ATG0102,0,0.0,0.0,11d140ec-0b09-4b31-9cbe-180fa9b04e80,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,454,ATG,ATG01,ATG0103,0,0.0,0.0,c0d185b9-be1d-490f-9e6b-194015587931,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,12/10/2012
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,455,ATG,ATG01,ATG0103,0,0.0,0.0,660dc9b0-a74b-4417-82ae-64c7096e2318,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,12/10/2012
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,456,ATG,ATG01,ATG0104,0,0.0,0.0,11dad89d-5918-4764-b8d0-22c95ae78049,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,12/10/2012
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,457,ATG,ATG01,ATG0105,0,0.0,0.0,850764e5-c8c9-4197-b93e-0fc919032599,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,12/10/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,458,ATG,ATG01,ATG0106,0,0.0,0.0,220bd9ac-db29-47bd-904e-93ac1eca19ad,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,12/10/2012
+0,0,0,0,0,0,3125,0,0,0,0,0,0,0,0,0,459,ATG,ATG01,ATG0106,0,0.0,0.0,ad1e3625-d88a-496a-bf15-241d9b55193d,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,12/10/2012
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,460,ATG,ATG02,,0,0.0,0.0,d3b8f734-9416-407e-965d-d11f5e86b0cb,Antigua and Barbuda,Barbuda,,RAINS,,12/10/2012
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,463,ATG,ATG01,ATG0101,0,0.0,0.0,cf444a45-1984-472e-a66e-b483133ecfad,Antigua and Barbuda,Antigua,Saint George,WINDSTORM,St George's Parish,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,464,ATG,ATG01,ATG0102,0,0.0,0.0,1b6fe09b-56b0-4121-961b-fc5a9444289c,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural North,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,465,ATG,ATG01,ATG0102,0,0.0,0.0,e14db632-346e-4bbc-b291-09ea5eb7770d,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural East,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,466,ATG,ATG01,ATG0102,0,0.0,0.0,adb03cf3-615f-4f90-9521-6355a54ba3e0,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural South,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,467,ATG,ATG01,ATG0102,0,0.0,0.0,ee02d6b5-2b30-40c1-a3a0-992c5bf1fe19,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural West,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,468,ATG,ATG01,ATG0102,0,0.0,0.0,db23f139-dcaf-40c1-9ff0-03c124b4e084,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City East,2/8/2011
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,469,ATG,ATG02,,0,0.0,0.0,852f8755-4527-42c4-88b7-ed178a429721,Antigua and Barbuda,Barbuda,,WINDSTORM,,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,470,ATG,ATG01,ATG0102,0,0.0,0.0,f18539b6-63d1-43e2-9816-87944eef11dc,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City South,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,471,ATG,ATG01,ATG0102,0,0.0,0.0,30a8ecd8-71de-41a0-b241-ce4e936d69da,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City West,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,472,ATG,ATG01,ATG0102,0,0.0,0.0,59da0407-d064-48ae-a635-91b9529ba2af,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints' East,2/8/2011
+0,0,0,0,0,0,49225,0,0,0,0,0,0,0,0,0,473,ATG,ATG01,ATG0102,0,0.0,0.0,d6d286eb-82c7-4e22-a4a6-615eaa90355b,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints West,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,ATG,ATG01,ATG0103,0,0.0,0.0,5bfdbd7e-d303-4280-adca-de09eba63d6b,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's North,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,475,ATG,ATG01,ATG0103,0,0.0,0.0,6eb00e29-a6c7-4582-b7bd-f4908a74a7a8,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's South,2/8/2011
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,476,ATG,ATG01,ATG0104,0,0.0,0.0,169f941e-d6f0-4ea5-a0f1-6806b399e285,Antigua and Barbuda,Antigua,Saint Paul,WINDSTORM,St Paul's Parish,2/8/2011
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,477,ATG,ATG01,ATG0105,0,0.0,0.0,6d6b45cd-057c-43d6-983a-c3f1101ecc74,Antigua and Barbuda,Antigua,Saint Peter,WINDSTORM,St Peter's Parish,2/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,478,ATG,ATG01,ATG0106,0,0.0,0.0,798e2af1-71f2-4898-93ff-f551445d18aa,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's North,2/8/2011
+0,0,0,0,0,0,3125,0,0,0,0,0,0,0,0,0,479,ATG,ATG01,ATG0106,0,0.0,0.0,f1d2418a-c40d-476b-bb58-2445b2682b52,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's South,2/8/2011
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,481,ATG,ATG01,ATG0101,0,0.0,0.0,f02c39eb-27d9-4fb3-8c7b-a1c8632066a6,Antigua and Barbuda,Antigua,Saint George,RAINS,St George's Parish,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,482,ATG,ATG01,ATG0102,0,0.0,0.0,da555c39-a503-40aa-9ff3-bf3ac4ccf98d,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,483,ATG,ATG01,ATG0102,0,0.0,0.0,fe3e6fef-a4dd-4e4f-8552-0d131b5d68b3,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural East,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,484,ATG,ATG01,ATG0102,0,0.0,0.0,b49f4952-c1b6-497f-b669-2152cb2dd9a8,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,437,ATG,ATG01,ATG0103,0,0.0,0.0,66faf7a2-4fa3-45e4-8053-5c0cd3aa570d,Antigua and Barbuda,Antigua,Saint Mary,COASTAL EROSION,St Mary's South,30/8/2012
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,438,ATG,ATG01,ATG0104,0,0.0,0.0,2781b1af-0ffe-4ecb-8964-adeecc85935d,Antigua and Barbuda,Antigua,Saint Paul,COASTAL EROSION,St Paul's Parish,22/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,439,ATG,ATG01,ATG0105,0,0.0,0.0,fa9efab4-dfb0-48a2-9572-a511eb510eca,Antigua and Barbuda,Antigua,Saint Peter,COASTAL EROSION,St Peter's Parish,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,440,ATG,ATG01,ATG0106,0,0.0,0.0,13ecc938-f23b-4a87-86e7-7a6f457e73ee,Antigua and Barbuda,Antigua,Saint Philip,COASTAL EROSION,St Philip's North,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,441,ATG,ATG01,ATG0106,0,0.0,0.0,515dfee4-740d-4a99-8c71-079e0904e218,Antigua and Barbuda,Antigua,Saint Philip,COASTAL EROSION,St Philip's South,30/8/2012
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,442,ATG,ATG02,,0,0.0,0.0,b7bf32f2-5ead-4ef3-861a-b0af264ee5de,Antigua and Barbuda,Barbuda,,COASTAL EROSION,,30/8/2012
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,444,ATG,ATG01,ATG0101,0,0.0,0.0,97caa823-d570-480d-b8af-e3d6230ce855,Antigua and Barbuda,Antigua,Saint George,RAINS,St George Parish,12/10/2012
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,517,ATG,ATG01,ATG0101,0,0.0,0.0,12e2505c-d057-4731-83ef-af54625b2ed3,Antigua and Barbuda,Antigua,Saint George,WINDSTORM,St George's Parish,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,518,ATG,ATG01,ATG0102,0,0.0,0.0,102ebfe9-9231-43a8-abab-d262d945c88c,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural North,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,519,ATG,ATG01,ATG0102,0,0.0,0.0,b645ff15-3bd0-4a02-b2e6-6cc9551323c3,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural East,28/9/2011
+0,0,0,0,0,0,49225,0,0,0,0,0,0,0,0,0,520,ATG,ATG01,ATG0102,0,0.0,0.0,9433e94c-33fa-4ad7-9f73-8afde5aae8ca,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural South,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,521,ATG,ATG01,ATG0102,0,0.0,0.0,cf601293-e910-4037-8f13-dce1988a0fa7,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural West,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,522,ATG,ATG01,ATG0102,0,0.0,0.0,f4ca4eeb-4a3a-4176-8b48-8c18ce38149a,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City East,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,523,ATG,ATG01,ATG0102,0,0.0,0.0,8b06deda-fd30-4422-9523-791e7897abd0,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City South,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,524,ATG,ATG01,ATG0102,0,0.0,0.0,1c4d7ce3-5d7c-4826-976d-7c125d0166fb,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City West,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,485,ATG,ATG01,ATG0102,0,0.0,0.0,62d88bff-11dc-44a7-9fcb-ed6a22eb61c9,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural West,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,486,ATG,ATG01,ATG0102,0,0.0,0.0,b3c8d5d5-fa6c-47f3-8069-414285898cb0,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,487,ATG,ATG01,ATG0102,0,0.0,0.0,afda6297-0a44-47fc-9d28-1bbab4113f2d,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,20/8/2011
+0,0,0,0,0,0,49225,0,0,0,0,0,0,0,0,0,488,ATG,ATG01,ATG0102,0,0.0,0.0,a7c9a0d2-19e2-4ce1-b182-80f7aa06ca33,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,489,ATG,ATG01,ATG0102,0,0.0,0.0,4c91e9fd-0716-4693-8010-b4ae1d49767c,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints' East,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,490,ATG,ATG01,ATG0102,0,0.0,0.0,877c91cd-3695-4669-b5f9-77d49b17e650,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,20/8/2011
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,491,ATG,ATG01,ATG0103,0,0.0,0.0,8bcadf9a-4018-414a-9b07-0d3bea7e3133,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,2/8/2011
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,492,ATG,ATG01,ATG0103,0,0.0,0.0,e3f5af05-0f7b-4277-908c-944633d30312,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,20/8/2011
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,493,ATG,ATG01,ATG0104,0,0.0,0.0,0c75c87a-63fc-4323-b176-4ec2bd2ac119,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,20/8/2011
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,494,ATG,ATG01,ATG0105,0,0.0,0.0,d653befd-c37c-402a-bed4-337d760b4200,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,20/8/2011
+0,0,0,0,0,0,3125,0,0,0,0,0,0,0,0,0,495,ATG,ATG01,ATG0106,0,0.0,0.0,9529831d-f535-4200-bb67-ab467c7ee981,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,20/8/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,496,ATG,ATG01,ATG0106,0,0.0,0.0,c20933b0-6626-40b7-acf3-63c545f08b1f,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,20/8/2011
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,497,ATG,ATG02,,0,0.0,0.0,af5b8b19-2495-43bd-8763-a1b85c4766a6,Antigua and Barbuda,Barbuda,,RAINS,,20/8/2011
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,499,ATG,ATG01,ATG0101,0,0.0,0.0,38fcc18e-127b-4d87-921f-1b6b166daa3b,Antigua and Barbuda,Antigua,Saint George,WINDSTORM,St George's Parish,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,500,ATG,ATG01,ATG0102,0,0.0,0.0,81dc3914-d002-4331-874f-67a08f844828,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural North,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,501,ATG,ATG01,ATG0102,0,0.0,0.0,0d15b3da-364d-4e8d-90ff-a6fb40e00a2a,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural East,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,502,ATG,ATG01,ATG0102,0,0.0,0.0,782feff0-d198-4638-b7f8-a25d271fb181,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural South,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,503,ATG,ATG01,ATG0102,0,0.0,0.0,e5f61b04-d1cf-4f95-baa3-1e0f7691d2e0,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,Rural West,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,504,ATG,ATG01,ATG0102,0,0.0,0.0,0aff41ce-8473-4653-b5e2-7dd8370867c6,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City East,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,505,ATG,ATG01,ATG0102,0,0.0,0.0,e6769cd8-51ce-49fa-8548-cbd80245c2a6,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City South,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,506,ATG,ATG01,ATG0102,0,0.0,0.0,88e77991-783b-4816-8da5-5eb323d345ed,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,City West,8/9/2011
+0,0,0,0,0,0,49225,0,0,0,0,0,0,0,0,0,507,ATG,ATG01,ATG0102,0,0.0,0.0,44686d62-2808-4ab1-81d0-9d5649003ecb,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints East,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,508,ATG,ATG01,ATG0102,0,0.0,0.0,cf9613b2-d76b-41ac-b6e9-e976f34989f2,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints West,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509,ATG,ATG01,ATG0103,0,0.0,0.0,3d728664-b372-4aff-a6db-3a20180b1cb5,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's North,8/9/2011
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,510,ATG,ATG01,ATG0103,0,0.0,0.0,01f2efc1-e3b2-4611-86b4-4a193ffca2c1,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's South,8/9/2011
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,511,ATG,ATG01,ATG0104,0,0.0,0.0,c8f5c480-d576-46f9-858d-a8b460d03d96,Antigua and Barbuda,Antigua,Saint Paul,WINDSTORM,St Paul's Parish,8/9/2011
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,512,ATG,ATG01,ATG0105,0,0.0,0.0,7ec29e89-af9f-49c8-acf1-e761d23c8fd6,Antigua and Barbuda,Antigua,Saint Peter,WINDSTORM,St Peter's Parish,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,513,ATG,ATG01,ATG0106,0,0.0,0.0,6405c6a1-77d1-478b-a136-c94c5c0140de,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's North,8/9/2011
+0,0,0,0,0,0,3125,0,0,0,0,0,0,0,0,0,514,ATG,ATG01,ATG0106,0,0.0,0.0,5df7b90f-bdb2-4124-9269-d8b9b22a4959,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's South,8/9/2011
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,515,ATG,ATG02,,0,0.0,0.0,9e0ae9d2-0605-4084-bc42-e658de042793,Antigua and Barbuda,Barbuda,,WINDSTORM,,8/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,525,ATG,ATG01,ATG0102,0,0.0,0.0,b0710331-0e43-4b4a-960e-d6842788f034,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints East,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,526,ATG,ATG01,ATG0102,0,0.0,0.0,36922313-1c8f-4442-983a-3aa5ace2374a,Antigua and Barbuda,Antigua,Saint John,WINDSTORM,All Saints West,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,527,ATG,ATG01,ATG0103,0,0.0,0.0,9aee9df6-2237-41a5-8a2a-fe6bd3a5787e,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's North,28/9/2011
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,528,ATG,ATG01,ATG0103,0,0.0,0.0,3a5b570a-8230-4355-a502-f43deb3c811c,Antigua and Barbuda,Antigua,Saint Mary,WINDSTORM,St Mary's South,28/9/2011
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,529,ATG,ATG01,ATG0104,0,0.0,0.0,ce335ead-b930-479a-a184-b3c6be3dde8b,Antigua and Barbuda,Antigua,Saint Paul,WINDSTORM,St Paul's Parish,28/9/2011
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,530,ATG,ATG01,ATG0105,0,0.0,0.0,3f64995b-d35a-4a9a-beb5-ab2e0e76f4be,Antigua and Barbuda,Antigua,Saint Peter,WINDSTORM,St Peter's Parish,28/9/2011
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,531,ATG,ATG01,ATG0106,0,0.0,0.0,e2eb1e22-1a09-46ed-a903-740d5ef085d7,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's North,28/9/2011
+0,0,0,0,0,0,3125,0,0,0,0,0,0,0,0,0,532,ATG,ATG01,ATG0106,0,0.0,0.0,9cc24f66-a058-42a3-990c-da4c87ca7ea5,Antigua and Barbuda,Antigua,Saint Philip,WINDSTORM,St Philip's South,28/9/2011
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,533,ATG,ATG02,,0,0.0,0.0,f884e396-6fdf-4157-be3f-3c780449db63,Antigua and Barbuda,Barbuda,,WINDSTORM,,28/9/2011
+0,0,0,0,0,0,7496,0,0,0,0,0,0,0,0,0,535,ATG,ATG01,ATG0101,0,0.0,0.0,a123ee7c-e00d-4be7-bbe8-20bed0037c4e,Antigua and Barbuda,Antigua,Saint George,RAINS,St George,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,536,ATG,ATG01,ATG0102,0,0.0,0.0,41a7b134-993a-4ddf-907a-e77cb00a7427,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural North,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,538,ATG,ATG01,ATG0102,0,0.0,0.0,06d1e261-6db6-4607-a5a1-54fef3afc803,Antigua and Barbuda,Antigua,Saint John,RAINS,Rural South,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,539,ATG,ATG01,ATG0102,0,0.0,0.0,f4679c8e-b9b0-4211-9b0d-43fb55da040c,Antigua and Barbuda,Antigua,Saint John,RAINS,City East,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,540,ATG,ATG01,ATG0102,0,0.0,0.0,7900dc43-7ffe-4386-aca5-80bb8b0e81e5,Antigua and Barbuda,Antigua,Saint John,RAINS,City South,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,541,ATG,ATG01,ATG0102,0,0.0,0.0,868899c2-0ee6-40ae-9bd1-0d37b48d1083,Antigua and Barbuda,Antigua,Saint John,RAINS,City West,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,542,ATG,ATG01,ATG0102,0,0.0,0.0,c5eeb394-413a-4322-99bc-d6bff4224906,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints East,1/9/2010
+0,0,0,0,0,0,45346,0,0,0,0,0,0,0,0,0,543,ATG,ATG01,ATG0102,0,0.0,0.0,50330870-5234-4001-b30a-87da7bac43ab,Antigua and Barbuda,Antigua,Saint John,RAINS,All Saints West,1/9/2010
+0,0,0,0,0,0,7067,0,0,0,0,0,0,0,0,0,544,ATG,ATG01,ATG0103,0,0.0,0.0,cd50a694-3647-4659-9419-36c605aea82a,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's North,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,545,ATG,ATG01,ATG0103,0,0.0,0.0,5cd6bde2-4d1c-4bfa-a449-340607948724,Antigua and Barbuda,Antigua,Saint Mary,RAINS,St Mary's South,1/9/2010
+0,0,0,0,0,0,7979,0,0,0,0,0,0,0,0,0,546,ATG,ATG01,ATG0104,0,0.0,0.0,7c5cf9aa-fc6b-4cc8-bd60-c7e8510d80d0,Antigua and Barbuda,Antigua,Saint Paul,RAINS,St Paul's Parish,1/9/2010
+0,0,0,0,0,0,5269,0,0,0,0,0,0,0,0,0,547,ATG,ATG01,ATG0105,0,0.0,0.0,39845a84-ffcb-4bd5-b106-078d392ca9f1,Antigua and Barbuda,Antigua,Saint Peter,RAINS,St Peter's Parish,1/9/2010
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,548,ATG,ATG01,ATG0106,0,0.0,0.0,1597b447-7072-4947-9481-86d1605cbd17,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's North,1/9/2010
+0,0,0,0,0,0,3125,0,0,0,0,0,0,0,0,0,549,ATG,ATG01,ATG0106,0,0.0,0.0,ef7ff414-aa98-4d0d-a460-617e01c22325,Antigua and Barbuda,Antigua,Saint Philip,RAINS,St Philip's South,1/9/2010
+0,0,0,0,0,0,1638,0,0,0,0,0,0,0,0,0,550,ATG,ATG02,,0,0.0,0.0,f085d597-0547-4a20-9067-d4c0d994ebe1,Antigua and Barbuda,Barbuda,,RAINS,,1/9/2010

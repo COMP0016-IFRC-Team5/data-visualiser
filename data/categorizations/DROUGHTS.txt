@@ -1,0 +1,6 @@
+dr - drought.csv
+draught.csv
+drought.csv
+dry spell.csv
+dry spells.csv
+déficit hídrico.csv

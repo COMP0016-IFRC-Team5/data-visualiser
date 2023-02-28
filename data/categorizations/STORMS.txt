@@ -1,0 +1,77 @@
+cold.csv
+cyclone and rainstorm.csv
+cyclone wind.csv
+cyclone.csv
+cyclones.csv
+electric storm.csv
+electricstorm.csv
+electrique storm.csv
+electrocution.csv
+foudre.csv
+gale.csv
+gonu cyclone.csv
+hail storm.csv
+hail.csv
+hailstone.csv
+hailstorm and cyclone.csv
+hailstorm.csv
+hailstorms.csv
+heavy snow.csv
+heavy storm.csv
+heavy storms.csv
+heavy wind.csv
+heavy winds.csv
+high winds.csv
+hurricane.csv
+lightening.csv
+lighting.csv
+lightning.csv
+mini tornado.csv
+ouragan.csv
+rain and strong wind.csv
+rain storm.csv
+rainstorm.csv
+rainstorms.csv
+sand storm.csv
+sandstorm.csv
+severe colds.csv
+snow storm.csv
+snow.csv
+snowfall.csv
+snowstorm.csv
+st - severe local storm.csv
+storm wind.csv
+storm+gale.csv
+storm.csv
+storms.csv
+stormy rains and hailstorm.csv
+stormy.csv
+strong storm.csv
+strong wind.csv
+strong winds and bush fire.csv
+strong winds+hailstrom.csv
+strong winds.csv
+strongwind.csv
+tc - tropical cyclone.csv
+thunder lighting stroke.csv
+thunder storm.csv
+thunder.csv
+thunderstorm.csv
+tondering.csv
+tormenta tropical.csv
+tornado.csv
+tornados.csv
+tropical cyclone.csv
+typhoon.csv
+wind storm.csv
+wind strom.csv
+wind.csv
+windstond.csv
+windstorm.csv
+windstrm.csv
+windstrom.csv
+windtorm.csv
+winstrom.csv
+winter storm.csv
+wndstrom.csv
+аянга.csv

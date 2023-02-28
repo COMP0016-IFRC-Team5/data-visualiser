@@ -1,0 +1,28 @@
+amenaza de bomba.csv
+armed conflict.csv
+armed robbery.csv
+civil strife and police arson.csv
+conflict.csv
+conmoción social.csv
+crime.csv
+famine.csv
+food insecurity.csv
+gun shot injuries.csv
+gunshot.csv
+hambruna.csv
+hunger+famine.csv
+industrial disaster.csv
+landed conflict.csv
+panic.csv
+pipeline vandalism.csv
+projectile.csv
+rape.csv
+social conflicts.csv
+social unrest.csv
+suicide.csv
+terror attack.csv
+terrorism.csv
+terrorist attack.csv
+urban violence.csv
+violence.csv
+war.csv

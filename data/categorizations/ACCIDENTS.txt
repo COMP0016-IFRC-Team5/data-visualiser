@@ -1,0 +1,77 @@
+ac - accident.csv
+accident traffic.csv
+accident.csv
+accidental death.csv
+accidente aéreo.csv
+accidente de transporte.csv
+accidente de tránsito.csv
+accidente en el medio náutico.csv
+accidente ferroviario.csv
+accidente fluvial.csv
+accidente minero.csv
+accidents.csv
+ahogado.csv
+ahogamiento_1.csv
+ahogamiento_2.csv
+air crash.csv
+aircraft crash.csv
+aircraft disaster+misses.csv
+arbol caido.csv
+aviation accident.csv
+boat accident.csv
+boat capsize.csv
+boat capsized.csv
+boat sinking.csv
+boats sanking.csv
+building collap.csv
+building fire.csv
+building slide.csv
+caída de arbol_1.csv
+caída de arbol_2.csv
+domestic accident.csv
+drown.csv
+drowning.csv
+failen trees.csv
+fall into a well.csv
+fell into a well.csv
+house fire accident.csv
+industrial accident.csv
+intervention en mer.csv
+land subsidence.csv
+major accident.csv
+major accidents.csv
+marine accident.csv
+maritime disaster.csv
+mine accident.csv
+mining accidents.csv
+motor accident.csv
+muerte por inmersión.csv
+naufrage.csv
+navigation accident.csv
+noyade.csv
+nuclear accidents.csv
+plane crash.csv
+road accident.csv
+road accidents.csv
+road traffic accident.csv
+road.csv
+ships  accednts.csv
+siniestros de tránsito.csv
+sinking.csv
+slippery road.csv
+socavamiento.csv
+structure.csv
+subsidence.csv
+sudden death.csv
+traffic accident.csv
+trafic accident.csv
+train accident.csv
+train+bus accident.csv
+trains accednts.csv
+transportation accident.csv
+trapped in a petrol tanker.csv
+tree fallen.csv
+tripped into a well.csv
+vehicle accident.csv
+water accident.csv
+бичил уурхай нурангины осол.csv

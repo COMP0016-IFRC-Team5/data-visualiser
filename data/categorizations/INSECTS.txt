@@ -1,0 +1,16 @@
+army worms.csv
+armyworm.csv
+beetle.csv
+chenille.csv
+destruction by insects.csv
+detected slug.csv
+insect infestation.csv
+locust crisis.csv
+locust.csv
+mealy bug.csv
+pest and insect infestation.csv
+pest infestation.csv
+pest outbreak.csv
+pest.csv
+ravagers and locusts pilgrims.csv
+vermin infestation.csv

@@ -1,0 +1,48 @@
+2.csv
+a. transito.csv
+aguaje.csv
+alluvion.csv
+asphyxia.csv
+auther.csv
+bad grass invasion.csv
+biological.csv
+breach.csv
+búsqueda_1.csv
+búsqueda_2.csv
+ce - complex emergency.csv
+climate change.csv
+coastline.csv
+cutting failure.csv
+deforestación.csv
+desaparecido en excursión.csv
+desaparecido en medio acuático.csv
+desaparecido.csv
+desbordamiento.csv
+diahorrea.csv
+dzud.csv
+fissures.csv
+fog.csv
+inspección.csv
+lainnya.csv
+liquefaction.csv
+montagne wave.csv
+napolo.csv
+naufragio.csv
+nawaa.csv
+ot - other.csv
+other.csv
+other_ac.csv
+others.csv
+otros.csv
+peat.csv
+port area hazard.csv
+racionamiento.csv
+rate in field.csv
+replace_tabs.py
+rescate_2.csv
+retaining wf.csv
+sea lost.csv
+stuck.csv
+swell.csv
+td - technical disaster.csv
+traslados.csv
