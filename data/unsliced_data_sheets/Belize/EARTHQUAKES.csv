@@ -1,0 +1,2 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,event,start_date,primary_end,secondary_end
+0,0,0,1,15,1,93,0,0,30000.0,60000.0,0,0,0.0,0,0,EARTHQUAKES,2009-05-28,2009-05-30,2009-05-31

@@ -1,0 +1,6 @@
+deaths,injured,missing,houses_destroyed,houses_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_in_dollar,losses_local_currency,education_centers,hospitals,damages_in_crops_ha,lost_cattle,damages_in_roads_mts,event,start_date,primary_end,secondary_end
+0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0.0,EARTHQUAKES,1983-06-03,1983-06-05,1983-06-06
+0,0,0,8,0,0,0,0,0,0,0,0,0,0.0,0,0.0,EARTHQUAKES,1997-01-12,1997-01-14,1997-01-15
+0,1,0,0,26,0,0,0,0,0,0,0,0,0.0,0,0.0,EARTHQUAKES,1997-03-26,1997-03-28,1997-03-29
+0,11,0,0,0,0,2664,0,0,0,0,0,0,0.0,0,0.0,EARTHQUAKES,2008-02-12,2008-02-14,2008-02-15
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,EARTHQUAKES,2009-04-24,2009-04-26,2009-04-27
