@@ -7,6 +7,7 @@ import pandas as pd
 
 def main():
     paths_ = paths()
+    print(paths_)
     for path in paths_:     
         country_, event_ = country_and_event(path)
 

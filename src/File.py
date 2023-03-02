@@ -2,7 +2,6 @@ import glob
 import os
 import pandas as pd
 
-
 def get_file_paths():
     """
     Returns a list of file paths for sliced data sheets. 
@@ -15,6 +14,9 @@ def get_file_paths():
         file_paths.append(fn)
 
     return file_paths
+
+# if os.path.isfile(fn) and fn[-3:] == "csv":
+#         file_paths.append(fn)
       
 def country_and_event(paths_):
     """
