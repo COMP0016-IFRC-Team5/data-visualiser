@@ -90,3 +90,4 @@ class Plot():
         plt.ylim(bottom=0)
 
         plt.show()
+

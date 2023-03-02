@@ -6,7 +6,7 @@ def get_file_paths():
     """
     Returns a list of file paths for sliced data sheets. 
     """
-    os.chdir("../")
+    os.chdir("./")
     file_paths = []
     directory = f'{"data"}/{"sliced_data_sheets/*/*"}'
 
