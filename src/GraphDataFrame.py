@@ -20,11 +20,6 @@ class GraphDataFrame():
         self.event = event
         self.country = country
         self.loss = loss
-    
-
-    def get_axis(self):
-        columns: pd.Index = self.dataframe.columns
-        return columns.get_loc(self.loss.value)
 
     def get_record_length(self):
         record_end = self.dataframe.iloc[-1, -1]
@@ -37,22 +32,9 @@ class GraphDataFrame():
         return delta.days/365
 
     def get_exceedance_period(self):
-
         total_record = self.get_record_length()
-        a= self.dataframe[self.loss.value].value_counts(ascending = True)
         loss_frequency = np.cumsum(self.dataframe[self.loss.value].value_counts(ascending = True).sort_index()[::-1])
-
-        tmp = self.dataframe[self.loss.value].map(loss_frequency/total_record)
         return self.dataframe[self.loss.value].map(loss_frequency/total_record)
-
-    def get_records_number(self):
-        return int(self.dataframe.iloc[-1, 0]) - int(self.dataframe.iloc[0, 0]) +1
-
-    def create_probability(self):
-
-        total_events = self.get_records_number()
-        probability = self.dataframe[self.loss.value].value_counts()/total_events
-        self.dataframe["probability"] = self.dataframe[self.loss.value].map(probability)
 
     def calculate_return_period(self):
         ImpactReturnPeriodGraph = Plot()
