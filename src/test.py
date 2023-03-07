@@ -1,12 +1,8 @@
-import matplotlib.pyplot as plt
+import pandas as pd
+
+s = pd.Series([1, 2, 3, 2, 1, 3, 3, 4, 5, 4, 5, 6, 5, 4])
 
 
-x = [1, 2, 3, 4, 5]
-y = [2, 3, 5, 4, 6]
-plt.scatter(x, y)
+value_counts = s.value_counts().sum()
 
-for i in range(len(x)):
-    plt.text(x[i], y[i], f'({x[i]}, {y[i]})', ha='center', va='bottom')
-
-
-plt.show()
+print(value_counts)

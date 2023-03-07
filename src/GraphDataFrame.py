@@ -68,15 +68,32 @@ class Plot():
 
         plt.show()
 
-    def highlight(self,plt):
-        start_point = 1
-        end = 5
-        while True:
-            if start_point<(self.x.max()-self.x.min())+1 and start_point <= end:
+    def data_is_suffiecient(self):
+        '''
+        Evaluate if the graph have enough data, which means at least one event with
+        return period of 10 years.
 
-                highlight_point_x = np.interp(start_point, self.y, self.x)
-                plt.plot(highlight_point_x, start_point, 'ro')
-                plt.text(highlight_point_x, start_point, f'({round(highlight_point_x)}, {round(start_point)})', ha='center', va='bottom')
-                start_point += 2
+        Return: True if yes, False otherwise
+        '''
+        if self.y.nunique() >= 4 or self.y.max()  >= 10:
+            return True
+        else:
+            return False
+
+
+    def highlight(self,plt,showOnGraph = True, extract = True):
+        start_point = 1 if self.y.min() > 0 else self.y.min()
+        end = 10 if self.y.max() > 10 else self.y.max()
+        while True:
+            if showOnGraph:
+                if self.data_is_suffiecient() and start_point <= end:
+
+                    highlight_point_x = np.interp(start_point, self.y, self.x)
+                    plt.plot(highlight_point_x, start_point, 'ro')
+                    plt.text(highlight_point_x, start_point, f'({round(highlight_point_x)}, {round(start_point)})', ha='center', va='bottom')
+                    start_point += 2
+                else:
+                    return
+
             else:
                 return
