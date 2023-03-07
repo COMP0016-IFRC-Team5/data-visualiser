@@ -43,18 +43,20 @@ class GraphDataFrame():
 
         y = 1/exceedance_period[sort_index]
         x = self.dataframe[self.loss.value][sort_index]
-        ImpactReturnPeriodGraph.set_graph(x,y, self.country, self.event)
+        ImpactReturnPeriodGraph.set_graph(x,y, self.country, self.event, self.loss.value)
 
         return ImpactReturnPeriodGraph
 
 
 class Plot():
-    def set_graph(self, x, y, country, event):
+    def set_graph(self, x, y, country, event, loss):
         self.x = x
         self.y = y
 
         self.country = country
         self.event = event
+        self.loss = loss.capitalize()
+
 
     def plot(self):
         """
@@ -62,9 +64,13 @@ class Plot():
         
         """
         plt.plot(self.x,self.y)
-        self.highlight(plt)
-        plt.xlabel(f'Loss {self.event}')
+
+        plt.xlabel(f'{self.loss}')
         plt.ylabel(f'Return period {self.country}')
+
+        plt.xlim(left=0)
+        plt.ylim(bottom=0)
+        self.highlight(plt)
 
         plt.show()
 
