@@ -2,5 +2,5 @@ from enum import Enum
 
 
 class Loss(Enum):
-    deaths = 1
-    affected_people = 2
+    deaths = "Deaths"
+    affected_people = "Affected People"
