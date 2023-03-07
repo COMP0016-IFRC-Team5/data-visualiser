@@ -55,8 +55,18 @@ def plot_exceedance_curves(
         }
         for country in countries
     }
+    __plot_all(country_event_dataframes, losses)
 
 
+def __plot_all(country_event_dataframes, metrics: list[Loss]):
+    for country in country_event_dataframes:
+        for event, df in country_event_dataframes[country]:
+            for metric in metrics:
+                __plot_one(metric, country, event, df)
+
+
+def __plot_one(metric, country, event, df):
+    ...
 
 
 def get_exceedance_table(countries, events):
