@@ -16,3 +16,6 @@ class CountryAdapter:
                 self.__countries
             )
         )
+
+    def get_country(self, country: str) -> Directory:
+        return self.__selected_folder.find_directory(country)
