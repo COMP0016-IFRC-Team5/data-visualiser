@@ -9,7 +9,7 @@ __all__ = [
     'get_exceedance_table',
 ]
 
-_country_adapter = None
+_country_adapter: CountryAdapter | None = None
 
 
 def set_data_folder(path):
@@ -22,7 +22,7 @@ def get_data_folder():
     return _config.get_data_folder()
 
 
-def get_available_countries():
+def get_available_countries() -> list[str]:
     return _country_adapter.countries
 
 

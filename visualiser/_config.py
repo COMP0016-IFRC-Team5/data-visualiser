@@ -2,7 +2,7 @@ from _utils import Directory
 
 __all__ = ['set_data_folder', 'get_data_folder']
 
-__DATA_FOLDER = None
+__DATA_FOLDER: Directory | None = None
 
 
 def set_data_folder(path):
