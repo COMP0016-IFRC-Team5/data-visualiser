@@ -1,5 +1,7 @@
 from _utils import Directory
 
+__all__ = ['set_data_folder', 'get_data_folder']
+
 __DATA_FOLDER = None
 
 
@@ -13,6 +15,3 @@ def get_data_folder():
         raise ValueError('Data folder not set. '
                          'Please call set_data_folder() first.')
     return __DATA_FOLDER
-
-
-__all__ = ['set_data_folder', 'get_data_folder']

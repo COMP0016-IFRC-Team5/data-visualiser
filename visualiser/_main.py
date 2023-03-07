@@ -1,26 +1,5 @@
 import _config
-
-
-def set_data_folder(path):
-    _config.set_data_folder(path)
-    ...
-
-
-def get_data_folder():
-    return _config.get_data_folder()
-
-
-def get_available_countries():
-    ...
-
-
-def plot_exceedance_curves(countries, events, losses):
-    ...
-
-
-def get_exceedance_table(countries, events):
-    ...
-
+from _adapters import CountryAdapter, EventAdapter
 
 __all__ = [
     'set_data_folder',
@@ -29,3 +8,27 @@ __all__ = [
     'plot_exceedance_curves',
     'get_exceedance_table',
 ]
+
+_country_adapter = None
+
+
+def set_data_folder(path):
+    global _country_adapter
+    _config.set_data_folder(path)
+    _country_adapter = CountryAdapter(_config.get_data_folder())
+
+
+def get_data_folder():
+    return _config.get_data_folder()
+
+
+def get_available_countries():
+    return _country_adapter.countries
+
+
+def plot_exceedance_curves(countries, events, losses):
+    ...
+
+
+def get_exceedance_table(countries, events):
+    ...
