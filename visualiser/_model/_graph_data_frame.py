@@ -1,5 +1,5 @@
 import numpy as np
-from Enums import Loss
+from ._loss import Loss
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime

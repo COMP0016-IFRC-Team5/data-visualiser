@@ -1,9 +1,7 @@
-from GraphDataFrame import GraphDataFrame
+from visualiser._model._graph_data_frame import GraphDataFrame
 from Enums import  Loss
 from File import country_and_event, df, paths
-from Last15Years import last_15_year
-
-import pandas as pd
+from visualiser._model.Last15Years import last_15_year
 
 
 def main():
