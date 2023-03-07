@@ -62,19 +62,21 @@ class Plot():
         
         """
         plt.plot(self.x,self.y)
-        self.highlight()
+        self.highlight(plt)
         plt.xlabel(f'Loss {self.event}')
         plt.ylabel(f'Return period {self.country}')
+
         plt.show()
 
-    def highlight(self):
+    def highlight(self,plt):
         start_point = 1
-        end = 10
+        end = 5
         while True:
-            if start_point<(self.x.max()-self.x.min())+1 and start_point < end:
+            if start_point<(self.x.max()-self.x.min())+1 and start_point <= end:
 
                 highlight_point_x = np.interp(start_point, self.y, self.x)
                 plt.plot(highlight_point_x, start_point, 'ro')
+                plt.text(highlight_point_x, start_point, f'({round(highlight_point_x)}, {round(start_point)})', ha='center', va='bottom')
                 start_point += 2
             else:
                 return
