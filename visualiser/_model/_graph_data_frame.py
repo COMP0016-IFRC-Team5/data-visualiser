@@ -92,17 +92,13 @@ class Plot:
     def highlight(self, plot):
         start_point = 1
         end = 5
-        while True:
-            if start_point < (self.x.max() - self.x.min()) + 1 \
-                    and start_point <= end:
-
-                highlight_point_x = np.interp(start_point, self.y, self.x)
-                plot.plot(highlight_point_x, start_point, 'ro')
-                plot.text(
-                    highlight_point_x, start_point,
-                    f'({round(highlight_point_x)}, {round(start_point)})',
-                    ha='center', va='bottom'
-                )
-                start_point += 2
-            else:
-                return
+        while start_point < (self.x.max() - self.x.min()) + 1 \
+                and start_point <= end:
+            highlight_point_x = np.interp(start_point, self.y, self.x)
+            plot.plot(highlight_point_x, start_point, 'ro')
+            plot.text(
+                highlight_point_x, start_point,
+                f'({round(highlight_point_x)}, {round(start_point)})',
+                ha='center', va='bottom'
+            )
+            start_point += 2
