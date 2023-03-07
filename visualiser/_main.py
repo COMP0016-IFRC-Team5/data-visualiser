@@ -1,5 +1,5 @@
 import _config
-from _adapters import CountryAdapter, EventAdapter, FolderSelector
+from _adapters import CountryAdapter, EventAdapter, FolderSelector, Folders
 
 __all__ = [
     'set_data_folder',
@@ -15,7 +15,9 @@ _country_adapter: CountryAdapter | None = None
 def set_data_folder(path):
     global _country_adapter
     _config.set_data_folder(path)
-    _country_adapter = CountryAdapter(_config.get_data_folder())
+    folder_selector = FolderSelector(_config.get_data_folder())
+    folder_selector.select_folder(Folders.unsliced)
+    _country_adapter = CountryAdapter(folder_selector.selected_folder)
 
 
 def get_data_folder():
