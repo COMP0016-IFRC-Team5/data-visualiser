@@ -3,7 +3,7 @@ import visualiser
 if __name__ == '__main__':
     visualiser.set_data_folder('./data')
     print(visualiser.get_available_countries())
-    countries = ["Lebanon", "Spain"]
+    countries = ["Albania", "Pakistan"]
     country = 'Mexico'
     events = ["Floods", "eArthQuaKEs"]  # case insensitive
     event = 'FLOODS'
