@@ -1,5 +1,5 @@
 import _config
-from _adapters import CountryAdapter, EventAdapter
+from _adapters import CountryAdapter, EventAdapter, FolderSelector
 
 __all__ = [
     'set_data_folder',
