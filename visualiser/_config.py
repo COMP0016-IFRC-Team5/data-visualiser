@@ -1,9 +1,11 @@
+from _utils import Directory
+
 __DATA_FOLDER = None
 
 
 def set_data_folder(path):
     global __DATA_FOLDER
-    __DATA_FOLDER = path
+    __DATA_FOLDER = Directory(path)
 
 
 def get_data_folder():
