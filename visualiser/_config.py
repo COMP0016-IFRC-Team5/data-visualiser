@@ -1,4 +1,4 @@
-from _utils import Directory
+from ._utils import Directory
 
 __all__ = ['set_data_folder', 'get_data_folder']
 

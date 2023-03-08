@@ -2,9 +2,9 @@ from enum import Enum
 
 import pandas as pd
 
-import _config
-from _adapters import CountryAdapter, FolderSelector, Folders, DataFrameAdapter
-from _models import Loss, ReturnPeriodCalculator
+from . import _config
+from ._adapters import CountryAdapter, FolderSelector, Folders, DataFrameAdapter
+from ._models import Loss, ReturnPeriodCalculator
 
 __all__ = [
     'set_data_folder',
