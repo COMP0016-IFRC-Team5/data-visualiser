@@ -1,2 +1,6 @@
 from ._loss import Loss
-__all__ = ['Loss']
+from ._return_period_calculator import ReturnPeriodCalculator
+__all__ = [
+    'Loss',
+    'ReturnPeriodCalculator',
+]

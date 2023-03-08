@@ -1,6 +1,6 @@
 import _config
 from _adapters import CountryAdapter, FolderSelector, Folders, DataFrameAdapter
-from _models import Loss
+from _models import Loss, ReturnPeriodCalculator
 
 __all__ = [
     'set_data_folder',
@@ -66,7 +66,8 @@ def __plot_all(country_event_dataframes, metrics: list[Loss]):
 
 
 def __plot_one(metric, country, event, df):
-    ...
+    rpc = ReturnPeriodCalculator(country, event, df, metric)
+    rpc.plot()
 
 
 def get_exceedance_table(countries, events):
