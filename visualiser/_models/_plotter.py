@@ -16,16 +16,36 @@ class Plotter:
         self.__event = event
         self.__table = pd.DataFrame()
 
-    def plot(self, show_graph: bool = True):
-        plt.plot(self.__x, self.__y)
+    def plot(
+            self, show_graph: bool = True,
+            sliced: bool = False,
+            required_years: int = -1
+    ):
+        line, = plt.plot(self.__x, self.__y)
         plt.xlabel(self.__loss)
-        plt.ylabel('Return period')
+        plt.ylabel('Return period (years)')
         plt.title(f'{self.__country} - {self.__event}')
         plt.xlim(left=0)
         plt.ylim(bottom=0)
+        Plotter.__add_label(line, sliced, required_years)
+        plt.legend()
         self.__highlight(plt)
         if show_graph:
             plt.show()
+
+    @staticmethod
+    def __add_label(line, sliced, required_years):
+        if sliced and required_years != -1:
+            line.set_label(f'{required_years}_sliced')
+
+        elif sliced:
+            line.set_label("sliced")
+
+        elif required_years != -1:
+            line.set_label(f'{required_years}_unsliced')
+
+        else:
+            line.set_label("unsliced")
 
     def __is_data_sufficient(self):
         return self.__y.nunique() >= 4 or self.__y.max() >= 10

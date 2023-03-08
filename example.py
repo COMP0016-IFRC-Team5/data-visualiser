@@ -13,6 +13,7 @@ if __name__ == '__main__':
     #     [visualiser.Loss.deaths, visualiser.Loss.affected_people],
     #     15
     # )
-    visualiser.plot_exceedance_curves(country, event, visualiser.Loss.deaths)
+    visualiser.plot_exceedance_curves(country, event,
+                                      visualiser.Loss.deaths, 15)
     table = visualiser.get_exceedance_table(country, event)
     tables = visualiser.get_exceedance_table(countries, events)

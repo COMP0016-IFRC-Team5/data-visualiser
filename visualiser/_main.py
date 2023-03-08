@@ -21,8 +21,7 @@ def set_data_folder(path):
     global _country_adapter
     _config.set_data_folder(path)
     folder_selector = FolderSelector(_config.get_data_folder())
-    folder_selector.select_folder(Folders.unsliced)
-    # folder_selector.select_folder(Folders.sliced)
+    folder_selector.select_folder(_config.get_selected_folder())
     _country_adapter = CountryAdapter(folder_selector.selected_folder)
 
 
@@ -84,6 +83,8 @@ def __plot_all(country_event_dataframes, metrics: list[Loss], years_required):
 
 def __plot_one(metric, country, event, df, years_required):
     rpc = ReturnPeriodCalculator(country, event, df, metric, years_required)
+    if _config.get_selected_folder() == Folders.sliced:
+        rpc.plot(sliced=True)
     rpc.plot()
 
 
