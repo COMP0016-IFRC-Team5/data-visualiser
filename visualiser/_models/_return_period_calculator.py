@@ -21,6 +21,7 @@ class ReturnPeriodCalculator:
         self.__country = country
         self.__event = event
         self.__plot = None
+        self.__is_plotted = False
         self.__required_years = years_required
         self.__calculate_return_period()
 
@@ -80,8 +81,11 @@ class ReturnPeriodCalculator:
         x = self.__dataframe[loss][sort_index]
         self.__plot = Plotter(self.__country, self.__event, x, y, loss)
 
-    def get_data(self):
-        return self.__dataframe, self.__loss, self.__country, self.__event
-
     def plot(self):
         self.__plot.plot()
+        self.__is_plotted = True
+
+    def get_table(self):
+        if not self.__is_plotted:
+            self.__plot.plot(False)
+        return self.__plot.get_table()

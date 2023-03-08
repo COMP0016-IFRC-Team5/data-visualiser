@@ -14,8 +14,9 @@ class Plotter:
         self.__loss = loss
         self.__country = country
         self.__event = event
+        self.__table = pd.DataFrame()
 
-    def plot(self):
+    def plot(self, show_graph: bool = True):
         plt.plot(self.__x, self.__y)
         plt.xlabel(self.__loss)
         plt.ylabel('Return period')
@@ -23,7 +24,8 @@ class Plotter:
         plt.xlim(left=0)
         plt.ylim(bottom=0)
         self.__highlight(plt)
-        plt.show()
+        if show_graph:
+            plt.show()
 
     def __is_data_sufficient(self):
         return self.__y.nunique() >= 4 or self.__y.max() >= 10
@@ -39,6 +41,13 @@ class Plotter:
             corresponding_loss = \
                 np.interp(start_return_period, self.__y, self.__x)
             plot.plot(corresponding_loss, start_return_period, 'ro')
+            self.__table = pd.concat(
+                [self.__table, pd.DataFrame(
+                    [[start_return_period, corresponding_loss]],
+                    columns=['Return period', self.__loss],
+                )],
+                ignore_index=True
+            )
             plot.text(
                 corresponding_loss, start_return_period,
                 f'({round(corresponding_loss)}, {round(start_return_period)})',
@@ -48,3 +57,6 @@ class Plotter:
 
         # Call the recursive function with the initial start point
         highlight_point(start_point)
+
+    def get_table(self):
+        return self.__table
