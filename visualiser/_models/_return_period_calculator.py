@@ -49,10 +49,8 @@ class ReturnPeriodCalculator:
         exceedance_num = \
             series.value_counts(ascending=True).sort_index()[::-1].cumsum()
 
-        return (exceedance_num / length)\
-            .reindex(self.__dataframe[
-                self.__loss.value.lower().replace(' ', '_')
-            ]).values
+        return self.__dataframe[self.__loss.value.lower().replace(' ', '_')]\
+            .map(exceedance_num / length)
 
     def __calculate_return_period(self):
         """
