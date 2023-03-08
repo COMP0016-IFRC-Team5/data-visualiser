@@ -4,9 +4,12 @@ if __name__ == '__main__':
     visualiser.set_data_folder('./data')
     print(visualiser.get_available_countries())
     countries = ["Albania", "Pakistan"]
-    country = 'Mexico'
-    events = ["Floods", "eArthQuaKEs"]  # case insensitive
-    event = 'FLOODS'
+    # country = "Mexico"
+    country = "Belize"
+    events = ["Floods",
+              "eArthQuaKEs"]  # case insensitive
+    # event = 'Floods'
+    event = 'Storms'
     # visualiser.plot_exceedance_curves(
     #     countries,
     #     events,
@@ -17,3 +20,9 @@ if __name__ == '__main__':
                                       visualiser.Loss.deaths, 15)
     table = visualiser.get_exceedance_table(country, event)
     tables = visualiser.get_exceedance_table(countries, events)
+    for _country in table:
+        for _event in table[_country]:
+            df = table[_country][_event]
+            print(_country, _event)
+            print(df)
+            print("--------------------")

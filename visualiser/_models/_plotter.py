@@ -51,12 +51,16 @@ class Plotter:
         return self.__y.nunique() >= 4 or self.__y.max() >= 10
 
     def __highlight(self, plot):
-        start_point = 1 if self.__y.min() > 0 else self.__y.min()
+        start_point = 1 if self.__y.min() > 0 else round(self.__y.min())
         end = 10 if self.__y.max() > 10 or math.isnan(self.__y.max()) \
-            else self.__y.max()
+            else round(self.__y.max())
+        accepted_return_periods = [1, 3, 5, 10]
 
         def highlight_point(start_return_period):
             if not self.__is_data_sufficient() or start_return_period > end:
+                return
+            if start_return_period not in accepted_return_periods:
+                highlight_point(start_return_period + 1)
                 return
             corresponding_loss = \
                 np.interp(start_return_period, self.__y, self.__x)
@@ -73,7 +77,7 @@ class Plotter:
                 f'({round(corresponding_loss)}, {round(start_return_period)})',
                 ha='center', va='bottom'
             )
-            highlight_point(start_return_period + 2)
+            highlight_point(start_return_period + 1)
 
         # Call the recursive function with the initial start point
         highlight_point(start_point)
