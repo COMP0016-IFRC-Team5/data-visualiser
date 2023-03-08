@@ -1,6 +1,6 @@
 import pandas as pd
 
-from _utils import Directory
+from .._utils import Directory
 
 __all__ = ["DataFrameAdapter"]
 

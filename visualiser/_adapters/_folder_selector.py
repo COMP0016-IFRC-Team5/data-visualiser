@@ -2,7 +2,7 @@ __all__ = [
     'FolderSelector',
 ]
 
-from _utils import Directory
+from .._utils import Directory
 from ._folders import Folders
 
 

@@ -1,6 +1,6 @@
 __all__ = ["CountryAdapter"]
 
-from _utils import Directory
+from .._utils import Directory
 
 
 class CountryAdapter:
