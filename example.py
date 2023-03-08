@@ -18,8 +18,8 @@ if __name__ == '__main__':
     # )
     visualiser.plot_exceedance_curves(country, event,
                                       visualiser.Loss.deaths, 15)
-    table = visualiser.get_exceedance_table(country, event)
-    tables = visualiser.get_exceedance_table(countries, events)
+    table = visualiser.get_exceedance_table(country, event, 15)
+    # tables = visualiser.get_exceedance_table(countries, events)
     for _country in table:
         for _event in table[_country]:
             df = table[_country][_event]

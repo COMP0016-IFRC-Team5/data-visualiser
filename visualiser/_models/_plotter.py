@@ -57,7 +57,7 @@ class Plotter:
         accepted_return_periods = [1, 3, 5, 10]
 
         def highlight_point(start_return_period):
-            if not self.__is_data_sufficient() or start_return_period > end:
+            if start_return_period > end:
                 return
             if start_return_period not in accepted_return_periods:
                 highlight_point(start_return_period + 1)

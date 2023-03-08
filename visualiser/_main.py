@@ -88,12 +88,12 @@ def __plot_one(metric, country, event, df, years_required):
     rpc.plot()
 
 
-def get_exceedance_table(countries, events):
+def get_exceedance_table(countries, events, years_required: int = -1):
     country_event_dataframes = __country_event_df(countries, events)
-    return __get_all_tables(country_event_dataframes)
+    return __get_all_tables(country_event_dataframes, years_required)
 
 
-def __get_all_tables(country_event_dataframes):
+def __get_all_tables(country_event_dataframes, years_required: int = -1):
     country_event_table = {}
     for country in country_event_dataframes:
         event_table = {}
@@ -104,7 +104,8 @@ def __get_all_tables(country_event_dataframes):
                     metric,
                     country,
                     event,
-                    country_event_dataframes[country][event]
+                    country_event_dataframes[country][event],
+                    years_required
                 )
                 if metrics_table is None:
                     metrics_table = table
@@ -117,6 +118,6 @@ def __get_all_tables(country_event_dataframes):
     return country_event_table
 
 
-def __get_one_table(metric, country, event, df):
-    rpc = ReturnPeriodCalculator(country, event, df, metric)
+def __get_one_table(metric, country, event, df, years_required: int = -1):
+    rpc = ReturnPeriodCalculator(country, event, df, metric, years_required)
     return rpc.get_table()
