@@ -1,6 +1,7 @@
 import pandas as pd
 
 from visualiser import Loss
+from ._plotter import Plotter
 
 __all__ = ['ReturnPeriodCalculator']
 
@@ -63,4 +64,5 @@ class ReturnPeriodCalculator:
         return self.__dataframe, self.__loss, self.__country, self.__event
 
     def plot(self):
-        ...
+        df, loss, country, event = self.get_data()
+        Plotter(country, event, df, loss.value.lower().replace(' ', '_')).plot()
