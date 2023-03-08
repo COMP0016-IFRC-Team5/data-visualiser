@@ -1,3 +1,5 @@
+import math
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -28,11 +30,11 @@ class Plotter:
 
     def __highlight(self, plot):
         start_point = 1 if self.__y.min() > 0 else self.__y.min()
-        end = 10 if self.__y.max() > 10 else self.__y.max()
+        end = 10 if self.__y.max() > 10 or math.isnan(self.__y.max()) \
+            else self.__y.max()
 
         def highlight_point(start_return_period):
-            if start_return_period >= (self.__x.max() - self.__x.min()) + 1 \
-                    or start_return_period > end:
+            if not self.__is_data_sufficient() or start_return_period > end:
                 return
             corresponding_loss = \
                 np.interp(start_return_period, self.__y, self.__x)

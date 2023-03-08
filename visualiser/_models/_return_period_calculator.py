@@ -1,6 +1,6 @@
 import pandas as pd
 
-from visualiser import Loss
+from ._loss import Loss
 from ._plotter import Plotter
 
 __all__ = ['ReturnPeriodCalculator']
@@ -39,7 +39,7 @@ class ReturnPeriodCalculator:
         Calculates the exceedance frequency for each row in the dataframe
         """
         length = self.__length_in_years()
-        series = pd.Series()
+        series = None
         match self.__loss:
             case Loss.deaths:
                 series = self.__dataframe['deaths']

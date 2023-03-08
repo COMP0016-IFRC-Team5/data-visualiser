@@ -1,3 +1,5 @@
+from enum import Enum
+
 import _config
 from _adapters import CountryAdapter, FolderSelector, Folders, DataFrameAdapter
 from _models import Loss, ReturnPeriodCalculator
@@ -37,7 +39,7 @@ def plot_exceedance_curves(
         countries = [countries]
     if isinstance(events, str):
         events = [events]
-    if isinstance(losses, Loss):
+    if isinstance(losses, Enum):
         losses = [losses]
     # filter out countries that are not available
     unavailable_countries = set(countries) - set(_country_adapter.countries)
@@ -60,9 +62,14 @@ def plot_exceedance_curves(
 
 def __plot_all(country_event_dataframes, metrics: list[Loss]):
     for country in country_event_dataframes:
-        for event, df in country_event_dataframes[country]:
+        for event in country_event_dataframes[country]:
             for metric in metrics:
-                __plot_one(metric, country, event, df)
+                __plot_one(
+                    metric,
+                    country,
+                    event,
+                    country_event_dataframes[country][event]
+                )
 
 
 def __plot_one(metric, country, event, df):
