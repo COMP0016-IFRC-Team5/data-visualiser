@@ -10,7 +10,8 @@ if __name__ == '__main__':
     visualiser.plot_exceedance_curves(
         countries,
         events,
-        [visualiser.Loss.deaths, visualiser.Loss.affected_people]
+        [visualiser.Loss.deaths, visualiser.Loss.affected_people],
+        15
     )
     visualiser.plot_exceedance_curves(country, event, visualiser.Loss.deaths)
     table = visualiser.get_exceedance_table(country, event)

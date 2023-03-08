@@ -8,12 +8,20 @@ __all__ = ['ReturnPeriodCalculator']
 
 
 class ReturnPeriodCalculator:
-    def __init__(self, country: str, event: str, df: pd.DataFrame, loss: Loss):
+    def __init__(
+            self,
+            country: str,
+            event: str,
+            df: pd.DataFrame,
+            loss: Loss,
+            years_required: int = -1
+    ):
         self.__dataframe = df
         self.__loss = loss
         self.__country = country
         self.__event = event
         self.__plot = None
+        self.__required_years = years_required
         self.__calculate_return_period()
 
     def __length_in_years(self):
@@ -35,6 +43,12 @@ class ReturnPeriodCalculator:
         column = ["start_date", "primary_end", "secondary_end"]
         for col in column:
             self.__dataframe[col] = pd.to_datetime(self.__dataframe[col])
+        if self.__required_years > 0:
+            self.__dataframe = self.__dataframe[
+                self.__dataframe['start_date'] >=
+                self.__dataframe['start_date'].max() -
+                pd.DateOffset(years=self.__required_years)
+                ].reset_index()
 
     def __calculate_exceedance_frequency(self):
         """

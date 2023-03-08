@@ -20,6 +20,7 @@ def set_data_folder(path):
     _config.set_data_folder(path)
     folder_selector = FolderSelector(_config.get_data_folder())
     folder_selector.select_folder(Folders.unsliced)
+    # folder_selector.select_folder(Folders.sliced)
     _country_adapter = CountryAdapter(folder_selector.selected_folder)
 
 
@@ -34,7 +35,9 @@ def get_available_countries() -> list[str]:
 def plot_exceedance_curves(
         countries: list[str] | str,
         events: list[str] | str,
-        losses: list[Loss] | Loss):
+        losses: list[Loss] | Loss,
+        years_required: int = -1
+):
     if isinstance(countries, str):
         countries = [countries]
     if isinstance(events, str):
@@ -57,10 +60,10 @@ def plot_exceedance_curves(
         }
         for country in countries
     }
-    __plot_all(country_event_dataframes, losses)
+    __plot_all(country_event_dataframes, losses, years_required)
 
 
-def __plot_all(country_event_dataframes, metrics: list[Loss]):
+def __plot_all(country_event_dataframes, metrics: list[Loss], years_required):
     for country in country_event_dataframes:
         for event in country_event_dataframes[country]:
             for metric in metrics:
@@ -68,12 +71,13 @@ def __plot_all(country_event_dataframes, metrics: list[Loss]):
                     metric,
                     country,
                     event,
-                    country_event_dataframes[country][event]
+                    country_event_dataframes[country][event],
+                    years_required
                 )
 
 
-def __plot_one(metric, country, event, df):
-    rpc = ReturnPeriodCalculator(country, event, df, metric)
+def __plot_one(metric, country, event, df, years_required):
+    rpc = ReturnPeriodCalculator(country, event, df, metric, years_required)
     rpc.plot()
 
 
