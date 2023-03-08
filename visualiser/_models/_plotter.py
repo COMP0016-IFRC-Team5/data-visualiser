@@ -8,15 +8,15 @@ __all__ = ['Plotter']
 
 
 class Plotter:
-    def __init__(self, country: str, event: str, df: pd.DataFrame, loss: str):
-        self.__x = df[loss]
-        self.__y = df['return_period']
+    def __init__(self, country: str, event: str, x, y, loss: str):
+        self.__x = x
+        self.__y = y
         self.__loss = loss
         self.__country = country
         self.__event = event
 
     def plot(self):
-        plt.plot(self.__x, self.__y, 'b-')
+        plt.plot(self.__x, self.__y)
         plt.xlabel(self.__loss)
         plt.ylabel('Return period')
         plt.title(f'{self.__country} - {self.__event}')

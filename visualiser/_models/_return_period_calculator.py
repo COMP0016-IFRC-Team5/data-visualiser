@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 
 from ._loss import Loss
@@ -12,6 +13,7 @@ class ReturnPeriodCalculator:
         self.__loss = loss
         self.__country = country
         self.__event = event
+        self.__plot = None
         self.__calculate_return_period()
 
     def __length_in_years(self):
@@ -58,11 +60,14 @@ class ReturnPeriodCalculator:
         Calculates the return period for each row in the dataframe
         """
         exceedance_frequency = self.__calculate_exceedance_frequency()
-        self.__dataframe['return_period'] = 1 / exceedance_frequency
+        sort_index = np.argsort(exceedance_frequency)[::-1]
+        loss = self.__loss.value.lower().replace(' ', '_')
+        y = 1/exceedance_frequency[sort_index]
+        x = self.__dataframe[loss][sort_index]
+        self.__plot = Plotter(self.__country, self.__event, x, y, loss)
 
     def get_data(self):
         return self.__dataframe, self.__loss, self.__country, self.__event
 
     def plot(self):
-        df, loss, country, event = self.get_data()
-        Plotter(country, event, df, loss.value.lower().replace(' ', '_')).plot()
+        self.__plot.plot()
