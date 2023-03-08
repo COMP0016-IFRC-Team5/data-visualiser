@@ -81,8 +81,8 @@ class ReturnPeriodCalculator:
         x = self.__dataframe[loss][sort_index]
         self.__plot = Plotter(self.__country, self.__event, x, y, loss)
 
-    def plot(self):
-        self.__plot.plot()
+    def plot(self, sliced: bool = False):
+        self.__plot.plot(sliced=sliced, required_years=self.__required_years)
         self.__is_plotted = True
 
     def get_table(self):
