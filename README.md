@@ -16,7 +16,7 @@ In order to assess when an event (whether forecasted or already occurred) has re
 
  
 
-## Get Started 
+# Get Started 
 
 **Check out our [online demo](https://github.com/COMP0016-IFRC-Team5/data-visualiser).** 
 
@@ -33,9 +33,9 @@ Then, let's install all package dependencies by running:
 pip install -r requirements.txt
 ```
 
-## Usage
+# Usage
 
-### To run the example
+## To run the example
 The example shows a typical case which produce the return period - deaths & affected people graphs for floods and earthquakes in Albania and Pakistan. Data used from past 15 years.
 
 ```bash
@@ -48,9 +48,9 @@ A typical process could be done in 5 steps:
 4. set data time range
 5. plot graph(s) 
 
-### To set input data
+## To set input data
 
- #### To use defualt data
+ ### To use defualt data
  from DesInventar and EM-DAT, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
 
  ```bash
