@@ -131,6 +131,12 @@ event = "<hazardous event name>"
 ## 4. Choose time range
 By adding the last parameter `years_required` in [`visualiser.plot_exceedance_curves()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L17), use data from past `<years_required>` years, or leave it blank to use all available data.
 
-
-
+```bash
+visualiser.plot_exceedance_curves(
+    countries,
+    events,
+    [visualiser.Loss.deaths, visualiser.Loss.affected_people],
+    <years_required>
+    )
+```
 
