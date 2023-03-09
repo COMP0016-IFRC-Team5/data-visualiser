@@ -16,10 +16,32 @@ In order to assess when an event (whether forecasted or already occurred) has re
 
  
 
-## Usage 
+## Get Started 
 
 **Check out our [online demo](https://github.com/COMP0016-IFRC-Team5/data-visualiser).** 
 
- 
+To build Period CalculatorPython locally, first, clone the source code:
+
+```bash
+git clone https://github.com/COMP0016-IFRC-Team5/data-visualiser
+```
+
+Then, let's install all package dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+To run the example, simply:
+
+```bash
+python example.py
+```
+This tool supports
+
+
+
 
  
