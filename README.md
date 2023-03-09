@@ -48,18 +48,18 @@ A typical process could be done in 5 steps:
 4. set data time range
 5. plot graph(s) 
 
-## Set input data
+## 1. Set input data
 
- ### To use defualt data
- from DesInventar and EM-DAT, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
+ ### 1.1 To use defualt data
+ from DesInventar and EM-DAT, call ['visualiser.set_data_folder()'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
 
  ```bash
  visualiser.set_data_folder('./data')
  ```
 
 
-  #### To choose sliced or orignial data 
-  Switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
+  #### 1.1.1 To choose sliced or orignial data 
+  Switch between ['Folders.unsliced'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and ['Folders.sliced'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
 
   To choose sliced data:
 
@@ -73,8 +73,8 @@ A typical process could be done in 5 steps:
   ```bash
   __SELECTED_FOLDER = Folders.unsliced
   ```
- ### To deploy the tool for other data resource
- Call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
+ ### 1.2 To deploy the tool for other data resource
+ Call ['visualiser.set_data_folder()'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of ['[Country Name]/[Hazardous Events.csv]']
 
   The data should contians these colomns:
  
@@ -87,7 +87,7 @@ A typical process could be done in 5 steps:
 
 
 
-## See available countries 
+## 2.1 See available countries 
 Call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. 
 
 ```bash
@@ -95,8 +95,8 @@ print(visualiser.get_available_countries())
 ```
 
 
-## Switch between single and multiple countries
-This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
+## 2.2 Switch between single and multiple countries
+This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable ['countries'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and ['country'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 To access graphs of multi-countries:
 
@@ -112,8 +112,9 @@ country = "<country name>"
 ```
 
 
-## Switch between single and multiple events
+## 3. Switch between single and multiple events
 
+Similar to step 2:
 
 ```bash
 events = ["<hazardous event name>",
@@ -126,7 +127,8 @@ or
 event = "<hazardous event name>"
 ```
 
-
+## 4. Choose time range
+By adding the last parameter ['years_required'] in ['visualiser.plot_exceedance_curves()'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L17), use data from past ['<years_required> '] years, or leave it blank to use all available data.
 
 
 
