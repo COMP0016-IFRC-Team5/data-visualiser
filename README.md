@@ -50,40 +50,40 @@ A typical process could be done in 5 steps:
 
 ### To set input data
 
-#### To use defualt data
-from DesInventar and EM-DAT, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
+ #### To use defualt data
+ from DesInventar and EM-DAT, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
 
-```bash
-visualiser.set_data_folder('./data')
-```
-
-
-##### To choose sliced or orignial data 
-Switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
-
-To choose sliced data:
-
-```bash
-__SELECTED_FOLDER = Folders.sliced
-```
+ ```bash
+ visualiser.set_data_folder('./data')
+ ```
 
 
-To choose unsliced data:
+  ##### To choose sliced or orignial data 
+  Switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
 
-```bash
-__SELECTED_FOLDER = Folders.unsliced
-```
-#### To deploy the tool for other data resource
-Call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
+  To choose sliced data:
 
- The data should contians these colomns:
+  ```bash
+  __SELECTED_FOLDER = Folders.sliced
+  ```
+
+
+  To choose unsliced data:
+
+  ```bash
+  __SELECTED_FOLDER = Folders.unsliced
+  ```
+ #### To deploy the tool for other data resource
+ Call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
+
+  The data should contians these colomns:
  
-| deaths         | directly_affected       | indirectly_affected	| start_date	 | secondary_end	 |
-|----------------|-------------------------|---------------------|-------------|----------------|
-| 0              | 100                     | 200               	 | 1911-02-18  | 1911-02-21     |
-| 5              | 60                      | 300               	 | 1912-02-18  | 1912-02-21     |
-| 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
-| 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
+ | deaths         | directly_affected       | indirectly_affected	| start_date	 | secondary_end	 |
+ |----------------|-------------------------|---------------------|-------------|----------------|
+ | 0              | 100                     | 200               	 | 1911-02-18  | 1911-02-21     |
+ | 5              | 60                      | 300               	 | 1912-02-18  | 1912-02-21     |
+ | 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
+ | 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
 
 
 
