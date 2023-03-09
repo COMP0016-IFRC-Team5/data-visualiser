@@ -58,7 +58,7 @@ A typical process could be done in 5 steps:
  ```
 
 
-  ##### To choose sliced or orignial data 
+  #### To choose sliced or orignial data 
   Switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
 
   To choose sliced data:
@@ -73,7 +73,7 @@ A typical process could be done in 5 steps:
   ```bash
   __SELECTED_FOLDER = Folders.unsliced
   ```
- #### To deploy the tool for other data resource
+ ### To deploy the tool for other data resource
  Call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
 
   The data should contians these colomns:
@@ -87,7 +87,7 @@ A typical process could be done in 5 steps:
 
 
 
-### To see available countries 
+## To see available countries 
 Call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. 
 
 ```bash
@@ -95,7 +95,7 @@ print(visualiser.get_available_countries())
 ```
 
 
-### To switch between single and multiple countries
+## To switch between single and multiple countries
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 To access graphs of multi-countries:
@@ -112,7 +112,7 @@ country = "<country name>"
 ```
 
 
-### To switch between single and multiple events
+## To switch between single and multiple events
 
 
 ```bash
