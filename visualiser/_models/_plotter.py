@@ -67,7 +67,7 @@ class Plotter:
             plot.plot(corresponding_loss, start_return_period, 'ro')
             self.__table = pd.concat(
                 [self.__table, pd.DataFrame(
-                    [[start_return_period, corresponding_loss]],
+                    [[start_return_period, round(corresponding_loss)]],
                     columns=['Return period', self.__loss],
                 )],
                 ignore_index=True
