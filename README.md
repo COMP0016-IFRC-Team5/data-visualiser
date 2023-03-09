@@ -36,12 +36,43 @@ pip install -r requirements.txt
 ## Usage
 
 ### To run the example
-The example shows a typical case which produce the 
+The example shows a typical case which produce the return period - deaths & affected people graphs for floods and earthquakes in Albania and Pakistan. Data used from past 15 years.
 
 ```bash
 python example.py
 ```
+A typical process could be done in 5 steps:
+1. set data folder path
+2. set countrie/country
+3. set event(s)
+4. set data time range
+5. plot graph(s) 
 
+### To set input data
+To choose sliced or orignial data, switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
+
+To choose sliced data:
+
+```bash
+__SELECTED_FOLDER = Folders.sliced
+```
+
+
+To choose unsliced data:
+
+```bash
+__SELECTED_FOLDER = Folders.unsliced
+```
+To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
+
+ The data should contians these colomns:
+ 
+| deaths         | directly_affected       | indirectly_affected	| start_date	 | secondary_end	 |
+|----------------|-------------------------|---------------------|-------------|----------------|
+| 0              | 100                     | 200               	 | 1911-02-18  | 1911-02-21     |
+| 5              | 60                      | 300               	 | 1912-02-18  | 1912-02-21     |
+| 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
+| 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
 
 ### To see available countries 
 Call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. The tool loaded with default 91 countries' data from DesInventar and EM-DAT.
@@ -51,7 +82,7 @@ print(visualiser.get_available_countries())
 ```
 
 
-### To switch between single and multi-countries
+### To switch between single and multiple countries
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 To access graphs of multi-countries:
@@ -84,29 +115,7 @@ event = "<hazardous event name>"
 ```
 
 
-To choose sliced or orignial data, switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
-
-To choose sliced data:
-
-```bash
-__SELECTED_FOLDER = Folders.sliced
-```
 
 
-To choose unsliced data:
-
-```bash
-__SELECTED_FOLDER = Folders.unsliced
-```
 
 
-To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
-
- The data should contians these colomns:
- 
-| deaths         | directly_affected       | indirectly_affected	| start_date	 | secondary_end	 |
-|----------------|-------------------------|---------------------|-------------|----------------|
-| 0              | 100                     | 200               	 | 1911-02-18  | 1911-02-21     |
-| 5              | 60                      | 300               	 | 1912-02-18  | 1912-02-21     |
-| 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
-| 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
