@@ -39,7 +39,7 @@ To run the example, simply:
 ```bash
 python example.py
 ```
-This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable "countries"(https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and "country"(https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7) 
+This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7) 
 
 
 
