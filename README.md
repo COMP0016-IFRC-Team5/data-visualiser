@@ -1,4 +1,4 @@
-# [Return Period Calculator] (https://github.com/COMP0016-IFRC-Team5/data-visualiser) 
+# [Return Period Calculator](https://github.com/COMP0016-IFRC-Team5/data-visualiser) 
 
 A data visualizer tool produces the return period-loss graph of low-impact hazardous events for 90 countries. This tool use publicly available data from national disaster loss databases (DesInventar) and EM-DAT, but also available for other resources.  
 
