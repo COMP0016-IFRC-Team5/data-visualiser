@@ -8,11 +8,25 @@ __SELECTED_FOLDER = Folders.unsliced
 
 
 def set_data_folder(path):
+    """
+    Sets the path of the data folder.
+    Args:
+        path (str): The path to the data folder.
+    """
     global __DATA_FOLDER
     __DATA_FOLDER = Directory(path)
 
 
 def get_data_folder():
+    """
+    Returns the path of the data folder.
+
+    Raises:
+        ValueError: If the data folder has not been set.
+
+    Returns:
+        Directory: The path to the data folder.
+    """
     if __DATA_FOLDER is None:
         raise ValueError('Data folder not set. '
                          'Please call set_data_folder() first.')
@@ -20,4 +34,10 @@ def get_data_folder():
 
 
 def get_selected_folder():
+    """
+    Returns the selected folder.
+
+    Returns:
+        Folders: The selected folder.
+    """
     return __SELECTED_FOLDER
