@@ -1,6 +1,6 @@
 # [Return Period Calculator](https://github.com/COMP0016-IFRC-Team5/data-visualiser) 
 
-A data visualizer tool produces the return period-loss graph of low-impact hazardous events for 90 countries. This tool use publicly available data from national disaster loss databases (DesInventar) and EM-DAT, but also available for other resources.  
+A data visualizer tool produces the return period-loss graph of low-impact hazardous events for 91 countries. This tool use publicly available data from national disaster loss databases (DesInventar) and EM-DAT, but also available for other resources.  
 
 This tool is a part of a UCL IXN project, Define return periods for low-impact hazardous events with IFRC. 
 
@@ -39,17 +39,22 @@ To run the example, simply:
 ```bash
 python example.py
 ```
-To see available countries, call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. The tool loaded with default 90 countrie's data from DesInventar and EM-DAT.
+To see available countries, call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. The tool loaded with default 91 countries' data from DesInventar and EM-DAT.
 
 ```bash
 print(visualiser.get_available_countries())
 ```
 
-
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 
-To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file.
+To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized  in format <Country Name>/<Hazardous Events.csv>
 
-
+ The data should contians these colomns:
  
+| deaths         | directly_affected       | indirectly_affected	| start_date	 | secondary_end	 |
+|----------------|-------------------------|---------------------|-------------|----------------|
+| 0              | 100                     | 200               	 | 1911-02-18  | 1911-02-21     |
+| 5              | 60                      | 300               	 | 1912-02-18  | 1912-02-21     |
+| 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
+| 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
