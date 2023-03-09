@@ -48,7 +48,7 @@ print(visualiser.get_available_countries())
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 
-To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of <Country Name>/<Hazardous Events.csv>
+To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
 
  The data should contians these colomns:
  
