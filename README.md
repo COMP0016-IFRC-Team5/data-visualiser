@@ -26,6 +26,7 @@ To build Period CalculatorPython locally, first, clone the source code:
 git clone https://github.com/COMP0016-IFRC-Team5/data-visualiser
 ```
 
+
 Then, let's install all package dependencies by running:
 
 ```bash
@@ -39,11 +40,14 @@ To run the example, simply:
 ```bash
 python example.py
 ```
+
+
 To see available countries, call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. The tool loaded with default 91 countries' data from DesInventar and EM-DAT.
 
 ```bash
 print(visualiser.get_available_countries())
 ```
+
 
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
@@ -60,12 +64,14 @@ To access graphs of single country:
 country = "<country name>"
 ```
 
+
 Similar for events:
 
 ```bash
     events = ["<hazardous event name>",
               "<hazardous event name>", ..]
 ```
+
 
 or
 
@@ -82,11 +88,13 @@ To choose sliced data:
 __SELECTED_FOLDER = Folders.sliced
 ```
 
+
 To choose unsliced data:
 
 ```bash
 __SELECTED_FOLDER = Folders.unsliced
 ```
+
 
 To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
 
