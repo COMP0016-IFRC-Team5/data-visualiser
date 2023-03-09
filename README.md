@@ -1,6 +1,6 @@
 # [Return Period Calculator](https://github.com/COMP0016-IFRC-Team5/data-visualiser) 
 
-A data visualizer tool produces the return period-loss graph of low-impact hazardous events for 91 countries. This tool use publicly available data from national disaster loss databases (DesInventar) and EM-DAT, but also available for other resources.  
+A data visualizer tool produces the return period-loss graph of low-impact hazardous events for 91 countries. This tool use publicly available data from national disaster loss databases (, but also available for other resources.  
 
 This tool is a part of a UCL IXN project, Define return periods for low-impact hazardous events with IFRC. 
 
@@ -49,7 +49,17 @@ A typical process could be done in 5 steps:
 5. plot graph(s) 
 
 ### To set input data
-To choose sliced or orignial data, switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
+
+#### To use defualt data
+from DesInventar and EM-DAT, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
+
+```bash
+visualiser.set_data_folder('./data')
+```
+
+
+##### To choose sliced or orignial data 
+Switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
 
 To choose sliced data:
 
@@ -63,7 +73,8 @@ To choose unsliced data:
 ```bash
 __SELECTED_FOLDER = Folders.unsliced
 ```
-To deploy the tool for other data resource, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
+#### To deploy the tool for other data resource
+Call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [Country Name]/[Hazardous Events.csv]
 
  The data should contians these colomns:
  
@@ -74,8 +85,10 @@ To deploy the tool for other data resource, call [visualiser.set_data_folder()](
 | 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
 | 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
 
+
+
 ### To see available countries 
-Call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. The tool loaded with default 91 countries' data from DesInventar and EM-DAT.
+Call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. 
 
 ```bash
 print(visualiser.get_available_countries())
@@ -106,7 +119,6 @@ country = "<country name>"
 events = ["<hazardous event name>",
           "<hazardous event name>", ..]
 ```
-
 
 or
 
