@@ -35,7 +35,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-### To run the example, simply:
+### To run the example
+The example shows a typical case which produce the 
 
 ```bash
 python example.py
@@ -50,7 +51,7 @@ print(visualiser.get_available_countries())
 ```
 
 
-### To switch between single and multi-countries.
+### To switch between single and multi-countries
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 To access graphs of multi-countries:
@@ -67,7 +68,8 @@ country = "<country name>"
 ```
 
 
-Similar for events:
+### To switch between single and multiple events
+
 
 ```bash
 events = ["<hazardous event name>",
