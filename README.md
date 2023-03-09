@@ -74,7 +74,7 @@ A typical process could be done in 5 steps:
   __SELECTED_FOLDER = Folders.unsliced
   ```
  ### 1.2 To deploy the tool for other data resource
- Call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of [`[Country Name]/[Hazardous Events.csv]`]
+ Call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of `[Country Name]/[Hazardous Events.csv]`
 
   The data should contians these colomns:
  
@@ -128,7 +128,7 @@ event = "<hazardous event name>"
 ```
 
 ## 4. Choose time range
-By adding the last parameter [`years_required`] in ['visualiser.plot_exceedance_curves()'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L17), use data from past [`<years_required> `] years, or leave it blank to use all available data.
+By adding the last parameter `years_required` in ['visualiser.plot_exceedance_curves()'](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L17), use data from past `<years_required>` years, or leave it blank to use all available data.
 
 
 
