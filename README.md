@@ -68,14 +68,14 @@ python example.py
 ```
 A typical process could be done in 5 steps:
 1. set data folder path
-2. set countrie/country
+2. set countries/country
 3. set event(s)
 4. set data time range
 5. plot graph(s) 
 
 ##### 1. Set input data
 
-###### 1.1 To use defualt data
+###### 1.1 To use default data
 from DesInventar and EM-DAT, call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
 
 ```python
