@@ -140,3 +140,10 @@ visualiser.plot_exceedance_curves(
     )
 ```
 
+## 5. Plot and Table
+Run the script and you get the graph you want.
+To be noticed, the tool also provide a method to extract key return peroid and organized as a table. The table can be easily accessed by calling [`visualiser.get_exceedance_table()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L22):
+
+```bash
+tables = visualiser.get_exceedance_table(countries, events,15)
+```
