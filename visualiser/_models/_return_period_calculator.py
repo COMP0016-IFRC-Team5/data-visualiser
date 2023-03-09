@@ -16,6 +16,19 @@ class ReturnPeriodCalculator:
             loss: Loss,
             years_required: int = -1
     ):
+        """
+        Initializes a ReturnPeriodCalculator instance
+
+        Args:
+            country: The country for which the return period is being
+                calculated.
+            event: The event for which the return period is being calculated.
+            df: A Pandas DataFrame containing the data.
+            loss: The type of loss for which the return period is being
+                calculated.
+            years_required: The number of years of data required. Default is -1,
+                which means all data is used.
+        """
         self.__dataframe = df
         self.__loss = loss
         self.__country = country
@@ -41,6 +54,12 @@ class ReturnPeriodCalculator:
                 self.__dataframe['start_date'].min()).days / 365
 
     def __convert_time(self):
+        """
+        Converts time columns in the dataframe to Pandas datetime format.
+
+        If years_required is set, filters out data that is older than
+        required_years.
+        """
         column = ["start_date", "primary_end", "secondary_end"]
         for col in column:
             self.__dataframe[col] = pd.to_datetime(self.__dataframe[col])
@@ -53,7 +72,11 @@ class ReturnPeriodCalculator:
 
     def __calculate_exceedance_frequency(self):
         """
-        Calculates the exceedance frequency for each row in the dataframe
+        Calculates the exceedance frequency for each row in the dataframe.
+
+        Returns:
+            A Pandas Series containing the exceedance frequency for each row in
+            the dataframe.
         """
         length = self.__length_in_years()
         series = None
@@ -82,10 +105,21 @@ class ReturnPeriodCalculator:
         self.__plot = Plotter(self.__country, self.__event, x, y, loss)
 
     def plot(self, sliced: bool = False):
+        """
+        Plots the calculated return period values.
+
+        Args:
+            sliced: A boolean flag indicating whether the plot should be sliced.
+                    Default is False.
+        """
         self.__plot.plot(sliced=sliced, required_years=self.__required_years)
         self.__is_plotted = True
 
     def get_table(self):
+        """
+        Returns a Pandas DataFrame containing the calculated return period
+        values.
+        """
         if not self.__is_plotted:
             self.__plot.plot(False)
         return self.__plot.get_table()
