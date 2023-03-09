@@ -53,7 +53,7 @@ A typical process could be done in 5 steps:
  ### 1.1 To use defualt data
  from DesInventar and EM-DAT, call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
 
- ```bash
+ ```python
  visualiser.set_data_folder('./data')
  ```
 
@@ -63,14 +63,14 @@ A typical process could be done in 5 steps:
 
   To choose sliced data:
 
-  ```bash
+  ```python
   __SELECTED_FOLDER = Folders.sliced
   ```
 
 
   To choose unsliced data:
 
-  ```bash
+  ```python
   __SELECTED_FOLDER = Folders.unsliced
   ```
  ### 1.2 To deploy the tool for other data resource
@@ -91,7 +91,7 @@ A typical process could be done in 5 steps:
 ## 2.1 See available countries 
 Call [`visualiser.get_available_countries()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. 
 
-```bash
+```python
 print(visualiser.get_available_countries())
 ```
 
@@ -101,14 +101,14 @@ This tool supports stimultaneous access to graphs of different disasters in sing
 
 To access graphs of multi-countries:
 
-```bash
+```python
 countries = ["<country name>", "<country name>", ..]
 ```
 
 
 To access graphs of single country:
 
-```bash
+```python
 country = "<country name>"
 ```
 
@@ -117,21 +117,21 @@ country = "<country name>"
 
 Similar to step 2:
 
-```bash
+```python
 events = ["<hazardous event name>",
           "<hazardous event name>", ..]
 ```
 
 or
 
-```bash
+```python
 event = "<hazardous event name>"
 ```
 
 ## 4. Choose time range
 By adding the last parameter `years_required` in [`visualiser.plot_exceedance_curves()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L17), use data from past `<years_required>` years, or leave it blank to use all available data.
 
-```bash
+```python
 visualiser.plot_exceedance_curves(
     countries,
     events,
@@ -144,6 +144,6 @@ visualiser.plot_exceedance_curves(
 Run the script and you get the graph you want.
 To be noticed, the tool also provide a method to extract key return peroid and organized as a table. The table can be easily accessed by calling [`visualiser.get_exceedance_table()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L22):
 
-```bash
+```python
 tables = visualiser.get_exceedance_table(countries, events,15)
 ```
