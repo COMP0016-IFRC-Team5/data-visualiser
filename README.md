@@ -39,7 +39,7 @@ To run the example, simply:
 ```bash
 python example.py
 ```
-This tool supports
+This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable "countries" and "country" 
 
 
 
