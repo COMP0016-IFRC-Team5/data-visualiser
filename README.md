@@ -47,7 +47,35 @@ print(visualiser.get_available_countries())
 
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
+To access graphs of multi-countries:
+
+```bash
+countries = ["<country name>", "<country name>", ..]
+```
+
+
+To access graphs of single country:
+
+```bash
+country = "<country name>"
+```
+
+Similar for events:
+
+```bash
+    events = ["<hazardous event name>",
+              "<hazardous event name>", ..]
+```
+
+or
+
+```bash
+    event = "<hazardous event name>"
+```
+
+
 To choose sliced or orignial data, switch between [Folders.unsliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [Folders.sliced](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
+
 To choose sliced data:
 
 ```bash
