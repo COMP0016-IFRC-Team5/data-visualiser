@@ -48,7 +48,7 @@ A typical process could be done in 5 steps:
 4. set data time range
 5. plot graph(s) 
 
-## To set input data
+## Set input data
 
  ### To use defualt data
  from DesInventar and EM-DAT, call [visualiser.set_data_folder()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
@@ -87,7 +87,7 @@ A typical process could be done in 5 steps:
 
 
 
-## To see available countries 
+## See available countries 
 Call [visualiser.get_available_countries()](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. 
 
 ```bash
@@ -95,7 +95,7 @@ print(visualiser.get_available_countries())
 ```
 
 
-## To switch between single and multiple countries
+## Switch between single and multiple countries
 This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [countries](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [country](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 To access graphs of multi-countries:
@@ -112,7 +112,7 @@ country = "<country name>"
 ```
 
 
-## To switch between single and multiple events
+## Switch between single and multiple events
 
 
 ```bash
