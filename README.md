@@ -94,17 +94,17 @@ print(visualiser.get_available_countries())
 API for plot exceedance curves:
 ```
 visualiser.plot_exceedance_curves(
-    <country/countries>,
-    <event(s)>,
-    <metric(s)>,
-    <years_required>
+    countries,
+    events,
+    losses,
+    years_required
 )
 ```
 Args:
 - countries: A string or list of strings specifying the countries. 
 - events: A string or list of strings specifying the events. 
 - losses: A Loss enum or list of Loss enums specifying the losses. 
-- years_required: An int specifying the minimum number of years of data 
+- years_required: An int specifying the maximum number of years of data 
   required. Default is -1.
 
 
@@ -115,9 +115,9 @@ defined and organized as a table. The table can be easily accessed by calling
 
 ```
 tables = visualiser.get_exceedance_table(
-    <country/countries>,
-    <event(s)>,
-    <years_required>
+    countries,
+    events,
+    years_required
 )
 ```
 

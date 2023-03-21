@@ -85,7 +85,7 @@ def plot_exceedance_curves(
         countries: A string or list of strings specifying the countries.
         events: A string or list of strings specifying the events.
         losses: A Loss enum or list of Loss enums specifying the losses.
-        years_required: An int specifying the minimum number of years of data
+        years_required: An int specifying the maximum number of years of data
             required. Default is -1.
     """
     if isinstance(losses, Enum):
@@ -101,7 +101,7 @@ def __plot_all(country_event_dataframes, metrics: list[Loss], years_required):
         country_event_dataframes: A dictionary of dataframes, one for each
             country and event combination.
         metrics: A list of Loss enums specifying the losses.
-        years_required: An int specifying the minimum number of years of data
+        years_required: An int specifying the maximum number of years of data
             required.
     """
     for country in country_event_dataframes:
@@ -124,7 +124,7 @@ def __plot_one(metric, country, event, df, years_required):
         country: A string specifying the country.
         event: A string specifying the event.
         df: A pandas dataframe containing the data.
-        years_required: An int specifying the minimum number of years of data
+        years_required: An int specifying the maximum number of years of data
             required.
 
     """
@@ -141,7 +141,7 @@ def get_exceedance_table(countries, events, years_required: int = -1):
     Args:
         countries: A string or list of strings specifying the countries.
         events: A string or list of strings specifying the events.
-        years_required: An int specifying the minimum number of years of data
+        years_required: An int specifying the maximum number of years of data
             required. Default is -1.
 
     Returns:
