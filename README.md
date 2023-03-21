@@ -82,7 +82,7 @@ from DesInventar and EM-DAT, call [`visualiser.set_data_folder()`](https://githu
 visualiser.set_data_folder('./data')
 ``` 
 
-###### 1.1.1 To choose sliced or orignial data 
+###### 1.1.1 To choose sliced or original data 
 Switch between [`Folders.unsliced`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [`Folders.sliced`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
 
 To choose sliced data:
@@ -101,14 +101,14 @@ __SELECTED_FOLDER = Folders.unsliced
 Call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of 
 `[Country Name]/[Hazardous Events.csv]`
 
-The data should contians these colomns:
+The data should contain these columns:
 
-| deaths         | directly_affected       | indirectly_affected	| start_date	 | secondary_end	 |
-|----------------|-------------------------|---------------------|-------------|----------------|
-| 0              | 100                     | 200               	 | 1911-02-18  | 1911-02-21     |
-| 5              | 60                      | 300               	 | 1912-02-18  | 1912-02-21     |
-| 3              | 100                     | 100               	 | 1914-02-18  | 1914-02-21     |
-| 10             | 220                     | 400               	 | 1916-02-18  | 1916-02-21     |
+| deaths | directly_affected | indirectly_affected	 | start_date	 | secondary_end	 |
+|--------|-------------------|----------------------|-------------|----------------|
+| 0      | 100               | 200               	  | 1911-02-18  | 1911-02-21     |
+| 5      | 60                | 300               	  | 1912-02-18  | 1912-02-21     |
+| 3      | 100               | 100               	  | 1914-02-18  | 1914-02-21     |
+| 10     | 220               | 400               	  | 1916-02-18  | 1916-02-21     |
 
 
 
@@ -121,7 +121,7 @@ print(visualiser.get_available_countries())
 
 
 ###### 2.2 Switch between single and multiple countries
-This tool supports stimultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [`countries`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [`country`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
+This tool supports simultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [`countries`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [`country`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
 
 To access graphs of multi-countries:
 
@@ -161,12 +161,12 @@ visualiser.plot_exceedance_curves(
     events,
     [visualiser.Loss.deaths, visualiser.Loss.affected_people],
     <years_required>
-    )
+)
 ```
 
 ##### 5. Plot and Table
-Run the script and you get the graphs you want.
-To be noticed, the tool also provide a method to extract key return peroid and organized as a table. The table can be easily accessed by calling [`visualiser.get_exceedance_table()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L22):
+Run the script, and you get the graphs you want.
+To be noticed, the tool also provide a method to extract key return period and organized as a table. The table can be easily accessed by calling [`visualiser.get_exceedance_table()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L22):
 
 ```python
 tables = visualiser.get_exceedance_table(countries, events,15)
