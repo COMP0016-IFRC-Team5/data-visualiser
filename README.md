@@ -42,7 +42,7 @@ cd data-visualiser
 
 ### Requirements
 
-1. Install dependencies in any preferred way
+#### Install dependencies in any preferred way
 
 - Using conda ([Anaconda](https://docs.anaconda.com/anaconda/install/index.html) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 ```bash
@@ -54,123 +54,79 @@ conda activate data-visualiser
 ```bash
 pip install -r requirements.txt
 ```
-2. Get data using data-downloader module
-3. Process data using data-processor module
-
+#### Optional steps (if you want to use the processed data in the repository):
+1. Get data using data-downloader module 
+2. Process data using data-processor module
 
 ### Usage
 
 #### To run the example
-The example shows a typical case which produce the return period - deaths & affected people graphs for floods and earthquakes in Albania and Pakistan. Data used from past 15 years.
+The example shows a typical case which produce the return period - deaths & 
+affected people graphs for floods and earthquakes in Albania and Pakistan. Data 
+used from past 15 years.
 
 ```bash
 python example.py
 ```
-A typical process could be done in 5 steps:
+A typical process could be done in 3 steps:
 1. set data folder path
-2. set countries/country
-3. set event(s)
-4. set data time range
-5. plot graph(s) 
+2. plot graph(s)
+3. get table(s)
+
 
 ##### 1. Set input data
 
-###### 1.1 To use default data
-from DesInventar and EM-DAT, call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4):
+To use default processed data:
 
 ```python
 visualiser.set_data_folder('./data')
 ``` 
-
-###### 1.1.1 To choose sliced or original data 
-Switch between [`Folders.unsliced`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7) and [`Folders.sliced`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/visualiser/_config.py#L7).
-
-To choose sliced data:
-
-```python
-__SELECTED_FOLDER = Folders.sliced
-```
-
-
-To choose unsliced data:
-
-```python
-__SELECTED_FOLDER = Folders.unsliced
-```
-###### 1.2 To deploy the tool for other data resource
-Call [`visualiser.set_data_folder()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L4) to set the path of target csv file. The data should be organized in format of 
-`[Country Name]/[Hazardous Events.csv]`
-
-The data should contain these columns:
-
-| deaths | directly_affected | indirectly_affected	 | start_date	 | secondary_end	 |
-|--------|-------------------|----------------------|-------------|----------------|
-| 0      | 100               | 200               	  | 1911-02-18  | 1911-02-21     |
-| 5      | 60                | 300               	  | 1912-02-18  | 1912-02-21     |
-| 3      | 100               | 100               	  | 1914-02-18  | 1914-02-21     |
-| 10     | 220               | 400               	  | 1916-02-18  | 1916-02-21     |
-
-
-
-##### 2.1 See available countries 
-Call [`visualiser.get_available_countries()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5) after setting the path of csv data file. 
+Then you can get the available countries for analysis by
+calling [`visualiser.get_available_countries()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L5)
+after setting the data folder.
 
 ```python
 print(visualiser.get_available_countries())
 ```
 
+##### 2. Plot graph(s)
 
-###### 2.2 Switch between single and multiple countries
-This tool supports simultaneous access to graphs of different disasters in single or multiple countries, by switch between setting contents in variable [`countries`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L6) and [`country`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L7). 
-
-To access graphs of multi-countries:
-
-```python
-countries = ["<country name>", "<country name>", ..]
+API for plot exceedance curves:
 ```
-
-
-To access graphs of single country:
-
-```python
-country = "<country name>"
-```
-
-
-##### 3. Switch between single and multiple events
-
-Similar to step 2:
-
-```python
-events = ["<hazardous event name>",
-          "<hazardous event name>", ..]
-```
-
-or
-
-```python
-event = "<hazardous event name>"
-```
-
-##### 4. Choose time range
-By adding the last parameter `years_required` in [`visualiser.plot_exceedance_curves()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L17), use data from past `<years_required>` years, or leave it blank to use all available data.
-
-```python
 visualiser.plot_exceedance_curves(
-    countries,
-    events,
-    [visualiser.Loss.deaths, visualiser.Loss.affected_people],
+    <country/countries>,
+    <event(s)>,
+    <metric(s)>,
+    <years_required>
+)
+```
+Args:
+- countries: A string or list of strings specifying the countries. 
+- events: A string or list of strings specifying the events. 
+- losses: A Loss enum or list of Loss enums specifying the losses. 
+- years_required: An int specifying the minimum number of years of data 
+  required. Default is -1.
+
+
+##### 3. Get table(s)
+The tool also provide a function to extract key return period for all metrics 
+defined and organized as a table. The table can be easily accessed by calling 
+[`visualiser.get_exceedance_table()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L22):
+
+```
+tables = visualiser.get_exceedance_table(
+    <country/countries>,
+    <event(s)>,
     <years_required>
 )
 ```
 
-##### 5. Plot and Table
-Run the script, and you get the graphs you want.
-To be noticed, the tool also provide a method to extract key return period and organized as a table. The table can be easily accessed by calling [`visualiser.get_exceedance_table()`](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/main/example.py#L22):
+## Customise
 
-```python
-tables = visualiser.get_exceedance_table(countries, events,15)
-```
+### Loss metrics
+Currently, we only defined deaths and affected people (directly affected + 
+indirectly affected). If you want to add more metrics, you can modify it at
+`visualiser/_models/_loss.py`.
 
 ## License
 
