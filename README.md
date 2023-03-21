@@ -123,10 +123,49 @@ tables = visualiser.get_exceedance_table(
 
 ## Customise
 
-### Loss metrics
+### Add loss metrics
 Currently, we only defined deaths and affected people (directly affected + 
 indirectly affected). If you want to add more metrics, you can modify it at
 `visualiser/_models/_loss.py`.
+
+### Change folder to conduct analysis
+In `visualiser/_config.py`, you can modify `__SELECTED_FOLDER` to the folder 
+that you want to conduct analysis.
+
+### Change labels and highlight points
+You can find relevant code in `__add_label()` method and `__highlight()` method
+for `Plotter` class
+
+### Add new data source
+If you want to use another data source, you need to put the data source under 
+the `data` directory and ensure the folder structure is:
+```text
+data-visualiser/
+├─ data/
+│  ├─ new_data_source/
+│  │  ├─ country_name/
+│  │  │  ├─ EARTHQUAKES.csv
+│  │  │  ├─ FLOODS.csv
+│  │  │  ├─ STORMS.csv
+```
+For each csv file, the data should be parsed to contain these columns: `deaths`, 
+`directly_affected`, `indirectly_affected`, `start_date`, and `secondary_end`.  
+For example:
+
+| deaths | directly_affected | indirectly_affected	 | start_date | secondary_end	 |
+|--------|-------------------|----------------------|------------|----------------|
+| 0      | 100               | 200               	  | 1911-02-18 | 1911-02-21     |
+| 5      | 60                | 300               	  | 1912-02-18 | 1912-02-21     |
+| 3      | 100               | 100               	  | 1914-02-18 | 1914-02-21     |
+| 10     | 220               | 400               	  | 1916-02-18 | 1916-02-21     |
+
+Next, you need to add a member in `visualiser/_adapters/_folders.py` with value
+being the name of the data source folder.
+
+Then, you need to modify `__SELECTED_FOLDER` in `_config.py`.
+
+Note: you need to ignore or remove the labels after plot the curves if you are 
+working with new data sources.
 
 ## License
 
