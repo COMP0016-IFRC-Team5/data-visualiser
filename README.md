@@ -47,7 +47,7 @@ cd data-visualiser
 - Using conda ([Anaconda](https://docs.anaconda.com/anaconda/install/index.html) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 ```bash
 conda env create -f conda_env.yml
-conda activate data-processor
+conda activate data-visualiser
 ```
 
 - Using pip ([Python 3.10+](https://www.python.org/downloads/))
