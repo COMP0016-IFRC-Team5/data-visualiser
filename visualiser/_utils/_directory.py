@@ -64,6 +64,8 @@ class Directory:
                     self.__directories.append(Directory(entry.path))
 
     def __update(self):
+        self.__files = []
+        self.__directories = []
         self.__scan_directory()
         self.__files.sort(key=lambda f: f.get_filename())
         self.__directories.sort(key=lambda d: d.get_dirname())

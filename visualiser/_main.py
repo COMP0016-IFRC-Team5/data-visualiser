@@ -129,9 +129,8 @@ def __plot_one(metric, country, event, df, years_required):
 
     """
     rpc = ReturnPeriodCalculator(country, event, df, metric, years_required)
-    if _config.get_selected_folder() == Folders.sliced:
-        rpc.plot(sliced=True)
-    rpc.plot()
+    is_slice = _config.get_selected_folder() == Folders.sliced
+    rpc.plot(sliced=is_slice)
 
 
 def get_exceedance_table(countries, events, years_required: int = -1):

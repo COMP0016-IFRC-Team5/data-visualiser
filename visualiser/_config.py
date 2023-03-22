@@ -4,7 +4,7 @@ from ._adapters import Folders
 __all__ = ['set_data_folder', 'get_data_folder', 'get_selected_folder']
 
 __DATA_FOLDER: Directory | None = None
-__SELECTED_FOLDER = Folders.unsliced
+__SELECTED_FOLDER = Folders.sliced
 
 
 def set_data_folder(path):
