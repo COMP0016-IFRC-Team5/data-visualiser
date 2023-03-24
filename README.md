@@ -31,7 +31,7 @@ and tables for multiple impacts for as many National Societies as possible.
 
 ## Get Started 
 
-**Check out our [online demo](https://github.com/COMP0016-IFRC-Team5/data-visualiser).** 
+**Check out our [online demo](https://students.cs.ucl.ac.uk/2022/group5/).** 
 
 ### Installation
 
